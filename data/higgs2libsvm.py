@@ -17,8 +17,7 @@ def WriteOneLine(tokens, output):
 	output.write(str(label))
 	for i in xrange(1,len(tokens)):
 		feature_value = float(tokens[i])
-		if feature_value  > 0:
-			output.write(' ' + str(i-1) + ':' + str(feature_value))
+		output.write(' ' + str(i-1) + ':' + str(feature_value))
 	output.write('\n')
 
 line = input.readline()
