@@ -76,10 +76,11 @@ xgboost_approx_msltr_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_
 ,GetAccuracyFromXgboost('xgboost/xgboost_approx_msltr_accuracy.log', "ndcg@10")]
 
 output = open("result.md", "w")
-output.write("Speed:\n")
+output.write("Speed:\n\n")
 Title = ["Higgs", "Yahoo LTR", "MS LTR"]
 speed_result = [xgboost_speed_result, xgboost_approx_speed_result, lightgbm_speed_result]
 output.write('| Data      |  xgboost| xgboost_approx |  LightGBM|\n')
+output.write('|----|  ----| ---- |  ----|\n')
 for i in xrange(len(Title)):
 	output.write('| ' + Title[i] + '|')
 	for j in xrange(len(speed_result)):
@@ -88,10 +89,11 @@ for i in xrange(len(Title)):
 
 output.write('\n\n')
 
-output.write("Higgs's AUC:\n")
+output.write("Higgs's AUC:\n\n")
 Title = ["AUC"]
 speed_result = [xgboost_higgs_accuracy, xgboost_approx_higgs_accuracy, lightgbm_higgs_accuracy]
 output.write('| Metric      |  xgboost| xgboost_approx |  LightGBM|\n')
+output.write('| ----------- |  -------| -------------- |  --------|\n')
 for i in xrange(len(Title)):
 	output.write('| ' + Title[i] + '|')
 	for j in xrange(len(speed_result)):
@@ -100,10 +102,11 @@ for i in xrange(len(Title)):
 
 output.write('\n\n')
 
-output.write("NDCG at Yahoo LTR:\n")
+output.write("NDCG at Yahoo LTR:\n\n")
 Title = ["NDCG@1","NDCG@3","NDCG@5","NDCG@10"]
 speed_result = [xgboost_yahoo_accuracy, xgboost_approx_yahoo_accuracy, lightgbm_yahoo_accuracy]
 output.write('| Metric      |  xgboost| xgboost_approx |  LightGBM|\n')
+output.write('| ----------- |  -------| -------------- |  --------|\n')
 for i in xrange(len(Title)):
 	output.write('| ' + Title[i] + '|')
 	for j in xrange(len(speed_result)):
@@ -113,10 +116,11 @@ for i in xrange(len(Title)):
 output.write('\n\n')
 
 
-output.write("NDCG at MS LTR:\n")
+output.write("NDCG at MS LTR:\n\n")
 Title = ["NDCG@1","NDCG@3","NDCG@5","NDCG@10"]
 speed_result = [xgboost_msltr_accuracy, xgboost_approx_msltr_accuracy, lightgbm_msltr_accuracy]
 output.write('| Metric      |  xgboost| xgboost_approx |  LightGBM|\n')
+output.write('| ----------- |  -------| -------------- |  --------|\n')
 for i in xrange(len(Title)):
 	output.write('| ' + Title[i] + '|')
 	for j in xrange(len(speed_result)):
