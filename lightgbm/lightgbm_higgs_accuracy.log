@@ -1,1007 +1,1007 @@
-[LightGBM] [Info] Loading parameters .. finished
-[LightGBM] [Info] Finish loading data, use 13.892061 seconds
-[LightGBM] [Info] Number of postive:5564616,  number of negative:4935384
-[LightGBM] [Info] Number of data:10500000, Number of features:28
-[LightGBM] [Info] Finish training initilization.
-[LightGBM] [Info] Start train
-[LightGBM] [Info] Iteration:1, ../data/higgs.test's auc: 0.771656
-[LightGBM] [Info] 1.689241 seconds elapsed, finished 1 iteration
-[LightGBM] [Info] Iteration:2, ../data/higgs.test's auc: 0.777666
-[LightGBM] [Info] 3.245684 seconds elapsed, finished 2 iteration
-[LightGBM] [Info] Iteration:3, ../data/higgs.test's auc: 0.781385
-[LightGBM] [Info] 4.921905 seconds elapsed, finished 3 iteration
-[LightGBM] [Info] Iteration:4, ../data/higgs.test's auc: 0.784399
-[LightGBM] [Info] 6.539482 seconds elapsed, finished 4 iteration
-[LightGBM] [Info] Iteration:5, ../data/higgs.test's auc: 0.786633
-[LightGBM] [Info] 8.031486 seconds elapsed, finished 5 iteration
-[LightGBM] [Info] Iteration:6, ../data/higgs.test's auc: 0.788883
-[LightGBM] [Info] 9.799745 seconds elapsed, finished 6 iteration
-[LightGBM] [Info] Iteration:7, ../data/higgs.test's auc: 0.790224
-[LightGBM] [Info] 11.521382 seconds elapsed, finished 7 iteration
-[LightGBM] [Info] Iteration:8, ../data/higgs.test's auc: 0.791680
-[LightGBM] [Info] 13.199519 seconds elapsed, finished 8 iteration
-[LightGBM] [Info] Iteration:9, ../data/higgs.test's auc: 0.792940
-[LightGBM] [Info] 14.898988 seconds elapsed, finished 9 iteration
-[LightGBM] [Info] Iteration:10, ../data/higgs.test's auc: 0.794302
-[LightGBM] [Info] 16.606651 seconds elapsed, finished 10 iteration
-[LightGBM] [Info] Iteration:11, ../data/higgs.test's auc: 0.795701
-[LightGBM] [Info] 18.376778 seconds elapsed, finished 11 iteration
-[LightGBM] [Info] Iteration:12, ../data/higgs.test's auc: 0.796898
-[LightGBM] [Info] 20.005036 seconds elapsed, finished 12 iteration
-[LightGBM] [Info] Iteration:13, ../data/higgs.test's auc: 0.798135
-[LightGBM] [Info] 21.724722 seconds elapsed, finished 13 iteration
-[LightGBM] [Info] Iteration:14, ../data/higgs.test's auc: 0.799171
-[LightGBM] [Info] 23.268042 seconds elapsed, finished 14 iteration
-[LightGBM] [Info] Iteration:15, ../data/higgs.test's auc: 0.800308
-[LightGBM] [Info] 24.866321 seconds elapsed, finished 15 iteration
-[LightGBM] [Info] Iteration:16, ../data/higgs.test's auc: 0.801219
-[LightGBM] [Info] 26.771541 seconds elapsed, finished 16 iteration
-[LightGBM] [Info] Iteration:17, ../data/higgs.test's auc: 0.802816
-[LightGBM] [Info] 28.903525 seconds elapsed, finished 17 iteration
-[LightGBM] [Info] Iteration:18, ../data/higgs.test's auc: 0.803732
-[LightGBM] [Info] 30.602328 seconds elapsed, finished 18 iteration
-[LightGBM] [Info] Iteration:19, ../data/higgs.test's auc: 0.804608
-[LightGBM] [Info] 32.333443 seconds elapsed, finished 19 iteration
-[LightGBM] [Info] Iteration:20, ../data/higgs.test's auc: 0.805416
-[LightGBM] [Info] 34.082827 seconds elapsed, finished 20 iteration
-[LightGBM] [Info] Iteration:21, ../data/higgs.test's auc: 0.806432
-[LightGBM] [Info] 35.936149 seconds elapsed, finished 21 iteration
-[LightGBM] [Info] Iteration:22, ../data/higgs.test's auc: 0.807222
-[LightGBM] [Info] 37.710802 seconds elapsed, finished 22 iteration
-[LightGBM] [Info] Iteration:23, ../data/higgs.test's auc: 0.808160
-[LightGBM] [Info] 39.389820 seconds elapsed, finished 23 iteration
-[LightGBM] [Info] Iteration:24, ../data/higgs.test's auc: 0.808962
-[LightGBM] [Info] 41.186720 seconds elapsed, finished 24 iteration
-[LightGBM] [Info] Iteration:25, ../data/higgs.test's auc: 0.809853
-[LightGBM] [Info] 42.798310 seconds elapsed, finished 25 iteration
-[LightGBM] [Info] Iteration:26, ../data/higgs.test's auc: 0.810609
-[LightGBM] [Info] 44.435086 seconds elapsed, finished 26 iteration
-[LightGBM] [Info] Iteration:27, ../data/higgs.test's auc: 0.811270
-[LightGBM] [Info] 46.118300 seconds elapsed, finished 27 iteration
-[LightGBM] [Info] Iteration:28, ../data/higgs.test's auc: 0.811978
-[LightGBM] [Info] 47.744248 seconds elapsed, finished 28 iteration
-[LightGBM] [Info] Iteration:29, ../data/higgs.test's auc: 0.812574
-[LightGBM] [Info] 49.385486 seconds elapsed, finished 29 iteration
-[LightGBM] [Info] Iteration:30, ../data/higgs.test's auc: 0.813192
-[LightGBM] [Info] 50.975252 seconds elapsed, finished 30 iteration
-[LightGBM] [Info] Iteration:31, ../data/higgs.test's auc: 0.813699
-[LightGBM] [Info] 52.789756 seconds elapsed, finished 31 iteration
-[LightGBM] [Info] Iteration:32, ../data/higgs.test's auc: 0.814186
-[LightGBM] [Info] 54.430229 seconds elapsed, finished 32 iteration
-[LightGBM] [Info] Iteration:33, ../data/higgs.test's auc: 0.814738
-[LightGBM] [Info] 56.216892 seconds elapsed, finished 33 iteration
-[LightGBM] [Info] Iteration:34, ../data/higgs.test's auc: 0.815286
-[LightGBM] [Info] 58.093560 seconds elapsed, finished 34 iteration
-[LightGBM] [Info] Iteration:35, ../data/higgs.test's auc: 0.815746
-[LightGBM] [Info] 59.787447 seconds elapsed, finished 35 iteration
-[LightGBM] [Info] Iteration:36, ../data/higgs.test's auc: 0.816252
-[LightGBM] [Info] 61.561911 seconds elapsed, finished 36 iteration
-[LightGBM] [Info] Iteration:37, ../data/higgs.test's auc: 0.816662
-[LightGBM] [Info] 63.494491 seconds elapsed, finished 37 iteration
-[LightGBM] [Info] Iteration:38, ../data/higgs.test's auc: 0.817108
-[LightGBM] [Info] 65.125681 seconds elapsed, finished 38 iteration
-[LightGBM] [Info] Iteration:39, ../data/higgs.test's auc: 0.817520
-[LightGBM] [Info] 66.712146 seconds elapsed, finished 39 iteration
-[LightGBM] [Info] Iteration:40, ../data/higgs.test's auc: 0.817966
-[LightGBM] [Info] 68.215475 seconds elapsed, finished 40 iteration
-[LightGBM] [Info] Iteration:41, ../data/higgs.test's auc: 0.818383
-[LightGBM] [Info] 69.631128 seconds elapsed, finished 41 iteration
-[LightGBM] [Info] Iteration:42, ../data/higgs.test's auc: 0.818774
-[LightGBM] [Info] 71.127083 seconds elapsed, finished 42 iteration
-[LightGBM] [Info] Iteration:43, ../data/higgs.test's auc: 0.819164
-[LightGBM] [Info] 72.585865 seconds elapsed, finished 43 iteration
-[LightGBM] [Info] Iteration:44, ../data/higgs.test's auc: 0.819508
-[LightGBM] [Info] 74.065403 seconds elapsed, finished 44 iteration
-[LightGBM] [Info] Iteration:45, ../data/higgs.test's auc: 0.819837
-[LightGBM] [Info] 75.443949 seconds elapsed, finished 45 iteration
-[LightGBM] [Info] Iteration:46, ../data/higgs.test's auc: 0.820184
-[LightGBM] [Info] 76.917663 seconds elapsed, finished 46 iteration
-[LightGBM] [Info] Iteration:47, ../data/higgs.test's auc: 0.820556
-[LightGBM] [Info] 78.298271 seconds elapsed, finished 47 iteration
-[LightGBM] [Info] Iteration:48, ../data/higgs.test's auc: 0.820897
-[LightGBM] [Info] 79.631922 seconds elapsed, finished 48 iteration
-[LightGBM] [Info] Iteration:49, ../data/higgs.test's auc: 0.821282
-[LightGBM] [Info] 80.994535 seconds elapsed, finished 49 iteration
-[LightGBM] [Info] Iteration:50, ../data/higgs.test's auc: 0.821600
-[LightGBM] [Info] 82.402319 seconds elapsed, finished 50 iteration
-[LightGBM] [Info] Iteration:51, ../data/higgs.test's auc: 0.821941
-[LightGBM] [Info] 83.806746 seconds elapsed, finished 51 iteration
-[LightGBM] [Info] Iteration:52, ../data/higgs.test's auc: 0.822226
-[LightGBM] [Info] 85.460678 seconds elapsed, finished 52 iteration
-[LightGBM] [Info] Iteration:53, ../data/higgs.test's auc: 0.822502
-[LightGBM] [Info] 86.914506 seconds elapsed, finished 53 iteration
-[LightGBM] [Info] Iteration:54, ../data/higgs.test's auc: 0.822807
-[LightGBM] [Info] 88.160688 seconds elapsed, finished 54 iteration
-[LightGBM] [Info] Iteration:55, ../data/higgs.test's auc: 0.823105
-[LightGBM] [Info] 89.665276 seconds elapsed, finished 55 iteration
-[LightGBM] [Info] Iteration:56, ../data/higgs.test's auc: 0.823357
-[LightGBM] [Info] 90.863780 seconds elapsed, finished 56 iteration
-[LightGBM] [Info] Iteration:57, ../data/higgs.test's auc: 0.823578
-[LightGBM] [Info] 92.133480 seconds elapsed, finished 57 iteration
-[LightGBM] [Info] Iteration:58, ../data/higgs.test's auc: 0.823890
-[LightGBM] [Info] 93.370733 seconds elapsed, finished 58 iteration
-[LightGBM] [Info] Iteration:59, ../data/higgs.test's auc: 0.824176
-[LightGBM] [Info] 94.651320 seconds elapsed, finished 59 iteration
-[LightGBM] [Info] Iteration:60, ../data/higgs.test's auc: 0.824417
-[LightGBM] [Info] 95.998861 seconds elapsed, finished 60 iteration
-[LightGBM] [Info] Iteration:61, ../data/higgs.test's auc: 0.824678
-[LightGBM] [Info] 97.520616 seconds elapsed, finished 61 iteration
-[LightGBM] [Info] Iteration:62, ../data/higgs.test's auc: 0.824884
-[LightGBM] [Info] 99.209497 seconds elapsed, finished 62 iteration
-[LightGBM] [Info] Iteration:63, ../data/higgs.test's auc: 0.825119
-[LightGBM] [Info] 100.726578 seconds elapsed, finished 63 iteration
-[LightGBM] [Info] Iteration:64, ../data/higgs.test's auc: 0.825332
-[LightGBM] [Info] 102.215860 seconds elapsed, finished 64 iteration
-[LightGBM] [Info] Iteration:65, ../data/higgs.test's auc: 0.825564
-[LightGBM] [Info] 103.602787 seconds elapsed, finished 65 iteration
-[LightGBM] [Info] Iteration:66, ../data/higgs.test's auc: 0.825821
-[LightGBM] [Info] 105.016156 seconds elapsed, finished 66 iteration
-[LightGBM] [Info] Iteration:67, ../data/higgs.test's auc: 0.826021
-[LightGBM] [Info] 106.499969 seconds elapsed, finished 67 iteration
-[LightGBM] [Info] Iteration:68, ../data/higgs.test's auc: 0.826249
-[LightGBM] [Info] 107.935633 seconds elapsed, finished 68 iteration
-[LightGBM] [Info] Iteration:69, ../data/higgs.test's auc: 0.826460
-[LightGBM] [Info] 109.462233 seconds elapsed, finished 69 iteration
-[LightGBM] [Info] Iteration:70, ../data/higgs.test's auc: 0.826673
-[LightGBM] [Info] 110.978001 seconds elapsed, finished 70 iteration
-[LightGBM] [Info] Iteration:71, ../data/higgs.test's auc: 0.826898
-[LightGBM] [Info] 112.319812 seconds elapsed, finished 71 iteration
-[LightGBM] [Info] Iteration:72, ../data/higgs.test's auc: 0.827109
-[LightGBM] [Info] 113.820892 seconds elapsed, finished 72 iteration
-[LightGBM] [Info] Iteration:73, ../data/higgs.test's auc: 0.827283
-[LightGBM] [Info] 115.290552 seconds elapsed, finished 73 iteration
-[LightGBM] [Info] Iteration:74, ../data/higgs.test's auc: 0.827543
-[LightGBM] [Info] 116.873077 seconds elapsed, finished 74 iteration
-[LightGBM] [Info] Iteration:75, ../data/higgs.test's auc: 0.827746
-[LightGBM] [Info] 118.338826 seconds elapsed, finished 75 iteration
-[LightGBM] [Info] Iteration:76, ../data/higgs.test's auc: 0.827888
-[LightGBM] [Info] 119.780842 seconds elapsed, finished 76 iteration
-[LightGBM] [Info] Iteration:77, ../data/higgs.test's auc: 0.828076
-[LightGBM] [Info] 121.147767 seconds elapsed, finished 77 iteration
-[LightGBM] [Info] Iteration:78, ../data/higgs.test's auc: 0.828315
-[LightGBM] [Info] 122.604550 seconds elapsed, finished 78 iteration
-[LightGBM] [Info] Iteration:79, ../data/higgs.test's auc: 0.828469
-[LightGBM] [Info] 124.078882 seconds elapsed, finished 79 iteration
-[LightGBM] [Info] Iteration:80, ../data/higgs.test's auc: 0.828653
-[LightGBM] [Info] 125.469799 seconds elapsed, finished 80 iteration
-[LightGBM] [Info] Iteration:81, ../data/higgs.test's auc: 0.828825
-[LightGBM] [Info] 127.019923 seconds elapsed, finished 81 iteration
-[LightGBM] [Info] Iteration:82, ../data/higgs.test's auc: 0.829020
-[LightGBM] [Info] 128.399000 seconds elapsed, finished 82 iteration
-[LightGBM] [Info] Iteration:83, ../data/higgs.test's auc: 0.829173
-[LightGBM] [Info] 129.743593 seconds elapsed, finished 83 iteration
-[LightGBM] [Info] Iteration:84, ../data/higgs.test's auc: 0.829317
-[LightGBM] [Info] 131.155667 seconds elapsed, finished 84 iteration
-[LightGBM] [Info] Iteration:85, ../data/higgs.test's auc: 0.829466
-[LightGBM] [Info] 132.511676 seconds elapsed, finished 85 iteration
-[LightGBM] [Info] Iteration:86, ../data/higgs.test's auc: 0.829617
-[LightGBM] [Info] 133.844317 seconds elapsed, finished 86 iteration
-[LightGBM] [Info] Iteration:87, ../data/higgs.test's auc: 0.829770
-[LightGBM] [Info] 135.297655 seconds elapsed, finished 87 iteration
-[LightGBM] [Info] Iteration:88, ../data/higgs.test's auc: 0.829906
-[LightGBM] [Info] 136.576548 seconds elapsed, finished 88 iteration
-[LightGBM] [Info] Iteration:89, ../data/higgs.test's auc: 0.830048
-[LightGBM] [Info] 138.026351 seconds elapsed, finished 89 iteration
-[LightGBM] [Info] Iteration:90, ../data/higgs.test's auc: 0.830173
-[LightGBM] [Info] 139.405875 seconds elapsed, finished 90 iteration
-[LightGBM] [Info] Iteration:91, ../data/higgs.test's auc: 0.830301
-[LightGBM] [Info] 140.730307 seconds elapsed, finished 91 iteration
-[LightGBM] [Info] Iteration:92, ../data/higgs.test's auc: 0.830463
-[LightGBM] [Info] 141.991648 seconds elapsed, finished 92 iteration
-[LightGBM] [Info] Iteration:93, ../data/higgs.test's auc: 0.830668
-[LightGBM] [Info] 143.276584 seconds elapsed, finished 93 iteration
-[LightGBM] [Info] Iteration:94, ../data/higgs.test's auc: 0.830782
-[LightGBM] [Info] 144.693648 seconds elapsed, finished 94 iteration
-[LightGBM] [Info] Iteration:95, ../data/higgs.test's auc: 0.830951
-[LightGBM] [Info] 146.003962 seconds elapsed, finished 95 iteration
-[LightGBM] [Info] Iteration:96, ../data/higgs.test's auc: 0.831130
-[LightGBM] [Info] 147.427892 seconds elapsed, finished 96 iteration
-[LightGBM] [Info] Iteration:97, ../data/higgs.test's auc: 0.831265
-[LightGBM] [Info] 148.808676 seconds elapsed, finished 97 iteration
-[LightGBM] [Info] Iteration:98, ../data/higgs.test's auc: 0.831401
-[LightGBM] [Info] 150.215440 seconds elapsed, finished 98 iteration
-[LightGBM] [Info] Iteration:99, ../data/higgs.test's auc: 0.831551
-[LightGBM] [Info] 151.685595 seconds elapsed, finished 99 iteration
-[LightGBM] [Info] Iteration:100, ../data/higgs.test's auc: 0.831705
-[LightGBM] [Info] 153.198339 seconds elapsed, finished 100 iteration
-[LightGBM] [Info] Iteration:101, ../data/higgs.test's auc: 0.831828
-[LightGBM] [Info] 154.397754 seconds elapsed, finished 101 iteration
-[LightGBM] [Info] Iteration:102, ../data/higgs.test's auc: 0.831940
-[LightGBM] [Info] 155.651904 seconds elapsed, finished 102 iteration
-[LightGBM] [Info] Iteration:103, ../data/higgs.test's auc: 0.832049
-[LightGBM] [Info] 156.944484 seconds elapsed, finished 103 iteration
-[LightGBM] [Info] Iteration:104, ../data/higgs.test's auc: 0.832156
-[LightGBM] [Info] 158.111409 seconds elapsed, finished 104 iteration
-[LightGBM] [Info] Iteration:105, ../data/higgs.test's auc: 0.832311
-[LightGBM] [Info] 159.414633 seconds elapsed, finished 105 iteration
-[LightGBM] [Info] Iteration:106, ../data/higgs.test's auc: 0.832425
-[LightGBM] [Info] 160.654506 seconds elapsed, finished 106 iteration
-[LightGBM] [Info] Iteration:107, ../data/higgs.test's auc: 0.832571
-[LightGBM] [Info] 161.865715 seconds elapsed, finished 107 iteration
-[LightGBM] [Info] Iteration:108, ../data/higgs.test's auc: 0.832712
-[LightGBM] [Info] 162.965729 seconds elapsed, finished 108 iteration
-[LightGBM] [Info] Iteration:109, ../data/higgs.test's auc: 0.832796
-[LightGBM] [Info] 164.219076 seconds elapsed, finished 109 iteration
-[LightGBM] [Info] Iteration:110, ../data/higgs.test's auc: 0.832894
-[LightGBM] [Info] 165.434561 seconds elapsed, finished 110 iteration
-[LightGBM] [Info] Iteration:111, ../data/higgs.test's auc: 0.833038
-[LightGBM] [Info] 166.694875 seconds elapsed, finished 111 iteration
-[LightGBM] [Info] Iteration:112, ../data/higgs.test's auc: 0.833208
-[LightGBM] [Info] 167.891173 seconds elapsed, finished 112 iteration
-[LightGBM] [Info] Iteration:113, ../data/higgs.test's auc: 0.833315
-[LightGBM] [Info] 169.315702 seconds elapsed, finished 113 iteration
-[LightGBM] [Info] Iteration:114, ../data/higgs.test's auc: 0.833400
-[LightGBM] [Info] 170.391073 seconds elapsed, finished 114 iteration
-[LightGBM] [Info] Iteration:115, ../data/higgs.test's auc: 0.833518
-[LightGBM] [Info] 171.621559 seconds elapsed, finished 115 iteration
-[LightGBM] [Info] Iteration:116, ../data/higgs.test's auc: 0.833660
-[LightGBM] [Info] 172.914788 seconds elapsed, finished 116 iteration
-[LightGBM] [Info] Iteration:117, ../data/higgs.test's auc: 0.833790
-[LightGBM] [Info] 174.227099 seconds elapsed, finished 117 iteration
-[LightGBM] [Info] Iteration:118, ../data/higgs.test's auc: 0.833943
-[LightGBM] [Info] 175.570228 seconds elapsed, finished 118 iteration
-[LightGBM] [Info] Iteration:119, ../data/higgs.test's auc: 0.834027
-[LightGBM] [Info] 176.770362 seconds elapsed, finished 119 iteration
-[LightGBM] [Info] Iteration:120, ../data/higgs.test's auc: 0.834108
-[LightGBM] [Info] 177.942511 seconds elapsed, finished 120 iteration
-[LightGBM] [Info] Iteration:121, ../data/higgs.test's auc: 0.834219
-[LightGBM] [Info] 179.215633 seconds elapsed, finished 121 iteration
-[LightGBM] [Info] Iteration:122, ../data/higgs.test's auc: 0.834307
-[LightGBM] [Info] 179.974649 seconds elapsed, finished 122 iteration
-[LightGBM] [Info] Iteration:123, ../data/higgs.test's auc: 0.834468
-[LightGBM] [Info] 181.353435 seconds elapsed, finished 123 iteration
-[LightGBM] [Info] Iteration:124, ../data/higgs.test's auc: 0.834546
-[LightGBM] [Info] 182.687436 seconds elapsed, finished 124 iteration
-[LightGBM] [Info] Iteration:125, ../data/higgs.test's auc: 0.834648
-[LightGBM] [Info] 184.136331 seconds elapsed, finished 125 iteration
-[LightGBM] [Info] Iteration:126, ../data/higgs.test's auc: 0.834773
-[LightGBM] [Info] 185.361433 seconds elapsed, finished 126 iteration
-[LightGBM] [Info] Iteration:127, ../data/higgs.test's auc: 0.834897
-[LightGBM] [Info] 186.673084 seconds elapsed, finished 127 iteration
-[LightGBM] [Info] Iteration:128, ../data/higgs.test's auc: 0.834976
-[LightGBM] [Info] 187.892909 seconds elapsed, finished 128 iteration
-[LightGBM] [Info] Iteration:129, ../data/higgs.test's auc: 0.835068
-[LightGBM] [Info] 189.188653 seconds elapsed, finished 129 iteration
-[LightGBM] [Info] Iteration:130, ../data/higgs.test's auc: 0.835143
-[LightGBM] [Info] 190.509478 seconds elapsed, finished 130 iteration
-[LightGBM] [Info] Iteration:131, ../data/higgs.test's auc: 0.835264
-[LightGBM] [Info] 191.939034 seconds elapsed, finished 131 iteration
-[LightGBM] [Info] Iteration:132, ../data/higgs.test's auc: 0.835348
-[LightGBM] [Info] 192.919401 seconds elapsed, finished 132 iteration
-[LightGBM] [Info] Iteration:133, ../data/higgs.test's auc: 0.835447
-[LightGBM] [Info] 194.136089 seconds elapsed, finished 133 iteration
-[LightGBM] [Info] Iteration:134, ../data/higgs.test's auc: 0.835519
-[LightGBM] [Info] 195.261595 seconds elapsed, finished 134 iteration
-[LightGBM] [Info] Iteration:135, ../data/higgs.test's auc: 0.835580
-[LightGBM] [Info] 196.294754 seconds elapsed, finished 135 iteration
-[LightGBM] [Info] Iteration:136, ../data/higgs.test's auc: 0.835708
-[LightGBM] [Info] 197.531694 seconds elapsed, finished 136 iteration
-[LightGBM] [Info] Iteration:137, ../data/higgs.test's auc: 0.835796
-[LightGBM] [Info] 198.826311 seconds elapsed, finished 137 iteration
-[LightGBM] [Info] Iteration:138, ../data/higgs.test's auc: 0.835865
-[LightGBM] [Info] 200.191034 seconds elapsed, finished 138 iteration
-[LightGBM] [Info] Iteration:139, ../data/higgs.test's auc: 0.835995
-[LightGBM] [Info] 201.524861 seconds elapsed, finished 139 iteration
-[LightGBM] [Info] Iteration:140, ../data/higgs.test's auc: 0.836067
-[LightGBM] [Info] 202.654046 seconds elapsed, finished 140 iteration
-[LightGBM] [Info] Iteration:141, ../data/higgs.test's auc: 0.836133
-[LightGBM] [Info] 203.661184 seconds elapsed, finished 141 iteration
-[LightGBM] [Info] Iteration:142, ../data/higgs.test's auc: 0.836205
-[LightGBM] [Info] 204.788922 seconds elapsed, finished 142 iteration
-[LightGBM] [Info] Iteration:143, ../data/higgs.test's auc: 0.836307
-[LightGBM] [Info] 205.799269 seconds elapsed, finished 143 iteration
-[LightGBM] [Info] Iteration:144, ../data/higgs.test's auc: 0.836418
-[LightGBM] [Info] 207.073273 seconds elapsed, finished 144 iteration
-[LightGBM] [Info] Iteration:145, ../data/higgs.test's auc: 0.836487
-[LightGBM] [Info] 208.148124 seconds elapsed, finished 145 iteration
-[LightGBM] [Info] Iteration:146, ../data/higgs.test's auc: 0.836528
-[LightGBM] [Info] 208.892031 seconds elapsed, finished 146 iteration
-[LightGBM] [Info] Iteration:147, ../data/higgs.test's auc: 0.836624
-[LightGBM] [Info] 209.914744 seconds elapsed, finished 147 iteration
-[LightGBM] [Info] Iteration:148, ../data/higgs.test's auc: 0.836695
-[LightGBM] [Info] 210.980347 seconds elapsed, finished 148 iteration
-[LightGBM] [Info] Iteration:149, ../data/higgs.test's auc: 0.836724
-[LightGBM] [Info] 211.770017 seconds elapsed, finished 149 iteration
-[LightGBM] [Info] Iteration:150, ../data/higgs.test's auc: 0.836799
-[LightGBM] [Info] 213.103904 seconds elapsed, finished 150 iteration
-[LightGBM] [Info] Iteration:151, ../data/higgs.test's auc: 0.836865
-[LightGBM] [Info] 214.231696 seconds elapsed, finished 151 iteration
-[LightGBM] [Info] Iteration:152, ../data/higgs.test's auc: 0.836933
-[LightGBM] [Info] 215.191889 seconds elapsed, finished 152 iteration
-[LightGBM] [Info] Iteration:153, ../data/higgs.test's auc: 0.837024
-[LightGBM] [Info] 216.573629 seconds elapsed, finished 153 iteration
-[LightGBM] [Info] Iteration:154, ../data/higgs.test's auc: 0.837108
-[LightGBM] [Info] 218.133136 seconds elapsed, finished 154 iteration
-[LightGBM] [Info] Iteration:155, ../data/higgs.test's auc: 0.837192
-[LightGBM] [Info] 219.215532 seconds elapsed, finished 155 iteration
-[LightGBM] [Info] Iteration:156, ../data/higgs.test's auc: 0.837254
-[LightGBM] [Info] 220.333579 seconds elapsed, finished 156 iteration
-[LightGBM] [Info] Iteration:157, ../data/higgs.test's auc: 0.837324
-[LightGBM] [Info] 221.453798 seconds elapsed, finished 157 iteration
-[LightGBM] [Info] Iteration:158, ../data/higgs.test's auc: 0.837372
-[LightGBM] [Info] 222.550140 seconds elapsed, finished 158 iteration
-[LightGBM] [Info] Iteration:159, ../data/higgs.test's auc: 0.837432
-[LightGBM] [Info] 223.691049 seconds elapsed, finished 159 iteration
-[LightGBM] [Info] Iteration:160, ../data/higgs.test's auc: 0.837483
-[LightGBM] [Info] 224.446013 seconds elapsed, finished 160 iteration
-[LightGBM] [Info] Iteration:161, ../data/higgs.test's auc: 0.837553
-[LightGBM] [Info] 225.261197 seconds elapsed, finished 161 iteration
-[LightGBM] [Info] Iteration:162, ../data/higgs.test's auc: 0.837604
-[LightGBM] [Info] 225.954420 seconds elapsed, finished 162 iteration
-[LightGBM] [Info] Iteration:163, ../data/higgs.test's auc: 0.837629
-[LightGBM] [Info] 226.400148 seconds elapsed, finished 163 iteration
-[LightGBM] [Info] Iteration:164, ../data/higgs.test's auc: 0.837687
-[LightGBM] [Info] 227.621532 seconds elapsed, finished 164 iteration
-[LightGBM] [Info] Iteration:165, ../data/higgs.test's auc: 0.837751
-[LightGBM] [Info] 228.453956 seconds elapsed, finished 165 iteration
-[LightGBM] [Info] Iteration:166, ../data/higgs.test's auc: 0.837815
-[LightGBM] [Info] 229.414728 seconds elapsed, finished 166 iteration
-[LightGBM] [Info] Iteration:167, ../data/higgs.test's auc: 0.837879
-[LightGBM] [Info] 230.481455 seconds elapsed, finished 167 iteration
-[LightGBM] [Info] Iteration:168, ../data/higgs.test's auc: 0.837924
-[LightGBM] [Info] 231.613206 seconds elapsed, finished 168 iteration
-[LightGBM] [Info] Iteration:169, ../data/higgs.test's auc: 0.837967
-[LightGBM] [Info] 232.196299 seconds elapsed, finished 169 iteration
-[LightGBM] [Info] Iteration:170, ../data/higgs.test's auc: 0.838012
-[LightGBM] [Info] 232.783750 seconds elapsed, finished 170 iteration
-[LightGBM] [Info] Iteration:171, ../data/higgs.test's auc: 0.838060
-[LightGBM] [Info] 233.810027 seconds elapsed, finished 171 iteration
-[LightGBM] [Info] Iteration:172, ../data/higgs.test's auc: 0.838097
-[LightGBM] [Info] 234.768577 seconds elapsed, finished 172 iteration
-[LightGBM] [Info] Iteration:173, ../data/higgs.test's auc: 0.838137
-[LightGBM] [Info] 235.383471 seconds elapsed, finished 173 iteration
-[LightGBM] [Info] Iteration:174, ../data/higgs.test's auc: 0.838178
-[LightGBM] [Info] 236.370693 seconds elapsed, finished 174 iteration
-[LightGBM] [Info] Iteration:175, ../data/higgs.test's auc: 0.838202
-[LightGBM] [Info] 236.746608 seconds elapsed, finished 175 iteration
-[LightGBM] [Info] Iteration:176, ../data/higgs.test's auc: 0.838280
-[LightGBM] [Info] 237.975074 seconds elapsed, finished 176 iteration
-[LightGBM] [Info] Iteration:177, ../data/higgs.test's auc: 0.838329
-[LightGBM] [Info] 238.870706 seconds elapsed, finished 177 iteration
-[LightGBM] [Info] Iteration:178, ../data/higgs.test's auc: 0.838396
-[LightGBM] [Info] 240.071474 seconds elapsed, finished 178 iteration
-[LightGBM] [Info] Iteration:179, ../data/higgs.test's auc: 0.838440
-[LightGBM] [Info] 240.923225 seconds elapsed, finished 179 iteration
-[LightGBM] [Info] Iteration:180, ../data/higgs.test's auc: 0.838476
-[LightGBM] [Info] 241.748732 seconds elapsed, finished 180 iteration
-[LightGBM] [Info] Iteration:181, ../data/higgs.test's auc: 0.838486
-[LightGBM] [Info] 242.181254 seconds elapsed, finished 181 iteration
-[LightGBM] [Info] Iteration:182, ../data/higgs.test's auc: 0.838531
-[LightGBM] [Info] 243.314864 seconds elapsed, finished 182 iteration
-[LightGBM] [Info] Iteration:183, ../data/higgs.test's auc: 0.838603
-[LightGBM] [Info] 244.639391 seconds elapsed, finished 183 iteration
-[LightGBM] [Info] Iteration:184, ../data/higgs.test's auc: 0.838625
-[LightGBM] [Info] 245.329503 seconds elapsed, finished 184 iteration
-[LightGBM] [Info] Iteration:185, ../data/higgs.test's auc: 0.838668
-[LightGBM] [Info] 246.355948 seconds elapsed, finished 185 iteration
-[LightGBM] [Info] Iteration:186, ../data/higgs.test's auc: 0.838759
-[LightGBM] [Info] 247.853807 seconds elapsed, finished 186 iteration
-[LightGBM] [Info] Iteration:187, ../data/higgs.test's auc: 0.838803
-[LightGBM] [Info] 248.615585 seconds elapsed, finished 187 iteration
-[LightGBM] [Info] Iteration:188, ../data/higgs.test's auc: 0.838841
-[LightGBM] [Info] 249.466246 seconds elapsed, finished 188 iteration
-[LightGBM] [Info] Iteration:189, ../data/higgs.test's auc: 0.838909
-[LightGBM] [Info] 250.421839 seconds elapsed, finished 189 iteration
-[LightGBM] [Info] Iteration:190, ../data/higgs.test's auc: 0.838955
-[LightGBM] [Info] 251.565943 seconds elapsed, finished 190 iteration
-[LightGBM] [Info] Iteration:191, ../data/higgs.test's auc: 0.838984
-[LightGBM] [Info] 252.128056 seconds elapsed, finished 191 iteration
-[LightGBM] [Info] Iteration:192, ../data/higgs.test's auc: 0.839021
-[LightGBM] [Info] 252.841382 seconds elapsed, finished 192 iteration
-[LightGBM] [Info] Iteration:193, ../data/higgs.test's auc: 0.839059
-[LightGBM] [Info] 253.700023 seconds elapsed, finished 193 iteration
-[LightGBM] [Info] Iteration:194, ../data/higgs.test's auc: 0.839099
-[LightGBM] [Info] 254.574813 seconds elapsed, finished 194 iteration
-[LightGBM] [Info] Iteration:195, ../data/higgs.test's auc: 0.839139
-[LightGBM] [Info] 255.413154 seconds elapsed, finished 195 iteration
-[LightGBM] [Info] Iteration:196, ../data/higgs.test's auc: 0.839153
-[LightGBM] [Info] 255.788924 seconds elapsed, finished 196 iteration
-[LightGBM] [Info] Iteration:197, ../data/higgs.test's auc: 0.839188
-[LightGBM] [Info] 256.494941 seconds elapsed, finished 197 iteration
-[LightGBM] [Info] Iteration:198, ../data/higgs.test's auc: 0.839199
-[LightGBM] [Info] 257.098533 seconds elapsed, finished 198 iteration
-[LightGBM] [Info] Iteration:199, ../data/higgs.test's auc: 0.839215
-[LightGBM] [Info] 257.477761 seconds elapsed, finished 199 iteration
-[LightGBM] [Info] Iteration:200, ../data/higgs.test's auc: 0.839243
-[LightGBM] [Info] 257.960421 seconds elapsed, finished 200 iteration
-[LightGBM] [Info] Iteration:201, ../data/higgs.test's auc: 0.839265
-[LightGBM] [Info] 258.438513 seconds elapsed, finished 201 iteration
-[LightGBM] [Info] Iteration:202, ../data/higgs.test's auc: 0.839332
-[LightGBM] [Info] 259.644186 seconds elapsed, finished 202 iteration
-[LightGBM] [Info] Iteration:203, ../data/higgs.test's auc: 0.839366
-[LightGBM] [Info] 260.326747 seconds elapsed, finished 203 iteration
-[LightGBM] [Info] Iteration:204, ../data/higgs.test's auc: 0.839379
-[LightGBM] [Info] 260.743105 seconds elapsed, finished 204 iteration
-[LightGBM] [Info] Iteration:205, ../data/higgs.test's auc: 0.839389
-[LightGBM] [Info] 261.191421 seconds elapsed, finished 205 iteration
-[LightGBM] [Info] Iteration:206, ../data/higgs.test's auc: 0.839399
-[LightGBM] [Info] 261.533745 seconds elapsed, finished 206 iteration
-[LightGBM] [Info] Iteration:207, ../data/higgs.test's auc: 0.839417
-[LightGBM] [Info] 262.039523 seconds elapsed, finished 207 iteration
-[LightGBM] [Info] Iteration:208, ../data/higgs.test's auc: 0.839483
-[LightGBM] [Info] 263.160995 seconds elapsed, finished 208 iteration
-[LightGBM] [Info] Iteration:209, ../data/higgs.test's auc: 0.839489
-[LightGBM] [Info] 263.515128 seconds elapsed, finished 209 iteration
-[LightGBM] [Info] Iteration:210, ../data/higgs.test's auc: 0.839558
-[LightGBM] [Info] 264.899542 seconds elapsed, finished 210 iteration
-[LightGBM] [Info] Iteration:211, ../data/higgs.test's auc: 0.839590
-[LightGBM] [Info] 265.808733 seconds elapsed, finished 211 iteration
-[LightGBM] [Info] Iteration:212, ../data/higgs.test's auc: 0.839615
-[LightGBM] [Info] 266.400661 seconds elapsed, finished 212 iteration
-[LightGBM] [Info] Iteration:213, ../data/higgs.test's auc: 0.839666
-[LightGBM] [Info] 267.479760 seconds elapsed, finished 213 iteration
-[LightGBM] [Info] Iteration:214, ../data/higgs.test's auc: 0.839714
-[LightGBM] [Info] 268.169823 seconds elapsed, finished 214 iteration
-[LightGBM] [Info] Iteration:215, ../data/higgs.test's auc: 0.839730
-[LightGBM] [Info] 268.554817 seconds elapsed, finished 215 iteration
-[LightGBM] [Info] Iteration:216, ../data/higgs.test's auc: 0.839748
-[LightGBM] [Info] 269.222026 seconds elapsed, finished 216 iteration
-[LightGBM] [Info] Iteration:217, ../data/higgs.test's auc: 0.839804
-[LightGBM] [Info] 270.384693 seconds elapsed, finished 217 iteration
-[LightGBM] [Info] Iteration:218, ../data/higgs.test's auc: 0.839810
-[LightGBM] [Info] 270.783462 seconds elapsed, finished 218 iteration
-[LightGBM] [Info] Iteration:219, ../data/higgs.test's auc: 0.839861
-[LightGBM] [Info] 271.822099 seconds elapsed, finished 219 iteration
-[LightGBM] [Info] Iteration:220, ../data/higgs.test's auc: 0.839904
-[LightGBM] [Info] 272.971221 seconds elapsed, finished 220 iteration
-[LightGBM] [Info] Iteration:221, ../data/higgs.test's auc: 0.839932
-[LightGBM] [Info] 273.667084 seconds elapsed, finished 221 iteration
-[LightGBM] [Info] Iteration:222, ../data/higgs.test's auc: 0.839943
-[LightGBM] [Info] 274.002462 seconds elapsed, finished 222 iteration
-[LightGBM] [Info] Iteration:223, ../data/higgs.test's auc: 0.839957
-[LightGBM] [Info] 274.328537 seconds elapsed, finished 223 iteration
-[LightGBM] [Info] Iteration:224, ../data/higgs.test's auc: 0.840032
-[LightGBM] [Info] 275.397195 seconds elapsed, finished 224 iteration
-[LightGBM] [Info] Iteration:225, ../data/higgs.test's auc: 0.840043
-[LightGBM] [Info] 275.783840 seconds elapsed, finished 225 iteration
-[LightGBM] [Info] Iteration:226, ../data/higgs.test's auc: 0.840064
-[LightGBM] [Info] 276.430738 seconds elapsed, finished 226 iteration
-[LightGBM] [Info] Iteration:227, ../data/higgs.test's auc: 0.840080
-[LightGBM] [Info] 277.037271 seconds elapsed, finished 227 iteration
-[LightGBM] [Info] Iteration:228, ../data/higgs.test's auc: 0.840087
-[LightGBM] [Info] 277.398575 seconds elapsed, finished 228 iteration
-[LightGBM] [Info] Iteration:229, ../data/higgs.test's auc: 0.840099
-[LightGBM] [Info] 277.713958 seconds elapsed, finished 229 iteration
-[LightGBM] [Info] Iteration:230, ../data/higgs.test's auc: 0.840107
-[LightGBM] [Info] 278.025696 seconds elapsed, finished 230 iteration
-[LightGBM] [Info] Iteration:231, ../data/higgs.test's auc: 0.840113
-[LightGBM] [Info] 278.290536 seconds elapsed, finished 231 iteration
-[LightGBM] [Info] Iteration:232, ../data/higgs.test's auc: 0.840116
-[LightGBM] [Info] 278.561580 seconds elapsed, finished 232 iteration
-[LightGBM] [Info] Iteration:233, ../data/higgs.test's auc: 0.840131
-[LightGBM] [Info] 279.067491 seconds elapsed, finished 233 iteration
-[LightGBM] [Info] Iteration:234, ../data/higgs.test's auc: 0.840187
-[LightGBM] [Info] 279.995936 seconds elapsed, finished 234 iteration
-[LightGBM] [Info] Iteration:235, ../data/higgs.test's auc: 0.840200
-[LightGBM] [Info] 280.402761 seconds elapsed, finished 235 iteration
-[LightGBM] [Info] Iteration:236, ../data/higgs.test's auc: 0.840214
-[LightGBM] [Info] 280.895210 seconds elapsed, finished 236 iteration
-[LightGBM] [Info] Iteration:237, ../data/higgs.test's auc: 0.840240
-[LightGBM] [Info] 281.537193 seconds elapsed, finished 237 iteration
-[LightGBM] [Info] Iteration:238, ../data/higgs.test's auc: 0.840255
-[LightGBM] [Info] 281.899673 seconds elapsed, finished 238 iteration
-[LightGBM] [Info] Iteration:239, ../data/higgs.test's auc: 0.840279
-[LightGBM] [Info] 282.405597 seconds elapsed, finished 239 iteration
-[LightGBM] [Info] Iteration:240, ../data/higgs.test's auc: 0.840289
-[LightGBM] [Info] 282.703533 seconds elapsed, finished 240 iteration
-[LightGBM] [Info] Iteration:241, ../data/higgs.test's auc: 0.840300
-[LightGBM] [Info] 283.099921 seconds elapsed, finished 241 iteration
-[LightGBM] [Info] Iteration:242, ../data/higgs.test's auc: 0.840333
-[LightGBM] [Info] 283.882834 seconds elapsed, finished 242 iteration
-[LightGBM] [Info] Iteration:243, ../data/higgs.test's auc: 0.840341
-[LightGBM] [Info] 284.250546 seconds elapsed, finished 243 iteration
-[LightGBM] [Info] Iteration:244, ../data/higgs.test's auc: 0.840389
-[LightGBM] [Info] 284.969855 seconds elapsed, finished 244 iteration
-[LightGBM] [Info] Iteration:245, ../data/higgs.test's auc: 0.840398
-[LightGBM] [Info] 285.431340 seconds elapsed, finished 245 iteration
-[LightGBM] [Info] Iteration:246, ../data/higgs.test's auc: 0.840403
-[LightGBM] [Info] 285.870420 seconds elapsed, finished 246 iteration
-[LightGBM] [Info] Iteration:247, ../data/higgs.test's auc: 0.840417
-[LightGBM] [Info] 286.330491 seconds elapsed, finished 247 iteration
-[LightGBM] [Info] Iteration:248, ../data/higgs.test's auc: 0.840424
-[LightGBM] [Info] 286.725750 seconds elapsed, finished 248 iteration
-[LightGBM] [Info] Iteration:249, ../data/higgs.test's auc: 0.840456
-[LightGBM] [Info] 287.712806 seconds elapsed, finished 249 iteration
-[LightGBM] [Info] Iteration:250, ../data/higgs.test's auc: 0.840472
-[LightGBM] [Info] 288.235907 seconds elapsed, finished 250 iteration
-[LightGBM] [Info] Iteration:251, ../data/higgs.test's auc: 0.840489
-[LightGBM] [Info] 288.646593 seconds elapsed, finished 251 iteration
-[LightGBM] [Info] Iteration:252, ../data/higgs.test's auc: 0.840537
-[LightGBM] [Info] 289.692238 seconds elapsed, finished 252 iteration
-[LightGBM] [Info] Iteration:253, ../data/higgs.test's auc: 0.840545
-[LightGBM] [Info] 290.021203 seconds elapsed, finished 253 iteration
-[LightGBM] [Info] Iteration:254, ../data/higgs.test's auc: 0.840563
-[LightGBM] [Info] 290.335111 seconds elapsed, finished 254 iteration
-[LightGBM] [Info] Iteration:255, ../data/higgs.test's auc: 0.840597
-[LightGBM] [Info] 291.116134 seconds elapsed, finished 255 iteration
-[LightGBM] [Info] Iteration:256, ../data/higgs.test's auc: 0.840609
-[LightGBM] [Info] 291.546642 seconds elapsed, finished 256 iteration
-[LightGBM] [Info] Iteration:257, ../data/higgs.test's auc: 0.840626
-[LightGBM] [Info] 291.975155 seconds elapsed, finished 257 iteration
-[LightGBM] [Info] Iteration:258, ../data/higgs.test's auc: 0.840654
-[LightGBM] [Info] 292.883308 seconds elapsed, finished 258 iteration
-[LightGBM] [Info] Iteration:259, ../data/higgs.test's auc: 0.840711
-[LightGBM] [Info] 294.189110 seconds elapsed, finished 259 iteration
-[LightGBM] [Info] Iteration:260, ../data/higgs.test's auc: 0.840758
-[LightGBM] [Info] 295.073761 seconds elapsed, finished 260 iteration
-[LightGBM] [Info] Iteration:261, ../data/higgs.test's auc: 0.840765
-[LightGBM] [Info] 295.489392 seconds elapsed, finished 261 iteration
-[LightGBM] [Info] Iteration:262, ../data/higgs.test's auc: 0.840770
-[LightGBM] [Info] 295.848077 seconds elapsed, finished 262 iteration
-[LightGBM] [Info] Iteration:263, ../data/higgs.test's auc: 0.840782
-[LightGBM] [Info] 296.525307 seconds elapsed, finished 263 iteration
-[LightGBM] [Info] Iteration:264, ../data/higgs.test's auc: 0.840817
-[LightGBM] [Info] 297.200626 seconds elapsed, finished 264 iteration
-[LightGBM] [Info] Iteration:265, ../data/higgs.test's auc: 0.840821
-[LightGBM] [Info] 297.629659 seconds elapsed, finished 265 iteration
-[LightGBM] [Info] Iteration:266, ../data/higgs.test's auc: 0.840826
-[LightGBM] [Info] 298.003457 seconds elapsed, finished 266 iteration
-[LightGBM] [Info] Iteration:267, ../data/higgs.test's auc: 0.840843
-[LightGBM] [Info] 298.462263 seconds elapsed, finished 267 iteration
-[LightGBM] [Info] Iteration:268, ../data/higgs.test's auc: 0.840855
-[LightGBM] [Info] 298.750255 seconds elapsed, finished 268 iteration
-[LightGBM] [Info] Iteration:269, ../data/higgs.test's auc: 0.840860
-[LightGBM] [Info] 299.026395 seconds elapsed, finished 269 iteration
-[LightGBM] [Info] Iteration:270, ../data/higgs.test's auc: 0.840900
-[LightGBM] [Info] 299.817947 seconds elapsed, finished 270 iteration
-[LightGBM] [Info] Iteration:271, ../data/higgs.test's auc: 0.840942
-[LightGBM] [Info] 300.611400 seconds elapsed, finished 271 iteration
-[LightGBM] [Info] Iteration:272, ../data/higgs.test's auc: 0.840975
-[LightGBM] [Info] 301.341972 seconds elapsed, finished 272 iteration
-[LightGBM] [Info] Iteration:273, ../data/higgs.test's auc: 0.840991
-[LightGBM] [Info] 301.620977 seconds elapsed, finished 273 iteration
-[LightGBM] [Info] Iteration:274, ../data/higgs.test's auc: 0.840995
-[LightGBM] [Info] 301.904996 seconds elapsed, finished 274 iteration
-[LightGBM] [Info] Iteration:275, ../data/higgs.test's auc: 0.841019
-[LightGBM] [Info] 302.377465 seconds elapsed, finished 275 iteration
-[LightGBM] [Info] Iteration:276, ../data/higgs.test's auc: 0.841038
-[LightGBM] [Info] 302.818215 seconds elapsed, finished 276 iteration
-[LightGBM] [Info] Iteration:277, ../data/higgs.test's auc: 0.841043
-[LightGBM] [Info] 303.114971 seconds elapsed, finished 277 iteration
-[LightGBM] [Info] Iteration:278, ../data/higgs.test's auc: 0.841091
-[LightGBM] [Info] 303.981630 seconds elapsed, finished 278 iteration
-[LightGBM] [Info] Iteration:279, ../data/higgs.test's auc: 0.841125
-[LightGBM] [Info] 304.762011 seconds elapsed, finished 279 iteration
-[LightGBM] [Info] Iteration:280, ../data/higgs.test's auc: 0.841174
-[LightGBM] [Info] 306.127535 seconds elapsed, finished 280 iteration
-[LightGBM] [Info] Iteration:281, ../data/higgs.test's auc: 0.841199
-[LightGBM] [Info] 306.701911 seconds elapsed, finished 281 iteration
-[LightGBM] [Info] Iteration:282, ../data/higgs.test's auc: 0.841250
-[LightGBM] [Info] 307.856790 seconds elapsed, finished 282 iteration
-[LightGBM] [Info] Iteration:283, ../data/higgs.test's auc: 0.841277
-[LightGBM] [Info] 308.829571 seconds elapsed, finished 283 iteration
-[LightGBM] [Info] Iteration:284, ../data/higgs.test's auc: 0.841290
-[LightGBM] [Info] 309.177171 seconds elapsed, finished 284 iteration
-[LightGBM] [Info] Iteration:285, ../data/higgs.test's auc: 0.841293
-[LightGBM] [Info] 309.467565 seconds elapsed, finished 285 iteration
-[LightGBM] [Info] Iteration:286, ../data/higgs.test's auc: 0.841315
-[LightGBM] [Info] 310.001547 seconds elapsed, finished 286 iteration
-[LightGBM] [Info] Iteration:287, ../data/higgs.test's auc: 0.841327
-[LightGBM] [Info] 310.257855 seconds elapsed, finished 287 iteration
-[LightGBM] [Info] Iteration:288, ../data/higgs.test's auc: 0.841332
-[LightGBM] [Info] 310.578193 seconds elapsed, finished 288 iteration
-[LightGBM] [Info] Iteration:289, ../data/higgs.test's auc: 0.841349
-[LightGBM] [Info] 311.038418 seconds elapsed, finished 289 iteration
-[LightGBM] [Info] Iteration:290, ../data/higgs.test's auc: 0.841487
-[LightGBM] [Info] 312.322201 seconds elapsed, finished 290 iteration
-[LightGBM] [Info] Iteration:291, ../data/higgs.test's auc: 0.841520
-[LightGBM] [Info] 313.055566 seconds elapsed, finished 291 iteration
-[LightGBM] [Info] Iteration:292, ../data/higgs.test's auc: 0.841553
-[LightGBM] [Info] 313.997303 seconds elapsed, finished 292 iteration
-[LightGBM] [Info] Iteration:293, ../data/higgs.test's auc: 0.841667
-[LightGBM] [Info] 315.347357 seconds elapsed, finished 293 iteration
-[LightGBM] [Info] Iteration:294, ../data/higgs.test's auc: 0.841696
-[LightGBM] [Info] 316.005992 seconds elapsed, finished 294 iteration
-[LightGBM] [Info] Iteration:295, ../data/higgs.test's auc: 0.841713
-[LightGBM] [Info] 316.440310 seconds elapsed, finished 295 iteration
-[LightGBM] [Info] Iteration:296, ../data/higgs.test's auc: 0.841735
-[LightGBM] [Info] 317.361069 seconds elapsed, finished 296 iteration
-[LightGBM] [Info] Iteration:297, ../data/higgs.test's auc: 0.841752
-[LightGBM] [Info] 317.808543 seconds elapsed, finished 297 iteration
-[LightGBM] [Info] Iteration:298, ../data/higgs.test's auc: 0.841756
-[LightGBM] [Info] 318.136439 seconds elapsed, finished 298 iteration
-[LightGBM] [Info] Iteration:299, ../data/higgs.test's auc: 0.841801
-[LightGBM] [Info] 319.151223 seconds elapsed, finished 299 iteration
-[LightGBM] [Info] Iteration:300, ../data/higgs.test's auc: 0.841839
-[LightGBM] [Info] 319.842870 seconds elapsed, finished 300 iteration
-[LightGBM] [Info] Iteration:301, ../data/higgs.test's auc: 0.841855
-[LightGBM] [Info] 320.636431 seconds elapsed, finished 301 iteration
-[LightGBM] [Info] Iteration:302, ../data/higgs.test's auc: 0.841885
-[LightGBM] [Info] 321.162825 seconds elapsed, finished 302 iteration
-[LightGBM] [Info] Iteration:303, ../data/higgs.test's auc: 0.841907
-[LightGBM] [Info] 321.835172 seconds elapsed, finished 303 iteration
-[LightGBM] [Info] Iteration:304, ../data/higgs.test's auc: 0.841917
-[LightGBM] [Info] 322.137135 seconds elapsed, finished 304 iteration
-[LightGBM] [Info] Iteration:305, ../data/higgs.test's auc: 0.841946
-[LightGBM] [Info] 322.962916 seconds elapsed, finished 305 iteration
-[LightGBM] [Info] Iteration:306, ../data/higgs.test's auc: 0.841955
-[LightGBM] [Info] 323.261124 seconds elapsed, finished 306 iteration
-[LightGBM] [Info] Iteration:307, ../data/higgs.test's auc: 0.841967
-[LightGBM] [Info] 323.575194 seconds elapsed, finished 307 iteration
-[LightGBM] [Info] Iteration:308, ../data/higgs.test's auc: 0.841975
-[LightGBM] [Info] 323.946747 seconds elapsed, finished 308 iteration
-[LightGBM] [Info] Iteration:309, ../data/higgs.test's auc: 0.841984
-[LightGBM] [Info] 324.298960 seconds elapsed, finished 309 iteration
-[LightGBM] [Info] Iteration:310, ../data/higgs.test's auc: 0.841996
-[LightGBM] [Info] 324.799217 seconds elapsed, finished 310 iteration
-[LightGBM] [Info] Iteration:311, ../data/higgs.test's auc: 0.842010
-[LightGBM] [Info] 325.175469 seconds elapsed, finished 311 iteration
-[LightGBM] [Info] Iteration:312, ../data/higgs.test's auc: 0.842014
-[LightGBM] [Info] 325.520772 seconds elapsed, finished 312 iteration
-[LightGBM] [Info] Iteration:313, ../data/higgs.test's auc: 0.842019
-[LightGBM] [Info] 325.763675 seconds elapsed, finished 313 iteration
-[LightGBM] [Info] Iteration:314, ../data/higgs.test's auc: 0.842023
-[LightGBM] [Info] 326.036196 seconds elapsed, finished 314 iteration
-[LightGBM] [Info] Iteration:315, ../data/higgs.test's auc: 0.842060
-[LightGBM] [Info] 327.104185 seconds elapsed, finished 315 iteration
-[LightGBM] [Info] Iteration:316, ../data/higgs.test's auc: 0.842087
-[LightGBM] [Info] 327.682836 seconds elapsed, finished 316 iteration
-[LightGBM] [Info] Iteration:317, ../data/higgs.test's auc: 0.842100
-[LightGBM] [Info] 328.174041 seconds elapsed, finished 317 iteration
-[LightGBM] [Info] Iteration:318, ../data/higgs.test's auc: 0.842137
-[LightGBM] [Info] 329.455492 seconds elapsed, finished 318 iteration
-[LightGBM] [Info] Iteration:319, ../data/higgs.test's auc: 0.842155
-[LightGBM] [Info] 330.006920 seconds elapsed, finished 319 iteration
-[LightGBM] [Info] Iteration:320, ../data/higgs.test's auc: 0.842160
-[LightGBM] [Info] 330.379868 seconds elapsed, finished 320 iteration
-[LightGBM] [Info] Iteration:321, ../data/higgs.test's auc: 0.842191
-[LightGBM] [Info] 331.297822 seconds elapsed, finished 321 iteration
-[LightGBM] [Info] Iteration:322, ../data/higgs.test's auc: 0.842223
-[LightGBM] [Info] 332.324148 seconds elapsed, finished 322 iteration
-[LightGBM] [Info] Iteration:323, ../data/higgs.test's auc: 0.842227
-[LightGBM] [Info] 332.747654 seconds elapsed, finished 323 iteration
-[LightGBM] [Info] Iteration:324, ../data/higgs.test's auc: 0.842344
-[LightGBM] [Info] 334.185150 seconds elapsed, finished 324 iteration
-[LightGBM] [Info] Iteration:325, ../data/higgs.test's auc: 0.842388
-[LightGBM] [Info] 335.229480 seconds elapsed, finished 325 iteration
-[LightGBM] [Info] Iteration:326, ../data/higgs.test's auc: 0.842396
-[LightGBM] [Info] 335.673057 seconds elapsed, finished 326 iteration
-[LightGBM] [Info] Iteration:327, ../data/higgs.test's auc: 0.842401
-[LightGBM] [Info] 336.065701 seconds elapsed, finished 327 iteration
-[LightGBM] [Info] Iteration:328, ../data/higgs.test's auc: 0.842425
-[LightGBM] [Info] 336.956822 seconds elapsed, finished 328 iteration
-[LightGBM] [Info] Iteration:329, ../data/higgs.test's auc: 0.842427
-[LightGBM] [Info] 337.393019 seconds elapsed, finished 329 iteration
-[LightGBM] [Info] Iteration:330, ../data/higgs.test's auc: 0.842440
-[LightGBM] [Info] 337.746802 seconds elapsed, finished 330 iteration
-[LightGBM] [Info] Iteration:331, ../data/higgs.test's auc: 0.842452
-[LightGBM] [Info] 338.313353 seconds elapsed, finished 331 iteration
-[LightGBM] [Info] Iteration:332, ../data/higgs.test's auc: 0.842456
-[LightGBM] [Info] 338.598779 seconds elapsed, finished 332 iteration
-[LightGBM] [Info] Iteration:333, ../data/higgs.test's auc: 0.842458
-[LightGBM] [Info] 338.887569 seconds elapsed, finished 333 iteration
-[LightGBM] [Info] Iteration:334, ../data/higgs.test's auc: 0.842466
-[LightGBM] [Info] 339.361498 seconds elapsed, finished 334 iteration
-[LightGBM] [Info] Iteration:335, ../data/higgs.test's auc: 0.842467
-[LightGBM] [Info] 339.744635 seconds elapsed, finished 335 iteration
-[LightGBM] [Info] Iteration:336, ../data/higgs.test's auc: 0.842557
-[LightGBM] [Info] 341.315077 seconds elapsed, finished 336 iteration
-[LightGBM] [Info] Iteration:337, ../data/higgs.test's auc: 0.842562
-[LightGBM] [Info] 341.580789 seconds elapsed, finished 337 iteration
-[LightGBM] [Info] Iteration:338, ../data/higgs.test's auc: 0.842589
-[LightGBM] [Info] 342.342583 seconds elapsed, finished 338 iteration
-[LightGBM] [Info] Iteration:339, ../data/higgs.test's auc: 0.842625
-[LightGBM] [Info] 343.442339 seconds elapsed, finished 339 iteration
-[LightGBM] [Info] Iteration:340, ../data/higgs.test's auc: 0.842656
-[LightGBM] [Info] 344.255548 seconds elapsed, finished 340 iteration
-[LightGBM] [Info] Iteration:341, ../data/higgs.test's auc: 0.842689
-[LightGBM] [Info] 345.272734 seconds elapsed, finished 341 iteration
-[LightGBM] [Info] Iteration:342, ../data/higgs.test's auc: 0.842706
-[LightGBM] [Info] 346.026119 seconds elapsed, finished 342 iteration
-[LightGBM] [Info] Iteration:343, ../data/higgs.test's auc: 0.842717
-[LightGBM] [Info] 346.465084 seconds elapsed, finished 343 iteration
-[LightGBM] [Info] Iteration:344, ../data/higgs.test's auc: 0.842726
-[LightGBM] [Info] 346.787098 seconds elapsed, finished 344 iteration
-[LightGBM] [Info] Iteration:345, ../data/higgs.test's auc: 0.842734
-[LightGBM] [Info] 347.075730 seconds elapsed, finished 345 iteration
-[LightGBM] [Info] Iteration:346, ../data/higgs.test's auc: 0.842770
-[LightGBM] [Info] 347.912606 seconds elapsed, finished 346 iteration
-[LightGBM] [Info] Iteration:347, ../data/higgs.test's auc: 0.842804
-[LightGBM] [Info] 349.187049 seconds elapsed, finished 347 iteration
-[LightGBM] [Info] Iteration:348, ../data/higgs.test's auc: 0.842829
-[LightGBM] [Info] 349.928074 seconds elapsed, finished 348 iteration
-[LightGBM] [Info] Iteration:349, ../data/higgs.test's auc: 0.842833
-[LightGBM] [Info] 350.278784 seconds elapsed, finished 349 iteration
-[LightGBM] [Info] Iteration:350, ../data/higgs.test's auc: 0.842837
-[LightGBM] [Info] 350.634095 seconds elapsed, finished 350 iteration
-[LightGBM] [Info] Iteration:351, ../data/higgs.test's auc: 0.842874
-[LightGBM] [Info] 351.389846 seconds elapsed, finished 351 iteration
-[LightGBM] [Info] Iteration:352, ../data/higgs.test's auc: 0.842929
-[LightGBM] [Info] 352.485992 seconds elapsed, finished 352 iteration
-[LightGBM] [Info] Iteration:353, ../data/higgs.test's auc: 0.842953
-[LightGBM] [Info] 353.348265 seconds elapsed, finished 353 iteration
-[LightGBM] [Info] Iteration:354, ../data/higgs.test's auc: 0.842965
-[LightGBM] [Info] 353.809065 seconds elapsed, finished 354 iteration
-[LightGBM] [Info] Iteration:355, ../data/higgs.test's auc: 0.842973
-[LightGBM] [Info] 354.203641 seconds elapsed, finished 355 iteration
-[LightGBM] [Info] Iteration:356, ../data/higgs.test's auc: 0.843027
-[LightGBM] [Info] 355.094709 seconds elapsed, finished 356 iteration
-[LightGBM] [Info] Iteration:357, ../data/higgs.test's auc: 0.843034
-[LightGBM] [Info] 355.445337 seconds elapsed, finished 357 iteration
-[LightGBM] [Info] Iteration:358, ../data/higgs.test's auc: 0.843067
-[LightGBM] [Info] 356.293952 seconds elapsed, finished 358 iteration
-[LightGBM] [Info] Iteration:359, ../data/higgs.test's auc: 0.843067
-[LightGBM] [Info] 356.578593 seconds elapsed, finished 359 iteration
-[LightGBM] [Info] Iteration:360, ../data/higgs.test's auc: 0.843070
-[LightGBM] [Info] 357.081287 seconds elapsed, finished 360 iteration
-[LightGBM] [Info] Iteration:361, ../data/higgs.test's auc: 0.843100
-[LightGBM] [Info] 358.042310 seconds elapsed, finished 361 iteration
-[LightGBM] [Info] Iteration:362, ../data/higgs.test's auc: 0.843131
-[LightGBM] [Info] 358.834581 seconds elapsed, finished 362 iteration
-[LightGBM] [Info] Iteration:363, ../data/higgs.test's auc: 0.843142
-[LightGBM] [Info] 359.318958 seconds elapsed, finished 363 iteration
-[LightGBM] [Info] Iteration:364, ../data/higgs.test's auc: 0.843150
-[LightGBM] [Info] 359.634039 seconds elapsed, finished 364 iteration
-[LightGBM] [Info] Iteration:365, ../data/higgs.test's auc: 0.843154
-[LightGBM] [Info] 359.962371 seconds elapsed, finished 365 iteration
-[LightGBM] [Info] Iteration:366, ../data/higgs.test's auc: 0.843197
-[LightGBM] [Info] 360.882305 seconds elapsed, finished 366 iteration
-[LightGBM] [Info] Iteration:367, ../data/higgs.test's auc: 0.843245
-[LightGBM] [Info] 362.028014 seconds elapsed, finished 367 iteration
-[LightGBM] [Info] Iteration:368, ../data/higgs.test's auc: 0.843245
-[LightGBM] [Info] 362.275078 seconds elapsed, finished 368 iteration
-[LightGBM] [Info] Iteration:369, ../data/higgs.test's auc: 0.843245
-[LightGBM] [Info] 362.577038 seconds elapsed, finished 369 iteration
-[LightGBM] [Info] Iteration:370, ../data/higgs.test's auc: 0.843249
-[LightGBM] [Info] 362.998358 seconds elapsed, finished 370 iteration
-[LightGBM] [Info] Iteration:371, ../data/higgs.test's auc: 0.843319
-[LightGBM] [Info] 364.388433 seconds elapsed, finished 371 iteration
-[LightGBM] [Info] Iteration:372, ../data/higgs.test's auc: 0.843323
-[LightGBM] [Info] 364.819783 seconds elapsed, finished 372 iteration
-[LightGBM] [Info] Iteration:373, ../data/higgs.test's auc: 0.843339
-[LightGBM] [Info] 365.245116 seconds elapsed, finished 373 iteration
-[LightGBM] [Info] Iteration:374, ../data/higgs.test's auc: 0.843362
-[LightGBM] [Info] 365.831515 seconds elapsed, finished 374 iteration
-[LightGBM] [Info] Iteration:375, ../data/higgs.test's auc: 0.843373
-[LightGBM] [Info] 366.366386 seconds elapsed, finished 375 iteration
-[LightGBM] [Info] Iteration:376, ../data/higgs.test's auc: 0.843391
-[LightGBM] [Info] 366.858247 seconds elapsed, finished 376 iteration
-[LightGBM] [Info] Iteration:377, ../data/higgs.test's auc: 0.843447
-[LightGBM] [Info] 368.077256 seconds elapsed, finished 377 iteration
-[LightGBM] [Info] Iteration:378, ../data/higgs.test's auc: 0.843450
-[LightGBM] [Info] 368.351323 seconds elapsed, finished 378 iteration
-[LightGBM] [Info] Iteration:379, ../data/higgs.test's auc: 0.843452
-[LightGBM] [Info] 368.645807 seconds elapsed, finished 379 iteration
-[LightGBM] [Info] Iteration:380, ../data/higgs.test's auc: 0.843465
-[LightGBM] [Info] 369.069430 seconds elapsed, finished 380 iteration
-[LightGBM] [Info] Iteration:381, ../data/higgs.test's auc: 0.843470
-[LightGBM] [Info] 369.464174 seconds elapsed, finished 381 iteration
-[LightGBM] [Info] Iteration:382, ../data/higgs.test's auc: 0.843471
-[LightGBM] [Info] 369.741930 seconds elapsed, finished 382 iteration
-[LightGBM] [Info] Iteration:383, ../data/higgs.test's auc: 0.843478
-[LightGBM] [Info] 370.084895 seconds elapsed, finished 383 iteration
-[LightGBM] [Info] Iteration:384, ../data/higgs.test's auc: 0.843516
-[LightGBM] [Info] 370.978175 seconds elapsed, finished 384 iteration
-[LightGBM] [Info] Iteration:385, ../data/higgs.test's auc: 0.843577
-[LightGBM] [Info] 371.867257 seconds elapsed, finished 385 iteration
-[LightGBM] [Info] Iteration:386, ../data/higgs.test's auc: 0.843588
-[LightGBM] [Info] 372.258079 seconds elapsed, finished 386 iteration
-[LightGBM] [Info] Iteration:387, ../data/higgs.test's auc: 0.843594
-[LightGBM] [Info] 372.565160 seconds elapsed, finished 387 iteration
-[LightGBM] [Info] Iteration:388, ../data/higgs.test's auc: 0.843649
-[LightGBM] [Info] 373.344734 seconds elapsed, finished 388 iteration
-[LightGBM] [Info] Iteration:389, ../data/higgs.test's auc: 0.843651
-[LightGBM] [Info] 373.711443 seconds elapsed, finished 389 iteration
-[LightGBM] [Info] Iteration:390, ../data/higgs.test's auc: 0.843667
-[LightGBM] [Info] 374.263660 seconds elapsed, finished 390 iteration
-[LightGBM] [Info] Iteration:391, ../data/higgs.test's auc: 0.843669
-[LightGBM] [Info] 374.563385 seconds elapsed, finished 391 iteration
-[LightGBM] [Info] Iteration:392, ../data/higgs.test's auc: 0.843693
-[LightGBM] [Info] 375.103779 seconds elapsed, finished 392 iteration
-[LightGBM] [Info] Iteration:393, ../data/higgs.test's auc: 0.843726
-[LightGBM] [Info] 375.618683 seconds elapsed, finished 393 iteration
-[LightGBM] [Info] Iteration:394, ../data/higgs.test's auc: 0.843752
-[LightGBM] [Info] 376.255748 seconds elapsed, finished 394 iteration
-[LightGBM] [Info] Iteration:395, ../data/higgs.test's auc: 0.843755
-[LightGBM] [Info] 376.541866 seconds elapsed, finished 395 iteration
-[LightGBM] [Info] Iteration:396, ../data/higgs.test's auc: 0.843786
-[LightGBM] [Info] 377.273164 seconds elapsed, finished 396 iteration
-[LightGBM] [Info] Iteration:397, ../data/higgs.test's auc: 0.843792
-[LightGBM] [Info] 377.669412 seconds elapsed, finished 397 iteration
-[LightGBM] [Info] Iteration:398, ../data/higgs.test's auc: 0.843818
-[LightGBM] [Info] 378.547672 seconds elapsed, finished 398 iteration
-[LightGBM] [Info] Iteration:399, ../data/higgs.test's auc: 0.843823
-[LightGBM] [Info] 378.899060 seconds elapsed, finished 399 iteration
-[LightGBM] [Info] Iteration:400, ../data/higgs.test's auc: 0.843832
-[LightGBM] [Info] 379.212022 seconds elapsed, finished 400 iteration
-[LightGBM] [Info] Iteration:401, ../data/higgs.test's auc: 0.843835
-[LightGBM] [Info] 379.465420 seconds elapsed, finished 401 iteration
-[LightGBM] [Info] Iteration:402, ../data/higgs.test's auc: 0.843849
-[LightGBM] [Info] 379.903432 seconds elapsed, finished 402 iteration
-[LightGBM] [Info] Iteration:403, ../data/higgs.test's auc: 0.843853
-[LightGBM] [Info] 380.164811 seconds elapsed, finished 403 iteration
-[LightGBM] [Info] Iteration:404, ../data/higgs.test's auc: 0.843868
-[LightGBM] [Info] 380.538561 seconds elapsed, finished 404 iteration
-[LightGBM] [Info] Iteration:405, ../data/higgs.test's auc: 0.843873
-[LightGBM] [Info] 380.872004 seconds elapsed, finished 405 iteration
-[LightGBM] [Info] Iteration:406, ../data/higgs.test's auc: 0.843919
-[LightGBM] [Info] 381.704761 seconds elapsed, finished 406 iteration
-[LightGBM] [Info] Iteration:407, ../data/higgs.test's auc: 0.843952
-[LightGBM] [Info] 382.559049 seconds elapsed, finished 407 iteration
-[LightGBM] [Info] Iteration:408, ../data/higgs.test's auc: 0.843969
-[LightGBM] [Info] 383.078864 seconds elapsed, finished 408 iteration
-[LightGBM] [Info] Iteration:409, ../data/higgs.test's auc: 0.843971
-[LightGBM] [Info] 383.369820 seconds elapsed, finished 409 iteration
-[LightGBM] [Info] Iteration:410, ../data/higgs.test's auc: 0.843974
-[LightGBM] [Info] 383.687983 seconds elapsed, finished 410 iteration
-[LightGBM] [Info] Iteration:411, ../data/higgs.test's auc: 0.843977
-[LightGBM] [Info] 383.959455 seconds elapsed, finished 411 iteration
-[LightGBM] [Info] Iteration:412, ../data/higgs.test's auc: 0.843977
-[LightGBM] [Info] 384.223496 seconds elapsed, finished 412 iteration
-[LightGBM] [Info] Iteration:413, ../data/higgs.test's auc: 0.843979
-[LightGBM] [Info] 384.487861 seconds elapsed, finished 413 iteration
-[LightGBM] [Info] Iteration:414, ../data/higgs.test's auc: 0.843980
-[LightGBM] [Info] 384.960676 seconds elapsed, finished 414 iteration
-[LightGBM] [Info] Iteration:415, ../data/higgs.test's auc: 0.843985
-[LightGBM] [Info] 385.232062 seconds elapsed, finished 415 iteration
-[LightGBM] [Info] Iteration:416, ../data/higgs.test's auc: 0.843985
-[LightGBM] [Info] 385.524963 seconds elapsed, finished 416 iteration
-[LightGBM] [Info] Iteration:417, ../data/higgs.test's auc: 0.843988
-[LightGBM] [Info] 385.760023 seconds elapsed, finished 417 iteration
-[LightGBM] [Info] Iteration:418, ../data/higgs.test's auc: 0.843987
-[LightGBM] [Info] 386.016888 seconds elapsed, finished 418 iteration
-[LightGBM] [Info] Iteration:419, ../data/higgs.test's auc: 0.843997
-[LightGBM] [Info] 386.431358 seconds elapsed, finished 419 iteration
-[LightGBM] [Info] Iteration:420, ../data/higgs.test's auc: 0.844002
-[LightGBM] [Info] 386.766333 seconds elapsed, finished 420 iteration
-[LightGBM] [Info] Iteration:421, ../data/higgs.test's auc: 0.844001
-[LightGBM] [Info] 387.043362 seconds elapsed, finished 421 iteration
-[LightGBM] [Info] Iteration:422, ../data/higgs.test's auc: 0.844018
-[LightGBM] [Info] 387.537685 seconds elapsed, finished 422 iteration
-[LightGBM] [Info] Iteration:423, ../data/higgs.test's auc: 0.844020
-[LightGBM] [Info] 387.830070 seconds elapsed, finished 423 iteration
-[LightGBM] [Info] Iteration:424, ../data/higgs.test's auc: 0.844023
-[LightGBM] [Info] 388.092428 seconds elapsed, finished 424 iteration
-[LightGBM] [Info] Iteration:425, ../data/higgs.test's auc: 0.844025
-[LightGBM] [Info] 388.357492 seconds elapsed, finished 425 iteration
-[LightGBM] [Info] Iteration:426, ../data/higgs.test's auc: 0.844083
-[LightGBM] [Info] 389.504126 seconds elapsed, finished 426 iteration
-[LightGBM] [Info] Iteration:427, ../data/higgs.test's auc: 0.844106
-[LightGBM] [Info] 390.247356 seconds elapsed, finished 427 iteration
-[LightGBM] [Info] Iteration:428, ../data/higgs.test's auc: 0.844109
-[LightGBM] [Info] 390.491554 seconds elapsed, finished 428 iteration
-[LightGBM] [Info] Iteration:429, ../data/higgs.test's auc: 0.844137
-[LightGBM] [Info] 391.234750 seconds elapsed, finished 429 iteration
-[LightGBM] [Info] Iteration:430, ../data/higgs.test's auc: 0.844154
-[LightGBM] [Info] 391.808932 seconds elapsed, finished 430 iteration
-[LightGBM] [Info] Iteration:431, ../data/higgs.test's auc: 0.844194
-[LightGBM] [Info] 393.073294 seconds elapsed, finished 431 iteration
-[LightGBM] [Info] Iteration:432, ../data/higgs.test's auc: 0.844213
-[LightGBM] [Info] 393.584876 seconds elapsed, finished 432 iteration
-[LightGBM] [Info] Iteration:433, ../data/higgs.test's auc: 0.844214
-[LightGBM] [Info] 393.946340 seconds elapsed, finished 433 iteration
-[LightGBM] [Info] Iteration:434, ../data/higgs.test's auc: 0.844217
-[LightGBM] [Info] 394.326357 seconds elapsed, finished 434 iteration
-[LightGBM] [Info] Iteration:435, ../data/higgs.test's auc: 0.844228
-[LightGBM] [Info] 394.811174 seconds elapsed, finished 435 iteration
-[LightGBM] [Info] Iteration:436, ../data/higgs.test's auc: 0.844229
-[LightGBM] [Info] 395.169385 seconds elapsed, finished 436 iteration
-[LightGBM] [Info] Iteration:437, ../data/higgs.test's auc: 0.844232
-[LightGBM] [Info] 395.517309 seconds elapsed, finished 437 iteration
-[LightGBM] [Info] Iteration:438, ../data/higgs.test's auc: 0.844235
-[LightGBM] [Info] 395.927074 seconds elapsed, finished 438 iteration
-[LightGBM] [Info] Iteration:439, ../data/higgs.test's auc: 0.844237
-[LightGBM] [Info] 396.196806 seconds elapsed, finished 439 iteration
-[LightGBM] [Info] Iteration:440, ../data/higgs.test's auc: 0.844238
-[LightGBM] [Info] 396.504090 seconds elapsed, finished 440 iteration
-[LightGBM] [Info] Iteration:441, ../data/higgs.test's auc: 0.844242
-[LightGBM] [Info] 396.851253 seconds elapsed, finished 441 iteration
-[LightGBM] [Info] Iteration:442, ../data/higgs.test's auc: 0.844245
-[LightGBM] [Info] 397.304723 seconds elapsed, finished 442 iteration
-[LightGBM] [Info] Iteration:443, ../data/higgs.test's auc: 0.844259
-[LightGBM] [Info] 397.844425 seconds elapsed, finished 443 iteration
-[LightGBM] [Info] Iteration:444, ../data/higgs.test's auc: 0.844260
-[LightGBM] [Info] 398.196406 seconds elapsed, finished 444 iteration
-[LightGBM] [Info] Iteration:445, ../data/higgs.test's auc: 0.844261
-[LightGBM] [Info] 398.576975 seconds elapsed, finished 445 iteration
-[LightGBM] [Info] Iteration:446, ../data/higgs.test's auc: 0.844272
-[LightGBM] [Info] 399.078639 seconds elapsed, finished 446 iteration
-[LightGBM] [Info] Iteration:447, ../data/higgs.test's auc: 0.844273
-[LightGBM] [Info] 399.377719 seconds elapsed, finished 447 iteration
-[LightGBM] [Info] Iteration:448, ../data/higgs.test's auc: 0.844273
-[LightGBM] [Info] 399.778026 seconds elapsed, finished 448 iteration
-[LightGBM] [Info] Iteration:449, ../data/higgs.test's auc: 0.844328
-[LightGBM] [Info] 400.764341 seconds elapsed, finished 449 iteration
-[LightGBM] [Info] Iteration:450, ../data/higgs.test's auc: 0.844349
-[LightGBM] [Info] 401.559336 seconds elapsed, finished 450 iteration
-[LightGBM] [Info] Iteration:451, ../data/higgs.test's auc: 0.844371
-[LightGBM] [Info] 402.390039 seconds elapsed, finished 451 iteration
-[LightGBM] [Info] Iteration:452, ../data/higgs.test's auc: 0.844389
-[LightGBM] [Info] 403.080657 seconds elapsed, finished 452 iteration
-[LightGBM] [Info] Iteration:453, ../data/higgs.test's auc: 0.844392
-[LightGBM] [Info] 403.351344 seconds elapsed, finished 453 iteration
-[LightGBM] [Info] Iteration:454, ../data/higgs.test's auc: 0.844400
-[LightGBM] [Info] 403.687953 seconds elapsed, finished 454 iteration
-[LightGBM] [Info] Iteration:455, ../data/higgs.test's auc: 0.844415
-[LightGBM] [Info] 404.097300 seconds elapsed, finished 455 iteration
-[LightGBM] [Info] Iteration:456, ../data/higgs.test's auc: 0.844419
-[LightGBM] [Info] 404.377076 seconds elapsed, finished 456 iteration
-[LightGBM] [Info] Iteration:457, ../data/higgs.test's auc: 0.844442
-[LightGBM] [Info] 405.164878 seconds elapsed, finished 457 iteration
-[LightGBM] [Info] Iteration:458, ../data/higgs.test's auc: 0.844448
-[LightGBM] [Info] 405.554771 seconds elapsed, finished 458 iteration
-[LightGBM] [Info] Iteration:459, ../data/higgs.test's auc: 0.844483
-[LightGBM] [Info] 406.399954 seconds elapsed, finished 459 iteration
-[LightGBM] [Info] Iteration:460, ../data/higgs.test's auc: 0.844505
-[LightGBM] [Info] 407.023270 seconds elapsed, finished 460 iteration
-[LightGBM] [Info] Iteration:461, ../data/higgs.test's auc: 0.844513
-[LightGBM] [Info] 407.612085 seconds elapsed, finished 461 iteration
-[LightGBM] [Info] Iteration:462, ../data/higgs.test's auc: 0.844522
-[LightGBM] [Info] 408.239745 seconds elapsed, finished 462 iteration
-[LightGBM] [Info] Iteration:463, ../data/higgs.test's auc: 0.844533
-[LightGBM] [Info] 408.714965 seconds elapsed, finished 463 iteration
-[LightGBM] [Info] Iteration:464, ../data/higgs.test's auc: 0.844532
-[LightGBM] [Info] 409.106793 seconds elapsed, finished 464 iteration
-[LightGBM] [Info] Iteration:465, ../data/higgs.test's auc: 0.844548
-[LightGBM] [Info] 409.785447 seconds elapsed, finished 465 iteration
-[LightGBM] [Info] Iteration:466, ../data/higgs.test's auc: 0.844552
-[LightGBM] [Info] 410.177944 seconds elapsed, finished 466 iteration
-[LightGBM] [Info] Iteration:467, ../data/higgs.test's auc: 0.844553
-[LightGBM] [Info] 410.554528 seconds elapsed, finished 467 iteration
-[LightGBM] [Info] Iteration:468, ../data/higgs.test's auc: 0.844578
-[LightGBM] [Info] 411.021958 seconds elapsed, finished 468 iteration
-[LightGBM] [Info] Iteration:469, ../data/higgs.test's auc: 0.844582
-[LightGBM] [Info] 411.442649 seconds elapsed, finished 469 iteration
-[LightGBM] [Info] Iteration:470, ../data/higgs.test's auc: 0.844652
-[LightGBM] [Info] 412.687350 seconds elapsed, finished 470 iteration
-[LightGBM] [Info] Iteration:471, ../data/higgs.test's auc: 0.844656
-[LightGBM] [Info] 412.986401 seconds elapsed, finished 471 iteration
-[LightGBM] [Info] Iteration:472, ../data/higgs.test's auc: 0.844661
-[LightGBM] [Info] 413.357119 seconds elapsed, finished 472 iteration
-[LightGBM] [Info] Iteration:473, ../data/higgs.test's auc: 0.844669
-[LightGBM] [Info] 413.864637 seconds elapsed, finished 473 iteration
-[LightGBM] [Info] Iteration:474, ../data/higgs.test's auc: 0.844681
-[LightGBM] [Info] 414.252613 seconds elapsed, finished 474 iteration
-[LightGBM] [Info] Iteration:475, ../data/higgs.test's auc: 0.844687
-[LightGBM] [Info] 414.654765 seconds elapsed, finished 475 iteration
-[LightGBM] [Info] Iteration:476, ../data/higgs.test's auc: 0.844724
-[LightGBM] [Info] 415.534454 seconds elapsed, finished 476 iteration
-[LightGBM] [Info] Iteration:477, ../data/higgs.test's auc: 0.844732
-[LightGBM] [Info] 415.947778 seconds elapsed, finished 477 iteration
-[LightGBM] [Info] Iteration:478, ../data/higgs.test's auc: 0.844738
-[LightGBM] [Info] 416.335324 seconds elapsed, finished 478 iteration
-[LightGBM] [Info] Iteration:479, ../data/higgs.test's auc: 0.844755
-[LightGBM] [Info] 416.754468 seconds elapsed, finished 479 iteration
-[LightGBM] [Info] Iteration:480, ../data/higgs.test's auc: 0.844824
-[LightGBM] [Info] 418.133982 seconds elapsed, finished 480 iteration
-[LightGBM] [Info] Iteration:481, ../data/higgs.test's auc: 0.844827
-[LightGBM] [Info] 418.459308 seconds elapsed, finished 481 iteration
-[LightGBM] [Info] Iteration:482, ../data/higgs.test's auc: 0.844854
-[LightGBM] [Info] 419.471908 seconds elapsed, finished 482 iteration
-[LightGBM] [Info] Iteration:483, ../data/higgs.test's auc: 0.844858
-[LightGBM] [Info] 420.103473 seconds elapsed, finished 483 iteration
-[LightGBM] [Info] Iteration:484, ../data/higgs.test's auc: 0.844859
-[LightGBM] [Info] 420.534280 seconds elapsed, finished 484 iteration
-[LightGBM] [Info] Iteration:485, ../data/higgs.test's auc: 0.844864
-[LightGBM] [Info] 420.990147 seconds elapsed, finished 485 iteration
-[LightGBM] [Info] Iteration:486, ../data/higgs.test's auc: 0.844867
-[LightGBM] [Info] 421.356954 seconds elapsed, finished 486 iteration
-[LightGBM] [Info] Iteration:487, ../data/higgs.test's auc: 0.844875
-[LightGBM] [Info] 421.779506 seconds elapsed, finished 487 iteration
-[LightGBM] [Info] Iteration:488, ../data/higgs.test's auc: 0.844891
-[LightGBM] [Info] 422.359456 seconds elapsed, finished 488 iteration
-[LightGBM] [Info] Iteration:489, ../data/higgs.test's auc: 0.844961
-[LightGBM] [Info] 423.608309 seconds elapsed, finished 489 iteration
-[LightGBM] [Info] Iteration:490, ../data/higgs.test's auc: 0.844965
-[LightGBM] [Info] 423.886545 seconds elapsed, finished 490 iteration
-[LightGBM] [Info] Iteration:491, ../data/higgs.test's auc: 0.844984
-[LightGBM] [Info] 424.341000 seconds elapsed, finished 491 iteration
-[LightGBM] [Info] Iteration:492, ../data/higgs.test's auc: 0.844984
-[LightGBM] [Info] 424.615597 seconds elapsed, finished 492 iteration
-[LightGBM] [Info] Iteration:493, ../data/higgs.test's auc: 0.845019
-[LightGBM] [Info] 425.868534 seconds elapsed, finished 493 iteration
-[LightGBM] [Info] Iteration:494, ../data/higgs.test's auc: 0.845031
-[LightGBM] [Info] 426.537411 seconds elapsed, finished 494 iteration
-[LightGBM] [Info] Iteration:495, ../data/higgs.test's auc: 0.845042
-[LightGBM] [Info] 427.003983 seconds elapsed, finished 495 iteration
-[LightGBM] [Info] Iteration:496, ../data/higgs.test's auc: 0.845056
-[LightGBM] [Info] 427.586893 seconds elapsed, finished 496 iteration
-[LightGBM] [Info] Iteration:497, ../data/higgs.test's auc: 0.845057
-[LightGBM] [Info] 427.859322 seconds elapsed, finished 497 iteration
-[LightGBM] [Info] Iteration:498, ../data/higgs.test's auc: 0.845089
-[LightGBM] [Info] 428.709775 seconds elapsed, finished 498 iteration
-[LightGBM] [Info] Iteration:499, ../data/higgs.test's auc: 0.845112
-[LightGBM] [Info] 429.408337 seconds elapsed, finished 499 iteration
-[LightGBM] [Info] Iteration:500, ../data/higgs.test's auc: 0.845123
-[LightGBM] [Info] 429.898353 seconds elapsed, finished 500 iteration
-[LightGBM] [Info] Finish train
+[LightGBM] [Info] Finished loading parameters
+[LightGBM] [Info] Finished loading data in 11.913202 seconds
+[LightGBM] [Info] Number of postive: 5564616, number of negative: 4935384
+[LightGBM] [Info] Number of data: 10500000, number of features: 28
+[LightGBM] [Info] Finished initializing training
+[LightGBM] [Info] Started training...
+[LightGBM] [Info] Iteration:1, valid_1 auc : 0.771656
+[LightGBM] [Info] 1.301321 seconds elapsed, finished iteration 1
+[LightGBM] [Info] Iteration:2, valid_1 auc : 0.777666
+[LightGBM] [Info] 2.411844 seconds elapsed, finished iteration 2
+[LightGBM] [Info] Iteration:3, valid_1 auc : 0.781385
+[LightGBM] [Info] 3.761447 seconds elapsed, finished iteration 3
+[LightGBM] [Info] Iteration:4, valid_1 auc : 0.784399
+[LightGBM] [Info] 5.019499 seconds elapsed, finished iteration 4
+[LightGBM] [Info] Iteration:5, valid_1 auc : 0.786633
+[LightGBM] [Info] 6.215156 seconds elapsed, finished iteration 5
+[LightGBM] [Info] Iteration:6, valid_1 auc : 0.788883
+[LightGBM] [Info] 7.387255 seconds elapsed, finished iteration 6
+[LightGBM] [Info] Iteration:7, valid_1 auc : 0.790224
+[LightGBM] [Info] 8.651379 seconds elapsed, finished iteration 7
+[LightGBM] [Info] Iteration:8, valid_1 auc : 0.791680
+[LightGBM] [Info] 9.946683 seconds elapsed, finished iteration 8
+[LightGBM] [Info] Iteration:9, valid_1 auc : 0.792940
+[LightGBM] [Info] 11.280135 seconds elapsed, finished iteration 9
+[LightGBM] [Info] Iteration:10, valid_1 auc : 0.794302
+[LightGBM] [Info] 12.699980 seconds elapsed, finished iteration 10
+[LightGBM] [Info] Iteration:11, valid_1 auc : 0.795701
+[LightGBM] [Info] 14.110653 seconds elapsed, finished iteration 11
+[LightGBM] [Info] Iteration:12, valid_1 auc : 0.796898
+[LightGBM] [Info] 15.500692 seconds elapsed, finished iteration 12
+[LightGBM] [Info] Iteration:13, valid_1 auc : 0.798135
+[LightGBM] [Info] 16.905660 seconds elapsed, finished iteration 13
+[LightGBM] [Info] Iteration:14, valid_1 auc : 0.799171
+[LightGBM] [Info] 18.148631 seconds elapsed, finished iteration 14
+[LightGBM] [Info] Iteration:15, valid_1 auc : 0.800308
+[LightGBM] [Info] 19.358434 seconds elapsed, finished iteration 15
+[LightGBM] [Info] Iteration:16, valid_1 auc : 0.801219
+[LightGBM] [Info] 20.705321 seconds elapsed, finished iteration 16
+[LightGBM] [Info] Iteration:17, valid_1 auc : 0.802816
+[LightGBM] [Info] 22.035831 seconds elapsed, finished iteration 17
+[LightGBM] [Info] Iteration:18, valid_1 auc : 0.803732
+[LightGBM] [Info] 23.484084 seconds elapsed, finished iteration 18
+[LightGBM] [Info] Iteration:19, valid_1 auc : 0.804608
+[LightGBM] [Info] 25.041843 seconds elapsed, finished iteration 19
+[LightGBM] [Info] Iteration:20, valid_1 auc : 0.805416
+[LightGBM] [Info] 26.620415 seconds elapsed, finished iteration 20
+[LightGBM] [Info] Iteration:21, valid_1 auc : 0.806432
+[LightGBM] [Info] 28.085419 seconds elapsed, finished iteration 21
+[LightGBM] [Info] Iteration:22, valid_1 auc : 0.807222
+[LightGBM] [Info] 29.499979 seconds elapsed, finished iteration 22
+[LightGBM] [Info] Iteration:23, valid_1 auc : 0.808160
+[LightGBM] [Info] 30.949460 seconds elapsed, finished iteration 23
+[LightGBM] [Info] Iteration:24, valid_1 auc : 0.808962
+[LightGBM] [Info] 32.479130 seconds elapsed, finished iteration 24
+[LightGBM] [Info] Iteration:25, valid_1 auc : 0.809853
+[LightGBM] [Info] 33.841724 seconds elapsed, finished iteration 25
+[LightGBM] [Info] Iteration:26, valid_1 auc : 0.810609
+[LightGBM] [Info] 35.348055 seconds elapsed, finished iteration 26
+[LightGBM] [Info] Iteration:27, valid_1 auc : 0.811270
+[LightGBM] [Info] 36.802734 seconds elapsed, finished iteration 27
+[LightGBM] [Info] Iteration:28, valid_1 auc : 0.811978
+[LightGBM] [Info] 38.405835 seconds elapsed, finished iteration 28
+[LightGBM] [Info] Iteration:29, valid_1 auc : 0.812574
+[LightGBM] [Info] 40.059030 seconds elapsed, finished iteration 29
+[LightGBM] [Info] Iteration:30, valid_1 auc : 0.813192
+[LightGBM] [Info] 41.568424 seconds elapsed, finished iteration 30
+[LightGBM] [Info] Iteration:31, valid_1 auc : 0.813699
+[LightGBM] [Info] 43.029243 seconds elapsed, finished iteration 31
+[LightGBM] [Info] Iteration:32, valid_1 auc : 0.814186
+[LightGBM] [Info] 44.426611 seconds elapsed, finished iteration 32
+[LightGBM] [Info] Iteration:33, valid_1 auc : 0.814738
+[LightGBM] [Info] 45.939605 seconds elapsed, finished iteration 33
+[LightGBM] [Info] Iteration:34, valid_1 auc : 0.815286
+[LightGBM] [Info] 47.358833 seconds elapsed, finished iteration 34
+[LightGBM] [Info] Iteration:35, valid_1 auc : 0.815746
+[LightGBM] [Info] 48.710374 seconds elapsed, finished iteration 35
+[LightGBM] [Info] Iteration:36, valid_1 auc : 0.816252
+[LightGBM] [Info] 50.037581 seconds elapsed, finished iteration 36
+[LightGBM] [Info] Iteration:37, valid_1 auc : 0.816662
+[LightGBM] [Info] 51.508180 seconds elapsed, finished iteration 37
+[LightGBM] [Info] Iteration:38, valid_1 auc : 0.817108
+[LightGBM] [Info] 52.938186 seconds elapsed, finished iteration 38
+[LightGBM] [Info] Iteration:39, valid_1 auc : 0.817520
+[LightGBM] [Info] 54.303098 seconds elapsed, finished iteration 39
+[LightGBM] [Info] Iteration:40, valid_1 auc : 0.817966
+[LightGBM] [Info] 55.740950 seconds elapsed, finished iteration 40
+[LightGBM] [Info] Iteration:41, valid_1 auc : 0.818383
+[LightGBM] [Info] 57.286923 seconds elapsed, finished iteration 41
+[LightGBM] [Info] Iteration:42, valid_1 auc : 0.818774
+[LightGBM] [Info] 58.780319 seconds elapsed, finished iteration 42
+[LightGBM] [Info] Iteration:43, valid_1 auc : 0.819164
+[LightGBM] [Info] 60.248979 seconds elapsed, finished iteration 43
+[LightGBM] [Info] Iteration:44, valid_1 auc : 0.819508
+[LightGBM] [Info] 61.639825 seconds elapsed, finished iteration 44
+[LightGBM] [Info] Iteration:45, valid_1 auc : 0.819837
+[LightGBM] [Info] 63.043416 seconds elapsed, finished iteration 45
+[LightGBM] [Info] Iteration:46, valid_1 auc : 0.820184
+[LightGBM] [Info] 64.520452 seconds elapsed, finished iteration 46
+[LightGBM] [Info] Iteration:47, valid_1 auc : 0.820556
+[LightGBM] [Info] 65.966054 seconds elapsed, finished iteration 47
+[LightGBM] [Info] Iteration:48, valid_1 auc : 0.820897
+[LightGBM] [Info] 67.421967 seconds elapsed, finished iteration 48
+[LightGBM] [Info] Iteration:49, valid_1 auc : 0.821282
+[LightGBM] [Info] 68.731120 seconds elapsed, finished iteration 49
+[LightGBM] [Info] Iteration:50, valid_1 auc : 0.821600
+[LightGBM] [Info] 70.251556 seconds elapsed, finished iteration 50
+[LightGBM] [Info] Iteration:51, valid_1 auc : 0.821941
+[LightGBM] [Info] 71.594211 seconds elapsed, finished iteration 51
+[LightGBM] [Info] Iteration:52, valid_1 auc : 0.822226
+[LightGBM] [Info] 72.930129 seconds elapsed, finished iteration 52
+[LightGBM] [Info] Iteration:53, valid_1 auc : 0.822502
+[LightGBM] [Info] 74.334351 seconds elapsed, finished iteration 53
+[LightGBM] [Info] Iteration:54, valid_1 auc : 0.822807
+[LightGBM] [Info] 75.738781 seconds elapsed, finished iteration 54
+[LightGBM] [Info] Iteration:55, valid_1 auc : 0.823105
+[LightGBM] [Info] 77.226567 seconds elapsed, finished iteration 55
+[LightGBM] [Info] Iteration:56, valid_1 auc : 0.823357
+[LightGBM] [Info] 78.612537 seconds elapsed, finished iteration 56
+[LightGBM] [Info] Iteration:57, valid_1 auc : 0.823578
+[LightGBM] [Info] 79.879853 seconds elapsed, finished iteration 57
+[LightGBM] [Info] Iteration:58, valid_1 auc : 0.823890
+[LightGBM] [Info] 81.154448 seconds elapsed, finished iteration 58
+[LightGBM] [Info] Iteration:59, valid_1 auc : 0.824176
+[LightGBM] [Info] 82.441288 seconds elapsed, finished iteration 59
+[LightGBM] [Info] Iteration:60, valid_1 auc : 0.824417
+[LightGBM] [Info] 83.581916 seconds elapsed, finished iteration 60
+[LightGBM] [Info] Iteration:61, valid_1 auc : 0.824678
+[LightGBM] [Info] 84.852250 seconds elapsed, finished iteration 61
+[LightGBM] [Info] Iteration:62, valid_1 auc : 0.824884
+[LightGBM] [Info] 86.106549 seconds elapsed, finished iteration 62
+[LightGBM] [Info] Iteration:63, valid_1 auc : 0.825119
+[LightGBM] [Info] 87.312730 seconds elapsed, finished iteration 63
+[LightGBM] [Info] Iteration:64, valid_1 auc : 0.825332
+[LightGBM] [Info] 88.482727 seconds elapsed, finished iteration 64
+[LightGBM] [Info] Iteration:65, valid_1 auc : 0.825564
+[LightGBM] [Info] 89.736526 seconds elapsed, finished iteration 65
+[LightGBM] [Info] Iteration:66, valid_1 auc : 0.825821
+[LightGBM] [Info] 90.999865 seconds elapsed, finished iteration 66
+[LightGBM] [Info] Iteration:67, valid_1 auc : 0.826021
+[LightGBM] [Info] 92.178713 seconds elapsed, finished iteration 67
+[LightGBM] [Info] Iteration:68, valid_1 auc : 0.826249
+[LightGBM] [Info] 93.341218 seconds elapsed, finished iteration 68
+[LightGBM] [Info] Iteration:69, valid_1 auc : 0.826460
+[LightGBM] [Info] 94.613858 seconds elapsed, finished iteration 69
+[LightGBM] [Info] Iteration:70, valid_1 auc : 0.826673
+[LightGBM] [Info] 95.999307 seconds elapsed, finished iteration 70
+[LightGBM] [Info] Iteration:71, valid_1 auc : 0.826898
+[LightGBM] [Info] 97.237165 seconds elapsed, finished iteration 71
+[LightGBM] [Info] Iteration:72, valid_1 auc : 0.827109
+[LightGBM] [Info] 98.426994 seconds elapsed, finished iteration 72
+[LightGBM] [Info] Iteration:73, valid_1 auc : 0.827283
+[LightGBM] [Info] 99.603929 seconds elapsed, finished iteration 73
+[LightGBM] [Info] Iteration:74, valid_1 auc : 0.827543
+[LightGBM] [Info] 100.877183 seconds elapsed, finished iteration 74
+[LightGBM] [Info] Iteration:75, valid_1 auc : 0.827746
+[LightGBM] [Info] 102.187051 seconds elapsed, finished iteration 75
+[LightGBM] [Info] Iteration:76, valid_1 auc : 0.827888
+[LightGBM] [Info] 103.452007 seconds elapsed, finished iteration 76
+[LightGBM] [Info] Iteration:77, valid_1 auc : 0.828076
+[LightGBM] [Info] 104.635554 seconds elapsed, finished iteration 77
+[LightGBM] [Info] Iteration:78, valid_1 auc : 0.828315
+[LightGBM] [Info] 105.912804 seconds elapsed, finished iteration 78
+[LightGBM] [Info] Iteration:79, valid_1 auc : 0.828469
+[LightGBM] [Info] 107.075681 seconds elapsed, finished iteration 79
+[LightGBM] [Info] Iteration:80, valid_1 auc : 0.828653
+[LightGBM] [Info] 108.275395 seconds elapsed, finished iteration 80
+[LightGBM] [Info] Iteration:81, valid_1 auc : 0.828825
+[LightGBM] [Info] 109.567689 seconds elapsed, finished iteration 81
+[LightGBM] [Info] Iteration:82, valid_1 auc : 0.829020
+[LightGBM] [Info] 110.785780 seconds elapsed, finished iteration 82
+[LightGBM] [Info] Iteration:83, valid_1 auc : 0.829173
+[LightGBM] [Info] 112.085994 seconds elapsed, finished iteration 83
+[LightGBM] [Info] Iteration:84, valid_1 auc : 0.829317
+[LightGBM] [Info] 113.376507 seconds elapsed, finished iteration 84
+[LightGBM] [Info] Iteration:85, valid_1 auc : 0.829466
+[LightGBM] [Info] 114.566737 seconds elapsed, finished iteration 85
+[LightGBM] [Info] Iteration:86, valid_1 auc : 0.829617
+[LightGBM] [Info] 115.778693 seconds elapsed, finished iteration 86
+[LightGBM] [Info] Iteration:87, valid_1 auc : 0.829770
+[LightGBM] [Info] 117.029730 seconds elapsed, finished iteration 87
+[LightGBM] [Info] Iteration:88, valid_1 auc : 0.829906
+[LightGBM] [Info] 118.236310 seconds elapsed, finished iteration 88
+[LightGBM] [Info] Iteration:89, valid_1 auc : 0.830048
+[LightGBM] [Info] 119.550242 seconds elapsed, finished iteration 89
+[LightGBM] [Info] Iteration:90, valid_1 auc : 0.830173
+[LightGBM] [Info] 120.832250 seconds elapsed, finished iteration 90
+[LightGBM] [Info] Iteration:91, valid_1 auc : 0.830301
+[LightGBM] [Info] 122.128594 seconds elapsed, finished iteration 91
+[LightGBM] [Info] Iteration:92, valid_1 auc : 0.830463
+[LightGBM] [Info] 123.432582 seconds elapsed, finished iteration 92
+[LightGBM] [Info] Iteration:93, valid_1 auc : 0.830668
+[LightGBM] [Info] 124.648611 seconds elapsed, finished iteration 93
+[LightGBM] [Info] Iteration:94, valid_1 auc : 0.830782
+[LightGBM] [Info] 125.969603 seconds elapsed, finished iteration 94
+[LightGBM] [Info] Iteration:95, valid_1 auc : 0.830951
+[LightGBM] [Info] 127.322055 seconds elapsed, finished iteration 95
+[LightGBM] [Info] Iteration:96, valid_1 auc : 0.831130
+[LightGBM] [Info] 128.575351 seconds elapsed, finished iteration 96
+[LightGBM] [Info] Iteration:97, valid_1 auc : 0.831265
+[LightGBM] [Info] 129.838056 seconds elapsed, finished iteration 97
+[LightGBM] [Info] Iteration:98, valid_1 auc : 0.831401
+[LightGBM] [Info] 131.163159 seconds elapsed, finished iteration 98
+[LightGBM] [Info] Iteration:99, valid_1 auc : 0.831551
+[LightGBM] [Info] 132.422792 seconds elapsed, finished iteration 99
+[LightGBM] [Info] Iteration:100, valid_1 auc : 0.831705
+[LightGBM] [Info] 133.786030 seconds elapsed, finished iteration 100
+[LightGBM] [Info] Iteration:101, valid_1 auc : 0.831828
+[LightGBM] [Info] 134.933883 seconds elapsed, finished iteration 101
+[LightGBM] [Info] Iteration:102, valid_1 auc : 0.831940
+[LightGBM] [Info] 135.949368 seconds elapsed, finished iteration 102
+[LightGBM] [Info] Iteration:103, valid_1 auc : 0.832049
+[LightGBM] [Info] 137.059096 seconds elapsed, finished iteration 103
+[LightGBM] [Info] Iteration:104, valid_1 auc : 0.832156
+[LightGBM] [Info] 138.660021 seconds elapsed, finished iteration 104
+[LightGBM] [Info] Iteration:105, valid_1 auc : 0.832311
+[LightGBM] [Info] 140.020752 seconds elapsed, finished iteration 105
+[LightGBM] [Info] Iteration:106, valid_1 auc : 0.832425
+[LightGBM] [Info] 141.459075 seconds elapsed, finished iteration 106
+[LightGBM] [Info] Iteration:107, valid_1 auc : 0.832571
+[LightGBM] [Info] 142.810674 seconds elapsed, finished iteration 107
+[LightGBM] [Info] Iteration:108, valid_1 auc : 0.832712
+[LightGBM] [Info] 144.083083 seconds elapsed, finished iteration 108
+[LightGBM] [Info] Iteration:109, valid_1 auc : 0.832796
+[LightGBM] [Info] 145.241998 seconds elapsed, finished iteration 109
+[LightGBM] [Info] Iteration:110, valid_1 auc : 0.832894
+[LightGBM] [Info] 146.364122 seconds elapsed, finished iteration 110
+[LightGBM] [Info] Iteration:111, valid_1 auc : 0.833038
+[LightGBM] [Info] 147.581965 seconds elapsed, finished iteration 111
+[LightGBM] [Info] Iteration:112, valid_1 auc : 0.833208
+[LightGBM] [Info] 148.768915 seconds elapsed, finished iteration 112
+[LightGBM] [Info] Iteration:113, valid_1 auc : 0.833315
+[LightGBM] [Info] 150.045973 seconds elapsed, finished iteration 113
+[LightGBM] [Info] Iteration:114, valid_1 auc : 0.833400
+[LightGBM] [Info] 151.137940 seconds elapsed, finished iteration 114
+[LightGBM] [Info] Iteration:115, valid_1 auc : 0.833518
+[LightGBM] [Info] 152.305524 seconds elapsed, finished iteration 115
+[LightGBM] [Info] Iteration:116, valid_1 auc : 0.833660
+[LightGBM] [Info] 153.599103 seconds elapsed, finished iteration 116
+[LightGBM] [Info] Iteration:117, valid_1 auc : 0.833790
+[LightGBM] [Info] 154.817964 seconds elapsed, finished iteration 117
+[LightGBM] [Info] Iteration:118, valid_1 auc : 0.833943
+[LightGBM] [Info] 156.183745 seconds elapsed, finished iteration 118
+[LightGBM] [Info] Iteration:119, valid_1 auc : 0.834027
+[LightGBM] [Info] 157.331434 seconds elapsed, finished iteration 119
+[LightGBM] [Info] Iteration:120, valid_1 auc : 0.834108
+[LightGBM] [Info] 158.478553 seconds elapsed, finished iteration 120
+[LightGBM] [Info] Iteration:121, valid_1 auc : 0.834219
+[LightGBM] [Info] 159.745043 seconds elapsed, finished iteration 121
+[LightGBM] [Info] Iteration:122, valid_1 auc : 0.834307
+[LightGBM] [Info] 160.476660 seconds elapsed, finished iteration 122
+[LightGBM] [Info] Iteration:123, valid_1 auc : 0.834468
+[LightGBM] [Info] 161.765559 seconds elapsed, finished iteration 123
+[LightGBM] [Info] Iteration:124, valid_1 auc : 0.834546
+[LightGBM] [Info] 162.918812 seconds elapsed, finished iteration 124
+[LightGBM] [Info] Iteration:125, valid_1 auc : 0.834648
+[LightGBM] [Info] 164.131249 seconds elapsed, finished iteration 125
+[LightGBM] [Info] Iteration:126, valid_1 auc : 0.834773
+[LightGBM] [Info] 165.185420 seconds elapsed, finished iteration 126
+[LightGBM] [Info] Iteration:127, valid_1 auc : 0.834897
+[LightGBM] [Info] 166.360324 seconds elapsed, finished iteration 127
+[LightGBM] [Info] Iteration:128, valid_1 auc : 0.834976
+[LightGBM] [Info] 167.454470 seconds elapsed, finished iteration 128
+[LightGBM] [Info] Iteration:129, valid_1 auc : 0.835068
+[LightGBM] [Info] 168.540933 seconds elapsed, finished iteration 129
+[LightGBM] [Info] Iteration:130, valid_1 auc : 0.835143
+[LightGBM] [Info] 169.728799 seconds elapsed, finished iteration 130
+[LightGBM] [Info] Iteration:131, valid_1 auc : 0.835264
+[LightGBM] [Info] 170.845416 seconds elapsed, finished iteration 131
+[LightGBM] [Info] Iteration:132, valid_1 auc : 0.835348
+[LightGBM] [Info] 171.591924 seconds elapsed, finished iteration 132
+[LightGBM] [Info] Iteration:133, valid_1 auc : 0.835447
+[LightGBM] [Info] 172.587524 seconds elapsed, finished iteration 133
+[LightGBM] [Info] Iteration:134, valid_1 auc : 0.835519
+[LightGBM] [Info] 173.458014 seconds elapsed, finished iteration 134
+[LightGBM] [Info] Iteration:135, valid_1 auc : 0.835580
+[LightGBM] [Info] 174.340897 seconds elapsed, finished iteration 135
+[LightGBM] [Info] Iteration:136, valid_1 auc : 0.835708
+[LightGBM] [Info] 175.429495 seconds elapsed, finished iteration 136
+[LightGBM] [Info] Iteration:137, valid_1 auc : 0.835796
+[LightGBM] [Info] 176.573909 seconds elapsed, finished iteration 137
+[LightGBM] [Info] Iteration:138, valid_1 auc : 0.835865
+[LightGBM] [Info] 177.764163 seconds elapsed, finished iteration 138
+[LightGBM] [Info] Iteration:139, valid_1 auc : 0.835995
+[LightGBM] [Info] 178.923623 seconds elapsed, finished iteration 139
+[LightGBM] [Info] Iteration:140, valid_1 auc : 0.836067
+[LightGBM] [Info] 179.796195 seconds elapsed, finished iteration 140
+[LightGBM] [Info] Iteration:141, valid_1 auc : 0.836133
+[LightGBM] [Info] 180.607466 seconds elapsed, finished iteration 141
+[LightGBM] [Info] Iteration:142, valid_1 auc : 0.836205
+[LightGBM] [Info] 181.531247 seconds elapsed, finished iteration 142
+[LightGBM] [Info] Iteration:143, valid_1 auc : 0.836307
+[LightGBM] [Info] 182.491016 seconds elapsed, finished iteration 143
+[LightGBM] [Info] Iteration:144, valid_1 auc : 0.836418
+[LightGBM] [Info] 183.568344 seconds elapsed, finished iteration 144
+[LightGBM] [Info] Iteration:145, valid_1 auc : 0.836487
+[LightGBM] [Info] 184.494394 seconds elapsed, finished iteration 145
+[LightGBM] [Info] Iteration:146, valid_1 auc : 0.836528
+[LightGBM] [Info] 185.102073 seconds elapsed, finished iteration 146
+[LightGBM] [Info] Iteration:147, valid_1 auc : 0.836624
+[LightGBM] [Info] 185.933740 seconds elapsed, finished iteration 147
+[LightGBM] [Info] Iteration:148, valid_1 auc : 0.836695
+[LightGBM] [Info] 186.664377 seconds elapsed, finished iteration 148
+[LightGBM] [Info] Iteration:149, valid_1 auc : 0.836724
+[LightGBM] [Info] 187.240811 seconds elapsed, finished iteration 149
+[LightGBM] [Info] Iteration:150, valid_1 auc : 0.836799
+[LightGBM] [Info] 188.186446 seconds elapsed, finished iteration 150
+[LightGBM] [Info] Iteration:151, valid_1 auc : 0.836865
+[LightGBM] [Info] 188.967913 seconds elapsed, finished iteration 151
+[LightGBM] [Info] Iteration:152, valid_1 auc : 0.836933
+[LightGBM] [Info] 189.568196 seconds elapsed, finished iteration 152
+[LightGBM] [Info] Iteration:153, valid_1 auc : 0.837024
+[LightGBM] [Info] 190.434496 seconds elapsed, finished iteration 153
+[LightGBM] [Info] Iteration:154, valid_1 auc : 0.837108
+[LightGBM] [Info] 191.403633 seconds elapsed, finished iteration 154
+[LightGBM] [Info] Iteration:155, valid_1 auc : 0.837192
+[LightGBM] [Info] 192.204983 seconds elapsed, finished iteration 155
+[LightGBM] [Info] Iteration:156, valid_1 auc : 0.837254
+[LightGBM] [Info] 193.170471 seconds elapsed, finished iteration 156
+[LightGBM] [Info] Iteration:157, valid_1 auc : 0.837324
+[LightGBM] [Info] 194.041974 seconds elapsed, finished iteration 157
+[LightGBM] [Info] Iteration:158, valid_1 auc : 0.837372
+[LightGBM] [Info] 194.835083 seconds elapsed, finished iteration 158
+[LightGBM] [Info] Iteration:159, valid_1 auc : 0.837432
+[LightGBM] [Info] 195.685001 seconds elapsed, finished iteration 159
+[LightGBM] [Info] Iteration:160, valid_1 auc : 0.837483
+[LightGBM] [Info] 196.308812 seconds elapsed, finished iteration 160
+[LightGBM] [Info] Iteration:161, valid_1 auc : 0.837553
+[LightGBM] [Info] 197.055503 seconds elapsed, finished iteration 161
+[LightGBM] [Info] Iteration:162, valid_1 auc : 0.837604
+[LightGBM] [Info] 197.809217 seconds elapsed, finished iteration 162
+[LightGBM] [Info] Iteration:163, valid_1 auc : 0.837629
+[LightGBM] [Info] 198.241109 seconds elapsed, finished iteration 163
+[LightGBM] [Info] Iteration:164, valid_1 auc : 0.837687
+[LightGBM] [Info] 199.419292 seconds elapsed, finished iteration 164
+[LightGBM] [Info] Iteration:165, valid_1 auc : 0.837751
+[LightGBM] [Info] 200.307963 seconds elapsed, finished iteration 165
+[LightGBM] [Info] Iteration:166, valid_1 auc : 0.837815
+[LightGBM] [Info] 201.076008 seconds elapsed, finished iteration 166
+[LightGBM] [Info] Iteration:167, valid_1 auc : 0.837879
+[LightGBM] [Info] 201.905083 seconds elapsed, finished iteration 167
+[LightGBM] [Info] Iteration:168, valid_1 auc : 0.837924
+[LightGBM] [Info] 202.709561 seconds elapsed, finished iteration 168
+[LightGBM] [Info] Iteration:169, valid_1 auc : 0.837967
+[LightGBM] [Info] 203.170941 seconds elapsed, finished iteration 169
+[LightGBM] [Info] Iteration:170, valid_1 auc : 0.838012
+[LightGBM] [Info] 203.666800 seconds elapsed, finished iteration 170
+[LightGBM] [Info] Iteration:171, valid_1 auc : 0.838060
+[LightGBM] [Info] 204.469384 seconds elapsed, finished iteration 171
+[LightGBM] [Info] Iteration:172, valid_1 auc : 0.838097
+[LightGBM] [Info] 205.355586 seconds elapsed, finished iteration 172
+[LightGBM] [Info] Iteration:173, valid_1 auc : 0.838137
+[LightGBM] [Info] 205.886334 seconds elapsed, finished iteration 173
+[LightGBM] [Info] Iteration:174, valid_1 auc : 0.838178
+[LightGBM] [Info] 206.783425 seconds elapsed, finished iteration 174
+[LightGBM] [Info] Iteration:175, valid_1 auc : 0.838202
+[LightGBM] [Info] 207.146652 seconds elapsed, finished iteration 175
+[LightGBM] [Info] Iteration:176, valid_1 auc : 0.838280
+[LightGBM] [Info] 208.240133 seconds elapsed, finished iteration 176
+[LightGBM] [Info] Iteration:177, valid_1 auc : 0.838329
+[LightGBM] [Info] 208.948280 seconds elapsed, finished iteration 177
+[LightGBM] [Info] Iteration:178, valid_1 auc : 0.838396
+[LightGBM] [Info] 209.930587 seconds elapsed, finished iteration 178
+[LightGBM] [Info] Iteration:179, valid_1 auc : 0.838440
+[LightGBM] [Info] 210.616549 seconds elapsed, finished iteration 179
+[LightGBM] [Info] Iteration:180, valid_1 auc : 0.838476
+[LightGBM] [Info] 211.273112 seconds elapsed, finished iteration 180
+[LightGBM] [Info] Iteration:181, valid_1 auc : 0.838486
+[LightGBM] [Info] 211.584963 seconds elapsed, finished iteration 181
+[LightGBM] [Info] Iteration:182, valid_1 auc : 0.838531
+[LightGBM] [Info] 212.383528 seconds elapsed, finished iteration 182
+[LightGBM] [Info] Iteration:183, valid_1 auc : 0.838603
+[LightGBM] [Info] 213.453440 seconds elapsed, finished iteration 183
+[LightGBM] [Info] Iteration:184, valid_1 auc : 0.838625
+[LightGBM] [Info] 213.926013 seconds elapsed, finished iteration 184
+[LightGBM] [Info] Iteration:185, valid_1 auc : 0.838668
+[LightGBM] [Info] 214.712237 seconds elapsed, finished iteration 185
+[LightGBM] [Info] Iteration:186, valid_1 auc : 0.838759
+[LightGBM] [Info] 215.834293 seconds elapsed, finished iteration 186
+[LightGBM] [Info] Iteration:187, valid_1 auc : 0.838803
+[LightGBM] [Info] 216.494696 seconds elapsed, finished iteration 187
+[LightGBM] [Info] Iteration:188, valid_1 auc : 0.838841
+[LightGBM] [Info] 217.267326 seconds elapsed, finished iteration 188
+[LightGBM] [Info] Iteration:189, valid_1 auc : 0.838909
+[LightGBM] [Info] 218.096730 seconds elapsed, finished iteration 189
+[LightGBM] [Info] Iteration:190, valid_1 auc : 0.838955
+[LightGBM] [Info] 218.921030 seconds elapsed, finished iteration 190
+[LightGBM] [Info] Iteration:191, valid_1 auc : 0.838984
+[LightGBM] [Info] 219.329666 seconds elapsed, finished iteration 191
+[LightGBM] [Info] Iteration:192, valid_1 auc : 0.839021
+[LightGBM] [Info] 219.894623 seconds elapsed, finished iteration 192
+[LightGBM] [Info] Iteration:193, valid_1 auc : 0.839059
+[LightGBM] [Info] 220.607617 seconds elapsed, finished iteration 193
+[LightGBM] [Info] Iteration:194, valid_1 auc : 0.839099
+[LightGBM] [Info] 221.340950 seconds elapsed, finished iteration 194
+[LightGBM] [Info] Iteration:195, valid_1 auc : 0.839139
+[LightGBM] [Info] 222.073191 seconds elapsed, finished iteration 195
+[LightGBM] [Info] Iteration:196, valid_1 auc : 0.839153
+[LightGBM] [Info] 222.400171 seconds elapsed, finished iteration 196
+[LightGBM] [Info] Iteration:197, valid_1 auc : 0.839188
+[LightGBM] [Info] 223.003731 seconds elapsed, finished iteration 197
+[LightGBM] [Info] Iteration:198, valid_1 auc : 0.839199
+[LightGBM] [Info] 223.380789 seconds elapsed, finished iteration 198
+[LightGBM] [Info] Iteration:199, valid_1 auc : 0.839215
+[LightGBM] [Info] 223.686022 seconds elapsed, finished iteration 199
+[LightGBM] [Info] Iteration:200, valid_1 auc : 0.839243
+[LightGBM] [Info] 224.089983 seconds elapsed, finished iteration 200
+[LightGBM] [Info] Iteration:201, valid_1 auc : 0.839265
+[LightGBM] [Info] 224.535334 seconds elapsed, finished iteration 201
+[LightGBM] [Info] Iteration:202, valid_1 auc : 0.839332
+[LightGBM] [Info] 225.615529 seconds elapsed, finished iteration 202
+[LightGBM] [Info] Iteration:203, valid_1 auc : 0.839366
+[LightGBM] [Info] 226.225379 seconds elapsed, finished iteration 203
+[LightGBM] [Info] Iteration:204, valid_1 auc : 0.839379
+[LightGBM] [Info] 226.506742 seconds elapsed, finished iteration 204
+[LightGBM] [Info] Iteration:205, valid_1 auc : 0.839389
+[LightGBM] [Info] 226.830763 seconds elapsed, finished iteration 205
+[LightGBM] [Info] Iteration:206, valid_1 auc : 0.839399
+[LightGBM] [Info] 227.137497 seconds elapsed, finished iteration 206
+[LightGBM] [Info] Iteration:207, valid_1 auc : 0.839417
+[LightGBM] [Info] 227.462567 seconds elapsed, finished iteration 207
+[LightGBM] [Info] Iteration:208, valid_1 auc : 0.839483
+[LightGBM] [Info] 228.366435 seconds elapsed, finished iteration 208
+[LightGBM] [Info] Iteration:209, valid_1 auc : 0.839489
+[LightGBM] [Info] 228.641204 seconds elapsed, finished iteration 209
+[LightGBM] [Info] Iteration:210, valid_1 auc : 0.839558
+[LightGBM] [Info] 229.650711 seconds elapsed, finished iteration 210
+[LightGBM] [Info] Iteration:211, valid_1 auc : 0.839590
+[LightGBM] [Info] 230.294589 seconds elapsed, finished iteration 211
+[LightGBM] [Info] Iteration:212, valid_1 auc : 0.839615
+[LightGBM] [Info] 230.763391 seconds elapsed, finished iteration 212
+[LightGBM] [Info] Iteration:213, valid_1 auc : 0.839666
+[LightGBM] [Info] 231.556580 seconds elapsed, finished iteration 213
+[LightGBM] [Info] Iteration:214, valid_1 auc : 0.839714
+[LightGBM] [Info] 232.093141 seconds elapsed, finished iteration 214
+[LightGBM] [Info] Iteration:215, valid_1 auc : 0.839730
+[LightGBM] [Info] 232.391589 seconds elapsed, finished iteration 215
+[LightGBM] [Info] Iteration:216, valid_1 auc : 0.839748
+[LightGBM] [Info] 232.860238 seconds elapsed, finished iteration 216
+[LightGBM] [Info] Iteration:217, valid_1 auc : 0.839804
+[LightGBM] [Info] 233.834122 seconds elapsed, finished iteration 217
+[LightGBM] [Info] Iteration:218, valid_1 auc : 0.839810
+[LightGBM] [Info] 234.131240 seconds elapsed, finished iteration 218
+[LightGBM] [Info] Iteration:219, valid_1 auc : 0.839861
+[LightGBM] [Info] 235.019689 seconds elapsed, finished iteration 219
+[LightGBM] [Info] Iteration:220, valid_1 auc : 0.839904
+[LightGBM] [Info] 235.950988 seconds elapsed, finished iteration 220
+[LightGBM] [Info] Iteration:221, valid_1 auc : 0.839932
+[LightGBM] [Info] 236.553693 seconds elapsed, finished iteration 221
+[LightGBM] [Info] Iteration:222, valid_1 auc : 0.839943
+[LightGBM] [Info] 236.871747 seconds elapsed, finished iteration 222
+[LightGBM] [Info] Iteration:223, valid_1 auc : 0.839957
+[LightGBM] [Info] 237.169425 seconds elapsed, finished iteration 223
+[LightGBM] [Info] Iteration:224, valid_1 auc : 0.840032
+[LightGBM] [Info] 238.075038 seconds elapsed, finished iteration 224
+[LightGBM] [Info] Iteration:225, valid_1 auc : 0.840043
+[LightGBM] [Info] 238.351961 seconds elapsed, finished iteration 225
+[LightGBM] [Info] Iteration:226, valid_1 auc : 0.840064
+[LightGBM] [Info] 238.885887 seconds elapsed, finished iteration 226
+[LightGBM] [Info] Iteration:227, valid_1 auc : 0.840080
+[LightGBM] [Info] 239.401181 seconds elapsed, finished iteration 227
+[LightGBM] [Info] Iteration:228, valid_1 auc : 0.840087
+[LightGBM] [Info] 239.675748 seconds elapsed, finished iteration 228
+[LightGBM] [Info] Iteration:229, valid_1 auc : 0.840099
+[LightGBM] [Info] 239.940207 seconds elapsed, finished iteration 229
+[LightGBM] [Info] Iteration:230, valid_1 auc : 0.840107
+[LightGBM] [Info] 240.209112 seconds elapsed, finished iteration 230
+[LightGBM] [Info] Iteration:231, valid_1 auc : 0.840113
+[LightGBM] [Info] 240.445655 seconds elapsed, finished iteration 231
+[LightGBM] [Info] Iteration:232, valid_1 auc : 0.840116
+[LightGBM] [Info] 240.677640 seconds elapsed, finished iteration 232
+[LightGBM] [Info] Iteration:233, valid_1 auc : 0.840131
+[LightGBM] [Info] 241.080397 seconds elapsed, finished iteration 233
+[LightGBM] [Info] Iteration:234, valid_1 auc : 0.840187
+[LightGBM] [Info] 241.843125 seconds elapsed, finished iteration 234
+[LightGBM] [Info] Iteration:235, valid_1 auc : 0.840200
+[LightGBM] [Info] 242.213829 seconds elapsed, finished iteration 235
+[LightGBM] [Info] Iteration:236, valid_1 auc : 0.840214
+[LightGBM] [Info] 242.532988 seconds elapsed, finished iteration 236
+[LightGBM] [Info] Iteration:237, valid_1 auc : 0.840240
+[LightGBM] [Info] 243.134507 seconds elapsed, finished iteration 237
+[LightGBM] [Info] Iteration:238, valid_1 auc : 0.840255
+[LightGBM] [Info] 243.492513 seconds elapsed, finished iteration 238
+[LightGBM] [Info] Iteration:239, valid_1 auc : 0.840279
+[LightGBM] [Info] 243.972934 seconds elapsed, finished iteration 239
+[LightGBM] [Info] Iteration:240, valid_1 auc : 0.840289
+[LightGBM] [Info] 244.275561 seconds elapsed, finished iteration 240
+[LightGBM] [Info] Iteration:241, valid_1 auc : 0.840300
+[LightGBM] [Info] 244.625887 seconds elapsed, finished iteration 241
+[LightGBM] [Info] Iteration:242, valid_1 auc : 0.840333
+[LightGBM] [Info] 245.328436 seconds elapsed, finished iteration 242
+[LightGBM] [Info] Iteration:243, valid_1 auc : 0.840341
+[LightGBM] [Info] 245.657181 seconds elapsed, finished iteration 243
+[LightGBM] [Info] Iteration:244, valid_1 auc : 0.840389
+[LightGBM] [Info] 246.317656 seconds elapsed, finished iteration 244
+[LightGBM] [Info] Iteration:245, valid_1 auc : 0.840398
+[LightGBM] [Info] 246.661464 seconds elapsed, finished iteration 245
+[LightGBM] [Info] Iteration:246, valid_1 auc : 0.840403
+[LightGBM] [Info] 246.913432 seconds elapsed, finished iteration 246
+[LightGBM] [Info] Iteration:247, valid_1 auc : 0.840417
+[LightGBM] [Info] 247.237551 seconds elapsed, finished iteration 247
+[LightGBM] [Info] Iteration:248, valid_1 auc : 0.840424
+[LightGBM] [Info] 247.509096 seconds elapsed, finished iteration 248
+[LightGBM] [Info] Iteration:249, valid_1 auc : 0.840456
+[LightGBM] [Info] 248.203095 seconds elapsed, finished iteration 249
+[LightGBM] [Info] Iteration:250, valid_1 auc : 0.840472
+[LightGBM] [Info] 248.597922 seconds elapsed, finished iteration 250
+[LightGBM] [Info] Iteration:251, valid_1 auc : 0.840489
+[LightGBM] [Info] 248.965665 seconds elapsed, finished iteration 251
+[LightGBM] [Info] Iteration:252, valid_1 auc : 0.840537
+[LightGBM] [Info] 249.987788 seconds elapsed, finished iteration 252
+[LightGBM] [Info] Iteration:253, valid_1 auc : 0.840545
+[LightGBM] [Info] 250.310662 seconds elapsed, finished iteration 253
+[LightGBM] [Info] Iteration:254, valid_1 auc : 0.840563
+[LightGBM] [Info] 250.594131 seconds elapsed, finished iteration 254
+[LightGBM] [Info] Iteration:255, valid_1 auc : 0.840597
+[LightGBM] [Info] 251.333412 seconds elapsed, finished iteration 255
+[LightGBM] [Info] Iteration:256, valid_1 auc : 0.840609
+[LightGBM] [Info] 251.721268 seconds elapsed, finished iteration 256
+[LightGBM] [Info] Iteration:257, valid_1 auc : 0.840626
+[LightGBM] [Info] 252.133744 seconds elapsed, finished iteration 257
+[LightGBM] [Info] Iteration:258, valid_1 auc : 0.840654
+[LightGBM] [Info] 252.878922 seconds elapsed, finished iteration 258
+[LightGBM] [Info] Iteration:259, valid_1 auc : 0.840711
+[LightGBM] [Info] 253.995300 seconds elapsed, finished iteration 259
+[LightGBM] [Info] Iteration:260, valid_1 auc : 0.840758
+[LightGBM] [Info] 254.784141 seconds elapsed, finished iteration 260
+[LightGBM] [Info] Iteration:261, valid_1 auc : 0.840765
+[LightGBM] [Info] 255.049594 seconds elapsed, finished iteration 261
+[LightGBM] [Info] Iteration:262, valid_1 auc : 0.840770
+[LightGBM] [Info] 255.330878 seconds elapsed, finished iteration 262
+[LightGBM] [Info] Iteration:263, valid_1 auc : 0.840782
+[LightGBM] [Info] 255.804208 seconds elapsed, finished iteration 263
+[LightGBM] [Info] Iteration:264, valid_1 auc : 0.840817
+[LightGBM] [Info] 256.333795 seconds elapsed, finished iteration 264
+[LightGBM] [Info] Iteration:265, valid_1 auc : 0.840821
+[LightGBM] [Info] 256.619983 seconds elapsed, finished iteration 265
+[LightGBM] [Info] Iteration:266, valid_1 auc : 0.840826
+[LightGBM] [Info] 256.969123 seconds elapsed, finished iteration 266
+[LightGBM] [Info] Iteration:267, valid_1 auc : 0.840843
+[LightGBM] [Info] 257.400899 seconds elapsed, finished iteration 267
+[LightGBM] [Info] Iteration:268, valid_1 auc : 0.840855
+[LightGBM] [Info] 257.676346 seconds elapsed, finished iteration 268
+[LightGBM] [Info] Iteration:269, valid_1 auc : 0.840860
+[LightGBM] [Info] 257.957395 seconds elapsed, finished iteration 269
+[LightGBM] [Info] Iteration:270, valid_1 auc : 0.840900
+[LightGBM] [Info] 258.745125 seconds elapsed, finished iteration 270
+[LightGBM] [Info] Iteration:271, valid_1 auc : 0.840942
+[LightGBM] [Info] 259.498068 seconds elapsed, finished iteration 271
+[LightGBM] [Info] Iteration:272, valid_1 auc : 0.840975
+[LightGBM] [Info] 260.211830 seconds elapsed, finished iteration 272
+[LightGBM] [Info] Iteration:273, valid_1 auc : 0.840991
+[LightGBM] [Info] 260.484629 seconds elapsed, finished iteration 273
+[LightGBM] [Info] Iteration:274, valid_1 auc : 0.840995
+[LightGBM] [Info] 260.759312 seconds elapsed, finished iteration 274
+[LightGBM] [Info] Iteration:275, valid_1 auc : 0.841019
+[LightGBM] [Info] 261.206478 seconds elapsed, finished iteration 275
+[LightGBM] [Info] Iteration:276, valid_1 auc : 0.841038
+[LightGBM] [Info] 261.591867 seconds elapsed, finished iteration 276
+[LightGBM] [Info] Iteration:277, valid_1 auc : 0.841043
+[LightGBM] [Info] 261.840046 seconds elapsed, finished iteration 277
+[LightGBM] [Info] Iteration:278, valid_1 auc : 0.841091
+[LightGBM] [Info] 262.668782 seconds elapsed, finished iteration 278
+[LightGBM] [Info] Iteration:279, valid_1 auc : 0.841125
+[LightGBM] [Info] 263.379264 seconds elapsed, finished iteration 279
+[LightGBM] [Info] Iteration:280, valid_1 auc : 0.841174
+[LightGBM] [Info] 264.565451 seconds elapsed, finished iteration 280
+[LightGBM] [Info] Iteration:281, valid_1 auc : 0.841199
+[LightGBM] [Info] 265.036680 seconds elapsed, finished iteration 281
+[LightGBM] [Info] Iteration:282, valid_1 auc : 0.841250
+[LightGBM] [Info] 266.086064 seconds elapsed, finished iteration 282
+[LightGBM] [Info] Iteration:283, valid_1 auc : 0.841277
+[LightGBM] [Info] 266.989878 seconds elapsed, finished iteration 283
+[LightGBM] [Info] Iteration:284, valid_1 auc : 0.841290
+[LightGBM] [Info] 267.301552 seconds elapsed, finished iteration 284
+[LightGBM] [Info] Iteration:285, valid_1 auc : 0.841293
+[LightGBM] [Info] 267.625747 seconds elapsed, finished iteration 285
+[LightGBM] [Info] Iteration:286, valid_1 auc : 0.841315
+[LightGBM] [Info] 268.168212 seconds elapsed, finished iteration 286
+[LightGBM] [Info] Iteration:287, valid_1 auc : 0.841327
+[LightGBM] [Info] 268.422281 seconds elapsed, finished iteration 287
+[LightGBM] [Info] Iteration:288, valid_1 auc : 0.841332
+[LightGBM] [Info] 268.729737 seconds elapsed, finished iteration 288
+[LightGBM] [Info] Iteration:289, valid_1 auc : 0.841349
+[LightGBM] [Info] 269.141892 seconds elapsed, finished iteration 289
+[LightGBM] [Info] Iteration:290, valid_1 auc : 0.841487
+[LightGBM] [Info] 270.377920 seconds elapsed, finished iteration 290
+[LightGBM] [Info] Iteration:291, valid_1 auc : 0.841520
+[LightGBM] [Info] 271.032607 seconds elapsed, finished iteration 291
+[LightGBM] [Info] Iteration:292, valid_1 auc : 0.841553
+[LightGBM] [Info] 271.902534 seconds elapsed, finished iteration 292
+[LightGBM] [Info] Iteration:293, valid_1 auc : 0.841667
+[LightGBM] [Info] 273.138848 seconds elapsed, finished iteration 293
+[LightGBM] [Info] Iteration:294, valid_1 auc : 0.841696
+[LightGBM] [Info] 273.905379 seconds elapsed, finished iteration 294
+[LightGBM] [Info] Iteration:295, valid_1 auc : 0.841713
+[LightGBM] [Info] 274.386548 seconds elapsed, finished iteration 295
+[LightGBM] [Info] Iteration:296, valid_1 auc : 0.841735
+[LightGBM] [Info] 275.414662 seconds elapsed, finished iteration 296
+[LightGBM] [Info] Iteration:297, valid_1 auc : 0.841752
+[LightGBM] [Info] 275.884436 seconds elapsed, finished iteration 297
+[LightGBM] [Info] Iteration:298, valid_1 auc : 0.841756
+[LightGBM] [Info] 276.161626 seconds elapsed, finished iteration 298
+[LightGBM] [Info] Iteration:299, valid_1 auc : 0.841801
+[LightGBM] [Info] 277.184519 seconds elapsed, finished iteration 299
+[LightGBM] [Info] Iteration:300, valid_1 auc : 0.841839
+[LightGBM] [Info] 277.903268 seconds elapsed, finished iteration 300
+[LightGBM] [Info] Iteration:301, valid_1 auc : 0.841855
+[LightGBM] [Info] 278.594369 seconds elapsed, finished iteration 301
+[LightGBM] [Info] Iteration:302, valid_1 auc : 0.841885
+[LightGBM] [Info] 279.050307 seconds elapsed, finished iteration 302
+[LightGBM] [Info] Iteration:303, valid_1 auc : 0.841907
+[LightGBM] [Info] 279.564356 seconds elapsed, finished iteration 303
+[LightGBM] [Info] Iteration:304, valid_1 auc : 0.841917
+[LightGBM] [Info] 279.829045 seconds elapsed, finished iteration 304
+[LightGBM] [Info] Iteration:305, valid_1 auc : 0.841946
+[LightGBM] [Info] 280.503128 seconds elapsed, finished iteration 305
+[LightGBM] [Info] Iteration:306, valid_1 auc : 0.841955
+[LightGBM] [Info] 280.778268 seconds elapsed, finished iteration 306
+[LightGBM] [Info] Iteration:307, valid_1 auc : 0.841967
+[LightGBM] [Info] 281.044310 seconds elapsed, finished iteration 307
+[LightGBM] [Info] Iteration:308, valid_1 auc : 0.841975
+[LightGBM] [Info] 281.423074 seconds elapsed, finished iteration 308
+[LightGBM] [Info] Iteration:309, valid_1 auc : 0.841984
+[LightGBM] [Info] 281.736174 seconds elapsed, finished iteration 309
+[LightGBM] [Info] Iteration:310, valid_1 auc : 0.841996
+[LightGBM] [Info] 282.169646 seconds elapsed, finished iteration 310
+[LightGBM] [Info] Iteration:311, valid_1 auc : 0.842010
+[LightGBM] [Info] 282.490556 seconds elapsed, finished iteration 311
+[LightGBM] [Info] Iteration:312, valid_1 auc : 0.842014
+[LightGBM] [Info] 282.749332 seconds elapsed, finished iteration 312
+[LightGBM] [Info] Iteration:313, valid_1 auc : 0.842019
+[LightGBM] [Info] 282.976130 seconds elapsed, finished iteration 313
+[LightGBM] [Info] Iteration:314, valid_1 auc : 0.842023
+[LightGBM] [Info] 283.212372 seconds elapsed, finished iteration 314
+[LightGBM] [Info] Iteration:315, valid_1 auc : 0.842060
+[LightGBM] [Info] 284.219892 seconds elapsed, finished iteration 315
+[LightGBM] [Info] Iteration:316, valid_1 auc : 0.842087
+[LightGBM] [Info] 284.666278 seconds elapsed, finished iteration 316
+[LightGBM] [Info] Iteration:317, valid_1 auc : 0.842100
+[LightGBM] [Info] 284.986405 seconds elapsed, finished iteration 317
+[LightGBM] [Info] Iteration:318, valid_1 auc : 0.842137
+[LightGBM] [Info] 285.937568 seconds elapsed, finished iteration 318
+[LightGBM] [Info] Iteration:319, valid_1 auc : 0.842155
+[LightGBM] [Info] 286.410622 seconds elapsed, finished iteration 319
+[LightGBM] [Info] Iteration:320, valid_1 auc : 0.842160
+[LightGBM] [Info] 286.655948 seconds elapsed, finished iteration 320
+[LightGBM] [Info] Iteration:321, valid_1 auc : 0.842191
+[LightGBM] [Info] 287.364696 seconds elapsed, finished iteration 321
+[LightGBM] [Info] Iteration:322, valid_1 auc : 0.842223
+[LightGBM] [Info] 288.400835 seconds elapsed, finished iteration 322
+[LightGBM] [Info] Iteration:323, valid_1 auc : 0.842227
+[LightGBM] [Info] 288.649213 seconds elapsed, finished iteration 323
+[LightGBM] [Info] Iteration:324, valid_1 auc : 0.842344
+[LightGBM] [Info] 289.756767 seconds elapsed, finished iteration 324
+[LightGBM] [Info] Iteration:325, valid_1 auc : 0.842388
+[LightGBM] [Info] 290.641904 seconds elapsed, finished iteration 325
+[LightGBM] [Info] Iteration:326, valid_1 auc : 0.842396
+[LightGBM] [Info] 290.891836 seconds elapsed, finished iteration 326
+[LightGBM] [Info] Iteration:327, valid_1 auc : 0.842401
+[LightGBM] [Info] 291.141260 seconds elapsed, finished iteration 327
+[LightGBM] [Info] Iteration:328, valid_1 auc : 0.842425
+[LightGBM] [Info] 291.755831 seconds elapsed, finished iteration 328
+[LightGBM] [Info] Iteration:329, valid_1 auc : 0.842427
+[LightGBM] [Info] 292.003295 seconds elapsed, finished iteration 329
+[LightGBM] [Info] Iteration:330, valid_1 auc : 0.842440
+[LightGBM] [Info] 292.318911 seconds elapsed, finished iteration 330
+[LightGBM] [Info] Iteration:331, valid_1 auc : 0.842452
+[LightGBM] [Info] 292.835284 seconds elapsed, finished iteration 331
+[LightGBM] [Info] Iteration:332, valid_1 auc : 0.842456
+[LightGBM] [Info] 293.099700 seconds elapsed, finished iteration 332
+[LightGBM] [Info] Iteration:333, valid_1 auc : 0.842458
+[LightGBM] [Info] 293.354095 seconds elapsed, finished iteration 333
+[LightGBM] [Info] Iteration:334, valid_1 auc : 0.842466
+[LightGBM] [Info] 293.654393 seconds elapsed, finished iteration 334
+[LightGBM] [Info] Iteration:335, valid_1 auc : 0.842467
+[LightGBM] [Info] 293.914102 seconds elapsed, finished iteration 335
+[LightGBM] [Info] Iteration:336, valid_1 auc : 0.842557
+[LightGBM] [Info] 295.081006 seconds elapsed, finished iteration 336
+[LightGBM] [Info] Iteration:337, valid_1 auc : 0.842562
+[LightGBM] [Info] 295.324579 seconds elapsed, finished iteration 337
+[LightGBM] [Info] Iteration:338, valid_1 auc : 0.842589
+[LightGBM] [Info] 295.988588 seconds elapsed, finished iteration 338
+[LightGBM] [Info] Iteration:339, valid_1 auc : 0.842625
+[LightGBM] [Info] 296.906783 seconds elapsed, finished iteration 339
+[LightGBM] [Info] Iteration:340, valid_1 auc : 0.842656
+[LightGBM] [Info] 297.591609 seconds elapsed, finished iteration 340
+[LightGBM] [Info] Iteration:341, valid_1 auc : 0.842689
+[LightGBM] [Info] 298.418403 seconds elapsed, finished iteration 341
+[LightGBM] [Info] Iteration:342, valid_1 auc : 0.842706
+[LightGBM] [Info] 298.943282 seconds elapsed, finished iteration 342
+[LightGBM] [Info] Iteration:343, valid_1 auc : 0.842717
+[LightGBM] [Info] 299.234503 seconds elapsed, finished iteration 343
+[LightGBM] [Info] Iteration:344, valid_1 auc : 0.842726
+[LightGBM] [Info] 299.549050 seconds elapsed, finished iteration 344
+[LightGBM] [Info] Iteration:345, valid_1 auc : 0.842734
+[LightGBM] [Info] 299.814015 seconds elapsed, finished iteration 345
+[LightGBM] [Info] Iteration:346, valid_1 auc : 0.842770
+[LightGBM] [Info] 300.597919 seconds elapsed, finished iteration 346
+[LightGBM] [Info] Iteration:347, valid_1 auc : 0.842804
+[LightGBM] [Info] 301.626316 seconds elapsed, finished iteration 347
+[LightGBM] [Info] Iteration:348, valid_1 auc : 0.842829
+[LightGBM] [Info] 302.199190 seconds elapsed, finished iteration 348
+[LightGBM] [Info] Iteration:349, valid_1 auc : 0.842833
+[LightGBM] [Info] 302.411107 seconds elapsed, finished iteration 349
+[LightGBM] [Info] Iteration:350, valid_1 auc : 0.842837
+[LightGBM] [Info] 302.675629 seconds elapsed, finished iteration 350
+[LightGBM] [Info] Iteration:351, valid_1 auc : 0.842874
+[LightGBM] [Info] 303.379068 seconds elapsed, finished iteration 351
+[LightGBM] [Info] Iteration:352, valid_1 auc : 0.842929
+[LightGBM] [Info] 304.286154 seconds elapsed, finished iteration 352
+[LightGBM] [Info] Iteration:353, valid_1 auc : 0.842953
+[LightGBM] [Info] 304.992071 seconds elapsed, finished iteration 353
+[LightGBM] [Info] Iteration:354, valid_1 auc : 0.842965
+[LightGBM] [Info] 305.305253 seconds elapsed, finished iteration 354
+[LightGBM] [Info] Iteration:355, valid_1 auc : 0.842973
+[LightGBM] [Info] 305.628463 seconds elapsed, finished iteration 355
+[LightGBM] [Info] Iteration:356, valid_1 auc : 0.843027
+[LightGBM] [Info] 306.409349 seconds elapsed, finished iteration 356
+[LightGBM] [Info] Iteration:357, valid_1 auc : 0.843034
+[LightGBM] [Info] 306.622270 seconds elapsed, finished iteration 357
+[LightGBM] [Info] Iteration:358, valid_1 auc : 0.843067
+[LightGBM] [Info] 307.320172 seconds elapsed, finished iteration 358
+[LightGBM] [Info] Iteration:359, valid_1 auc : 0.843067
+[LightGBM] [Info] 307.537549 seconds elapsed, finished iteration 359
+[LightGBM] [Info] Iteration:360, valid_1 auc : 0.843070
+[LightGBM] [Info] 307.810784 seconds elapsed, finished iteration 360
+[LightGBM] [Info] Iteration:361, valid_1 auc : 0.843100
+[LightGBM] [Info] 308.565516 seconds elapsed, finished iteration 361
+[LightGBM] [Info] Iteration:362, valid_1 auc : 0.843131
+[LightGBM] [Info] 309.120985 seconds elapsed, finished iteration 362
+[LightGBM] [Info] Iteration:363, valid_1 auc : 0.843142
+[LightGBM] [Info] 309.492533 seconds elapsed, finished iteration 363
+[LightGBM] [Info] Iteration:364, valid_1 auc : 0.843150
+[LightGBM] [Info] 309.793321 seconds elapsed, finished iteration 364
+[LightGBM] [Info] Iteration:365, valid_1 auc : 0.843154
+[LightGBM] [Info] 310.027998 seconds elapsed, finished iteration 365
+[LightGBM] [Info] Iteration:366, valid_1 auc : 0.843197
+[LightGBM] [Info] 310.798228 seconds elapsed, finished iteration 366
+[LightGBM] [Info] Iteration:367, valid_1 auc : 0.843245
+[LightGBM] [Info] 311.689294 seconds elapsed, finished iteration 367
+[LightGBM] [Info] Iteration:368, valid_1 auc : 0.843245
+[LightGBM] [Info] 311.911802 seconds elapsed, finished iteration 368
+[LightGBM] [Info] Iteration:369, valid_1 auc : 0.843245
+[LightGBM] [Info] 312.169447 seconds elapsed, finished iteration 369
+[LightGBM] [Info] Iteration:370, valid_1 auc : 0.843249
+[LightGBM] [Info] 312.398837 seconds elapsed, finished iteration 370
+[LightGBM] [Info] Iteration:371, valid_1 auc : 0.843319
+[LightGBM] [Info] 313.442559 seconds elapsed, finished iteration 371
+[LightGBM] [Info] Iteration:372, valid_1 auc : 0.843323
+[LightGBM] [Info] 313.667178 seconds elapsed, finished iteration 372
+[LightGBM] [Info] Iteration:373, valid_1 auc : 0.843339
+[LightGBM] [Info] 313.980937 seconds elapsed, finished iteration 373
+[LightGBM] [Info] Iteration:374, valid_1 auc : 0.843362
+[LightGBM] [Info] 314.462197 seconds elapsed, finished iteration 374
+[LightGBM] [Info] Iteration:375, valid_1 auc : 0.843373
+[LightGBM] [Info] 314.880291 seconds elapsed, finished iteration 375
+[LightGBM] [Info] Iteration:376, valid_1 auc : 0.843391
+[LightGBM] [Info] 315.316215 seconds elapsed, finished iteration 376
+[LightGBM] [Info] Iteration:377, valid_1 auc : 0.843447
+[LightGBM] [Info] 316.358804 seconds elapsed, finished iteration 377
+[LightGBM] [Info] Iteration:378, valid_1 auc : 0.843450
+[LightGBM] [Info] 316.562995 seconds elapsed, finished iteration 378
+[LightGBM] [Info] Iteration:379, valid_1 auc : 0.843452
+[LightGBM] [Info] 316.812152 seconds elapsed, finished iteration 379
+[LightGBM] [Info] Iteration:380, valid_1 auc : 0.843465
+[LightGBM] [Info] 317.191725 seconds elapsed, finished iteration 380
+[LightGBM] [Info] Iteration:381, valid_1 auc : 0.843470
+[LightGBM] [Info] 317.502702 seconds elapsed, finished iteration 381
+[LightGBM] [Info] Iteration:382, valid_1 auc : 0.843471
+[LightGBM] [Info] 317.747788 seconds elapsed, finished iteration 382
+[LightGBM] [Info] Iteration:383, valid_1 auc : 0.843478
+[LightGBM] [Info] 318.017298 seconds elapsed, finished iteration 383
+[LightGBM] [Info] Iteration:384, valid_1 auc : 0.843516
+[LightGBM] [Info] 318.775161 seconds elapsed, finished iteration 384
+[LightGBM] [Info] Iteration:385, valid_1 auc : 0.843577
+[LightGBM] [Info] 319.582473 seconds elapsed, finished iteration 385
+[LightGBM] [Info] Iteration:386, valid_1 auc : 0.843588
+[LightGBM] [Info] 319.960789 seconds elapsed, finished iteration 386
+[LightGBM] [Info] Iteration:387, valid_1 auc : 0.843594
+[LightGBM] [Info] 320.255744 seconds elapsed, finished iteration 387
+[LightGBM] [Info] Iteration:388, valid_1 auc : 0.843649
+[LightGBM] [Info] 320.964568 seconds elapsed, finished iteration 388
+[LightGBM] [Info] Iteration:389, valid_1 auc : 0.843651
+[LightGBM] [Info] 321.227178 seconds elapsed, finished iteration 389
+[LightGBM] [Info] Iteration:390, valid_1 auc : 0.843667
+[LightGBM] [Info] 321.677977 seconds elapsed, finished iteration 390
+[LightGBM] [Info] Iteration:391, valid_1 auc : 0.843669
+[LightGBM] [Info] 321.948106 seconds elapsed, finished iteration 391
+[LightGBM] [Info] Iteration:392, valid_1 auc : 0.843693
+[LightGBM] [Info] 322.445303 seconds elapsed, finished iteration 392
+[LightGBM] [Info] Iteration:393, valid_1 auc : 0.843726
+[LightGBM] [Info] 322.913706 seconds elapsed, finished iteration 393
+[LightGBM] [Info] Iteration:394, valid_1 auc : 0.843752
+[LightGBM] [Info] 323.473220 seconds elapsed, finished iteration 394
+[LightGBM] [Info] Iteration:395, valid_1 auc : 0.843755
+[LightGBM] [Info] 323.703498 seconds elapsed, finished iteration 395
+[LightGBM] [Info] Iteration:396, valid_1 auc : 0.843786
+[LightGBM] [Info] 324.325532 seconds elapsed, finished iteration 396
+[LightGBM] [Info] Iteration:397, valid_1 auc : 0.843792
+[LightGBM] [Info] 324.551900 seconds elapsed, finished iteration 397
+[LightGBM] [Info] Iteration:398, valid_1 auc : 0.843818
+[LightGBM] [Info] 325.229046 seconds elapsed, finished iteration 398
+[LightGBM] [Info] Iteration:399, valid_1 auc : 0.843823
+[LightGBM] [Info] 325.500379 seconds elapsed, finished iteration 399
+[LightGBM] [Info] Iteration:400, valid_1 auc : 0.843832
+[LightGBM] [Info] 325.775925 seconds elapsed, finished iteration 400
+[LightGBM] [Info] Iteration:401, valid_1 auc : 0.843835
+[LightGBM] [Info] 325.993550 seconds elapsed, finished iteration 401
+[LightGBM] [Info] Iteration:402, valid_1 auc : 0.843849
+[LightGBM] [Info] 326.342745 seconds elapsed, finished iteration 402
+[LightGBM] [Info] Iteration:403, valid_1 auc : 0.843853
+[LightGBM] [Info] 326.567885 seconds elapsed, finished iteration 403
+[LightGBM] [Info] Iteration:404, valid_1 auc : 0.843868
+[LightGBM] [Info] 326.890562 seconds elapsed, finished iteration 404
+[LightGBM] [Info] Iteration:405, valid_1 auc : 0.843873
+[LightGBM] [Info] 327.138014 seconds elapsed, finished iteration 405
+[LightGBM] [Info] Iteration:406, valid_1 auc : 0.843919
+[LightGBM] [Info] 327.869039 seconds elapsed, finished iteration 406
+[LightGBM] [Info] Iteration:407, valid_1 auc : 0.843952
+[LightGBM] [Info] 328.572709 seconds elapsed, finished iteration 407
+[LightGBM] [Info] Iteration:408, valid_1 auc : 0.843969
+[LightGBM] [Info] 329.010706 seconds elapsed, finished iteration 408
+[LightGBM] [Info] Iteration:409, valid_1 auc : 0.843971
+[LightGBM] [Info] 329.267615 seconds elapsed, finished iteration 409
+[LightGBM] [Info] Iteration:410, valid_1 auc : 0.843974
+[LightGBM] [Info] 329.534175 seconds elapsed, finished iteration 410
+[LightGBM] [Info] Iteration:411, valid_1 auc : 0.843977
+[LightGBM] [Info] 329.763186 seconds elapsed, finished iteration 411
+[LightGBM] [Info] Iteration:412, valid_1 auc : 0.843977
+[LightGBM] [Info] 329.981143 seconds elapsed, finished iteration 412
+[LightGBM] [Info] Iteration:413, valid_1 auc : 0.843979
+[LightGBM] [Info] 330.180147 seconds elapsed, finished iteration 413
+[LightGBM] [Info] Iteration:414, valid_1 auc : 0.843980
+[LightGBM] [Info] 330.448536 seconds elapsed, finished iteration 414
+[LightGBM] [Info] Iteration:415, valid_1 auc : 0.843985
+[LightGBM] [Info] 330.682560 seconds elapsed, finished iteration 415
+[LightGBM] [Info] Iteration:416, valid_1 auc : 0.843985
+[LightGBM] [Info] 330.906719 seconds elapsed, finished iteration 416
+[LightGBM] [Info] Iteration:417, valid_1 auc : 0.843988
+[LightGBM] [Info] 331.115955 seconds elapsed, finished iteration 417
+[LightGBM] [Info] Iteration:418, valid_1 auc : 0.843987
+[LightGBM] [Info] 331.355983 seconds elapsed, finished iteration 418
+[LightGBM] [Info] Iteration:419, valid_1 auc : 0.843997
+[LightGBM] [Info] 331.654552 seconds elapsed, finished iteration 419
+[LightGBM] [Info] Iteration:420, valid_1 auc : 0.844002
+[LightGBM] [Info] 331.908413 seconds elapsed, finished iteration 420
+[LightGBM] [Info] Iteration:421, valid_1 auc : 0.844001
+[LightGBM] [Info] 332.132274 seconds elapsed, finished iteration 421
+[LightGBM] [Info] Iteration:422, valid_1 auc : 0.844018
+[LightGBM] [Info] 332.591765 seconds elapsed, finished iteration 422
+[LightGBM] [Info] Iteration:423, valid_1 auc : 0.844020
+[LightGBM] [Info] 332.831277 seconds elapsed, finished iteration 423
+[LightGBM] [Info] Iteration:424, valid_1 auc : 0.844023
+[LightGBM] [Info] 333.075249 seconds elapsed, finished iteration 424
+[LightGBM] [Info] Iteration:425, valid_1 auc : 0.844025
+[LightGBM] [Info] 333.299236 seconds elapsed, finished iteration 425
+[LightGBM] [Info] Iteration:426, valid_1 auc : 0.844083
+[LightGBM] [Info] 334.307992 seconds elapsed, finished iteration 426
+[LightGBM] [Info] Iteration:427, valid_1 auc : 0.844106
+[LightGBM] [Info] 334.967857 seconds elapsed, finished iteration 427
+[LightGBM] [Info] Iteration:428, valid_1 auc : 0.844109
+[LightGBM] [Info] 335.190158 seconds elapsed, finished iteration 428
+[LightGBM] [Info] Iteration:429, valid_1 auc : 0.844137
+[LightGBM] [Info] 335.922796 seconds elapsed, finished iteration 429
+[LightGBM] [Info] Iteration:430, valid_1 auc : 0.844154
+[LightGBM] [Info] 336.456711 seconds elapsed, finished iteration 430
+[LightGBM] [Info] Iteration:431, valid_1 auc : 0.844194
+[LightGBM] [Info] 337.502616 seconds elapsed, finished iteration 431
+[LightGBM] [Info] Iteration:432, valid_1 auc : 0.844213
+[LightGBM] [Info] 337.984543 seconds elapsed, finished iteration 432
+[LightGBM] [Info] Iteration:433, valid_1 auc : 0.844214
+[LightGBM] [Info] 338.228207 seconds elapsed, finished iteration 433
+[LightGBM] [Info] Iteration:434, valid_1 auc : 0.844217
+[LightGBM] [Info] 338.460165 seconds elapsed, finished iteration 434
+[LightGBM] [Info] Iteration:435, valid_1 auc : 0.844228
+[LightGBM] [Info] 338.810854 seconds elapsed, finished iteration 435
+[LightGBM] [Info] Iteration:436, valid_1 auc : 0.844229
+[LightGBM] [Info] 339.089519 seconds elapsed, finished iteration 436
+[LightGBM] [Info] Iteration:437, valid_1 auc : 0.844232
+[LightGBM] [Info] 339.316548 seconds elapsed, finished iteration 437
+[LightGBM] [Info] Iteration:438, valid_1 auc : 0.844235
+[LightGBM] [Info] 339.603243 seconds elapsed, finished iteration 438
+[LightGBM] [Info] Iteration:439, valid_1 auc : 0.844237
+[LightGBM] [Info] 339.835059 seconds elapsed, finished iteration 439
+[LightGBM] [Info] Iteration:440, valid_1 auc : 0.844238
+[LightGBM] [Info] 340.067677 seconds elapsed, finished iteration 440
+[LightGBM] [Info] Iteration:441, valid_1 auc : 0.844242
+[LightGBM] [Info] 340.284363 seconds elapsed, finished iteration 441
+[LightGBM] [Info] Iteration:442, valid_1 auc : 0.844245
+[LightGBM] [Info] 340.584510 seconds elapsed, finished iteration 442
+[LightGBM] [Info] Iteration:443, valid_1 auc : 0.844259
+[LightGBM] [Info] 340.965359 seconds elapsed, finished iteration 443
+[LightGBM] [Info] Iteration:444, valid_1 auc : 0.844260
+[LightGBM] [Info] 341.223873 seconds elapsed, finished iteration 444
+[LightGBM] [Info] Iteration:445, valid_1 auc : 0.844261
+[LightGBM] [Info] 341.485552 seconds elapsed, finished iteration 445
+[LightGBM] [Info] Iteration:446, valid_1 auc : 0.844272
+[LightGBM] [Info] 341.830536 seconds elapsed, finished iteration 446
+[LightGBM] [Info] Iteration:447, valid_1 auc : 0.844273
+[LightGBM] [Info] 342.100576 seconds elapsed, finished iteration 447
+[LightGBM] [Info] Iteration:448, valid_1 auc : 0.844273
+[LightGBM] [Info] 342.346426 seconds elapsed, finished iteration 448
+[LightGBM] [Info] Iteration:449, valid_1 auc : 0.844328
+[LightGBM] [Info] 343.261780 seconds elapsed, finished iteration 449
+[LightGBM] [Info] Iteration:450, valid_1 auc : 0.844349
+[LightGBM] [Info] 343.922503 seconds elapsed, finished iteration 450
+[LightGBM] [Info] Iteration:451, valid_1 auc : 0.844371
+[LightGBM] [Info] 344.514114 seconds elapsed, finished iteration 451
+[LightGBM] [Info] Iteration:452, valid_1 auc : 0.844389
+[LightGBM] [Info] 345.174008 seconds elapsed, finished iteration 452
+[LightGBM] [Info] Iteration:453, valid_1 auc : 0.844392
+[LightGBM] [Info] 345.407373 seconds elapsed, finished iteration 453
+[LightGBM] [Info] Iteration:454, valid_1 auc : 0.844400
+[LightGBM] [Info] 345.734806 seconds elapsed, finished iteration 454
+[LightGBM] [Info] Iteration:455, valid_1 auc : 0.844415
+[LightGBM] [Info] 346.115629 seconds elapsed, finished iteration 455
+[LightGBM] [Info] Iteration:456, valid_1 auc : 0.844419
+[LightGBM] [Info] 346.391585 seconds elapsed, finished iteration 456
+[LightGBM] [Info] Iteration:457, valid_1 auc : 0.844442
+[LightGBM] [Info] 347.092872 seconds elapsed, finished iteration 457
+[LightGBM] [Info] Iteration:458, valid_1 auc : 0.844448
+[LightGBM] [Info] 347.325977 seconds elapsed, finished iteration 458
+[LightGBM] [Info] Iteration:459, valid_1 auc : 0.844483
+[LightGBM] [Info] 348.083649 seconds elapsed, finished iteration 459
+[LightGBM] [Info] Iteration:460, valid_1 auc : 0.844505
+[LightGBM] [Info] 348.568243 seconds elapsed, finished iteration 460
+[LightGBM] [Info] Iteration:461, valid_1 auc : 0.844513
+[LightGBM] [Info] 349.008845 seconds elapsed, finished iteration 461
+[LightGBM] [Info] Iteration:462, valid_1 auc : 0.844522
+[LightGBM] [Info] 349.463987 seconds elapsed, finished iteration 462
+[LightGBM] [Info] Iteration:463, valid_1 auc : 0.844533
+[LightGBM] [Info] 349.811069 seconds elapsed, finished iteration 463
+[LightGBM] [Info] Iteration:464, valid_1 auc : 0.844532
+[LightGBM] [Info] 350.028478 seconds elapsed, finished iteration 464
+[LightGBM] [Info] Iteration:465, valid_1 auc : 0.844548
+[LightGBM] [Info] 350.496587 seconds elapsed, finished iteration 465
+[LightGBM] [Info] Iteration:466, valid_1 auc : 0.844552
+[LightGBM] [Info] 350.723027 seconds elapsed, finished iteration 466
+[LightGBM] [Info] Iteration:467, valid_1 auc : 0.844553
+[LightGBM] [Info] 350.945865 seconds elapsed, finished iteration 467
+[LightGBM] [Info] Iteration:468, valid_1 auc : 0.844578
+[LightGBM] [Info] 351.305570 seconds elapsed, finished iteration 468
+[LightGBM] [Info] Iteration:469, valid_1 auc : 0.844582
+[LightGBM] [Info] 351.622789 seconds elapsed, finished iteration 469
+[LightGBM] [Info] Iteration:470, valid_1 auc : 0.844652
+[LightGBM] [Info] 352.671138 seconds elapsed, finished iteration 470
+[LightGBM] [Info] Iteration:471, valid_1 auc : 0.844656
+[LightGBM] [Info] 352.895646 seconds elapsed, finished iteration 471
+[LightGBM] [Info] Iteration:472, valid_1 auc : 0.844661
+[LightGBM] [Info] 353.209482 seconds elapsed, finished iteration 472
+[LightGBM] [Info] Iteration:473, valid_1 auc : 0.844669
+[LightGBM] [Info] 353.500420 seconds elapsed, finished iteration 473
+[LightGBM] [Info] Iteration:474, valid_1 auc : 0.844681
+[LightGBM] [Info] 353.807816 seconds elapsed, finished iteration 474
+[LightGBM] [Info] Iteration:475, valid_1 auc : 0.844687
+[LightGBM] [Info] 354.048662 seconds elapsed, finished iteration 475
+[LightGBM] [Info] Iteration:476, valid_1 auc : 0.844724
+[LightGBM] [Info] 354.805863 seconds elapsed, finished iteration 476
+[LightGBM] [Info] Iteration:477, valid_1 auc : 0.844732
+[LightGBM] [Info] 355.113371 seconds elapsed, finished iteration 477
+[LightGBM] [Info] Iteration:478, valid_1 auc : 0.844738
+[LightGBM] [Info] 355.427946 seconds elapsed, finished iteration 478
+[LightGBM] [Info] Iteration:479, valid_1 auc : 0.844755
+[LightGBM] [Info] 355.796082 seconds elapsed, finished iteration 479
+[LightGBM] [Info] Iteration:480, valid_1 auc : 0.844824
+[LightGBM] [Info] 356.873014 seconds elapsed, finished iteration 480
+[LightGBM] [Info] Iteration:481, valid_1 auc : 0.844827
+[LightGBM] [Info] 357.123294 seconds elapsed, finished iteration 481
+[LightGBM] [Info] Iteration:482, valid_1 auc : 0.844854
+[LightGBM] [Info] 357.914902 seconds elapsed, finished iteration 482
+[LightGBM] [Info] Iteration:483, valid_1 auc : 0.844858
+[LightGBM] [Info] 358.334006 seconds elapsed, finished iteration 483
+[LightGBM] [Info] Iteration:484, valid_1 auc : 0.844859
+[LightGBM] [Info] 358.583711 seconds elapsed, finished iteration 484
+[LightGBM] [Info] Iteration:485, valid_1 auc : 0.844864
+[LightGBM] [Info] 358.918748 seconds elapsed, finished iteration 485
+[LightGBM] [Info] Iteration:486, valid_1 auc : 0.844867
+[LightGBM] [Info] 359.160907 seconds elapsed, finished iteration 486
+[LightGBM] [Info] Iteration:487, valid_1 auc : 0.844875
+[LightGBM] [Info] 359.480298 seconds elapsed, finished iteration 487
+[LightGBM] [Info] Iteration:488, valid_1 auc : 0.844891
+[LightGBM] [Info] 359.857158 seconds elapsed, finished iteration 488
+[LightGBM] [Info] Iteration:489, valid_1 auc : 0.844961
+[LightGBM] [Info] 360.863736 seconds elapsed, finished iteration 489
+[LightGBM] [Info] Iteration:490, valid_1 auc : 0.844965
+[LightGBM] [Info] 361.127331 seconds elapsed, finished iteration 490
+[LightGBM] [Info] Iteration:491, valid_1 auc : 0.844984
+[LightGBM] [Info] 361.568914 seconds elapsed, finished iteration 491
+[LightGBM] [Info] Iteration:492, valid_1 auc : 0.844984
+[LightGBM] [Info] 361.801344 seconds elapsed, finished iteration 492
+[LightGBM] [Info] Iteration:493, valid_1 auc : 0.845019
+[LightGBM] [Info] 362.823699 seconds elapsed, finished iteration 493
+[LightGBM] [Info] Iteration:494, valid_1 auc : 0.845031
+[LightGBM] [Info] 363.336117 seconds elapsed, finished iteration 494
+[LightGBM] [Info] Iteration:495, valid_1 auc : 0.845042
+[LightGBM] [Info] 363.780786 seconds elapsed, finished iteration 495
+[LightGBM] [Info] Iteration:496, valid_1 auc : 0.845056
+[LightGBM] [Info] 364.188722 seconds elapsed, finished iteration 496
+[LightGBM] [Info] Iteration:497, valid_1 auc : 0.845057
+[LightGBM] [Info] 364.429074 seconds elapsed, finished iteration 497
+[LightGBM] [Info] Iteration:498, valid_1 auc : 0.845089
+[LightGBM] [Info] 365.136775 seconds elapsed, finished iteration 498
+[LightGBM] [Info] Iteration:499, valid_1 auc : 0.845112
+[LightGBM] [Info] 365.770689 seconds elapsed, finished iteration 499
+[LightGBM] [Info] Iteration:500, valid_1 auc : 0.845123
+[LightGBM] [Info] 366.230277 seconds elapsed, finished iteration 500
+[LightGBM] [Info] Finished training

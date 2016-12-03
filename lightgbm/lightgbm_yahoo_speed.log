@@ -1,688 +1,688 @@
-[LightGBM] [Info] Loading parameters .. finished
-[LightGBM] [Info] Start loading query boundries
-[LightGBM] [Error] Feature 0 only contains one value, will be ignored
-[LightGBM] [Error] Feature 3 only contains one value, will be ignored
-[LightGBM] [Error] Feature 4 only contains one value, will be ignored
-[LightGBM] [Error] Feature 5 only contains one value, will be ignored
-[LightGBM] [Error] Feature 13 only contains one value, will be ignored
-[LightGBM] [Error] Feature 14 only contains one value, will be ignored
-[LightGBM] [Error] Feature 15 only contains one value, will be ignored
-[LightGBM] [Error] Feature 16 only contains one value, will be ignored
-[LightGBM] [Error] Feature 19 only contains one value, will be ignored
-[LightGBM] [Error] Feature 24 only contains one value, will be ignored
-[LightGBM] [Error] Feature 35 only contains one value, will be ignored
-[LightGBM] [Error] Feature 38 only contains one value, will be ignored
-[LightGBM] [Error] Feature 40 only contains one value, will be ignored
-[LightGBM] [Error] Feature 42 only contains one value, will be ignored
-[LightGBM] [Error] Feature 49 only contains one value, will be ignored
-[LightGBM] [Error] Feature 50 only contains one value, will be ignored
-[LightGBM] [Error] Feature 51 only contains one value, will be ignored
-[LightGBM] [Error] Feature 52 only contains one value, will be ignored
-[LightGBM] [Error] Feature 54 only contains one value, will be ignored
-[LightGBM] [Error] Feature 57 only contains one value, will be ignored
-[LightGBM] [Error] Feature 59 only contains one value, will be ignored
-[LightGBM] [Error] Feature 61 only contains one value, will be ignored
-[LightGBM] [Error] Feature 63 only contains one value, will be ignored
-[LightGBM] [Error] Feature 65 only contains one value, will be ignored
-[LightGBM] [Error] Feature 68 only contains one value, will be ignored
-[LightGBM] [Error] Feature 72 only contains one value, will be ignored
-[LightGBM] [Error] Feature 73 only contains one value, will be ignored
-[LightGBM] [Error] Feature 84 only contains one value, will be ignored
-[LightGBM] [Error] Feature 90 only contains one value, will be ignored
-[LightGBM] [Error] Feature 92 only contains one value, will be ignored
-[LightGBM] [Error] Feature 93 only contains one value, will be ignored
-[LightGBM] [Error] Feature 94 only contains one value, will be ignored
-[LightGBM] [Error] Feature 95 only contains one value, will be ignored
-[LightGBM] [Error] Feature 103 only contains one value, will be ignored
-[LightGBM] [Error] Feature 105 only contains one value, will be ignored
-[LightGBM] [Error] Feature 109 only contains one value, will be ignored
-[LightGBM] [Error] Feature 112 only contains one value, will be ignored
-[LightGBM] [Error] Feature 113 only contains one value, will be ignored
-[LightGBM] [Error] Feature 115 only contains one value, will be ignored
-[LightGBM] [Error] Feature 116 only contains one value, will be ignored
-[LightGBM] [Error] Feature 118 only contains one value, will be ignored
-[LightGBM] [Error] Feature 119 only contains one value, will be ignored
-[LightGBM] [Error] Feature 130 only contains one value, will be ignored
-[LightGBM] [Error] Feature 134 only contains one value, will be ignored
-[LightGBM] [Error] Feature 136 only contains one value, will be ignored
-[LightGBM] [Error] Feature 142 only contains one value, will be ignored
-[LightGBM] [Error] Feature 148 only contains one value, will be ignored
-[LightGBM] [Error] Feature 156 only contains one value, will be ignored
-[LightGBM] [Error] Feature 171 only contains one value, will be ignored
-[LightGBM] [Error] Feature 180 only contains one value, will be ignored
-[LightGBM] [Error] Feature 183 only contains one value, will be ignored
-[LightGBM] [Error] Feature 184 only contains one value, will be ignored
-[LightGBM] [Error] Feature 185 only contains one value, will be ignored
-[LightGBM] [Error] Feature 188 only contains one value, will be ignored
-[LightGBM] [Error] Feature 194 only contains one value, will be ignored
-[LightGBM] [Error] Feature 198 only contains one value, will be ignored
-[LightGBM] [Error] Feature 200 only contains one value, will be ignored
-[LightGBM] [Error] Feature 203 only contains one value, will be ignored
-[LightGBM] [Error] Feature 207 only contains one value, will be ignored
-[LightGBM] [Error] Feature 209 only contains one value, will be ignored
-[LightGBM] [Error] Feature 210 only contains one value, will be ignored
-[LightGBM] [Error] Feature 211 only contains one value, will be ignored
-[LightGBM] [Error] Feature 213 only contains one value, will be ignored
-[LightGBM] [Error] Feature 214 only contains one value, will be ignored
-[LightGBM] [Error] Feature 217 only contains one value, will be ignored
-[LightGBM] [Error] Feature 218 only contains one value, will be ignored
-[LightGBM] [Error] Feature 221 only contains one value, will be ignored
-[LightGBM] [Error] Feature 237 only contains one value, will be ignored
-[LightGBM] [Error] Feature 249 only contains one value, will be ignored
-[LightGBM] [Error] Feature 250 only contains one value, will be ignored
-[LightGBM] [Error] Feature 252 only contains one value, will be ignored
-[LightGBM] [Error] Feature 258 only contains one value, will be ignored
-[LightGBM] [Error] Feature 263 only contains one value, will be ignored
-[LightGBM] [Error] Feature 269 only contains one value, will be ignored
-[LightGBM] [Error] Feature 270 only contains one value, will be ignored
-[LightGBM] [Error] Feature 272 only contains one value, will be ignored
-[LightGBM] [Error] Feature 273 only contains one value, will be ignored
-[LightGBM] [Error] Feature 278 only contains one value, will be ignored
-[LightGBM] [Error] Feature 280 only contains one value, will be ignored
-[LightGBM] [Error] Feature 293 only contains one value, will be ignored
-[LightGBM] [Error] Feature 296 only contains one value, will be ignored
-[LightGBM] [Error] Feature 303 only contains one value, will be ignored
-[LightGBM] [Error] Feature 306 only contains one value, will be ignored
-[LightGBM] [Error] Feature 307 only contains one value, will be ignored
-[LightGBM] [Error] Feature 310 only contains one value, will be ignored
-[LightGBM] [Error] Feature 314 only contains one value, will be ignored
-[LightGBM] [Error] Feature 315 only contains one value, will be ignored
-[LightGBM] [Error] Feature 318 only contains one value, will be ignored
-[LightGBM] [Error] Feature 327 only contains one value, will be ignored
-[LightGBM] [Error] Feature 328 only contains one value, will be ignored
-[LightGBM] [Error] Feature 334 only contains one value, will be ignored
-[LightGBM] [Error] Feature 336 only contains one value, will be ignored
-[LightGBM] [Error] Feature 343 only contains one value, will be ignored
-[LightGBM] [Error] Feature 346 only contains one value, will be ignored
-[LightGBM] [Error] Feature 351 only contains one value, will be ignored
-[LightGBM] [Error] Feature 357 only contains one value, will be ignored
-[LightGBM] [Error] Feature 360 only contains one value, will be ignored
-[LightGBM] [Error] Feature 365 only contains one value, will be ignored
-[LightGBM] [Error] Feature 368 only contains one value, will be ignored
-[LightGBM] [Error] Feature 370 only contains one value, will be ignored
-[LightGBM] [Error] Feature 371 only contains one value, will be ignored
-[LightGBM] [Error] Feature 373 only contains one value, will be ignored
-[LightGBM] [Error] Feature 380 only contains one value, will be ignored
-[LightGBM] [Error] Feature 386 only contains one value, will be ignored
-[LightGBM] [Error] Feature 396 only contains one value, will be ignored
-[LightGBM] [Error] Feature 402 only contains one value, will be ignored
-[LightGBM] [Error] Feature 403 only contains one value, will be ignored
-[LightGBM] [Error] Feature 406 only contains one value, will be ignored
-[LightGBM] [Error] Feature 407 only contains one value, will be ignored
-[LightGBM] [Error] Feature 409 only contains one value, will be ignored
-[LightGBM] [Error] Feature 411 only contains one value, will be ignored
-[LightGBM] [Error] Feature 413 only contains one value, will be ignored
-[LightGBM] [Error] Feature 415 only contains one value, will be ignored
-[LightGBM] [Error] Feature 419 only contains one value, will be ignored
-[LightGBM] [Error] Feature 420 only contains one value, will be ignored
-[LightGBM] [Error] Feature 422 only contains one value, will be ignored
-[LightGBM] [Error] Feature 424 only contains one value, will be ignored
-[LightGBM] [Error] Feature 449 only contains one value, will be ignored
-[LightGBM] [Error] Feature 460 only contains one value, will be ignored
-[LightGBM] [Error] Feature 462 only contains one value, will be ignored
-[LightGBM] [Error] Feature 464 only contains one value, will be ignored
-[LightGBM] [Error] Feature 466 only contains one value, will be ignored
-[LightGBM] [Error] Feature 467 only contains one value, will be ignored
-[LightGBM] [Error] Feature 471 only contains one value, will be ignored
-[LightGBM] [Error] Feature 482 only contains one value, will be ignored
-[LightGBM] [Error] Feature 484 only contains one value, will be ignored
-[LightGBM] [Error] Feature 490 only contains one value, will be ignored
-[LightGBM] [Error] Feature 491 only contains one value, will be ignored
-[LightGBM] [Error] Feature 496 only contains one value, will be ignored
-[LightGBM] [Error] Feature 501 only contains one value, will be ignored
-[LightGBM] [Error] Feature 503 only contains one value, will be ignored
-[LightGBM] [Error] Feature 506 only contains one value, will be ignored
-[LightGBM] [Error] Feature 509 only contains one value, will be ignored
-[LightGBM] [Error] Feature 510 only contains one value, will be ignored
-[LightGBM] [Error] Feature 516 only contains one value, will be ignored
-[LightGBM] [Error] Feature 520 only contains one value, will be ignored
-[LightGBM] [Error] Feature 522 only contains one value, will be ignored
-[LightGBM] [Error] Feature 523 only contains one value, will be ignored
-[LightGBM] [Error] Feature 524 only contains one value, will be ignored
-[LightGBM] [Error] Feature 526 only contains one value, will be ignored
-[LightGBM] [Error] Feature 530 only contains one value, will be ignored
-[LightGBM] [Error] Feature 536 only contains one value, will be ignored
-[LightGBM] [Error] Feature 543 only contains one value, will be ignored
-[LightGBM] [Error] Feature 547 only contains one value, will be ignored
-[LightGBM] [Error] Feature 549 only contains one value, will be ignored
-[LightGBM] [Error] Feature 551 only contains one value, will be ignored
-[LightGBM] [Error] Feature 552 only contains one value, will be ignored
-[LightGBM] [Error] Feature 553 only contains one value, will be ignored
-[LightGBM] [Error] Feature 560 only contains one value, will be ignored
-[LightGBM] [Error] Feature 567 only contains one value, will be ignored
-[LightGBM] [Error] Feature 573 only contains one value, will be ignored
-[LightGBM] [Error] Feature 576 only contains one value, will be ignored
-[LightGBM] [Error] Feature 577 only contains one value, will be ignored
-[LightGBM] [Error] Feature 582 only contains one value, will be ignored
-[LightGBM] [Error] Feature 584 only contains one value, will be ignored
-[LightGBM] [Error] Feature 588 only contains one value, will be ignored
-[LightGBM] [Error] Feature 593 only contains one value, will be ignored
-[LightGBM] [Error] Feature 597 only contains one value, will be ignored
-[LightGBM] [Error] Feature 599 only contains one value, will be ignored
-[LightGBM] [Error] Feature 601 only contains one value, will be ignored
-[LightGBM] [Error] Feature 609 only contains one value, will be ignored
-[LightGBM] [Error] Feature 617 only contains one value, will be ignored
-[LightGBM] [Error] Feature 619 only contains one value, will be ignored
-[LightGBM] [Error] Feature 626 only contains one value, will be ignored
-[LightGBM] [Error] Feature 630 only contains one value, will be ignored
-[LightGBM] [Error] Feature 632 only contains one value, will be ignored
-[LightGBM] [Error] Feature 635 only contains one value, will be ignored
-[LightGBM] [Error] Feature 646 only contains one value, will be ignored
-[LightGBM] [Error] Feature 649 only contains one value, will be ignored
-[LightGBM] [Error] Feature 651 only contains one value, will be ignored
-[LightGBM] [Error] Feature 652 only contains one value, will be ignored
-[LightGBM] [Error] Feature 653 only contains one value, will be ignored
-[LightGBM] [Error] Feature 655 only contains one value, will be ignored
-[LightGBM] [Error] Feature 662 only contains one value, will be ignored
-[LightGBM] [Error] Feature 667 only contains one value, will be ignored
-[LightGBM] [Error] Feature 668 only contains one value, will be ignored
-[LightGBM] [Error] Feature 672 only contains one value, will be ignored
-[LightGBM] [Error] Feature 673 only contains one value, will be ignored
-[LightGBM] [Error] Feature 675 only contains one value, will be ignored
-[LightGBM] [Error] Feature 679 only contains one value, will be ignored
-[LightGBM] [Error] Feature 684 only contains one value, will be ignored
-[LightGBM] [Info] Finish loading data, use 4.977968 seconds
-[LightGBM] [Info] Number of data:473134, Number of features:519
-[LightGBM] [Info] Finish training initilization.
-[LightGBM] [Info] Start train
-[LightGBM] [Info] 0.604932 seconds elapsed, finished 1 iteration
-[LightGBM] [Info] 1.112988 seconds elapsed, finished 2 iteration
-[LightGBM] [Info] 1.608943 seconds elapsed, finished 3 iteration
-[LightGBM] [Info] 2.114272 seconds elapsed, finished 4 iteration
-[LightGBM] [Info] 2.623672 seconds elapsed, finished 5 iteration
-[LightGBM] [Info] 3.128204 seconds elapsed, finished 6 iteration
-[LightGBM] [Info] 3.624011 seconds elapsed, finished 7 iteration
-[LightGBM] [Info] 4.105037 seconds elapsed, finished 8 iteration
-[LightGBM] [Info] 4.594275 seconds elapsed, finished 9 iteration
-[LightGBM] [Info] 5.086988 seconds elapsed, finished 10 iteration
-[LightGBM] [Info] 5.590911 seconds elapsed, finished 11 iteration
-[LightGBM] [Info] 6.034081 seconds elapsed, finished 12 iteration
-[LightGBM] [Info] 6.499602 seconds elapsed, finished 13 iteration
-[LightGBM] [Info] 6.955517 seconds elapsed, finished 14 iteration
-[LightGBM] [Info] 7.383909 seconds elapsed, finished 15 iteration
-[LightGBM] [Info] 7.848499 seconds elapsed, finished 16 iteration
-[LightGBM] [Info] 8.274570 seconds elapsed, finished 17 iteration
-[LightGBM] [Info] 8.709653 seconds elapsed, finished 18 iteration
-[LightGBM] [Info] 9.130261 seconds elapsed, finished 19 iteration
-[LightGBM] [Info] 9.563961 seconds elapsed, finished 20 iteration
-[LightGBM] [Info] 9.985439 seconds elapsed, finished 21 iteration
-[LightGBM] [Info] 10.413739 seconds elapsed, finished 22 iteration
-[LightGBM] [Info] 10.856861 seconds elapsed, finished 23 iteration
-[LightGBM] [Info] 11.285774 seconds elapsed, finished 24 iteration
-[LightGBM] [Info] 11.697372 seconds elapsed, finished 25 iteration
-[LightGBM] [Info] 12.127331 seconds elapsed, finished 26 iteration
-[LightGBM] [Info] 12.583883 seconds elapsed, finished 27 iteration
-[LightGBM] [Info] 13.030037 seconds elapsed, finished 28 iteration
-[LightGBM] [Info] 13.464378 seconds elapsed, finished 29 iteration
-[LightGBM] [Info] 13.919190 seconds elapsed, finished 30 iteration
-[LightGBM] [Info] 14.375709 seconds elapsed, finished 31 iteration
-[LightGBM] [Info] 14.832126 seconds elapsed, finished 32 iteration
-[LightGBM] [Info] 15.298426 seconds elapsed, finished 33 iteration
-[LightGBM] [Info] 15.774561 seconds elapsed, finished 34 iteration
-[LightGBM] [Info] 16.217215 seconds elapsed, finished 35 iteration
-[LightGBM] [Info] 16.652202 seconds elapsed, finished 36 iteration
-[LightGBM] [Info] 17.084944 seconds elapsed, finished 37 iteration
-[LightGBM] [Info] 17.515661 seconds elapsed, finished 38 iteration
-[LightGBM] [Info] 17.953146 seconds elapsed, finished 39 iteration
-[LightGBM] [Info] 18.409542 seconds elapsed, finished 40 iteration
-[LightGBM] [Info] 18.865398 seconds elapsed, finished 41 iteration
-[LightGBM] [Info] 19.310124 seconds elapsed, finished 42 iteration
-[LightGBM] [Info] 19.739201 seconds elapsed, finished 43 iteration
-[LightGBM] [Info] 20.157202 seconds elapsed, finished 44 iteration
-[LightGBM] [Info] 20.578275 seconds elapsed, finished 45 iteration
-[LightGBM] [Info] 21.024418 seconds elapsed, finished 46 iteration
-[LightGBM] [Info] 21.469673 seconds elapsed, finished 47 iteration
-[LightGBM] [Info] 21.922175 seconds elapsed, finished 48 iteration
-[LightGBM] [Info] 22.353285 seconds elapsed, finished 49 iteration
-[LightGBM] [Info] 22.785947 seconds elapsed, finished 50 iteration
-[LightGBM] [Info] 23.243642 seconds elapsed, finished 51 iteration
-[LightGBM] [Info] 23.728654 seconds elapsed, finished 52 iteration
-[LightGBM] [Info] 24.209701 seconds elapsed, finished 53 iteration
-[LightGBM] [Info] 24.643930 seconds elapsed, finished 54 iteration
-[LightGBM] [Info] 25.080067 seconds elapsed, finished 55 iteration
-[LightGBM] [Info] 25.563485 seconds elapsed, finished 56 iteration
-[LightGBM] [Info] 26.049512 seconds elapsed, finished 57 iteration
-[LightGBM] [Info] 26.514734 seconds elapsed, finished 58 iteration
-[LightGBM] [Info] 26.997516 seconds elapsed, finished 59 iteration
-[LightGBM] [Info] 27.456969 seconds elapsed, finished 60 iteration
-[LightGBM] [Info] 27.937408 seconds elapsed, finished 61 iteration
-[LightGBM] [Info] 28.415485 seconds elapsed, finished 62 iteration
-[LightGBM] [Info] 28.870362 seconds elapsed, finished 63 iteration
-[LightGBM] [Info] 29.290490 seconds elapsed, finished 64 iteration
-[LightGBM] [Info] 29.749590 seconds elapsed, finished 65 iteration
-[LightGBM] [Info] 30.202996 seconds elapsed, finished 66 iteration
-[LightGBM] [Info] 30.647623 seconds elapsed, finished 67 iteration
-[LightGBM] [Info] 31.116404 seconds elapsed, finished 68 iteration
-[LightGBM] [Info] 31.550910 seconds elapsed, finished 69 iteration
-[LightGBM] [Info] 31.988127 seconds elapsed, finished 70 iteration
-[LightGBM] [Info] 32.439921 seconds elapsed, finished 71 iteration
-[LightGBM] [Info] 32.949459 seconds elapsed, finished 72 iteration
-[LightGBM] [Info] 33.434973 seconds elapsed, finished 73 iteration
-[LightGBM] [Info] 33.960874 seconds elapsed, finished 74 iteration
-[LightGBM] [Info] 34.442783 seconds elapsed, finished 75 iteration
-[LightGBM] [Info] 34.896088 seconds elapsed, finished 76 iteration
-[LightGBM] [Info] 35.314668 seconds elapsed, finished 77 iteration
-[LightGBM] [Info] 35.717065 seconds elapsed, finished 78 iteration
-[LightGBM] [Info] 36.145280 seconds elapsed, finished 79 iteration
-[LightGBM] [Info] 36.582650 seconds elapsed, finished 80 iteration
-[LightGBM] [Info] 37.023768 seconds elapsed, finished 81 iteration
-[LightGBM] [Info] 37.454156 seconds elapsed, finished 82 iteration
-[LightGBM] [Info] 37.867176 seconds elapsed, finished 83 iteration
-[LightGBM] [Info] 38.298927 seconds elapsed, finished 84 iteration
-[LightGBM] [Info] 38.699975 seconds elapsed, finished 85 iteration
-[LightGBM] [Info] 39.128743 seconds elapsed, finished 86 iteration
-[LightGBM] [Info] 39.567337 seconds elapsed, finished 87 iteration
-[LightGBM] [Info] 40.045003 seconds elapsed, finished 88 iteration
-[LightGBM] [Info] 40.470720 seconds elapsed, finished 89 iteration
-[LightGBM] [Info] 40.902508 seconds elapsed, finished 90 iteration
-[LightGBM] [Info] 41.329555 seconds elapsed, finished 91 iteration
-[LightGBM] [Info] 41.743715 seconds elapsed, finished 92 iteration
-[LightGBM] [Info] 42.166273 seconds elapsed, finished 93 iteration
-[LightGBM] [Info] 42.593638 seconds elapsed, finished 94 iteration
-[LightGBM] [Info] 42.995560 seconds elapsed, finished 95 iteration
-[LightGBM] [Info] 43.394410 seconds elapsed, finished 96 iteration
-[LightGBM] [Info] 43.794372 seconds elapsed, finished 97 iteration
-[LightGBM] [Info] 44.210018 seconds elapsed, finished 98 iteration
-[LightGBM] [Info] 44.615945 seconds elapsed, finished 99 iteration
-[LightGBM] [Info] 45.009735 seconds elapsed, finished 100 iteration
-[LightGBM] [Info] 45.425574 seconds elapsed, finished 101 iteration
-[LightGBM] [Info] 45.825864 seconds elapsed, finished 102 iteration
-[LightGBM] [Info] 46.240133 seconds elapsed, finished 103 iteration
-[LightGBM] [Info] 46.640427 seconds elapsed, finished 104 iteration
-[LightGBM] [Info] 47.058009 seconds elapsed, finished 105 iteration
-[LightGBM] [Info] 47.498939 seconds elapsed, finished 106 iteration
-[LightGBM] [Info] 47.942258 seconds elapsed, finished 107 iteration
-[LightGBM] [Info] 48.361408 seconds elapsed, finished 108 iteration
-[LightGBM] [Info] 48.798502 seconds elapsed, finished 109 iteration
-[LightGBM] [Info] 49.216112 seconds elapsed, finished 110 iteration
-[LightGBM] [Info] 49.660306 seconds elapsed, finished 111 iteration
-[LightGBM] [Info] 50.086828 seconds elapsed, finished 112 iteration
-[LightGBM] [Info] 50.492697 seconds elapsed, finished 113 iteration
-[LightGBM] [Info] 50.911899 seconds elapsed, finished 114 iteration
-[LightGBM] [Info] 51.332423 seconds elapsed, finished 115 iteration
-[LightGBM] [Info] 51.753852 seconds elapsed, finished 116 iteration
-[LightGBM] [Info] 52.129201 seconds elapsed, finished 117 iteration
-[LightGBM] [Info] 52.501883 seconds elapsed, finished 118 iteration
-[LightGBM] [Info] 52.905438 seconds elapsed, finished 119 iteration
-[LightGBM] [Info] 53.277408 seconds elapsed, finished 120 iteration
-[LightGBM] [Info] 53.771110 seconds elapsed, finished 121 iteration
-[LightGBM] [Info] 54.253739 seconds elapsed, finished 122 iteration
-[LightGBM] [Info] 54.722642 seconds elapsed, finished 123 iteration
-[LightGBM] [Info] 55.130737 seconds elapsed, finished 124 iteration
-[LightGBM] [Info] 55.558281 seconds elapsed, finished 125 iteration
-[LightGBM] [Info] 55.979832 seconds elapsed, finished 126 iteration
-[LightGBM] [Info] 56.401362 seconds elapsed, finished 127 iteration
-[LightGBM] [Info] 56.789970 seconds elapsed, finished 128 iteration
-[LightGBM] [Info] 57.158952 seconds elapsed, finished 129 iteration
-[LightGBM] [Info] 57.554379 seconds elapsed, finished 130 iteration
-[LightGBM] [Info] 57.945070 seconds elapsed, finished 131 iteration
-[LightGBM] [Info] 58.338589 seconds elapsed, finished 132 iteration
-[LightGBM] [Info] 58.727457 seconds elapsed, finished 133 iteration
-[LightGBM] [Info] 59.135271 seconds elapsed, finished 134 iteration
-[LightGBM] [Info] 59.530904 seconds elapsed, finished 135 iteration
-[LightGBM] [Info] 59.943463 seconds elapsed, finished 136 iteration
-[LightGBM] [Info] 60.352663 seconds elapsed, finished 137 iteration
-[LightGBM] [Info] 60.749934 seconds elapsed, finished 138 iteration
-[LightGBM] [Info] 61.157873 seconds elapsed, finished 139 iteration
-[LightGBM] [Info] 61.553816 seconds elapsed, finished 140 iteration
-[LightGBM] [Info] 61.909789 seconds elapsed, finished 141 iteration
-[LightGBM] [Info] 62.305202 seconds elapsed, finished 142 iteration
-[LightGBM] [Info] 62.692086 seconds elapsed, finished 143 iteration
-[LightGBM] [Info] 63.087029 seconds elapsed, finished 144 iteration
-[LightGBM] [Info] 63.477233 seconds elapsed, finished 145 iteration
-[LightGBM] [Info] 63.878625 seconds elapsed, finished 146 iteration
-[LightGBM] [Info] 64.299319 seconds elapsed, finished 147 iteration
-[LightGBM] [Info] 64.662613 seconds elapsed, finished 148 iteration
-[LightGBM] [Info] 65.008405 seconds elapsed, finished 149 iteration
-[LightGBM] [Info] 65.378435 seconds elapsed, finished 150 iteration
-[LightGBM] [Info] 65.768982 seconds elapsed, finished 151 iteration
-[LightGBM] [Info] 66.118038 seconds elapsed, finished 152 iteration
-[LightGBM] [Info] 66.490881 seconds elapsed, finished 153 iteration
-[LightGBM] [Info] 66.859663 seconds elapsed, finished 154 iteration
-[LightGBM] [Info] 67.264844 seconds elapsed, finished 155 iteration
-[LightGBM] [Info] 67.685796 seconds elapsed, finished 156 iteration
-[LightGBM] [Info] 68.082806 seconds elapsed, finished 157 iteration
-[LightGBM] [Info] 68.502199 seconds elapsed, finished 158 iteration
-[LightGBM] [Info] 68.882412 seconds elapsed, finished 159 iteration
-[LightGBM] [Info] 69.212075 seconds elapsed, finished 160 iteration
-[LightGBM] [Info] 69.596247 seconds elapsed, finished 161 iteration
-[LightGBM] [Info] 70.012840 seconds elapsed, finished 162 iteration
-[LightGBM] [Info] 70.406143 seconds elapsed, finished 163 iteration
-[LightGBM] [Info] 70.747779 seconds elapsed, finished 164 iteration
-[LightGBM] [Info] 71.109498 seconds elapsed, finished 165 iteration
-[LightGBM] [Info] 71.448483 seconds elapsed, finished 166 iteration
-[LightGBM] [Info] 71.845767 seconds elapsed, finished 167 iteration
-[LightGBM] [Info] 72.201720 seconds elapsed, finished 168 iteration
-[LightGBM] [Info] 72.566405 seconds elapsed, finished 169 iteration
-[LightGBM] [Info] 72.914728 seconds elapsed, finished 170 iteration
-[LightGBM] [Info] 73.297789 seconds elapsed, finished 171 iteration
-[LightGBM] [Info] 73.682160 seconds elapsed, finished 172 iteration
-[LightGBM] [Info] 74.100606 seconds elapsed, finished 173 iteration
-[LightGBM] [Info] 74.462303 seconds elapsed, finished 174 iteration
-[LightGBM] [Info] 74.833301 seconds elapsed, finished 175 iteration
-[LightGBM] [Info] 75.191274 seconds elapsed, finished 176 iteration
-[LightGBM] [Info] 75.588518 seconds elapsed, finished 177 iteration
-[LightGBM] [Info] 75.970756 seconds elapsed, finished 178 iteration
-[LightGBM] [Info] 76.282953 seconds elapsed, finished 179 iteration
-[LightGBM] [Info] 76.630516 seconds elapsed, finished 180 iteration
-[LightGBM] [Info] 77.017656 seconds elapsed, finished 181 iteration
-[LightGBM] [Info] 77.414305 seconds elapsed, finished 182 iteration
-[LightGBM] [Info] 77.827659 seconds elapsed, finished 183 iteration
-[LightGBM] [Info] 78.182906 seconds elapsed, finished 184 iteration
-[LightGBM] [Info] 78.582149 seconds elapsed, finished 185 iteration
-[LightGBM] [Info] 79.029086 seconds elapsed, finished 186 iteration
-[LightGBM] [Info] 79.448035 seconds elapsed, finished 187 iteration
-[LightGBM] [Info] 79.760675 seconds elapsed, finished 188 iteration
-[LightGBM] [Info] 80.121446 seconds elapsed, finished 189 iteration
-[LightGBM] [Info] 80.487545 seconds elapsed, finished 190 iteration
-[LightGBM] [Info] 80.895238 seconds elapsed, finished 191 iteration
-[LightGBM] [Info] 81.263403 seconds elapsed, finished 192 iteration
-[LightGBM] [Info] 81.619517 seconds elapsed, finished 193 iteration
-[LightGBM] [Info] 82.000810 seconds elapsed, finished 194 iteration
-[LightGBM] [Info] 82.330755 seconds elapsed, finished 195 iteration
-[LightGBM] [Info] 82.699022 seconds elapsed, finished 196 iteration
-[LightGBM] [Info] 83.032242 seconds elapsed, finished 197 iteration
-[LightGBM] [Info] 83.430032 seconds elapsed, finished 198 iteration
-[LightGBM] [Info] 83.766450 seconds elapsed, finished 199 iteration
-[LightGBM] [Info] 84.083421 seconds elapsed, finished 200 iteration
-[LightGBM] [Info] 84.509238 seconds elapsed, finished 201 iteration
-[LightGBM] [Info] 84.855074 seconds elapsed, finished 202 iteration
-[LightGBM] [Info] 85.216144 seconds elapsed, finished 203 iteration
-[LightGBM] [Info] 85.553130 seconds elapsed, finished 204 iteration
-[LightGBM] [Info] 85.917916 seconds elapsed, finished 205 iteration
-[LightGBM] [Info] 86.218185 seconds elapsed, finished 206 iteration
-[LightGBM] [Info] 86.579329 seconds elapsed, finished 207 iteration
-[LightGBM] [Info] 86.930110 seconds elapsed, finished 208 iteration
-[LightGBM] [Info] 87.306818 seconds elapsed, finished 209 iteration
-[LightGBM] [Info] 87.683786 seconds elapsed, finished 210 iteration
-[LightGBM] [Info] 88.015428 seconds elapsed, finished 211 iteration
-[LightGBM] [Info] 88.399466 seconds elapsed, finished 212 iteration
-[LightGBM] [Info] 88.784920 seconds elapsed, finished 213 iteration
-[LightGBM] [Info] 89.143006 seconds elapsed, finished 214 iteration
-[LightGBM] [Info] 89.543828 seconds elapsed, finished 215 iteration
-[LightGBM] [Info] 89.892282 seconds elapsed, finished 216 iteration
-[LightGBM] [Info] 90.310118 seconds elapsed, finished 217 iteration
-[LightGBM] [Info] 90.658312 seconds elapsed, finished 218 iteration
-[LightGBM] [Info] 91.003118 seconds elapsed, finished 219 iteration
-[LightGBM] [Info] 91.341723 seconds elapsed, finished 220 iteration
-[LightGBM] [Info] 91.744578 seconds elapsed, finished 221 iteration
-[LightGBM] [Info] 92.083511 seconds elapsed, finished 222 iteration
-[LightGBM] [Info] 92.363367 seconds elapsed, finished 223 iteration
-[LightGBM] [Info] 92.713743 seconds elapsed, finished 224 iteration
-[LightGBM] [Info] 93.050606 seconds elapsed, finished 225 iteration
-[LightGBM] [Info] 93.472718 seconds elapsed, finished 226 iteration
-[LightGBM] [Info] 93.851573 seconds elapsed, finished 227 iteration
-[LightGBM] [Info] 94.253983 seconds elapsed, finished 228 iteration
-[LightGBM] [Info] 94.633510 seconds elapsed, finished 229 iteration
-[LightGBM] [Info] 94.879812 seconds elapsed, finished 230 iteration
-[LightGBM] [Info] 95.236695 seconds elapsed, finished 231 iteration
-[LightGBM] [Info] 95.633251 seconds elapsed, finished 232 iteration
-[LightGBM] [Info] 95.988913 seconds elapsed, finished 233 iteration
-[LightGBM] [Info] 96.290242 seconds elapsed, finished 234 iteration
-[LightGBM] [Info] 96.615734 seconds elapsed, finished 235 iteration
-[LightGBM] [Info] 96.959802 seconds elapsed, finished 236 iteration
-[LightGBM] [Info] 97.269197 seconds elapsed, finished 237 iteration
-[LightGBM] [Info] 97.645296 seconds elapsed, finished 238 iteration
-[LightGBM] [Info] 98.011055 seconds elapsed, finished 239 iteration
-[LightGBM] [Info] 98.348037 seconds elapsed, finished 240 iteration
-[LightGBM] [Info] 98.699360 seconds elapsed, finished 241 iteration
-[LightGBM] [Info] 99.042920 seconds elapsed, finished 242 iteration
-[LightGBM] [Info] 99.355157 seconds elapsed, finished 243 iteration
-[LightGBM] [Info] 99.686856 seconds elapsed, finished 244 iteration
-[LightGBM] [Info] 100.011103 seconds elapsed, finished 245 iteration
-[LightGBM] [Info] 100.323517 seconds elapsed, finished 246 iteration
-[LightGBM] [Info] 100.644970 seconds elapsed, finished 247 iteration
-[LightGBM] [Info] 100.950260 seconds elapsed, finished 248 iteration
-[LightGBM] [Info] 101.292490 seconds elapsed, finished 249 iteration
-[LightGBM] [Info] 101.640061 seconds elapsed, finished 250 iteration
-[LightGBM] [Info] 101.953101 seconds elapsed, finished 251 iteration
-[LightGBM] [Info] 102.277540 seconds elapsed, finished 252 iteration
-[LightGBM] [Info] 102.596597 seconds elapsed, finished 253 iteration
-[LightGBM] [Info] 102.905534 seconds elapsed, finished 254 iteration
-[LightGBM] [Info] 103.221670 seconds elapsed, finished 255 iteration
-[LightGBM] [Info] 103.565017 seconds elapsed, finished 256 iteration
-[LightGBM] [Info] 103.913793 seconds elapsed, finished 257 iteration
-[LightGBM] [Info] 104.253844 seconds elapsed, finished 258 iteration
-[LightGBM] [Info] 104.605685 seconds elapsed, finished 259 iteration
-[LightGBM] [Info] 104.910073 seconds elapsed, finished 260 iteration
-[LightGBM] [Info] 105.261951 seconds elapsed, finished 261 iteration
-[LightGBM] [Info] 105.585735 seconds elapsed, finished 262 iteration
-[LightGBM] [Info] 105.889433 seconds elapsed, finished 263 iteration
-[LightGBM] [Info] 106.224685 seconds elapsed, finished 264 iteration
-[LightGBM] [Info] 106.556505 seconds elapsed, finished 265 iteration
-[LightGBM] [Info] 106.883505 seconds elapsed, finished 266 iteration
-[LightGBM] [Info] 107.195634 seconds elapsed, finished 267 iteration
-[LightGBM] [Info] 107.490106 seconds elapsed, finished 268 iteration
-[LightGBM] [Info] 107.755497 seconds elapsed, finished 269 iteration
-[LightGBM] [Info] 108.023709 seconds elapsed, finished 270 iteration
-[LightGBM] [Info] 108.408499 seconds elapsed, finished 271 iteration
-[LightGBM] [Info] 108.719488 seconds elapsed, finished 272 iteration
-[LightGBM] [Info] 109.036588 seconds elapsed, finished 273 iteration
-[LightGBM] [Info] 109.320513 seconds elapsed, finished 274 iteration
-[LightGBM] [Info] 109.578361 seconds elapsed, finished 275 iteration
-[LightGBM] [Info] 109.897869 seconds elapsed, finished 276 iteration
-[LightGBM] [Info] 110.230438 seconds elapsed, finished 277 iteration
-[LightGBM] [Info] 110.529527 seconds elapsed, finished 278 iteration
-[LightGBM] [Info] 110.827358 seconds elapsed, finished 279 iteration
-[LightGBM] [Info] 111.149816 seconds elapsed, finished 280 iteration
-[LightGBM] [Info] 111.532388 seconds elapsed, finished 281 iteration
-[LightGBM] [Info] 111.855391 seconds elapsed, finished 282 iteration
-[LightGBM] [Info] 112.215344 seconds elapsed, finished 283 iteration
-[LightGBM] [Info] 112.611150 seconds elapsed, finished 284 iteration
-[LightGBM] [Info] 112.946653 seconds elapsed, finished 285 iteration
-[LightGBM] [Info] 113.262184 seconds elapsed, finished 286 iteration
-[LightGBM] [Info] 113.569527 seconds elapsed, finished 287 iteration
-[LightGBM] [Info] 113.873449 seconds elapsed, finished 288 iteration
-[LightGBM] [Info] 114.197184 seconds elapsed, finished 289 iteration
-[LightGBM] [Info] 114.497605 seconds elapsed, finished 290 iteration
-[LightGBM] [Info] 114.825349 seconds elapsed, finished 291 iteration
-[LightGBM] [Info] 115.154638 seconds elapsed, finished 292 iteration
-[LightGBM] [Info] 115.539225 seconds elapsed, finished 293 iteration
-[LightGBM] [Info] 115.799897 seconds elapsed, finished 294 iteration
-[LightGBM] [Info] 116.110052 seconds elapsed, finished 295 iteration
-[LightGBM] [Info] 116.465397 seconds elapsed, finished 296 iteration
-[LightGBM] [Info] 116.819485 seconds elapsed, finished 297 iteration
-[LightGBM] [Info] 117.118906 seconds elapsed, finished 298 iteration
-[LightGBM] [Info] 117.368632 seconds elapsed, finished 299 iteration
-[LightGBM] [Info] 117.621756 seconds elapsed, finished 300 iteration
-[LightGBM] [Info] 117.883138 seconds elapsed, finished 301 iteration
-[LightGBM] [Info] 118.119839 seconds elapsed, finished 302 iteration
-[LightGBM] [Info] 118.360622 seconds elapsed, finished 303 iteration
-[LightGBM] [Info] 118.602393 seconds elapsed, finished 304 iteration
-[LightGBM] [Info] 118.903709 seconds elapsed, finished 305 iteration
-[LightGBM] [Info] 119.166645 seconds elapsed, finished 306 iteration
-[LightGBM] [Info] 119.436496 seconds elapsed, finished 307 iteration
-[LightGBM] [Info] 119.687454 seconds elapsed, finished 308 iteration
-[LightGBM] [Info] 119.936081 seconds elapsed, finished 309 iteration
-[LightGBM] [Info] 120.178435 seconds elapsed, finished 310 iteration
-[LightGBM] [Info] 120.422066 seconds elapsed, finished 311 iteration
-[LightGBM] [Info] 120.668399 seconds elapsed, finished 312 iteration
-[LightGBM] [Info] 120.907935 seconds elapsed, finished 313 iteration
-[LightGBM] [Info] 121.146161 seconds elapsed, finished 314 iteration
-[LightGBM] [Info] 121.401175 seconds elapsed, finished 315 iteration
-[LightGBM] [Info] 121.668889 seconds elapsed, finished 316 iteration
-[LightGBM] [Info] 121.925766 seconds elapsed, finished 317 iteration
-[LightGBM] [Info] 122.210985 seconds elapsed, finished 318 iteration
-[LightGBM] [Info] 122.563681 seconds elapsed, finished 319 iteration
-[LightGBM] [Info] 122.834957 seconds elapsed, finished 320 iteration
-[LightGBM] [Info] 123.136760 seconds elapsed, finished 321 iteration
-[LightGBM] [Info] 123.429005 seconds elapsed, finished 322 iteration
-[LightGBM] [Info] 123.704496 seconds elapsed, finished 323 iteration
-[LightGBM] [Info] 124.018880 seconds elapsed, finished 324 iteration
-[LightGBM] [Info] 124.298425 seconds elapsed, finished 325 iteration
-[LightGBM] [Info] 124.606325 seconds elapsed, finished 326 iteration
-[LightGBM] [Info] 124.857783 seconds elapsed, finished 327 iteration
-[LightGBM] [Info] 125.197971 seconds elapsed, finished 328 iteration
-[LightGBM] [Info] 125.474295 seconds elapsed, finished 329 iteration
-[LightGBM] [Info] 125.775051 seconds elapsed, finished 330 iteration
-[LightGBM] [Info] 126.019777 seconds elapsed, finished 331 iteration
-[LightGBM] [Info] 126.260185 seconds elapsed, finished 332 iteration
-[LightGBM] [Info] 126.505728 seconds elapsed, finished 333 iteration
-[LightGBM] [Info] 126.801539 seconds elapsed, finished 334 iteration
-[LightGBM] [Info] 127.041396 seconds elapsed, finished 335 iteration
-[LightGBM] [Info] 127.282088 seconds elapsed, finished 336 iteration
-[LightGBM] [Info] 127.522712 seconds elapsed, finished 337 iteration
-[LightGBM] [Info] 127.775179 seconds elapsed, finished 338 iteration
-[LightGBM] [Info] 128.022982 seconds elapsed, finished 339 iteration
-[LightGBM] [Info] 128.366954 seconds elapsed, finished 340 iteration
-[LightGBM] [Info] 128.685488 seconds elapsed, finished 341 iteration
-[LightGBM] [Info] 128.951145 seconds elapsed, finished 342 iteration
-[LightGBM] [Info] 129.249206 seconds elapsed, finished 343 iteration
-[LightGBM] [Info] 129.534176 seconds elapsed, finished 344 iteration
-[LightGBM] [Info] 129.875184 seconds elapsed, finished 345 iteration
-[LightGBM] [Info] 130.179053 seconds elapsed, finished 346 iteration
-[LightGBM] [Info] 130.487848 seconds elapsed, finished 347 iteration
-[LightGBM] [Info] 130.787178 seconds elapsed, finished 348 iteration
-[LightGBM] [Info] 131.178845 seconds elapsed, finished 349 iteration
-[LightGBM] [Info] 131.495394 seconds elapsed, finished 350 iteration
-[LightGBM] [Info] 131.820183 seconds elapsed, finished 351 iteration
-[LightGBM] [Info] 132.112347 seconds elapsed, finished 352 iteration
-[LightGBM] [Info] 132.427552 seconds elapsed, finished 353 iteration
-[LightGBM] [Info] 132.750653 seconds elapsed, finished 354 iteration
-[LightGBM] [Info] 133.014929 seconds elapsed, finished 355 iteration
-[LightGBM] [Info] 133.344028 seconds elapsed, finished 356 iteration
-[LightGBM] [Info] 133.655727 seconds elapsed, finished 357 iteration
-[LightGBM] [Info] 133.939103 seconds elapsed, finished 358 iteration
-[LightGBM] [Info] 134.173456 seconds elapsed, finished 359 iteration
-[LightGBM] [Info] 134.397323 seconds elapsed, finished 360 iteration
-[LightGBM] [Info] 134.628882 seconds elapsed, finished 361 iteration
-[LightGBM] [Info] 134.864801 seconds elapsed, finished 362 iteration
-[LightGBM] [Info] 135.133580 seconds elapsed, finished 363 iteration
-[LightGBM] [Info] 135.435776 seconds elapsed, finished 364 iteration
-[LightGBM] [Info] 135.722742 seconds elapsed, finished 365 iteration
-[LightGBM] [Info] 135.985104 seconds elapsed, finished 366 iteration
-[LightGBM] [Info] 136.267269 seconds elapsed, finished 367 iteration
-[LightGBM] [Info] 136.506492 seconds elapsed, finished 368 iteration
-[LightGBM] [Info] 136.824925 seconds elapsed, finished 369 iteration
-[LightGBM] [Info] 137.153516 seconds elapsed, finished 370 iteration
-[LightGBM] [Info] 137.443459 seconds elapsed, finished 371 iteration
-[LightGBM] [Info] 137.706868 seconds elapsed, finished 372 iteration
-[LightGBM] [Info] 137.968018 seconds elapsed, finished 373 iteration
-[LightGBM] [Info] 138.239473 seconds elapsed, finished 374 iteration
-[LightGBM] [Info] 138.528551 seconds elapsed, finished 375 iteration
-[LightGBM] [Info] 138.778551 seconds elapsed, finished 376 iteration
-[LightGBM] [Info] 139.015416 seconds elapsed, finished 377 iteration
-[LightGBM] [Info] 139.227205 seconds elapsed, finished 378 iteration
-[LightGBM] [Info] 139.530600 seconds elapsed, finished 379 iteration
-[LightGBM] [Info] 139.788657 seconds elapsed, finished 380 iteration
-[LightGBM] [Info] 140.049494 seconds elapsed, finished 381 iteration
-[LightGBM] [Info] 140.361991 seconds elapsed, finished 382 iteration
-[LightGBM] [Info] 140.621324 seconds elapsed, finished 383 iteration
-[LightGBM] [Info] 140.897234 seconds elapsed, finished 384 iteration
-[LightGBM] [Info] 141.141127 seconds elapsed, finished 385 iteration
-[LightGBM] [Info] 141.416566 seconds elapsed, finished 386 iteration
-[LightGBM] [Info] 141.669175 seconds elapsed, finished 387 iteration
-[LightGBM] [Info] 141.904039 seconds elapsed, finished 388 iteration
-[LightGBM] [Info] 142.232245 seconds elapsed, finished 389 iteration
-[LightGBM] [Info] 142.544517 seconds elapsed, finished 390 iteration
-[LightGBM] [Info] 142.877610 seconds elapsed, finished 391 iteration
-[LightGBM] [Info] 143.244995 seconds elapsed, finished 392 iteration
-[LightGBM] [Info] 143.527273 seconds elapsed, finished 393 iteration
-[LightGBM] [Info] 143.805499 seconds elapsed, finished 394 iteration
-[LightGBM] [Info] 144.106513 seconds elapsed, finished 395 iteration
-[LightGBM] [Info] 144.357736 seconds elapsed, finished 396 iteration
-[LightGBM] [Info] 144.629073 seconds elapsed, finished 397 iteration
-[LightGBM] [Info] 144.934285 seconds elapsed, finished 398 iteration
-[LightGBM] [Info] 145.256295 seconds elapsed, finished 399 iteration
-[LightGBM] [Info] 145.499236 seconds elapsed, finished 400 iteration
-[LightGBM] [Info] 145.766969 seconds elapsed, finished 401 iteration
-[LightGBM] [Info] 146.033261 seconds elapsed, finished 402 iteration
-[LightGBM] [Info] 146.322450 seconds elapsed, finished 403 iteration
-[LightGBM] [Info] 146.613698 seconds elapsed, finished 404 iteration
-[LightGBM] [Info] 146.884609 seconds elapsed, finished 405 iteration
-[LightGBM] [Info] 147.159835 seconds elapsed, finished 406 iteration
-[LightGBM] [Info] 147.432217 seconds elapsed, finished 407 iteration
-[LightGBM] [Info] 147.713260 seconds elapsed, finished 408 iteration
-[LightGBM] [Info] 148.007324 seconds elapsed, finished 409 iteration
-[LightGBM] [Info] 148.277409 seconds elapsed, finished 410 iteration
-[LightGBM] [Info] 148.534343 seconds elapsed, finished 411 iteration
-[LightGBM] [Info] 148.801606 seconds elapsed, finished 412 iteration
-[LightGBM] [Info] 149.055099 seconds elapsed, finished 413 iteration
-[LightGBM] [Info] 149.316838 seconds elapsed, finished 414 iteration
-[LightGBM] [Info] 149.570548 seconds elapsed, finished 415 iteration
-[LightGBM] [Info] 149.867848 seconds elapsed, finished 416 iteration
-[LightGBM] [Info] 150.119620 seconds elapsed, finished 417 iteration
-[LightGBM] [Info] 150.439160 seconds elapsed, finished 418 iteration
-[LightGBM] [Info] 150.676188 seconds elapsed, finished 419 iteration
-[LightGBM] [Info] 150.899456 seconds elapsed, finished 420 iteration
-[LightGBM] [Info] 151.188601 seconds elapsed, finished 421 iteration
-[LightGBM] [Info] 151.442926 seconds elapsed, finished 422 iteration
-[LightGBM] [Info] 151.720396 seconds elapsed, finished 423 iteration
-[LightGBM] [Info] 151.983099 seconds elapsed, finished 424 iteration
-[LightGBM] [Info] 152.248235 seconds elapsed, finished 425 iteration
-[LightGBM] [Info] 152.564732 seconds elapsed, finished 426 iteration
-[LightGBM] [Info] 152.833476 seconds elapsed, finished 427 iteration
-[LightGBM] [Info] 153.139715 seconds elapsed, finished 428 iteration
-[LightGBM] [Info] 153.436326 seconds elapsed, finished 429 iteration
-[LightGBM] [Info] 153.722975 seconds elapsed, finished 430 iteration
-[LightGBM] [Info] 154.013758 seconds elapsed, finished 431 iteration
-[LightGBM] [Info] 154.257639 seconds elapsed, finished 432 iteration
-[LightGBM] [Info] 154.570665 seconds elapsed, finished 433 iteration
-[LightGBM] [Info] 154.825697 seconds elapsed, finished 434 iteration
-[LightGBM] [Info] 155.071636 seconds elapsed, finished 435 iteration
-[LightGBM] [Info] 155.341393 seconds elapsed, finished 436 iteration
-[LightGBM] [Info] 155.607057 seconds elapsed, finished 437 iteration
-[LightGBM] [Info] 155.851543 seconds elapsed, finished 438 iteration
-[LightGBM] [Info] 156.141525 seconds elapsed, finished 439 iteration
-[LightGBM] [Info] 156.407350 seconds elapsed, finished 440 iteration
-[LightGBM] [Info] 156.690808 seconds elapsed, finished 441 iteration
-[LightGBM] [Info] 156.968186 seconds elapsed, finished 442 iteration
-[LightGBM] [Info] 157.258311 seconds elapsed, finished 443 iteration
-[LightGBM] [Info] 157.526868 seconds elapsed, finished 444 iteration
-[LightGBM] [Info] 157.818970 seconds elapsed, finished 445 iteration
-[LightGBM] [Info] 158.088574 seconds elapsed, finished 446 iteration
-[LightGBM] [Info] 158.370898 seconds elapsed, finished 447 iteration
-[LightGBM] [Info] 158.661581 seconds elapsed, finished 448 iteration
-[LightGBM] [Info] 158.975787 seconds elapsed, finished 449 iteration
-[LightGBM] [Info] 159.238627 seconds elapsed, finished 450 iteration
-[LightGBM] [Info] 159.546076 seconds elapsed, finished 451 iteration
-[LightGBM] [Info] 159.825662 seconds elapsed, finished 452 iteration
-[LightGBM] [Info] 160.124129 seconds elapsed, finished 453 iteration
-[LightGBM] [Info] 160.390954 seconds elapsed, finished 454 iteration
-[LightGBM] [Info] 160.674520 seconds elapsed, finished 455 iteration
-[LightGBM] [Info] 161.000930 seconds elapsed, finished 456 iteration
-[LightGBM] [Info] 161.344832 seconds elapsed, finished 457 iteration
-[LightGBM] [Info] 161.616204 seconds elapsed, finished 458 iteration
-[LightGBM] [Info] 161.910749 seconds elapsed, finished 459 iteration
-[LightGBM] [Info] 162.185918 seconds elapsed, finished 460 iteration
-[LightGBM] [Info] 162.428500 seconds elapsed, finished 461 iteration
-[LightGBM] [Info] 162.714190 seconds elapsed, finished 462 iteration
-[LightGBM] [Info] 162.978612 seconds elapsed, finished 463 iteration
-[LightGBM] [Info] 163.219668 seconds elapsed, finished 464 iteration
-[LightGBM] [Info] 163.469393 seconds elapsed, finished 465 iteration
-[LightGBM] [Info] 163.742744 seconds elapsed, finished 466 iteration
-[LightGBM] [Info] 164.054662 seconds elapsed, finished 467 iteration
-[LightGBM] [Info] 164.305497 seconds elapsed, finished 468 iteration
-[LightGBM] [Info] 164.588331 seconds elapsed, finished 469 iteration
-[LightGBM] [Info] 164.830138 seconds elapsed, finished 470 iteration
-[LightGBM] [Info] 165.099975 seconds elapsed, finished 471 iteration
-[LightGBM] [Info] 165.359184 seconds elapsed, finished 472 iteration
-[LightGBM] [Info] 165.669300 seconds elapsed, finished 473 iteration
-[LightGBM] [Info] 165.963841 seconds elapsed, finished 474 iteration
-[LightGBM] [Info] 166.223300 seconds elapsed, finished 475 iteration
-[LightGBM] [Info] 166.514113 seconds elapsed, finished 476 iteration
-[LightGBM] [Info] 166.798607 seconds elapsed, finished 477 iteration
-[LightGBM] [Info] 167.039997 seconds elapsed, finished 478 iteration
-[LightGBM] [Info] 167.332947 seconds elapsed, finished 479 iteration
-[LightGBM] [Info] 167.632242 seconds elapsed, finished 480 iteration
-[LightGBM] [Info] 167.914458 seconds elapsed, finished 481 iteration
-[LightGBM] [Info] 168.178653 seconds elapsed, finished 482 iteration
-[LightGBM] [Info] 168.469212 seconds elapsed, finished 483 iteration
-[LightGBM] [Info] 168.696780 seconds elapsed, finished 484 iteration
-[LightGBM] [Info] 168.934571 seconds elapsed, finished 485 iteration
-[LightGBM] [Info] 169.200593 seconds elapsed, finished 486 iteration
-[LightGBM] [Info] 169.512975 seconds elapsed, finished 487 iteration
-[LightGBM] [Info] 169.850241 seconds elapsed, finished 488 iteration
-[LightGBM] [Info] 170.229711 seconds elapsed, finished 489 iteration
-[LightGBM] [Info] 170.499025 seconds elapsed, finished 490 iteration
-[LightGBM] [Info] 170.806046 seconds elapsed, finished 491 iteration
-[LightGBM] [Info] 171.069043 seconds elapsed, finished 492 iteration
-[LightGBM] [Info] 171.350854 seconds elapsed, finished 493 iteration
-[LightGBM] [Info] 171.621834 seconds elapsed, finished 494 iteration
-[LightGBM] [Info] 171.911741 seconds elapsed, finished 495 iteration
-[LightGBM] [Info] 172.186370 seconds elapsed, finished 496 iteration
-[LightGBM] [Info] 172.454337 seconds elapsed, finished 497 iteration
-[LightGBM] [Info] 172.774953 seconds elapsed, finished 498 iteration
-[LightGBM] [Info] 173.068225 seconds elapsed, finished 499 iteration
-[LightGBM] [Info] 173.392173 seconds elapsed, finished 500 iteration
-[LightGBM] [Info] Finish train
+[LightGBM] [Info] Finished loading parameters
+[LightGBM] [Info] Loading query boundaries...
+[LightGBM] [Warning] Ignoring feature Column_0, only has one value
+[LightGBM] [Warning] Ignoring feature Column_3, only has one value
+[LightGBM] [Warning] Ignoring feature Column_4, only has one value
+[LightGBM] [Warning] Ignoring feature Column_5, only has one value
+[LightGBM] [Warning] Ignoring feature Column_13, only has one value
+[LightGBM] [Warning] Ignoring feature Column_14, only has one value
+[LightGBM] [Warning] Ignoring feature Column_15, only has one value
+[LightGBM] [Warning] Ignoring feature Column_16, only has one value
+[LightGBM] [Warning] Ignoring feature Column_19, only has one value
+[LightGBM] [Warning] Ignoring feature Column_24, only has one value
+[LightGBM] [Warning] Ignoring feature Column_35, only has one value
+[LightGBM] [Warning] Ignoring feature Column_38, only has one value
+[LightGBM] [Warning] Ignoring feature Column_40, only has one value
+[LightGBM] [Warning] Ignoring feature Column_42, only has one value
+[LightGBM] [Warning] Ignoring feature Column_49, only has one value
+[LightGBM] [Warning] Ignoring feature Column_50, only has one value
+[LightGBM] [Warning] Ignoring feature Column_51, only has one value
+[LightGBM] [Warning] Ignoring feature Column_52, only has one value
+[LightGBM] [Warning] Ignoring feature Column_54, only has one value
+[LightGBM] [Warning] Ignoring feature Column_57, only has one value
+[LightGBM] [Warning] Ignoring feature Column_59, only has one value
+[LightGBM] [Warning] Ignoring feature Column_61, only has one value
+[LightGBM] [Warning] Ignoring feature Column_63, only has one value
+[LightGBM] [Warning] Ignoring feature Column_65, only has one value
+[LightGBM] [Warning] Ignoring feature Column_68, only has one value
+[LightGBM] [Warning] Ignoring feature Column_72, only has one value
+[LightGBM] [Warning] Ignoring feature Column_73, only has one value
+[LightGBM] [Warning] Ignoring feature Column_84, only has one value
+[LightGBM] [Warning] Ignoring feature Column_90, only has one value
+[LightGBM] [Warning] Ignoring feature Column_92, only has one value
+[LightGBM] [Warning] Ignoring feature Column_93, only has one value
+[LightGBM] [Warning] Ignoring feature Column_94, only has one value
+[LightGBM] [Warning] Ignoring feature Column_95, only has one value
+[LightGBM] [Warning] Ignoring feature Column_103, only has one value
+[LightGBM] [Warning] Ignoring feature Column_105, only has one value
+[LightGBM] [Warning] Ignoring feature Column_109, only has one value
+[LightGBM] [Warning] Ignoring feature Column_112, only has one value
+[LightGBM] [Warning] Ignoring feature Column_113, only has one value
+[LightGBM] [Warning] Ignoring feature Column_115, only has one value
+[LightGBM] [Warning] Ignoring feature Column_116, only has one value
+[LightGBM] [Warning] Ignoring feature Column_118, only has one value
+[LightGBM] [Warning] Ignoring feature Column_119, only has one value
+[LightGBM] [Warning] Ignoring feature Column_130, only has one value
+[LightGBM] [Warning] Ignoring feature Column_134, only has one value
+[LightGBM] [Warning] Ignoring feature Column_136, only has one value
+[LightGBM] [Warning] Ignoring feature Column_142, only has one value
+[LightGBM] [Warning] Ignoring feature Column_148, only has one value
+[LightGBM] [Warning] Ignoring feature Column_156, only has one value
+[LightGBM] [Warning] Ignoring feature Column_171, only has one value
+[LightGBM] [Warning] Ignoring feature Column_180, only has one value
+[LightGBM] [Warning] Ignoring feature Column_183, only has one value
+[LightGBM] [Warning] Ignoring feature Column_184, only has one value
+[LightGBM] [Warning] Ignoring feature Column_185, only has one value
+[LightGBM] [Warning] Ignoring feature Column_188, only has one value
+[LightGBM] [Warning] Ignoring feature Column_194, only has one value
+[LightGBM] [Warning] Ignoring feature Column_198, only has one value
+[LightGBM] [Warning] Ignoring feature Column_200, only has one value
+[LightGBM] [Warning] Ignoring feature Column_203, only has one value
+[LightGBM] [Warning] Ignoring feature Column_207, only has one value
+[LightGBM] [Warning] Ignoring feature Column_209, only has one value
+[LightGBM] [Warning] Ignoring feature Column_210, only has one value
+[LightGBM] [Warning] Ignoring feature Column_211, only has one value
+[LightGBM] [Warning] Ignoring feature Column_213, only has one value
+[LightGBM] [Warning] Ignoring feature Column_214, only has one value
+[LightGBM] [Warning] Ignoring feature Column_217, only has one value
+[LightGBM] [Warning] Ignoring feature Column_218, only has one value
+[LightGBM] [Warning] Ignoring feature Column_221, only has one value
+[LightGBM] [Warning] Ignoring feature Column_237, only has one value
+[LightGBM] [Warning] Ignoring feature Column_249, only has one value
+[LightGBM] [Warning] Ignoring feature Column_250, only has one value
+[LightGBM] [Warning] Ignoring feature Column_252, only has one value
+[LightGBM] [Warning] Ignoring feature Column_258, only has one value
+[LightGBM] [Warning] Ignoring feature Column_263, only has one value
+[LightGBM] [Warning] Ignoring feature Column_269, only has one value
+[LightGBM] [Warning] Ignoring feature Column_270, only has one value
+[LightGBM] [Warning] Ignoring feature Column_272, only has one value
+[LightGBM] [Warning] Ignoring feature Column_273, only has one value
+[LightGBM] [Warning] Ignoring feature Column_278, only has one value
+[LightGBM] [Warning] Ignoring feature Column_280, only has one value
+[LightGBM] [Warning] Ignoring feature Column_293, only has one value
+[LightGBM] [Warning] Ignoring feature Column_296, only has one value
+[LightGBM] [Warning] Ignoring feature Column_303, only has one value
+[LightGBM] [Warning] Ignoring feature Column_306, only has one value
+[LightGBM] [Warning] Ignoring feature Column_307, only has one value
+[LightGBM] [Warning] Ignoring feature Column_310, only has one value
+[LightGBM] [Warning] Ignoring feature Column_314, only has one value
+[LightGBM] [Warning] Ignoring feature Column_315, only has one value
+[LightGBM] [Warning] Ignoring feature Column_318, only has one value
+[LightGBM] [Warning] Ignoring feature Column_327, only has one value
+[LightGBM] [Warning] Ignoring feature Column_328, only has one value
+[LightGBM] [Warning] Ignoring feature Column_334, only has one value
+[LightGBM] [Warning] Ignoring feature Column_336, only has one value
+[LightGBM] [Warning] Ignoring feature Column_343, only has one value
+[LightGBM] [Warning] Ignoring feature Column_346, only has one value
+[LightGBM] [Warning] Ignoring feature Column_351, only has one value
+[LightGBM] [Warning] Ignoring feature Column_357, only has one value
+[LightGBM] [Warning] Ignoring feature Column_360, only has one value
+[LightGBM] [Warning] Ignoring feature Column_365, only has one value
+[LightGBM] [Warning] Ignoring feature Column_368, only has one value
+[LightGBM] [Warning] Ignoring feature Column_370, only has one value
+[LightGBM] [Warning] Ignoring feature Column_371, only has one value
+[LightGBM] [Warning] Ignoring feature Column_373, only has one value
+[LightGBM] [Warning] Ignoring feature Column_380, only has one value
+[LightGBM] [Warning] Ignoring feature Column_386, only has one value
+[LightGBM] [Warning] Ignoring feature Column_396, only has one value
+[LightGBM] [Warning] Ignoring feature Column_402, only has one value
+[LightGBM] [Warning] Ignoring feature Column_403, only has one value
+[LightGBM] [Warning] Ignoring feature Column_406, only has one value
+[LightGBM] [Warning] Ignoring feature Column_407, only has one value
+[LightGBM] [Warning] Ignoring feature Column_409, only has one value
+[LightGBM] [Warning] Ignoring feature Column_411, only has one value
+[LightGBM] [Warning] Ignoring feature Column_413, only has one value
+[LightGBM] [Warning] Ignoring feature Column_415, only has one value
+[LightGBM] [Warning] Ignoring feature Column_419, only has one value
+[LightGBM] [Warning] Ignoring feature Column_420, only has one value
+[LightGBM] [Warning] Ignoring feature Column_422, only has one value
+[LightGBM] [Warning] Ignoring feature Column_424, only has one value
+[LightGBM] [Warning] Ignoring feature Column_449, only has one value
+[LightGBM] [Warning] Ignoring feature Column_460, only has one value
+[LightGBM] [Warning] Ignoring feature Column_462, only has one value
+[LightGBM] [Warning] Ignoring feature Column_464, only has one value
+[LightGBM] [Warning] Ignoring feature Column_466, only has one value
+[LightGBM] [Warning] Ignoring feature Column_467, only has one value
+[LightGBM] [Warning] Ignoring feature Column_471, only has one value
+[LightGBM] [Warning] Ignoring feature Column_482, only has one value
+[LightGBM] [Warning] Ignoring feature Column_484, only has one value
+[LightGBM] [Warning] Ignoring feature Column_490, only has one value
+[LightGBM] [Warning] Ignoring feature Column_491, only has one value
+[LightGBM] [Warning] Ignoring feature Column_496, only has one value
+[LightGBM] [Warning] Ignoring feature Column_501, only has one value
+[LightGBM] [Warning] Ignoring feature Column_503, only has one value
+[LightGBM] [Warning] Ignoring feature Column_506, only has one value
+[LightGBM] [Warning] Ignoring feature Column_509, only has one value
+[LightGBM] [Warning] Ignoring feature Column_510, only has one value
+[LightGBM] [Warning] Ignoring feature Column_516, only has one value
+[LightGBM] [Warning] Ignoring feature Column_520, only has one value
+[LightGBM] [Warning] Ignoring feature Column_522, only has one value
+[LightGBM] [Warning] Ignoring feature Column_523, only has one value
+[LightGBM] [Warning] Ignoring feature Column_524, only has one value
+[LightGBM] [Warning] Ignoring feature Column_526, only has one value
+[LightGBM] [Warning] Ignoring feature Column_530, only has one value
+[LightGBM] [Warning] Ignoring feature Column_536, only has one value
+[LightGBM] [Warning] Ignoring feature Column_543, only has one value
+[LightGBM] [Warning] Ignoring feature Column_547, only has one value
+[LightGBM] [Warning] Ignoring feature Column_549, only has one value
+[LightGBM] [Warning] Ignoring feature Column_551, only has one value
+[LightGBM] [Warning] Ignoring feature Column_552, only has one value
+[LightGBM] [Warning] Ignoring feature Column_553, only has one value
+[LightGBM] [Warning] Ignoring feature Column_560, only has one value
+[LightGBM] [Warning] Ignoring feature Column_567, only has one value
+[LightGBM] [Warning] Ignoring feature Column_573, only has one value
+[LightGBM] [Warning] Ignoring feature Column_576, only has one value
+[LightGBM] [Warning] Ignoring feature Column_577, only has one value
+[LightGBM] [Warning] Ignoring feature Column_582, only has one value
+[LightGBM] [Warning] Ignoring feature Column_584, only has one value
+[LightGBM] [Warning] Ignoring feature Column_588, only has one value
+[LightGBM] [Warning] Ignoring feature Column_593, only has one value
+[LightGBM] [Warning] Ignoring feature Column_597, only has one value
+[LightGBM] [Warning] Ignoring feature Column_599, only has one value
+[LightGBM] [Warning] Ignoring feature Column_601, only has one value
+[LightGBM] [Warning] Ignoring feature Column_609, only has one value
+[LightGBM] [Warning] Ignoring feature Column_617, only has one value
+[LightGBM] [Warning] Ignoring feature Column_619, only has one value
+[LightGBM] [Warning] Ignoring feature Column_626, only has one value
+[LightGBM] [Warning] Ignoring feature Column_630, only has one value
+[LightGBM] [Warning] Ignoring feature Column_632, only has one value
+[LightGBM] [Warning] Ignoring feature Column_635, only has one value
+[LightGBM] [Warning] Ignoring feature Column_646, only has one value
+[LightGBM] [Warning] Ignoring feature Column_649, only has one value
+[LightGBM] [Warning] Ignoring feature Column_651, only has one value
+[LightGBM] [Warning] Ignoring feature Column_652, only has one value
+[LightGBM] [Warning] Ignoring feature Column_653, only has one value
+[LightGBM] [Warning] Ignoring feature Column_655, only has one value
+[LightGBM] [Warning] Ignoring feature Column_662, only has one value
+[LightGBM] [Warning] Ignoring feature Column_667, only has one value
+[LightGBM] [Warning] Ignoring feature Column_668, only has one value
+[LightGBM] [Warning] Ignoring feature Column_672, only has one value
+[LightGBM] [Warning] Ignoring feature Column_673, only has one value
+[LightGBM] [Warning] Ignoring feature Column_675, only has one value
+[LightGBM] [Warning] Ignoring feature Column_679, only has one value
+[LightGBM] [Warning] Ignoring feature Column_684, only has one value
+[LightGBM] [Info] Finished loading data in 4.327495 seconds
+[LightGBM] [Info] Number of data: 473134, number of features: 519
+[LightGBM] [Info] Finished initializing training
+[LightGBM] [Info] Started training...
+[LightGBM] [Info] 0.533987 seconds elapsed, finished iteration 1
+[LightGBM] [Info] 1.000894 seconds elapsed, finished iteration 2
+[LightGBM] [Info] 1.490334 seconds elapsed, finished iteration 3
+[LightGBM] [Info] 1.944058 seconds elapsed, finished iteration 4
+[LightGBM] [Info] 2.433508 seconds elapsed, finished iteration 5
+[LightGBM] [Info] 2.879217 seconds elapsed, finished iteration 6
+[LightGBM] [Info] 3.362287 seconds elapsed, finished iteration 7
+[LightGBM] [Info] 3.802194 seconds elapsed, finished iteration 8
+[LightGBM] [Info] 4.243319 seconds elapsed, finished iteration 9
+[LightGBM] [Info] 4.690485 seconds elapsed, finished iteration 10
+[LightGBM] [Info] 5.118524 seconds elapsed, finished iteration 11
+[LightGBM] [Info] 5.574894 seconds elapsed, finished iteration 12
+[LightGBM] [Info] 6.008162 seconds elapsed, finished iteration 13
+[LightGBM] [Info] 6.449494 seconds elapsed, finished iteration 14
+[LightGBM] [Info] 6.872999 seconds elapsed, finished iteration 15
+[LightGBM] [Info] 7.299451 seconds elapsed, finished iteration 16
+[LightGBM] [Info] 7.706549 seconds elapsed, finished iteration 17
+[LightGBM] [Info] 8.144731 seconds elapsed, finished iteration 18
+[LightGBM] [Info] 8.593812 seconds elapsed, finished iteration 19
+[LightGBM] [Info] 9.026974 seconds elapsed, finished iteration 20
+[LightGBM] [Info] 9.492562 seconds elapsed, finished iteration 21
+[LightGBM] [Info] 9.961455 seconds elapsed, finished iteration 22
+[LightGBM] [Info] 10.395494 seconds elapsed, finished iteration 23
+[LightGBM] [Info] 10.832731 seconds elapsed, finished iteration 24
+[LightGBM] [Info] 11.291632 seconds elapsed, finished iteration 25
+[LightGBM] [Info] 11.767809 seconds elapsed, finished iteration 26
+[LightGBM] [Info] 12.222555 seconds elapsed, finished iteration 27
+[LightGBM] [Info] 12.689462 seconds elapsed, finished iteration 28
+[LightGBM] [Info] 13.151104 seconds elapsed, finished iteration 29
+[LightGBM] [Info] 13.594646 seconds elapsed, finished iteration 30
+[LightGBM] [Info] 14.027028 seconds elapsed, finished iteration 31
+[LightGBM] [Info] 14.470460 seconds elapsed, finished iteration 32
+[LightGBM] [Info] 14.900860 seconds elapsed, finished iteration 33
+[LightGBM] [Info] 15.337914 seconds elapsed, finished iteration 34
+[LightGBM] [Info] 15.775582 seconds elapsed, finished iteration 35
+[LightGBM] [Info] 16.243210 seconds elapsed, finished iteration 36
+[LightGBM] [Info] 16.685621 seconds elapsed, finished iteration 37
+[LightGBM] [Info] 17.167882 seconds elapsed, finished iteration 38
+[LightGBM] [Info] 17.606556 seconds elapsed, finished iteration 39
+[LightGBM] [Info] 18.042226 seconds elapsed, finished iteration 40
+[LightGBM] [Info] 18.477205 seconds elapsed, finished iteration 41
+[LightGBM] [Info] 18.912281 seconds elapsed, finished iteration 42
+[LightGBM] [Info] 19.328725 seconds elapsed, finished iteration 43
+[LightGBM] [Info] 19.754475 seconds elapsed, finished iteration 44
+[LightGBM] [Info] 20.193437 seconds elapsed, finished iteration 45
+[LightGBM] [Info] 20.654646 seconds elapsed, finished iteration 46
+[LightGBM] [Info] 21.089656 seconds elapsed, finished iteration 47
+[LightGBM] [Info] 21.601383 seconds elapsed, finished iteration 48
+[LightGBM] [Info] 22.086581 seconds elapsed, finished iteration 49
+[LightGBM] [Info] 22.530780 seconds elapsed, finished iteration 50
+[LightGBM] [Info] 22.957644 seconds elapsed, finished iteration 51
+[LightGBM] [Info] 23.398327 seconds elapsed, finished iteration 52
+[LightGBM] [Info] 23.826521 seconds elapsed, finished iteration 53
+[LightGBM] [Info] 24.290060 seconds elapsed, finished iteration 54
+[LightGBM] [Info] 24.754147 seconds elapsed, finished iteration 55
+[LightGBM] [Info] 25.183797 seconds elapsed, finished iteration 56
+[LightGBM] [Info] 25.636469 seconds elapsed, finished iteration 57
+[LightGBM] [Info] 26.051185 seconds elapsed, finished iteration 58
+[LightGBM] [Info] 26.523987 seconds elapsed, finished iteration 59
+[LightGBM] [Info] 26.963693 seconds elapsed, finished iteration 60
+[LightGBM] [Info] 27.402936 seconds elapsed, finished iteration 61
+[LightGBM] [Info] 27.862497 seconds elapsed, finished iteration 62
+[LightGBM] [Info] 28.342319 seconds elapsed, finished iteration 63
+[LightGBM] [Info] 28.789749 seconds elapsed, finished iteration 64
+[LightGBM] [Info] 29.214194 seconds elapsed, finished iteration 65
+[LightGBM] [Info] 29.640023 seconds elapsed, finished iteration 66
+[LightGBM] [Info] 30.099319 seconds elapsed, finished iteration 67
+[LightGBM] [Info] 30.515475 seconds elapsed, finished iteration 68
+[LightGBM] [Info] 30.945237 seconds elapsed, finished iteration 69
+[LightGBM] [Info] 31.431895 seconds elapsed, finished iteration 70
+[LightGBM] [Info] 31.946588 seconds elapsed, finished iteration 71
+[LightGBM] [Info] 32.439007 seconds elapsed, finished iteration 72
+[LightGBM] [Info] 32.826294 seconds elapsed, finished iteration 73
+[LightGBM] [Info] 33.277217 seconds elapsed, finished iteration 74
+[LightGBM] [Info] 33.700310 seconds elapsed, finished iteration 75
+[LightGBM] [Info] 34.105782 seconds elapsed, finished iteration 76
+[LightGBM] [Info] 34.525058 seconds elapsed, finished iteration 77
+[LightGBM] [Info] 34.937121 seconds elapsed, finished iteration 78
+[LightGBM] [Info] 35.356099 seconds elapsed, finished iteration 79
+[LightGBM] [Info] 35.787764 seconds elapsed, finished iteration 80
+[LightGBM] [Info] 36.207357 seconds elapsed, finished iteration 81
+[LightGBM] [Info] 36.660747 seconds elapsed, finished iteration 82
+[LightGBM] [Info] 37.051387 seconds elapsed, finished iteration 83
+[LightGBM] [Info] 37.537855 seconds elapsed, finished iteration 84
+[LightGBM] [Info] 37.969582 seconds elapsed, finished iteration 85
+[LightGBM] [Info] 38.371819 seconds elapsed, finished iteration 86
+[LightGBM] [Info] 38.815314 seconds elapsed, finished iteration 87
+[LightGBM] [Info] 39.257394 seconds elapsed, finished iteration 88
+[LightGBM] [Info] 39.696670 seconds elapsed, finished iteration 89
+[LightGBM] [Info] 40.123606 seconds elapsed, finished iteration 90
+[LightGBM] [Info] 40.563522 seconds elapsed, finished iteration 91
+[LightGBM] [Info] 41.025777 seconds elapsed, finished iteration 92
+[LightGBM] [Info] 41.459996 seconds elapsed, finished iteration 93
+[LightGBM] [Info] 41.862816 seconds elapsed, finished iteration 94
+[LightGBM] [Info] 42.300555 seconds elapsed, finished iteration 95
+[LightGBM] [Info] 42.758886 seconds elapsed, finished iteration 96
+[LightGBM] [Info] 43.165392 seconds elapsed, finished iteration 97
+[LightGBM] [Info] 43.553696 seconds elapsed, finished iteration 98
+[LightGBM] [Info] 43.951299 seconds elapsed, finished iteration 99
+[LightGBM] [Info] 44.393292 seconds elapsed, finished iteration 100
+[LightGBM] [Info] 44.795731 seconds elapsed, finished iteration 101
+[LightGBM] [Info] 45.201551 seconds elapsed, finished iteration 102
+[LightGBM] [Info] 45.579476 seconds elapsed, finished iteration 103
+[LightGBM] [Info] 45.993715 seconds elapsed, finished iteration 104
+[LightGBM] [Info] 46.389968 seconds elapsed, finished iteration 105
+[LightGBM] [Info] 46.789613 seconds elapsed, finished iteration 106
+[LightGBM] [Info] 47.179671 seconds elapsed, finished iteration 107
+[LightGBM] [Info] 47.573898 seconds elapsed, finished iteration 108
+[LightGBM] [Info] 47.963123 seconds elapsed, finished iteration 109
+[LightGBM] [Info] 48.344304 seconds elapsed, finished iteration 110
+[LightGBM] [Info] 48.757018 seconds elapsed, finished iteration 111
+[LightGBM] [Info] 49.177869 seconds elapsed, finished iteration 112
+[LightGBM] [Info] 49.563555 seconds elapsed, finished iteration 113
+[LightGBM] [Info] 49.941672 seconds elapsed, finished iteration 114
+[LightGBM] [Info] 50.318730 seconds elapsed, finished iteration 115
+[LightGBM] [Info] 50.690840 seconds elapsed, finished iteration 116
+[LightGBM] [Info] 51.119394 seconds elapsed, finished iteration 117
+[LightGBM] [Info] 51.531262 seconds elapsed, finished iteration 118
+[LightGBM] [Info] 51.935036 seconds elapsed, finished iteration 119
+[LightGBM] [Info] 52.334504 seconds elapsed, finished iteration 120
+[LightGBM] [Info] 52.726938 seconds elapsed, finished iteration 121
+[LightGBM] [Info] 53.073419 seconds elapsed, finished iteration 122
+[LightGBM] [Info] 53.500134 seconds elapsed, finished iteration 123
+[LightGBM] [Info] 53.879992 seconds elapsed, finished iteration 124
+[LightGBM] [Info] 54.270342 seconds elapsed, finished iteration 125
+[LightGBM] [Info] 54.646163 seconds elapsed, finished iteration 126
+[LightGBM] [Info] 55.013299 seconds elapsed, finished iteration 127
+[LightGBM] [Info] 55.424407 seconds elapsed, finished iteration 128
+[LightGBM] [Info] 55.819466 seconds elapsed, finished iteration 129
+[LightGBM] [Info] 56.187258 seconds elapsed, finished iteration 130
+[LightGBM] [Info] 56.562456 seconds elapsed, finished iteration 131
+[LightGBM] [Info] 56.913489 seconds elapsed, finished iteration 132
+[LightGBM] [Info] 57.300645 seconds elapsed, finished iteration 133
+[LightGBM] [Info] 57.712785 seconds elapsed, finished iteration 134
+[LightGBM] [Info] 58.106428 seconds elapsed, finished iteration 135
+[LightGBM] [Info] 58.530948 seconds elapsed, finished iteration 136
+[LightGBM] [Info] 58.937920 seconds elapsed, finished iteration 137
+[LightGBM] [Info] 59.328470 seconds elapsed, finished iteration 138
+[LightGBM] [Info] 59.724647 seconds elapsed, finished iteration 139
+[LightGBM] [Info] 60.104399 seconds elapsed, finished iteration 140
+[LightGBM] [Info] 60.488896 seconds elapsed, finished iteration 141
+[LightGBM] [Info] 60.868722 seconds elapsed, finished iteration 142
+[LightGBM] [Info] 61.193084 seconds elapsed, finished iteration 143
+[LightGBM] [Info] 61.565386 seconds elapsed, finished iteration 144
+[LightGBM] [Info] 61.954848 seconds elapsed, finished iteration 145
+[LightGBM] [Info] 62.343660 seconds elapsed, finished iteration 146
+[LightGBM] [Info] 62.710051 seconds elapsed, finished iteration 147
+[LightGBM] [Info] 63.090745 seconds elapsed, finished iteration 148
+[LightGBM] [Info] 63.452801 seconds elapsed, finished iteration 149
+[LightGBM] [Info] 63.897327 seconds elapsed, finished iteration 150
+[LightGBM] [Info] 64.301285 seconds elapsed, finished iteration 151
+[LightGBM] [Info] 64.728034 seconds elapsed, finished iteration 152
+[LightGBM] [Info] 65.137416 seconds elapsed, finished iteration 153
+[LightGBM] [Info] 65.516443 seconds elapsed, finished iteration 154
+[LightGBM] [Info] 65.896817 seconds elapsed, finished iteration 155
+[LightGBM] [Info] 66.261483 seconds elapsed, finished iteration 156
+[LightGBM] [Info] 66.651223 seconds elapsed, finished iteration 157
+[LightGBM] [Info] 66.991867 seconds elapsed, finished iteration 158
+[LightGBM] [Info] 67.432847 seconds elapsed, finished iteration 159
+[LightGBM] [Info] 67.866491 seconds elapsed, finished iteration 160
+[LightGBM] [Info] 68.262562 seconds elapsed, finished iteration 161
+[LightGBM] [Info] 68.677192 seconds elapsed, finished iteration 162
+[LightGBM] [Info] 69.098035 seconds elapsed, finished iteration 163
+[LightGBM] [Info] 69.421604 seconds elapsed, finished iteration 164
+[LightGBM] [Info] 69.868696 seconds elapsed, finished iteration 165
+[LightGBM] [Info] 70.224581 seconds elapsed, finished iteration 166
+[LightGBM] [Info] 70.579259 seconds elapsed, finished iteration 167
+[LightGBM] [Info] 70.921951 seconds elapsed, finished iteration 168
+[LightGBM] [Info] 71.304834 seconds elapsed, finished iteration 169
+[LightGBM] [Info] 71.713355 seconds elapsed, finished iteration 170
+[LightGBM] [Info] 72.137567 seconds elapsed, finished iteration 171
+[LightGBM] [Info] 72.454324 seconds elapsed, finished iteration 172
+[LightGBM] [Info] 72.835996 seconds elapsed, finished iteration 173
+[LightGBM] [Info] 73.215591 seconds elapsed, finished iteration 174
+[LightGBM] [Info] 73.601322 seconds elapsed, finished iteration 175
+[LightGBM] [Info] 73.969241 seconds elapsed, finished iteration 176
+[LightGBM] [Info] 74.328392 seconds elapsed, finished iteration 177
+[LightGBM] [Info] 74.710673 seconds elapsed, finished iteration 178
+[LightGBM] [Info] 75.048739 seconds elapsed, finished iteration 179
+[LightGBM] [Info] 75.504156 seconds elapsed, finished iteration 180
+[LightGBM] [Info] 75.852264 seconds elapsed, finished iteration 181
+[LightGBM] [Info] 76.294806 seconds elapsed, finished iteration 182
+[LightGBM] [Info] 76.657735 seconds elapsed, finished iteration 183
+[LightGBM] [Info] 77.065271 seconds elapsed, finished iteration 184
+[LightGBM] [Info] 77.518023 seconds elapsed, finished iteration 185
+[LightGBM] [Info] 77.819102 seconds elapsed, finished iteration 186
+[LightGBM] [Info] 78.250855 seconds elapsed, finished iteration 187
+[LightGBM] [Info] 78.654894 seconds elapsed, finished iteration 188
+[LightGBM] [Info] 79.038146 seconds elapsed, finished iteration 189
+[LightGBM] [Info] 79.457526 seconds elapsed, finished iteration 190
+[LightGBM] [Info] 79.847177 seconds elapsed, finished iteration 191
+[LightGBM] [Info] 80.272996 seconds elapsed, finished iteration 192
+[LightGBM] [Info] 80.627775 seconds elapsed, finished iteration 193
+[LightGBM] [Info] 81.021601 seconds elapsed, finished iteration 194
+[LightGBM] [Info] 81.452915 seconds elapsed, finished iteration 195
+[LightGBM] [Info] 81.814626 seconds elapsed, finished iteration 196
+[LightGBM] [Info] 82.246930 seconds elapsed, finished iteration 197
+[LightGBM] [Info] 82.596980 seconds elapsed, finished iteration 198
+[LightGBM] [Info] 82.964216 seconds elapsed, finished iteration 199
+[LightGBM] [Info] 83.289108 seconds elapsed, finished iteration 200
+[LightGBM] [Info] 83.593909 seconds elapsed, finished iteration 201
+[LightGBM] [Info] 83.899304 seconds elapsed, finished iteration 202
+[LightGBM] [Info] 84.302293 seconds elapsed, finished iteration 203
+[LightGBM] [Info] 84.739749 seconds elapsed, finished iteration 204
+[LightGBM] [Info] 85.094299 seconds elapsed, finished iteration 205
+[LightGBM] [Info] 85.474681 seconds elapsed, finished iteration 206
+[LightGBM] [Info] 85.865811 seconds elapsed, finished iteration 207
+[LightGBM] [Info] 86.196940 seconds elapsed, finished iteration 208
+[LightGBM] [Info] 86.588028 seconds elapsed, finished iteration 209
+[LightGBM] [Info] 86.977666 seconds elapsed, finished iteration 210
+[LightGBM] [Info] 87.344379 seconds elapsed, finished iteration 211
+[LightGBM] [Info] 87.651313 seconds elapsed, finished iteration 212
+[LightGBM] [Info] 88.104466 seconds elapsed, finished iteration 213
+[LightGBM] [Info] 88.355984 seconds elapsed, finished iteration 214
+[LightGBM] [Info] 88.725373 seconds elapsed, finished iteration 215
+[LightGBM] [Info] 89.035784 seconds elapsed, finished iteration 216
+[LightGBM] [Info] 89.416728 seconds elapsed, finished iteration 217
+[LightGBM] [Info] 89.768338 seconds elapsed, finished iteration 218
+[LightGBM] [Info] 90.065279 seconds elapsed, finished iteration 219
+[LightGBM] [Info] 90.402215 seconds elapsed, finished iteration 220
+[LightGBM] [Info] 90.776146 seconds elapsed, finished iteration 221
+[LightGBM] [Info] 91.130175 seconds elapsed, finished iteration 222
+[LightGBM] [Info] 91.541185 seconds elapsed, finished iteration 223
+[LightGBM] [Info] 91.979846 seconds elapsed, finished iteration 224
+[LightGBM] [Info] 92.411797 seconds elapsed, finished iteration 225
+[LightGBM] [Info] 92.823948 seconds elapsed, finished iteration 226
+[LightGBM] [Info] 93.221573 seconds elapsed, finished iteration 227
+[LightGBM] [Info] 93.634679 seconds elapsed, finished iteration 228
+[LightGBM] [Info] 94.056915 seconds elapsed, finished iteration 229
+[LightGBM] [Info] 94.419382 seconds elapsed, finished iteration 230
+[LightGBM] [Info] 94.756186 seconds elapsed, finished iteration 231
+[LightGBM] [Info] 95.088688 seconds elapsed, finished iteration 232
+[LightGBM] [Info] 95.468898 seconds elapsed, finished iteration 233
+[LightGBM] [Info] 95.826088 seconds elapsed, finished iteration 234
+[LightGBM] [Info] 96.147931 seconds elapsed, finished iteration 235
+[LightGBM] [Info] 96.466601 seconds elapsed, finished iteration 236
+[LightGBM] [Info] 96.840423 seconds elapsed, finished iteration 237
+[LightGBM] [Info] 97.192891 seconds elapsed, finished iteration 238
+[LightGBM] [Info] 97.580589 seconds elapsed, finished iteration 239
+[LightGBM] [Info] 97.920049 seconds elapsed, finished iteration 240
+[LightGBM] [Info] 98.244039 seconds elapsed, finished iteration 241
+[LightGBM] [Info] 98.605644 seconds elapsed, finished iteration 242
+[LightGBM] [Info] 98.960181 seconds elapsed, finished iteration 243
+[LightGBM] [Info] 99.238125 seconds elapsed, finished iteration 244
+[LightGBM] [Info] 99.575734 seconds elapsed, finished iteration 245
+[LightGBM] [Info] 99.856676 seconds elapsed, finished iteration 246
+[LightGBM] [Info] 100.174350 seconds elapsed, finished iteration 247
+[LightGBM] [Info] 100.518234 seconds elapsed, finished iteration 248
+[LightGBM] [Info] 100.811525 seconds elapsed, finished iteration 249
+[LightGBM] [Info] 101.100121 seconds elapsed, finished iteration 250
+[LightGBM] [Info] 101.428637 seconds elapsed, finished iteration 251
+[LightGBM] [Info] 101.723241 seconds elapsed, finished iteration 252
+[LightGBM] [Info] 102.018314 seconds elapsed, finished iteration 253
+[LightGBM] [Info] 102.313506 seconds elapsed, finished iteration 254
+[LightGBM] [Info] 102.710854 seconds elapsed, finished iteration 255
+[LightGBM] [Info] 103.092095 seconds elapsed, finished iteration 256
+[LightGBM] [Info] 103.402984 seconds elapsed, finished iteration 257
+[LightGBM] [Info] 103.728935 seconds elapsed, finished iteration 258
+[LightGBM] [Info] 104.033984 seconds elapsed, finished iteration 259
+[LightGBM] [Info] 104.341369 seconds elapsed, finished iteration 260
+[LightGBM] [Info] 104.686210 seconds elapsed, finished iteration 261
+[LightGBM] [Info] 104.995963 seconds elapsed, finished iteration 262
+[LightGBM] [Info] 105.277686 seconds elapsed, finished iteration 263
+[LightGBM] [Info] 105.669385 seconds elapsed, finished iteration 264
+[LightGBM] [Info] 106.021916 seconds elapsed, finished iteration 265
+[LightGBM] [Info] 106.427994 seconds elapsed, finished iteration 266
+[LightGBM] [Info] 106.756032 seconds elapsed, finished iteration 267
+[LightGBM] [Info] 107.061709 seconds elapsed, finished iteration 268
+[LightGBM] [Info] 107.383644 seconds elapsed, finished iteration 269
+[LightGBM] [Info] 107.686371 seconds elapsed, finished iteration 270
+[LightGBM] [Info] 108.023007 seconds elapsed, finished iteration 271
+[LightGBM] [Info] 108.309013 seconds elapsed, finished iteration 272
+[LightGBM] [Info] 108.614766 seconds elapsed, finished iteration 273
+[LightGBM] [Info] 108.942029 seconds elapsed, finished iteration 274
+[LightGBM] [Info] 109.290914 seconds elapsed, finished iteration 275
+[LightGBM] [Info] 109.613847 seconds elapsed, finished iteration 276
+[LightGBM] [Info] 109.951342 seconds elapsed, finished iteration 277
+[LightGBM] [Info] 110.276408 seconds elapsed, finished iteration 278
+[LightGBM] [Info] 110.607132 seconds elapsed, finished iteration 279
+[LightGBM] [Info] 110.893683 seconds elapsed, finished iteration 280
+[LightGBM] [Info] 111.181474 seconds elapsed, finished iteration 281
+[LightGBM] [Info] 111.603921 seconds elapsed, finished iteration 282
+[LightGBM] [Info] 111.937213 seconds elapsed, finished iteration 283
+[LightGBM] [Info] 112.229360 seconds elapsed, finished iteration 284
+[LightGBM] [Info] 112.480814 seconds elapsed, finished iteration 285
+[LightGBM] [Info] 112.791146 seconds elapsed, finished iteration 286
+[LightGBM] [Info] 113.096301 seconds elapsed, finished iteration 287
+[LightGBM] [Info] 113.406518 seconds elapsed, finished iteration 288
+[LightGBM] [Info] 113.793950 seconds elapsed, finished iteration 289
+[LightGBM] [Info] 114.081761 seconds elapsed, finished iteration 290
+[LightGBM] [Info] 114.459567 seconds elapsed, finished iteration 291
+[LightGBM] [Info] 114.764069 seconds elapsed, finished iteration 292
+[LightGBM] [Info] 115.063348 seconds elapsed, finished iteration 293
+[LightGBM] [Info] 115.382331 seconds elapsed, finished iteration 294
+[LightGBM] [Info] 115.708800 seconds elapsed, finished iteration 295
+[LightGBM] [Info] 115.998063 seconds elapsed, finished iteration 296
+[LightGBM] [Info] 116.290037 seconds elapsed, finished iteration 297
+[LightGBM] [Info] 116.577204 seconds elapsed, finished iteration 298
+[LightGBM] [Info] 116.866682 seconds elapsed, finished iteration 299
+[LightGBM] [Info] 117.150525 seconds elapsed, finished iteration 300
+[LightGBM] [Info] 117.473153 seconds elapsed, finished iteration 301
+[LightGBM] [Info] 117.809027 seconds elapsed, finished iteration 302
+[LightGBM] [Info] 118.089333 seconds elapsed, finished iteration 303
+[LightGBM] [Info] 118.402229 seconds elapsed, finished iteration 304
+[LightGBM] [Info] 118.738783 seconds elapsed, finished iteration 305
+[LightGBM] [Info] 119.027107 seconds elapsed, finished iteration 306
+[LightGBM] [Info] 119.337138 seconds elapsed, finished iteration 307
+[LightGBM] [Info] 119.789561 seconds elapsed, finished iteration 308
+[LightGBM] [Info] 120.058332 seconds elapsed, finished iteration 309
+[LightGBM] [Info] 120.406893 seconds elapsed, finished iteration 310
+[LightGBM] [Info] 120.790718 seconds elapsed, finished iteration 311
+[LightGBM] [Info] 121.077919 seconds elapsed, finished iteration 312
+[LightGBM] [Info] 121.411441 seconds elapsed, finished iteration 313
+[LightGBM] [Info] 121.714672 seconds elapsed, finished iteration 314
+[LightGBM] [Info] 122.027571 seconds elapsed, finished iteration 315
+[LightGBM] [Info] 122.342003 seconds elapsed, finished iteration 316
+[LightGBM] [Info] 122.624939 seconds elapsed, finished iteration 317
+[LightGBM] [Info] 122.926820 seconds elapsed, finished iteration 318
+[LightGBM] [Info] 123.230262 seconds elapsed, finished iteration 319
+[LightGBM] [Info] 123.562462 seconds elapsed, finished iteration 320
+[LightGBM] [Info] 123.861111 seconds elapsed, finished iteration 321
+[LightGBM] [Info] 124.143066 seconds elapsed, finished iteration 322
+[LightGBM] [Info] 124.417272 seconds elapsed, finished iteration 323
+[LightGBM] [Info] 124.718082 seconds elapsed, finished iteration 324
+[LightGBM] [Info] 124.995722 seconds elapsed, finished iteration 325
+[LightGBM] [Info] 125.292159 seconds elapsed, finished iteration 326
+[LightGBM] [Info] 125.592315 seconds elapsed, finished iteration 327
+[LightGBM] [Info] 125.866212 seconds elapsed, finished iteration 328
+[LightGBM] [Info] 126.146385 seconds elapsed, finished iteration 329
+[LightGBM] [Info] 126.511905 seconds elapsed, finished iteration 330
+[LightGBM] [Info] 126.781948 seconds elapsed, finished iteration 331
+[LightGBM] [Info] 127.117256 seconds elapsed, finished iteration 332
+[LightGBM] [Info] 127.384384 seconds elapsed, finished iteration 333
+[LightGBM] [Info] 127.644152 seconds elapsed, finished iteration 334
+[LightGBM] [Info] 127.940944 seconds elapsed, finished iteration 335
+[LightGBM] [Info] 128.328045 seconds elapsed, finished iteration 336
+[LightGBM] [Info] 128.622881 seconds elapsed, finished iteration 337
+[LightGBM] [Info] 128.911553 seconds elapsed, finished iteration 338
+[LightGBM] [Info] 129.217671 seconds elapsed, finished iteration 339
+[LightGBM] [Info] 129.532503 seconds elapsed, finished iteration 340
+[LightGBM] [Info] 129.846924 seconds elapsed, finished iteration 341
+[LightGBM] [Info] 130.127488 seconds elapsed, finished iteration 342
+[LightGBM] [Info] 130.407224 seconds elapsed, finished iteration 343
+[LightGBM] [Info] 130.729543 seconds elapsed, finished iteration 344
+[LightGBM] [Info] 131.060040 seconds elapsed, finished iteration 345
+[LightGBM] [Info] 131.401536 seconds elapsed, finished iteration 346
+[LightGBM] [Info] 131.781223 seconds elapsed, finished iteration 347
+[LightGBM] [Info] 132.128266 seconds elapsed, finished iteration 348
+[LightGBM] [Info] 132.459632 seconds elapsed, finished iteration 349
+[LightGBM] [Info] 132.747417 seconds elapsed, finished iteration 350
+[LightGBM] [Info] 133.119265 seconds elapsed, finished iteration 351
+[LightGBM] [Info] 133.523767 seconds elapsed, finished iteration 352
+[LightGBM] [Info] 133.833738 seconds elapsed, finished iteration 353
+[LightGBM] [Info] 134.165279 seconds elapsed, finished iteration 354
+[LightGBM] [Info] 134.530826 seconds elapsed, finished iteration 355
+[LightGBM] [Info] 134.864914 seconds elapsed, finished iteration 356
+[LightGBM] [Info] 135.116768 seconds elapsed, finished iteration 357
+[LightGBM] [Info] 135.395314 seconds elapsed, finished iteration 358
+[LightGBM] [Info] 135.671995 seconds elapsed, finished iteration 359
+[LightGBM] [Info] 135.973617 seconds elapsed, finished iteration 360
+[LightGBM] [Info] 136.293893 seconds elapsed, finished iteration 361
+[LightGBM] [Info] 136.686911 seconds elapsed, finished iteration 362
+[LightGBM] [Info] 136.955347 seconds elapsed, finished iteration 363
+[LightGBM] [Info] 137.243156 seconds elapsed, finished iteration 364
+[LightGBM] [Info] 137.525066 seconds elapsed, finished iteration 365
+[LightGBM] [Info] 137.889264 seconds elapsed, finished iteration 366
+[LightGBM] [Info] 138.213946 seconds elapsed, finished iteration 367
+[LightGBM] [Info] 138.500969 seconds elapsed, finished iteration 368
+[LightGBM] [Info] 138.770977 seconds elapsed, finished iteration 369
+[LightGBM] [Info] 139.048213 seconds elapsed, finished iteration 370
+[LightGBM] [Info] 139.359998 seconds elapsed, finished iteration 371
+[LightGBM] [Info] 139.631325 seconds elapsed, finished iteration 372
+[LightGBM] [Info] 139.935295 seconds elapsed, finished iteration 373
+[LightGBM] [Info] 140.220332 seconds elapsed, finished iteration 374
+[LightGBM] [Info] 140.476683 seconds elapsed, finished iteration 375
+[LightGBM] [Info] 140.735426 seconds elapsed, finished iteration 376
+[LightGBM] [Info] 140.968470 seconds elapsed, finished iteration 377
+[LightGBM] [Info] 141.286085 seconds elapsed, finished iteration 378
+[LightGBM] [Info] 141.518117 seconds elapsed, finished iteration 379
+[LightGBM] [Info] 141.748556 seconds elapsed, finished iteration 380
+[LightGBM] [Info] 142.053137 seconds elapsed, finished iteration 381
+[LightGBM] [Info] 142.323380 seconds elapsed, finished iteration 382
+[LightGBM] [Info] 142.635396 seconds elapsed, finished iteration 383
+[LightGBM] [Info] 142.872221 seconds elapsed, finished iteration 384
+[LightGBM] [Info] 143.114713 seconds elapsed, finished iteration 385
+[LightGBM] [Info] 143.424337 seconds elapsed, finished iteration 386
+[LightGBM] [Info] 143.696743 seconds elapsed, finished iteration 387
+[LightGBM] [Info] 143.976621 seconds elapsed, finished iteration 388
+[LightGBM] [Info] 144.254338 seconds elapsed, finished iteration 389
+[LightGBM] [Info] 144.578882 seconds elapsed, finished iteration 390
+[LightGBM] [Info] 144.909389 seconds elapsed, finished iteration 391
+[LightGBM] [Info] 145.200306 seconds elapsed, finished iteration 392
+[LightGBM] [Info] 145.466883 seconds elapsed, finished iteration 393
+[LightGBM] [Info] 145.750459 seconds elapsed, finished iteration 394
+[LightGBM] [Info] 146.062584 seconds elapsed, finished iteration 395
+[LightGBM] [Info] 146.329364 seconds elapsed, finished iteration 396
+[LightGBM] [Info] 146.605255 seconds elapsed, finished iteration 397
+[LightGBM] [Info] 146.854118 seconds elapsed, finished iteration 398
+[LightGBM] [Info] 147.118913 seconds elapsed, finished iteration 399
+[LightGBM] [Info] 147.350042 seconds elapsed, finished iteration 400
+[LightGBM] [Info] 147.611866 seconds elapsed, finished iteration 401
+[LightGBM] [Info] 147.842254 seconds elapsed, finished iteration 402
+[LightGBM] [Info] 148.082651 seconds elapsed, finished iteration 403
+[LightGBM] [Info] 148.340866 seconds elapsed, finished iteration 404
+[LightGBM] [Info] 148.619989 seconds elapsed, finished iteration 405
+[LightGBM] [Info] 148.909766 seconds elapsed, finished iteration 406
+[LightGBM] [Info] 149.224150 seconds elapsed, finished iteration 407
+[LightGBM] [Info] 149.470072 seconds elapsed, finished iteration 408
+[LightGBM] [Info] 149.731746 seconds elapsed, finished iteration 409
+[LightGBM] [Info] 150.010322 seconds elapsed, finished iteration 410
+[LightGBM] [Info] 150.293091 seconds elapsed, finished iteration 411
+[LightGBM] [Info] 150.508694 seconds elapsed, finished iteration 412
+[LightGBM] [Info] 150.758046 seconds elapsed, finished iteration 413
+[LightGBM] [Info] 151.056970 seconds elapsed, finished iteration 414
+[LightGBM] [Info] 151.340506 seconds elapsed, finished iteration 415
+[LightGBM] [Info] 151.592055 seconds elapsed, finished iteration 416
+[LightGBM] [Info] 151.835956 seconds elapsed, finished iteration 417
+[LightGBM] [Info] 152.081259 seconds elapsed, finished iteration 418
+[LightGBM] [Info] 152.364855 seconds elapsed, finished iteration 419
+[LightGBM] [Info] 152.631487 seconds elapsed, finished iteration 420
+[LightGBM] [Info] 152.855398 seconds elapsed, finished iteration 421
+[LightGBM] [Info] 153.100955 seconds elapsed, finished iteration 422
+[LightGBM] [Info] 153.482897 seconds elapsed, finished iteration 423
+[LightGBM] [Info] 153.799815 seconds elapsed, finished iteration 424
+[LightGBM] [Info] 154.065625 seconds elapsed, finished iteration 425
+[LightGBM] [Info] 154.361115 seconds elapsed, finished iteration 426
+[LightGBM] [Info] 154.575648 seconds elapsed, finished iteration 427
+[LightGBM] [Info] 154.852909 seconds elapsed, finished iteration 428
+[LightGBM] [Info] 155.159627 seconds elapsed, finished iteration 429
+[LightGBM] [Info] 155.416045 seconds elapsed, finished iteration 430
+[LightGBM] [Info] 155.680335 seconds elapsed, finished iteration 431
+[LightGBM] [Info] 156.015026 seconds elapsed, finished iteration 432
+[LightGBM] [Info] 156.285707 seconds elapsed, finished iteration 433
+[LightGBM] [Info] 156.591294 seconds elapsed, finished iteration 434
+[LightGBM] [Info] 156.839619 seconds elapsed, finished iteration 435
+[LightGBM] [Info] 157.056841 seconds elapsed, finished iteration 436
+[LightGBM] [Info] 157.312949 seconds elapsed, finished iteration 437
+[LightGBM] [Info] 157.601616 seconds elapsed, finished iteration 438
+[LightGBM] [Info] 157.863593 seconds elapsed, finished iteration 439
+[LightGBM] [Info] 158.192508 seconds elapsed, finished iteration 440
+[LightGBM] [Info] 158.447908 seconds elapsed, finished iteration 441
+[LightGBM] [Info] 158.739738 seconds elapsed, finished iteration 442
+[LightGBM] [Info] 158.990758 seconds elapsed, finished iteration 443
+[LightGBM] [Info] 159.252455 seconds elapsed, finished iteration 444
+[LightGBM] [Info] 159.519239 seconds elapsed, finished iteration 445
+[LightGBM] [Info] 159.826265 seconds elapsed, finished iteration 446
+[LightGBM] [Info] 160.119705 seconds elapsed, finished iteration 447
+[LightGBM] [Info] 160.387866 seconds elapsed, finished iteration 448
+[LightGBM] [Info] 160.623388 seconds elapsed, finished iteration 449
+[LightGBM] [Info] 160.897988 seconds elapsed, finished iteration 450
+[LightGBM] [Info] 161.215195 seconds elapsed, finished iteration 451
+[LightGBM] [Info] 161.559119 seconds elapsed, finished iteration 452
+[LightGBM] [Info] 161.879462 seconds elapsed, finished iteration 453
+[LightGBM] [Info] 162.217020 seconds elapsed, finished iteration 454
+[LightGBM] [Info] 162.522744 seconds elapsed, finished iteration 455
+[LightGBM] [Info] 162.804363 seconds elapsed, finished iteration 456
+[LightGBM] [Info] 163.170029 seconds elapsed, finished iteration 457
+[LightGBM] [Info] 163.435140 seconds elapsed, finished iteration 458
+[LightGBM] [Info] 163.739424 seconds elapsed, finished iteration 459
+[LightGBM] [Info] 163.993535 seconds elapsed, finished iteration 460
+[LightGBM] [Info] 164.297108 seconds elapsed, finished iteration 461
+[LightGBM] [Info] 164.537245 seconds elapsed, finished iteration 462
+[LightGBM] [Info] 164.774260 seconds elapsed, finished iteration 463
+[LightGBM] [Info] 165.112163 seconds elapsed, finished iteration 464
+[LightGBM] [Info] 165.378678 seconds elapsed, finished iteration 465
+[LightGBM] [Info] 165.634890 seconds elapsed, finished iteration 466
+[LightGBM] [Info] 165.910747 seconds elapsed, finished iteration 467
+[LightGBM] [Info] 166.247260 seconds elapsed, finished iteration 468
+[LightGBM] [Info] 166.560681 seconds elapsed, finished iteration 469
+[LightGBM] [Info] 166.882880 seconds elapsed, finished iteration 470
+[LightGBM] [Info] 167.171376 seconds elapsed, finished iteration 471
+[LightGBM] [Info] 167.465599 seconds elapsed, finished iteration 472
+[LightGBM] [Info] 167.779996 seconds elapsed, finished iteration 473
+[LightGBM] [Info] 168.107291 seconds elapsed, finished iteration 474
+[LightGBM] [Info] 168.363757 seconds elapsed, finished iteration 475
+[LightGBM] [Info] 168.673147 seconds elapsed, finished iteration 476
+[LightGBM] [Info] 168.956130 seconds elapsed, finished iteration 477
+[LightGBM] [Info] 169.227068 seconds elapsed, finished iteration 478
+[LightGBM] [Info] 169.525390 seconds elapsed, finished iteration 479
+[LightGBM] [Info] 169.802430 seconds elapsed, finished iteration 480
+[LightGBM] [Info] 170.115975 seconds elapsed, finished iteration 481
+[LightGBM] [Info] 170.409285 seconds elapsed, finished iteration 482
+[LightGBM] [Info] 170.694771 seconds elapsed, finished iteration 483
+[LightGBM] [Info] 170.973119 seconds elapsed, finished iteration 484
+[LightGBM] [Info] 171.315902 seconds elapsed, finished iteration 485
+[LightGBM] [Info] 171.638625 seconds elapsed, finished iteration 486
+[LightGBM] [Info] 171.942677 seconds elapsed, finished iteration 487
+[LightGBM] [Info] 172.227843 seconds elapsed, finished iteration 488
+[LightGBM] [Info] 172.516458 seconds elapsed, finished iteration 489
+[LightGBM] [Info] 172.779384 seconds elapsed, finished iteration 490
+[LightGBM] [Info] 173.036568 seconds elapsed, finished iteration 491
+[LightGBM] [Info] 173.283442 seconds elapsed, finished iteration 492
+[LightGBM] [Info] 173.578314 seconds elapsed, finished iteration 493
+[LightGBM] [Info] 173.835108 seconds elapsed, finished iteration 494
+[LightGBM] [Info] 174.144657 seconds elapsed, finished iteration 495
+[LightGBM] [Info] 174.433929 seconds elapsed, finished iteration 496
+[LightGBM] [Info] 174.745040 seconds elapsed, finished iteration 497
+[LightGBM] [Info] 175.031582 seconds elapsed, finished iteration 498
+[LightGBM] [Info] 175.295777 seconds elapsed, finished iteration 499
+[LightGBM] [Info] 175.559103 seconds elapsed, finished iteration 500
+[LightGBM] [Info] Finished training
