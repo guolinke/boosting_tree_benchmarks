@@ -5,8 +5,7 @@ Speed:
 | Higgs|4604.09 s |2142.72 s |310.648077 s |
 | Yahoo LTR|704.925 s |497.467 s |175.559103 s |
 | MS LTR|1338.28 s |1046.48 s |260.482291 s |
-| Expo one_hot|1897.94 s |800.425 s |931.189741 s |
-| Expo|n/a s |n/a s |116.587805 s |
+| Expo|1897.94 s |800.425 s |116.587805 s |
 
 
 Higgs's AUC:
@@ -38,8 +37,8 @@ ndcg at MS LTR:
 
 auc at Expo:
 
-| Metric      |  xgboost| xgboost_approx |  LightGBM | LightGBM(Categorical support) |
-| ----------- |  -------| -------------- |  -------- | ------------- |
-| auc|0.75548|0.757071|0.780514|0.781061|
+| Metric      |  xgboost| xgboost_approx |  LightGBM |
+| ----------- |  -------| -------------- |  -------- |
+| auc|0.75548|0.757071|0.781061|
 
 

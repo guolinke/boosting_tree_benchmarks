@@ -30,7 +30,6 @@ def GetAccuracyFromXgboost(filename, key):
 lightgbm_speed_result = [GetTimeFromLightGBM('lightgbm/lightgbm_higgs_speed.log')
 	,GetTimeFromLightGBM('lightgbm/lightgbm_yahoo_speed.log')
 	,GetTimeFromLightGBM('lightgbm/lightgbm_msltr_speed.log')
-	,GetTimeFromLightGBM('lightgbm/lightgbm_dataexpo_onehot_speed.log')
 	,GetTimeFromLightGBM('lightgbm/lightgbm_dataexpo_speed.log')]
 
 lightgbm_higgs_accuracy = [GetAccuracyFromLightGBM('lightgbm/lightgbm_higgs_accuracy.log', "auc")]
@@ -52,8 +51,7 @@ lightgbm_expo_accuracy = [GetAccuracyFromLightGBM('lightgbm/lightgbm_dataexpo_ac
 xgboost_speed_result = [GetTimeFromXgboost('xgboost/xgboost_higgs_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_yahoo_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_msltr_speed.log')
-	,GetTimeFromXgboost('xgboost/xgboost_dataexpo_onehot_speed.log'),
-	'n/a']
+	,GetTimeFromXgboost('xgboost/xgboost_dataexpo_onehot_speed.log')]
 
 xgboost_higgs_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_higgs_accuracy.log', "auc")]
 
@@ -72,8 +70,7 @@ xgboost_expo_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_dataexpo_onehot
 xgboost_approx_speed_result = [GetTimeFromXgboost('xgboost/xgboost_approx_higgs_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_approx_yahoo_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_approx_msltr_speed.log')
-	,GetTimeFromXgboost('xgboost/xgboost_approx_dataexpo_onehot_speed.log'),
-	'n/a']
+	,GetTimeFromXgboost('xgboost/xgboost_approx_dataexpo_onehot_speed.log')]
 
 xgboost_approx_higgs_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_higgs_accuracy.log', "auc")]
 
@@ -91,7 +88,7 @@ xgboost_approx_expo_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_d
 
 output = open("result.md", "w")
 output.write("Speed:\n\n")
-Title = ["Higgs", "Yahoo LTR", "MS LTR", "Expo one_hot", "Expo"]
+Title = ["Higgs", "Yahoo LTR", "MS LTR", "Expo"]
 speed_result = [xgboost_speed_result, xgboost_approx_speed_result, lightgbm_speed_result]
 output.write('| Data      |  xgboost| xgboost_approx |  LightGBM|\n')
 output.write('|----|  ----| ---- |  ----|\n')
@@ -145,9 +142,9 @@ output.write('\n\n')
 
 output.write("auc at Expo:\n\n")
 Title = ["auc"]
-speed_result = [xgboost_expo_accuracy, xgboost_approx_expo_accuracy, lightgbm_expo_one_hot_accuracy, lightgbm_expo_accuracy]
-output.write('| Metric      |  xgboost| xgboost_approx |  LightGBM | LightGBM(Categorical support) |\n')
-output.write('| ----------- |  -------| -------------- |  -------- | ------------- |\n')
+speed_result = [xgboost_expo_accuracy, xgboost_approx_expo_accuracy, lightgbm_expo_accuracy]
+output.write('| Metric      |  xgboost| xgboost_approx |  LightGBM |\n')
+output.write('| ----------- |  -------| -------------- |  -------- |\n')
 for i in range(len(Title)):
 	output.write('| ' + Title[i] + '|')
 	for j in range(len(speed_result)):
