@@ -2,9 +2,11 @@ Speed:
 
 | Data      |  xgboost| xgboost_approx |  LightGBM|
 |----|  ----| ---- |  ----|
-| Higgs|4604.09s |2142.72s |310.648077s |
-| Yahoo LTR|704.925s |497.467s |175.559103s |
-| MS LTR|1338.28s |1046.48s |260.482291s |
+| Higgs|4604.09 s |2142.72 s |310.648077 s |
+| Yahoo LTR|704.925 s |497.467 s |175.559103 s |
+| MS LTR|1338.28 s |1046.48 s |260.482291 s |
+| Expo one_hot|1897.94 s |800.425 s |931.189741 s |
+| Expo|n/a s |n/a s |116.587805 s |
 
 
 Higgs's AUC:
@@ -32,5 +34,12 @@ ndcg at MS LTR:
 | ndcg@3|0.472706|0.470275|0.50432|
 | ndcg@5|0.476245|0.474441|0.509229|
 | ndcg@10|0.495091|0.493346|0.526746|
+
+
+auc at Expo:
+
+| Metric      |  xgboost| xgboost_approx |  LightGBM | LightGBM(Categorical support) |
+| ----------- |  -------| -------------- |  -------- | ------------- |
+| auc|0.75548|0.757071|0.780514|0.781061|
 
 
