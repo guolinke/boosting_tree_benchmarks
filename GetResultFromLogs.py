@@ -87,7 +87,7 @@ xgboost_approx_msltr_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_
 xgboost_hist_speed_result = [GetTimeFromXgboost('xgboost/xgboost_hist_higgs_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_hist_yahoo_speed.log')
 	,GetTimeFromXgboost('xgboost/xgboost_hist_msltr_speed.log')
-	,GetTimeFromXgboost('xgboost/xgboost_approx_dataexpo_onehot_speed.log')]
+	,GetTimeFromXgboost('xgboost/xgboost_hist_dataexpo_onehot_speed.log')]
 
 xgboost_hist_higgs_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_hist_higgs_accuracy.log', "auc")]
 
@@ -102,8 +102,9 @@ xgboost_hist_msltr_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_hist_mslt
 ,GetAccuracyFromXgboost('xgboost/xgboost_hist_msltr_accuracy.log', "ndcg@10")]
 
 
-xgboost_approx_expo_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_dataexpo_onehot_accuracy.log', "auc")]
+xgboost_hist_expo_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_hist_dataexpo_onehot_accuracy.log', "auc")]
 
+xgboost_approx_expo_accuracy = [GetAccuracyFromXgboost('xgboost/xgboost_approx_dataexpo_onehot_accuracy.log', "auc")]
 output = open("result.md", "w")
 output.write("Speed:\n\n")
 Title = ["Higgs", "Yahoo LTR", "MS LTR", "Expo"]
@@ -160,7 +161,7 @@ output.write('\n\n')
 
 output.write("auc at Expo:\n\n")
 Title = ["auc"]
-speed_result = [xgboost_expo_accuracy, xgboost_approx_expo_accuracy, xgboost_approx_expo_accuracy ,lightgbm_expo_accuracy]
+speed_result = [xgboost_expo_accuracy, xgboost_approx_expo_accuracy, xgboost_hist_expo_accuracy ,lightgbm_expo_accuracy]
 output.write('| Metric      |  xgboost| xgboost_approx | xgboost_hist |  LightGBM|\n')
 output.write('|----|  ----| ---- | ----- | ----|\n')
 for i in range(len(Title)):
