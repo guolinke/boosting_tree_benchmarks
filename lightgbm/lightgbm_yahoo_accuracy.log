@@ -1,0 +1,2512 @@
+[LightGBM] [Info] Finished loading parameters
+[LightGBM] [Info] Loading query boundaries...
+[LightGBM] [Info] feature clustering: merge 700 features into 514 groups
+[LightGBM] [Info] feature clustering: real groups 518
+[LightGBM] [Info] Cost 0.215887 seconds for bundling
+[LightGBM] [Info] Loading query boundaries...
+[LightGBM] [Info] Finished loading data in 7.136218 seconds
+[LightGBM] [Info] Total Bins 81942
+[LightGBM] [Info] Number of data: 473134, number of used features: 519
+[LightGBM] [Info] Finished initializing training
+[LightGBM] [Info] Started training...
+[LightGBM] [Info] Iteration:1, valid_1 ndcg@1 : 0.660405
+[LightGBM] [Info] Iteration:1, valid_1 ndcg@3 : 0.665974
+[LightGBM] [Info] Iteration:1, valid_1 ndcg@5 : 0.688293
+[LightGBM] [Info] Iteration:1, valid_1 ndcg@10 : 0.738942
+[LightGBM] [Info] 0.535475 seconds elapsed, finished iteration 1
+[LightGBM] [Info] Iteration:2, valid_1 ndcg@1 : 0.675454
+[LightGBM] [Info] Iteration:2, valid_1 ndcg@3 : 0.680212
+[LightGBM] [Info] Iteration:2, valid_1 ndcg@5 : 0.702006
+[LightGBM] [Info] Iteration:2, valid_1 ndcg@10 : 0.750344
+[LightGBM] [Info] 1.050979 seconds elapsed, finished iteration 2
+[LightGBM] [Info] Iteration:3, valid_1 ndcg@1 : 0.677189
+[LightGBM] [Info] Iteration:3, valid_1 ndcg@3 : 0.682276
+[LightGBM] [Info] Iteration:3, valid_1 ndcg@5 : 0.704246
+[LightGBM] [Info] Iteration:3, valid_1 ndcg@10 : 0.752613
+[LightGBM] [Info] 1.566182 seconds elapsed, finished iteration 3
+[LightGBM] [Info] Iteration:4, valid_1 ndcg@1 : 0.678722
+[LightGBM] [Info] Iteration:4, valid_1 ndcg@3 : 0.684953
+[LightGBM] [Info] Iteration:4, valid_1 ndcg@5 : 0.70686
+[LightGBM] [Info] Iteration:4, valid_1 ndcg@10 : 0.754889
+[LightGBM] [Info] 2.034214 seconds elapsed, finished iteration 4
+[LightGBM] [Info] Iteration:5, valid_1 ndcg@1 : 0.683619
+[LightGBM] [Info] Iteration:5, valid_1 ndcg@3 : 0.687413
+[LightGBM] [Info] Iteration:5, valid_1 ndcg@5 : 0.708831
+[LightGBM] [Info] Iteration:5, valid_1 ndcg@10 : 0.756214
+[LightGBM] [Info] 2.547411 seconds elapsed, finished iteration 5
+[LightGBM] [Info] Iteration:6, valid_1 ndcg@1 : 0.683438
+[LightGBM] [Info] Iteration:6, valid_1 ndcg@3 : 0.689047
+[LightGBM] [Info] Iteration:6, valid_1 ndcg@5 : 0.710639
+[LightGBM] [Info] Iteration:6, valid_1 ndcg@10 : 0.75727
+[LightGBM] [Info] 3.022430 seconds elapsed, finished iteration 6
+[LightGBM] [Info] Iteration:7, valid_1 ndcg@1 : 0.684784
+[LightGBM] [Info] Iteration:7, valid_1 ndcg@3 : 0.689653
+[LightGBM] [Info] Iteration:7, valid_1 ndcg@5 : 0.711222
+[LightGBM] [Info] Iteration:7, valid_1 ndcg@10 : 0.758568
+[LightGBM] [Info] 3.465842 seconds elapsed, finished iteration 7
+[LightGBM] [Info] Iteration:8, valid_1 ndcg@1 : 0.69003
+[LightGBM] [Info] Iteration:8, valid_1 ndcg@3 : 0.693935
+[LightGBM] [Info] Iteration:8, valid_1 ndcg@5 : 0.714278
+[LightGBM] [Info] Iteration:8, valid_1 ndcg@10 : 0.760685
+[LightGBM] [Info] 3.924718 seconds elapsed, finished iteration 8
+[LightGBM] [Info] Iteration:9, valid_1 ndcg@1 : 0.687901
+[LightGBM] [Info] Iteration:9, valid_1 ndcg@3 : 0.692772
+[LightGBM] [Info] Iteration:9, valid_1 ndcg@5 : 0.71404
+[LightGBM] [Info] Iteration:9, valid_1 ndcg@10 : 0.760803
+[LightGBM] [Info] 4.382327 seconds elapsed, finished iteration 9
+[LightGBM] [Info] Iteration:10, valid_1 ndcg@1 : 0.689728
+[LightGBM] [Info] Iteration:10, valid_1 ndcg@3 : 0.695468
+[LightGBM] [Info] Iteration:10, valid_1 ndcg@5 : 0.715334
+[LightGBM] [Info] Iteration:10, valid_1 ndcg@10 : 0.761856
+[LightGBM] [Info] 4.824624 seconds elapsed, finished iteration 10
+[LightGBM] [Info] Iteration:11, valid_1 ndcg@1 : 0.693951
+[LightGBM] [Info] Iteration:11, valid_1 ndcg@3 : 0.697741
+[LightGBM] [Info] Iteration:11, valid_1 ndcg@5 : 0.717699
+[LightGBM] [Info] Iteration:11, valid_1 ndcg@10 : 0.763513
+[LightGBM] [Info] 5.256735 seconds elapsed, finished iteration 11
+[LightGBM] [Info] Iteration:12, valid_1 ndcg@1 : 0.693138
+[LightGBM] [Info] Iteration:12, valid_1 ndcg@3 : 0.698125
+[LightGBM] [Info] Iteration:12, valid_1 ndcg@5 : 0.718025
+[LightGBM] [Info] Iteration:12, valid_1 ndcg@10 : 0.763988
+[LightGBM] [Info] 5.722641 seconds elapsed, finished iteration 12
+[LightGBM] [Info] Iteration:13, valid_1 ndcg@1 : 0.695919
+[LightGBM] [Info] Iteration:13, valid_1 ndcg@3 : 0.698803
+[LightGBM] [Info] Iteration:13, valid_1 ndcg@5 : 0.719091
+[LightGBM] [Info] Iteration:13, valid_1 ndcg@10 : 0.764818
+[LightGBM] [Info] 6.213183 seconds elapsed, finished iteration 13
+[LightGBM] [Info] Iteration:14, valid_1 ndcg@1 : 0.696624
+[LightGBM] [Info] Iteration:14, valid_1 ndcg@3 : 0.699138
+[LightGBM] [Info] Iteration:14, valid_1 ndcg@5 : 0.719235
+[LightGBM] [Info] Iteration:14, valid_1 ndcg@10 : 0.765179
+[LightGBM] [Info] 6.641842 seconds elapsed, finished iteration 14
+[LightGBM] [Info] Iteration:15, valid_1 ndcg@1 : 0.697468
+[LightGBM] [Info] Iteration:15, valid_1 ndcg@3 : 0.701478
+[LightGBM] [Info] Iteration:15, valid_1 ndcg@5 : 0.721285
+[LightGBM] [Info] Iteration:15, valid_1 ndcg@10 : 0.766268
+[LightGBM] [Info] 7.075674 seconds elapsed, finished iteration 15
+[LightGBM] [Info] Iteration:16, valid_1 ndcg@1 : 0.700365
+[LightGBM] [Info] Iteration:16, valid_1 ndcg@3 : 0.702425
+[LightGBM] [Info] Iteration:16, valid_1 ndcg@5 : 0.721993
+[LightGBM] [Info] Iteration:16, valid_1 ndcg@10 : 0.767055
+[LightGBM] [Info] 7.544189 seconds elapsed, finished iteration 16
+[LightGBM] [Info] Iteration:17, valid_1 ndcg@1 : 0.701137
+[LightGBM] [Info] Iteration:17, valid_1 ndcg@3 : 0.702907
+[LightGBM] [Info] Iteration:17, valid_1 ndcg@5 : 0.722365
+[LightGBM] [Info] Iteration:17, valid_1 ndcg@10 : 0.767573
+[LightGBM] [Info] 8.027504 seconds elapsed, finished iteration 17
+[LightGBM] [Info] Iteration:18, valid_1 ndcg@1 : 0.699379
+[LightGBM] [Info] Iteration:18, valid_1 ndcg@3 : 0.702661
+[LightGBM] [Info] Iteration:18, valid_1 ndcg@5 : 0.722376
+[LightGBM] [Info] Iteration:18, valid_1 ndcg@10 : 0.767753
+[LightGBM] [Info] 8.482686 seconds elapsed, finished iteration 18
+[LightGBM] [Info] Iteration:19, valid_1 ndcg@1 : 0.699099
+[LightGBM] [Info] Iteration:19, valid_1 ndcg@3 : 0.702613
+[LightGBM] [Info] Iteration:19, valid_1 ndcg@5 : 0.722523
+[LightGBM] [Info] Iteration:19, valid_1 ndcg@10 : 0.768228
+[LightGBM] [Info] 8.924598 seconds elapsed, finished iteration 19
+[LightGBM] [Info] Iteration:20, valid_1 ndcg@1 : 0.699986
+[LightGBM] [Info] Iteration:20, valid_1 ndcg@3 : 0.70367
+[LightGBM] [Info] Iteration:20, valid_1 ndcg@5 : 0.723843
+[LightGBM] [Info] Iteration:20, valid_1 ndcg@10 : 0.769214
+[LightGBM] [Info] 9.387841 seconds elapsed, finished iteration 20
+[LightGBM] [Info] Iteration:21, valid_1 ndcg@1 : 0.700865
+[LightGBM] [Info] Iteration:21, valid_1 ndcg@3 : 0.704416
+[LightGBM] [Info] Iteration:21, valid_1 ndcg@5 : 0.724442
+[LightGBM] [Info] Iteration:21, valid_1 ndcg@10 : 0.769789
+[LightGBM] [Info] 9.810495 seconds elapsed, finished iteration 21
+[LightGBM] [Info] Iteration:22, valid_1 ndcg@1 : 0.701816
+[LightGBM] [Info] Iteration:22, valid_1 ndcg@3 : 0.705588
+[LightGBM] [Info] Iteration:22, valid_1 ndcg@5 : 0.725541
+[LightGBM] [Info] Iteration:22, valid_1 ndcg@10 : 0.77049
+[LightGBM] [Info] 10.270364 seconds elapsed, finished iteration 22
+[LightGBM] [Info] Iteration:23, valid_1 ndcg@1 : 0.70291
+[LightGBM] [Info] Iteration:23, valid_1 ndcg@3 : 0.706345
+[LightGBM] [Info] Iteration:23, valid_1 ndcg@5 : 0.726058
+[LightGBM] [Info] Iteration:23, valid_1 ndcg@10 : 0.770797
+[LightGBM] [Info] 10.697739 seconds elapsed, finished iteration 23
+[LightGBM] [Info] Iteration:24, valid_1 ndcg@1 : 0.70222
+[LightGBM] [Info] Iteration:24, valid_1 ndcg@3 : 0.706709
+[LightGBM] [Info] Iteration:24, valid_1 ndcg@5 : 0.726691
+[LightGBM] [Info] Iteration:24, valid_1 ndcg@10 : 0.771265
+[LightGBM] [Info] 11.126553 seconds elapsed, finished iteration 24
+[LightGBM] [Info] Iteration:25, valid_1 ndcg@1 : 0.702593
+[LightGBM] [Info] Iteration:25, valid_1 ndcg@3 : 0.706819
+[LightGBM] [Info] Iteration:25, valid_1 ndcg@5 : 0.726208
+[LightGBM] [Info] Iteration:25, valid_1 ndcg@10 : 0.771152
+[LightGBM] [Info] 11.542158 seconds elapsed, finished iteration 25
+[LightGBM] [Info] Iteration:26, valid_1 ndcg@1 : 0.705387
+[LightGBM] [Info] Iteration:26, valid_1 ndcg@3 : 0.708449
+[LightGBM] [Info] Iteration:26, valid_1 ndcg@5 : 0.727814
+[LightGBM] [Info] Iteration:26, valid_1 ndcg@10 : 0.772269
+[LightGBM] [Info] 11.965954 seconds elapsed, finished iteration 26
+[LightGBM] [Info] Iteration:27, valid_1 ndcg@1 : 0.70558
+[LightGBM] [Info] Iteration:27, valid_1 ndcg@3 : 0.707984
+[LightGBM] [Info] Iteration:27, valid_1 ndcg@5 : 0.727741
+[LightGBM] [Info] Iteration:27, valid_1 ndcg@10 : 0.772437
+[LightGBM] [Info] 12.411369 seconds elapsed, finished iteration 27
+[LightGBM] [Info] Iteration:28, valid_1 ndcg@1 : 0.706227
+[LightGBM] [Info] Iteration:28, valid_1 ndcg@3 : 0.708338
+[LightGBM] [Info] Iteration:28, valid_1 ndcg@5 : 0.728637
+[LightGBM] [Info] Iteration:28, valid_1 ndcg@10 : 0.77315
+[LightGBM] [Info] 12.806429 seconds elapsed, finished iteration 28
+[LightGBM] [Info] Iteration:29, valid_1 ndcg@1 : 0.706444
+[LightGBM] [Info] Iteration:29, valid_1 ndcg@3 : 0.709277
+[LightGBM] [Info] Iteration:29, valid_1 ndcg@5 : 0.729227
+[LightGBM] [Info] Iteration:29, valid_1 ndcg@10 : 0.77347
+[LightGBM] [Info] 13.214138 seconds elapsed, finished iteration 29
+[LightGBM] [Info] Iteration:30, valid_1 ndcg@1 : 0.705052
+[LightGBM] [Info] Iteration:30, valid_1 ndcg@3 : 0.709522
+[LightGBM] [Info] Iteration:30, valid_1 ndcg@5 : 0.729388
+[LightGBM] [Info] Iteration:30, valid_1 ndcg@10 : 0.773498
+[LightGBM] [Info] 13.650408 seconds elapsed, finished iteration 30
+[LightGBM] [Info] Iteration:31, valid_1 ndcg@1 : 0.705524
+[LightGBM] [Info] Iteration:31, valid_1 ndcg@3 : 0.710031
+[LightGBM] [Info] Iteration:31, valid_1 ndcg@5 : 0.729444
+[LightGBM] [Info] Iteration:31, valid_1 ndcg@10 : 0.773683
+[LightGBM] [Info] 14.072574 seconds elapsed, finished iteration 31
+[LightGBM] [Info] Iteration:32, valid_1 ndcg@1 : 0.705691
+[LightGBM] [Info] Iteration:32, valid_1 ndcg@3 : 0.709794
+[LightGBM] [Info] Iteration:32, valid_1 ndcg@5 : 0.72949
+[LightGBM] [Info] Iteration:32, valid_1 ndcg@10 : 0.773622
+[LightGBM] [Info] 14.495754 seconds elapsed, finished iteration 32
+[LightGBM] [Info] Iteration:33, valid_1 ndcg@1 : 0.706257
+[LightGBM] [Info] Iteration:33, valid_1 ndcg@3 : 0.710353
+[LightGBM] [Info] Iteration:33, valid_1 ndcg@5 : 0.730258
+[LightGBM] [Info] Iteration:33, valid_1 ndcg@10 : 0.773907
+[LightGBM] [Info] 14.942996 seconds elapsed, finished iteration 33
+[LightGBM] [Info] Iteration:34, valid_1 ndcg@1 : 0.706809
+[LightGBM] [Info] Iteration:34, valid_1 ndcg@3 : 0.710506
+[LightGBM] [Info] Iteration:34, valid_1 ndcg@5 : 0.730506
+[LightGBM] [Info] Iteration:34, valid_1 ndcg@10 : 0.774046
+[LightGBM] [Info] 15.436134 seconds elapsed, finished iteration 34
+[LightGBM] [Info] Iteration:35, valid_1 ndcg@1 : 0.707486
+[LightGBM] [Info] Iteration:35, valid_1 ndcg@3 : 0.710787
+[LightGBM] [Info] Iteration:35, valid_1 ndcg@5 : 0.730485
+[LightGBM] [Info] Iteration:35, valid_1 ndcg@10 : 0.774187
+[LightGBM] [Info] 15.855884 seconds elapsed, finished iteration 35
+[LightGBM] [Info] Iteration:36, valid_1 ndcg@1 : 0.709279
+[LightGBM] [Info] Iteration:36, valid_1 ndcg@3 : 0.712068
+[LightGBM] [Info] Iteration:36, valid_1 ndcg@5 : 0.73095
+[LightGBM] [Info] Iteration:36, valid_1 ndcg@10 : 0.77474
+[LightGBM] [Info] 16.306598 seconds elapsed, finished iteration 36
+[LightGBM] [Info] Iteration:37, valid_1 ndcg@1 : 0.70959
+[LightGBM] [Info] Iteration:37, valid_1 ndcg@3 : 0.712696
+[LightGBM] [Info] Iteration:37, valid_1 ndcg@5 : 0.731488
+[LightGBM] [Info] Iteration:37, valid_1 ndcg@10 : 0.775237
+[LightGBM] [Info] 16.760771 seconds elapsed, finished iteration 37
+[LightGBM] [Info] Iteration:38, valid_1 ndcg@1 : 0.709539
+[LightGBM] [Info] Iteration:38, valid_1 ndcg@3 : 0.712639
+[LightGBM] [Info] Iteration:38, valid_1 ndcg@5 : 0.731477
+[LightGBM] [Info] Iteration:38, valid_1 ndcg@10 : 0.775501
+[LightGBM] [Info] 17.165000 seconds elapsed, finished iteration 38
+[LightGBM] [Info] Iteration:39, valid_1 ndcg@1 : 0.710406
+[LightGBM] [Info] Iteration:39, valid_1 ndcg@3 : 0.712734
+[LightGBM] [Info] Iteration:39, valid_1 ndcg@5 : 0.731873
+[LightGBM] [Info] Iteration:39, valid_1 ndcg@10 : 0.775457
+[LightGBM] [Info] 17.622955 seconds elapsed, finished iteration 39
+[LightGBM] [Info] Iteration:40, valid_1 ndcg@1 : 0.710491
+[LightGBM] [Info] Iteration:40, valid_1 ndcg@3 : 0.713425
+[LightGBM] [Info] Iteration:40, valid_1 ndcg@5 : 0.7323
+[LightGBM] [Info] Iteration:40, valid_1 ndcg@10 : 0.775834
+[LightGBM] [Info] 18.062938 seconds elapsed, finished iteration 40
+[LightGBM] [Info] Iteration:41, valid_1 ndcg@1 : 0.71167
+[LightGBM] [Info] Iteration:41, valid_1 ndcg@3 : 0.713741
+[LightGBM] [Info] Iteration:41, valid_1 ndcg@5 : 0.732669
+[LightGBM] [Info] Iteration:41, valid_1 ndcg@10 : 0.77614
+[LightGBM] [Info] 18.460853 seconds elapsed, finished iteration 41
+[LightGBM] [Info] Iteration:42, valid_1 ndcg@1 : 0.711775
+[LightGBM] [Info] Iteration:42, valid_1 ndcg@3 : 0.713597
+[LightGBM] [Info] Iteration:42, valid_1 ndcg@5 : 0.732899
+[LightGBM] [Info] Iteration:42, valid_1 ndcg@10 : 0.776394
+[LightGBM] [Info] 18.861577 seconds elapsed, finished iteration 42
+[LightGBM] [Info] Iteration:43, valid_1 ndcg@1 : 0.711632
+[LightGBM] [Info] Iteration:43, valid_1 ndcg@3 : 0.713712
+[LightGBM] [Info] Iteration:43, valid_1 ndcg@5 : 0.73282
+[LightGBM] [Info] Iteration:43, valid_1 ndcg@10 : 0.776457
+[LightGBM] [Info] 19.295691 seconds elapsed, finished iteration 43
+[LightGBM] [Info] Iteration:44, valid_1 ndcg@1 : 0.710362
+[LightGBM] [Info] Iteration:44, valid_1 ndcg@3 : 0.713939
+[LightGBM] [Info] Iteration:44, valid_1 ndcg@5 : 0.732891
+[LightGBM] [Info] Iteration:44, valid_1 ndcg@10 : 0.776324
+[LightGBM] [Info] 19.753415 seconds elapsed, finished iteration 44
+[LightGBM] [Info] Iteration:45, valid_1 ndcg@1 : 0.712282
+[LightGBM] [Info] Iteration:45, valid_1 ndcg@3 : 0.714333
+[LightGBM] [Info] Iteration:45, valid_1 ndcg@5 : 0.733375
+[LightGBM] [Info] Iteration:45, valid_1 ndcg@10 : 0.776823
+[LightGBM] [Info] 20.172346 seconds elapsed, finished iteration 45
+[LightGBM] [Info] Iteration:46, valid_1 ndcg@1 : 0.711799
+[LightGBM] [Info] Iteration:46, valid_1 ndcg@3 : 0.714616
+[LightGBM] [Info] Iteration:46, valid_1 ndcg@5 : 0.733859
+[LightGBM] [Info] Iteration:46, valid_1 ndcg@10 : 0.777069
+[LightGBM] [Info] 20.620529 seconds elapsed, finished iteration 46
+[LightGBM] [Info] Iteration:47, valid_1 ndcg@1 : 0.713272
+[LightGBM] [Info] Iteration:47, valid_1 ndcg@3 : 0.715286
+[LightGBM] [Info] Iteration:47, valid_1 ndcg@5 : 0.734052
+[LightGBM] [Info] Iteration:47, valid_1 ndcg@10 : 0.777485
+[LightGBM] [Info] 21.077904 seconds elapsed, finished iteration 47
+[LightGBM] [Info] Iteration:48, valid_1 ndcg@1 : 0.712599
+[LightGBM] [Info] Iteration:48, valid_1 ndcg@3 : 0.715413
+[LightGBM] [Info] Iteration:48, valid_1 ndcg@5 : 0.734536
+[LightGBM] [Info] Iteration:48, valid_1 ndcg@10 : 0.777601
+[LightGBM] [Info] 21.523023 seconds elapsed, finished iteration 48
+[LightGBM] [Info] Iteration:49, valid_1 ndcg@1 : 0.712679
+[LightGBM] [Info] Iteration:49, valid_1 ndcg@3 : 0.71567
+[LightGBM] [Info] Iteration:49, valid_1 ndcg@5 : 0.73466
+[LightGBM] [Info] Iteration:49, valid_1 ndcg@10 : 0.777906
+[LightGBM] [Info] 21.942078 seconds elapsed, finished iteration 49
+[LightGBM] [Info] Iteration:50, valid_1 ndcg@1 : 0.713315
+[LightGBM] [Info] Iteration:50, valid_1 ndcg@3 : 0.716069
+[LightGBM] [Info] Iteration:50, valid_1 ndcg@5 : 0.734665
+[LightGBM] [Info] Iteration:50, valid_1 ndcg@10 : 0.778141
+[LightGBM] [Info] 22.356806 seconds elapsed, finished iteration 50
+[LightGBM] [Info] Iteration:51, valid_1 ndcg@1 : 0.712998
+[LightGBM] [Info] Iteration:51, valid_1 ndcg@3 : 0.716229
+[LightGBM] [Info] Iteration:51, valid_1 ndcg@5 : 0.734965
+[LightGBM] [Info] Iteration:51, valid_1 ndcg@10 : 0.77821
+[LightGBM] [Info] 22.761428 seconds elapsed, finished iteration 51
+[LightGBM] [Info] Iteration:52, valid_1 ndcg@1 : 0.713718
+[LightGBM] [Info] Iteration:52, valid_1 ndcg@3 : 0.716556
+[LightGBM] [Info] Iteration:52, valid_1 ndcg@5 : 0.7353
+[LightGBM] [Info] Iteration:52, valid_1 ndcg@10 : 0.778568
+[LightGBM] [Info] 23.154095 seconds elapsed, finished iteration 52
+[LightGBM] [Info] Iteration:53, valid_1 ndcg@1 : 0.714115
+[LightGBM] [Info] Iteration:53, valid_1 ndcg@3 : 0.716739
+[LightGBM] [Info] Iteration:53, valid_1 ndcg@5 : 0.735713
+[LightGBM] [Info] Iteration:53, valid_1 ndcg@10 : 0.778889
+[LightGBM] [Info] 23.548543 seconds elapsed, finished iteration 53
+[LightGBM] [Info] Iteration:54, valid_1 ndcg@1 : 0.714628
+[LightGBM] [Info] Iteration:54, valid_1 ndcg@3 : 0.7165
+[LightGBM] [Info] Iteration:54, valid_1 ndcg@5 : 0.73552
+[LightGBM] [Info] Iteration:54, valid_1 ndcg@10 : 0.779086
+[LightGBM] [Info] 23.966353 seconds elapsed, finished iteration 54
+[LightGBM] [Info] Iteration:55, valid_1 ndcg@1 : 0.713902
+[LightGBM] [Info] Iteration:55, valid_1 ndcg@3 : 0.716717
+[LightGBM] [Info] Iteration:55, valid_1 ndcg@5 : 0.735957
+[LightGBM] [Info] Iteration:55, valid_1 ndcg@10 : 0.778982
+[LightGBM] [Info] 24.378770 seconds elapsed, finished iteration 55
+[LightGBM] [Info] Iteration:56, valid_1 ndcg@1 : 0.714129
+[LightGBM] [Info] Iteration:56, valid_1 ndcg@3 : 0.717403
+[LightGBM] [Info] Iteration:56, valid_1 ndcg@5 : 0.736436
+[LightGBM] [Info] Iteration:56, valid_1 ndcg@10 : 0.779505
+[LightGBM] [Info] 24.809983 seconds elapsed, finished iteration 56
+[LightGBM] [Info] Iteration:57, valid_1 ndcg@1 : 0.71522
+[LightGBM] [Info] Iteration:57, valid_1 ndcg@3 : 0.717372
+[LightGBM] [Info] Iteration:57, valid_1 ndcg@5 : 0.737028
+[LightGBM] [Info] Iteration:57, valid_1 ndcg@10 : 0.779725
+[LightGBM] [Info] 25.201580 seconds elapsed, finished iteration 57
+[LightGBM] [Info] Iteration:58, valid_1 ndcg@1 : 0.716232
+[LightGBM] [Info] Iteration:58, valid_1 ndcg@3 : 0.71783
+[LightGBM] [Info] Iteration:58, valid_1 ndcg@5 : 0.737298
+[LightGBM] [Info] Iteration:58, valid_1 ndcg@10 : 0.780313
+[LightGBM] [Info] 25.612224 seconds elapsed, finished iteration 58
+[LightGBM] [Info] Iteration:59, valid_1 ndcg@1 : 0.716439
+[LightGBM] [Info] Iteration:59, valid_1 ndcg@3 : 0.718708
+[LightGBM] [Info] Iteration:59, valid_1 ndcg@5 : 0.737874
+[LightGBM] [Info] Iteration:59, valid_1 ndcg@10 : 0.780408
+[LightGBM] [Info] 25.981911 seconds elapsed, finished iteration 59
+[LightGBM] [Info] Iteration:60, valid_1 ndcg@1 : 0.717063
+[LightGBM] [Info] Iteration:60, valid_1 ndcg@3 : 0.718678
+[LightGBM] [Info] Iteration:60, valid_1 ndcg@5 : 0.73786
+[LightGBM] [Info] Iteration:60, valid_1 ndcg@10 : 0.78026
+[LightGBM] [Info] 26.402599 seconds elapsed, finished iteration 60
+[LightGBM] [Info] Iteration:61, valid_1 ndcg@1 : 0.717719
+[LightGBM] [Info] Iteration:61, valid_1 ndcg@3 : 0.718731
+[LightGBM] [Info] Iteration:61, valid_1 ndcg@5 : 0.73798
+[LightGBM] [Info] Iteration:61, valid_1 ndcg@10 : 0.780431
+[LightGBM] [Info] 26.835293 seconds elapsed, finished iteration 61
+[LightGBM] [Info] Iteration:62, valid_1 ndcg@1 : 0.717361
+[LightGBM] [Info] Iteration:62, valid_1 ndcg@3 : 0.718168
+[LightGBM] [Info] Iteration:62, valid_1 ndcg@5 : 0.738115
+[LightGBM] [Info] Iteration:62, valid_1 ndcg@10 : 0.780572
+[LightGBM] [Info] 27.238727 seconds elapsed, finished iteration 62
+[LightGBM] [Info] Iteration:63, valid_1 ndcg@1 : 0.71748
+[LightGBM] [Info] Iteration:63, valid_1 ndcg@3 : 0.718763
+[LightGBM] [Info] Iteration:63, valid_1 ndcg@5 : 0.738118
+[LightGBM] [Info] Iteration:63, valid_1 ndcg@10 : 0.780939
+[LightGBM] [Info] 27.642829 seconds elapsed, finished iteration 63
+[LightGBM] [Info] Iteration:64, valid_1 ndcg@1 : 0.717841
+[LightGBM] [Info] Iteration:64, valid_1 ndcg@3 : 0.719211
+[LightGBM] [Info] Iteration:64, valid_1 ndcg@5 : 0.738386
+[LightGBM] [Info] Iteration:64, valid_1 ndcg@10 : 0.781186
+[LightGBM] [Info] 28.035535 seconds elapsed, finished iteration 64
+[LightGBM] [Info] Iteration:65, valid_1 ndcg@1 : 0.718953
+[LightGBM] [Info] Iteration:65, valid_1 ndcg@3 : 0.719297
+[LightGBM] [Info] Iteration:65, valid_1 ndcg@5 : 0.738955
+[LightGBM] [Info] Iteration:65, valid_1 ndcg@10 : 0.781149
+[LightGBM] [Info] 28.424081 seconds elapsed, finished iteration 65
+[LightGBM] [Info] Iteration:66, valid_1 ndcg@1 : 0.720253
+[LightGBM] [Info] Iteration:66, valid_1 ndcg@3 : 0.719812
+[LightGBM] [Info] Iteration:66, valid_1 ndcg@5 : 0.739091
+[LightGBM] [Info] Iteration:66, valid_1 ndcg@10 : 0.781453
+[LightGBM] [Info] 28.828689 seconds elapsed, finished iteration 66
+[LightGBM] [Info] Iteration:67, valid_1 ndcg@1 : 0.719602
+[LightGBM] [Info] Iteration:67, valid_1 ndcg@3 : 0.720182
+[LightGBM] [Info] Iteration:67, valid_1 ndcg@5 : 0.739235
+[LightGBM] [Info] Iteration:67, valid_1 ndcg@10 : 0.78149
+[LightGBM] [Info] 29.213659 seconds elapsed, finished iteration 67
+[LightGBM] [Info] Iteration:68, valid_1 ndcg@1 : 0.719505
+[LightGBM] [Info] Iteration:68, valid_1 ndcg@3 : 0.720642
+[LightGBM] [Info] Iteration:68, valid_1 ndcg@5 : 0.739428
+[LightGBM] [Info] Iteration:68, valid_1 ndcg@10 : 0.781718
+[LightGBM] [Info] 29.602034 seconds elapsed, finished iteration 68
+[LightGBM] [Info] Iteration:69, valid_1 ndcg@1 : 0.719771
+[LightGBM] [Info] Iteration:69, valid_1 ndcg@3 : 0.720694
+[LightGBM] [Info] Iteration:69, valid_1 ndcg@5 : 0.739718
+[LightGBM] [Info] Iteration:69, valid_1 ndcg@10 : 0.781942
+[LightGBM] [Info] 30.021387 seconds elapsed, finished iteration 69
+[LightGBM] [Info] Iteration:70, valid_1 ndcg@1 : 0.720469
+[LightGBM] [Info] Iteration:70, valid_1 ndcg@3 : 0.72105
+[LightGBM] [Info] Iteration:70, valid_1 ndcg@5 : 0.740057
+[LightGBM] [Info] Iteration:70, valid_1 ndcg@10 : 0.782207
+[LightGBM] [Info] 30.462946 seconds elapsed, finished iteration 70
+[LightGBM] [Info] Iteration:71, valid_1 ndcg@1 : 0.720613
+[LightGBM] [Info] Iteration:71, valid_1 ndcg@3 : 0.721136
+[LightGBM] [Info] Iteration:71, valid_1 ndcg@5 : 0.740161
+[LightGBM] [Info] Iteration:71, valid_1 ndcg@10 : 0.782386
+[LightGBM] [Info] 30.852762 seconds elapsed, finished iteration 71
+[LightGBM] [Info] Iteration:72, valid_1 ndcg@1 : 0.720662
+[LightGBM] [Info] Iteration:72, valid_1 ndcg@3 : 0.720797
+[LightGBM] [Info] Iteration:72, valid_1 ndcg@5 : 0.740289
+[LightGBM] [Info] Iteration:72, valid_1 ndcg@10 : 0.78272
+[LightGBM] [Info] 31.270276 seconds elapsed, finished iteration 72
+[LightGBM] [Info] Iteration:73, valid_1 ndcg@1 : 0.719721
+[LightGBM] [Info] Iteration:73, valid_1 ndcg@3 : 0.720765
+[LightGBM] [Info] Iteration:73, valid_1 ndcg@5 : 0.739958
+[LightGBM] [Info] Iteration:73, valid_1 ndcg@10 : 0.78253
+[LightGBM] [Info] 31.643493 seconds elapsed, finished iteration 73
+[LightGBM] [Info] Iteration:74, valid_1 ndcg@1 : 0.720206
+[LightGBM] [Info] Iteration:74, valid_1 ndcg@3 : 0.721016
+[LightGBM] [Info] Iteration:74, valid_1 ndcg@5 : 0.740325
+[LightGBM] [Info] Iteration:74, valid_1 ndcg@10 : 0.782877
+[LightGBM] [Info] 32.046260 seconds elapsed, finished iteration 74
+[LightGBM] [Info] Iteration:75, valid_1 ndcg@1 : 0.720378
+[LightGBM] [Info] Iteration:75, valid_1 ndcg@3 : 0.721001
+[LightGBM] [Info] Iteration:75, valid_1 ndcg@5 : 0.740673
+[LightGBM] [Info] Iteration:75, valid_1 ndcg@10 : 0.783028
+[LightGBM] [Info] 32.438671 seconds elapsed, finished iteration 75
+[LightGBM] [Info] Iteration:76, valid_1 ndcg@1 : 0.719646
+[LightGBM] [Info] Iteration:76, valid_1 ndcg@3 : 0.720779
+[LightGBM] [Info] Iteration:76, valid_1 ndcg@5 : 0.740685
+[LightGBM] [Info] Iteration:76, valid_1 ndcg@10 : 0.783091
+[LightGBM] [Info] 32.814015 seconds elapsed, finished iteration 76
+[LightGBM] [Info] Iteration:77, valid_1 ndcg@1 : 0.721522
+[LightGBM] [Info] Iteration:77, valid_1 ndcg@3 : 0.721174
+[LightGBM] [Info] Iteration:77, valid_1 ndcg@5 : 0.741246
+[LightGBM] [Info] Iteration:77, valid_1 ndcg@10 : 0.783453
+[LightGBM] [Info] 33.176864 seconds elapsed, finished iteration 77
+[LightGBM] [Info] Iteration:78, valid_1 ndcg@1 : 0.721442
+[LightGBM] [Info] Iteration:78, valid_1 ndcg@3 : 0.721211
+[LightGBM] [Info] Iteration:78, valid_1 ndcg@5 : 0.741179
+[LightGBM] [Info] Iteration:78, valid_1 ndcg@10 : 0.783366
+[LightGBM] [Info] 33.589181 seconds elapsed, finished iteration 78
+[LightGBM] [Info] Iteration:79, valid_1 ndcg@1 : 0.720883
+[LightGBM] [Info] Iteration:79, valid_1 ndcg@3 : 0.721095
+[LightGBM] [Info] Iteration:79, valid_1 ndcg@5 : 0.740943
+[LightGBM] [Info] Iteration:79, valid_1 ndcg@10 : 0.783258
+[LightGBM] [Info] 33.958826 seconds elapsed, finished iteration 79
+[LightGBM] [Info] Iteration:80, valid_1 ndcg@1 : 0.721589
+[LightGBM] [Info] Iteration:80, valid_1 ndcg@3 : 0.721632
+[LightGBM] [Info] Iteration:80, valid_1 ndcg@5 : 0.741323
+[LightGBM] [Info] Iteration:80, valid_1 ndcg@10 : 0.783748
+[LightGBM] [Info] 34.355073 seconds elapsed, finished iteration 80
+[LightGBM] [Info] Iteration:81, valid_1 ndcg@1 : 0.721869
+[LightGBM] [Info] Iteration:81, valid_1 ndcg@3 : 0.721686
+[LightGBM] [Info] Iteration:81, valid_1 ndcg@5 : 0.741368
+[LightGBM] [Info] Iteration:81, valid_1 ndcg@10 : 0.783997
+[LightGBM] [Info] 34.753007 seconds elapsed, finished iteration 81
+[LightGBM] [Info] Iteration:82, valid_1 ndcg@1 : 0.721603
+[LightGBM] [Info] Iteration:82, valid_1 ndcg@3 : 0.721766
+[LightGBM] [Info] Iteration:82, valid_1 ndcg@5 : 0.741495
+[LightGBM] [Info] Iteration:82, valid_1 ndcg@10 : 0.783779
+[LightGBM] [Info] 35.118873 seconds elapsed, finished iteration 82
+[LightGBM] [Info] Iteration:83, valid_1 ndcg@1 : 0.721577
+[LightGBM] [Info] Iteration:83, valid_1 ndcg@3 : 0.722032
+[LightGBM] [Info] Iteration:83, valid_1 ndcg@5 : 0.741634
+[LightGBM] [Info] Iteration:83, valid_1 ndcg@10 : 0.783814
+[LightGBM] [Info] 35.497706 seconds elapsed, finished iteration 83
+[LightGBM] [Info] Iteration:84, valid_1 ndcg@1 : 0.720659
+[LightGBM] [Info] Iteration:84, valid_1 ndcg@3 : 0.722642
+[LightGBM] [Info] Iteration:84, valid_1 ndcg@5 : 0.741356
+[LightGBM] [Info] Iteration:84, valid_1 ndcg@10 : 0.783863
+[LightGBM] [Info] 35.885660 seconds elapsed, finished iteration 84
+[LightGBM] [Info] Iteration:85, valid_1 ndcg@1 : 0.720724
+[LightGBM] [Info] Iteration:85, valid_1 ndcg@3 : 0.722854
+[LightGBM] [Info] Iteration:85, valid_1 ndcg@5 : 0.74181
+[LightGBM] [Info] Iteration:85, valid_1 ndcg@10 : 0.784092
+[LightGBM] [Info] 36.279607 seconds elapsed, finished iteration 85
+[LightGBM] [Info] Iteration:86, valid_1 ndcg@1 : 0.72003
+[LightGBM] [Info] Iteration:86, valid_1 ndcg@3 : 0.722888
+[LightGBM] [Info] Iteration:86, valid_1 ndcg@5 : 0.741675
+[LightGBM] [Info] Iteration:86, valid_1 ndcg@10 : 0.783986
+[LightGBM] [Info] 36.671118 seconds elapsed, finished iteration 86
+[LightGBM] [Info] Iteration:87, valid_1 ndcg@1 : 0.720319
+[LightGBM] [Info] Iteration:87, valid_1 ndcg@3 : 0.722864
+[LightGBM] [Info] Iteration:87, valid_1 ndcg@5 : 0.741677
+[LightGBM] [Info] Iteration:87, valid_1 ndcg@10 : 0.784081
+[LightGBM] [Info] 37.036390 seconds elapsed, finished iteration 87
+[LightGBM] [Info] Iteration:88, valid_1 ndcg@1 : 0.721157
+[LightGBM] [Info] Iteration:88, valid_1 ndcg@3 : 0.722969
+[LightGBM] [Info] Iteration:88, valid_1 ndcg@5 : 0.742008
+[LightGBM] [Info] Iteration:88, valid_1 ndcg@10 : 0.784416
+[LightGBM] [Info] 37.415316 seconds elapsed, finished iteration 88
+[LightGBM] [Info] Iteration:89, valid_1 ndcg@1 : 0.720971
+[LightGBM] [Info] Iteration:89, valid_1 ndcg@3 : 0.723299
+[LightGBM] [Info] Iteration:89, valid_1 ndcg@5 : 0.74219
+[LightGBM] [Info] Iteration:89, valid_1 ndcg@10 : 0.784563
+[LightGBM] [Info] 37.790582 seconds elapsed, finished iteration 89
+[LightGBM] [Info] Iteration:90, valid_1 ndcg@1 : 0.721214
+[LightGBM] [Info] Iteration:90, valid_1 ndcg@3 : 0.723616
+[LightGBM] [Info] Iteration:90, valid_1 ndcg@5 : 0.742359
+[LightGBM] [Info] Iteration:90, valid_1 ndcg@10 : 0.78483
+[LightGBM] [Info] 38.155794 seconds elapsed, finished iteration 90
+[LightGBM] [Info] Iteration:91, valid_1 ndcg@1 : 0.72102
+[LightGBM] [Info] Iteration:91, valid_1 ndcg@3 : 0.723776
+[LightGBM] [Info] Iteration:91, valid_1 ndcg@5 : 0.74266
+[LightGBM] [Info] Iteration:91, valid_1 ndcg@10 : 0.784778
+[LightGBM] [Info] 38.570064 seconds elapsed, finished iteration 91
+[LightGBM] [Info] Iteration:92, valid_1 ndcg@1 : 0.720489
+[LightGBM] [Info] Iteration:92, valid_1 ndcg@3 : 0.723394
+[LightGBM] [Info] Iteration:92, valid_1 ndcg@5 : 0.742766
+[LightGBM] [Info] Iteration:92, valid_1 ndcg@10 : 0.784792
+[LightGBM] [Info] 38.947934 seconds elapsed, finished iteration 92
+[LightGBM] [Info] Iteration:93, valid_1 ndcg@1 : 0.721011
+[LightGBM] [Info] Iteration:93, valid_1 ndcg@3 : 0.72374
+[LightGBM] [Info] Iteration:93, valid_1 ndcg@5 : 0.742533
+[LightGBM] [Info] Iteration:93, valid_1 ndcg@10 : 0.784865
+[LightGBM] [Info] 39.323202 seconds elapsed, finished iteration 93
+[LightGBM] [Info] Iteration:94, valid_1 ndcg@1 : 0.721716
+[LightGBM] [Info] Iteration:94, valid_1 ndcg@3 : 0.724033
+[LightGBM] [Info] Iteration:94, valid_1 ndcg@5 : 0.742907
+[LightGBM] [Info] Iteration:94, valid_1 ndcg@10 : 0.785118
+[LightGBM] [Info] 39.715724 seconds elapsed, finished iteration 94
+[LightGBM] [Info] Iteration:95, valid_1 ndcg@1 : 0.721896
+[LightGBM] [Info] Iteration:95, valid_1 ndcg@3 : 0.724041
+[LightGBM] [Info] Iteration:95, valid_1 ndcg@5 : 0.742802
+[LightGBM] [Info] Iteration:95, valid_1 ndcg@10 : 0.784963
+[LightGBM] [Info] 40.082000 seconds elapsed, finished iteration 95
+[LightGBM] [Info] Iteration:96, valid_1 ndcg@1 : 0.721873
+[LightGBM] [Info] Iteration:96, valid_1 ndcg@3 : 0.724579
+[LightGBM] [Info] Iteration:96, valid_1 ndcg@5 : 0.743312
+[LightGBM] [Info] Iteration:96, valid_1 ndcg@10 : 0.785166
+[LightGBM] [Info] 40.437629 seconds elapsed, finished iteration 96
+[LightGBM] [Info] Iteration:97, valid_1 ndcg@1 : 0.722132
+[LightGBM] [Info] Iteration:97, valid_1 ndcg@3 : 0.724175
+[LightGBM] [Info] Iteration:97, valid_1 ndcg@5 : 0.743129
+[LightGBM] [Info] Iteration:97, valid_1 ndcg@10 : 0.785103
+[LightGBM] [Info] 40.841245 seconds elapsed, finished iteration 97
+[LightGBM] [Info] Iteration:98, valid_1 ndcg@1 : 0.722286
+[LightGBM] [Info] Iteration:98, valid_1 ndcg@3 : 0.724227
+[LightGBM] [Info] Iteration:98, valid_1 ndcg@5 : 0.743178
+[LightGBM] [Info] Iteration:98, valid_1 ndcg@10 : 0.785315
+[LightGBM] [Info] 41.228236 seconds elapsed, finished iteration 98
+[LightGBM] [Info] Iteration:99, valid_1 ndcg@1 : 0.722718
+[LightGBM] [Info] Iteration:99, valid_1 ndcg@3 : 0.724838
+[LightGBM] [Info] Iteration:99, valid_1 ndcg@5 : 0.743346
+[LightGBM] [Info] Iteration:99, valid_1 ndcg@10 : 0.785462
+[LightGBM] [Info] 41.680700 seconds elapsed, finished iteration 99
+[LightGBM] [Info] Iteration:100, valid_1 ndcg@1 : 0.722639
+[LightGBM] [Info] Iteration:100, valid_1 ndcg@3 : 0.724717
+[LightGBM] [Info] Iteration:100, valid_1 ndcg@5 : 0.743533
+[LightGBM] [Info] Iteration:100, valid_1 ndcg@10 : 0.785523
+[LightGBM] [Info] 42.068155 seconds elapsed, finished iteration 100
+[LightGBM] [Info] Iteration:101, valid_1 ndcg@1 : 0.72383
+[LightGBM] [Info] Iteration:101, valid_1 ndcg@3 : 0.725212
+[LightGBM] [Info] Iteration:101, valid_1 ndcg@5 : 0.743881
+[LightGBM] [Info] Iteration:101, valid_1 ndcg@10 : 0.786
+[LightGBM] [Info] 42.454696 seconds elapsed, finished iteration 101
+[LightGBM] [Info] Iteration:102, valid_1 ndcg@1 : 0.722736
+[LightGBM] [Info] Iteration:102, valid_1 ndcg@3 : 0.725286
+[LightGBM] [Info] Iteration:102, valid_1 ndcg@5 : 0.743636
+[LightGBM] [Info] Iteration:102, valid_1 ndcg@10 : 0.785865
+[LightGBM] [Info] 42.838455 seconds elapsed, finished iteration 102
+[LightGBM] [Info] Iteration:103, valid_1 ndcg@1 : 0.723283
+[LightGBM] [Info] Iteration:103, valid_1 ndcg@3 : 0.724854
+[LightGBM] [Info] Iteration:103, valid_1 ndcg@5 : 0.743928
+[LightGBM] [Info] Iteration:103, valid_1 ndcg@10 : 0.785985
+[LightGBM] [Info] 43.219948 seconds elapsed, finished iteration 103
+[LightGBM] [Info] Iteration:104, valid_1 ndcg@1 : 0.723643
+[LightGBM] [Info] Iteration:104, valid_1 ndcg@3 : 0.724921
+[LightGBM] [Info] Iteration:104, valid_1 ndcg@5 : 0.744039
+[LightGBM] [Info] Iteration:104, valid_1 ndcg@10 : 0.786007
+[LightGBM] [Info] 43.570031 seconds elapsed, finished iteration 104
+[LightGBM] [Info] Iteration:105, valid_1 ndcg@1 : 0.724258
+[LightGBM] [Info] Iteration:105, valid_1 ndcg@3 : 0.725178
+[LightGBM] [Info] Iteration:105, valid_1 ndcg@5 : 0.744362
+[LightGBM] [Info] Iteration:105, valid_1 ndcg@10 : 0.786175
+[LightGBM] [Info] 43.954423 seconds elapsed, finished iteration 105
+[LightGBM] [Info] Iteration:106, valid_1 ndcg@1 : 0.723793
+[LightGBM] [Info] Iteration:106, valid_1 ndcg@3 : 0.725599
+[LightGBM] [Info] Iteration:106, valid_1 ndcg@5 : 0.744421
+[LightGBM] [Info] Iteration:106, valid_1 ndcg@10 : 0.786266
+[LightGBM] [Info] 44.347341 seconds elapsed, finished iteration 106
+[LightGBM] [Info] Iteration:107, valid_1 ndcg@1 : 0.722971
+[LightGBM] [Info] Iteration:107, valid_1 ndcg@3 : 0.725632
+[LightGBM] [Info] Iteration:107, valid_1 ndcg@5 : 0.74464
+[LightGBM] [Info] Iteration:107, valid_1 ndcg@10 : 0.786493
+[LightGBM] [Info] 44.729194 seconds elapsed, finished iteration 107
+[LightGBM] [Info] Iteration:108, valid_1 ndcg@1 : 0.723449
+[LightGBM] [Info] Iteration:108, valid_1 ndcg@3 : 0.726175
+[LightGBM] [Info] Iteration:108, valid_1 ndcg@5 : 0.744825
+[LightGBM] [Info] Iteration:108, valid_1 ndcg@10 : 0.786511
+[LightGBM] [Info] 45.078357 seconds elapsed, finished iteration 108
+[LightGBM] [Info] Iteration:109, valid_1 ndcg@1 : 0.72426
+[LightGBM] [Info] Iteration:109, valid_1 ndcg@3 : 0.726634
+[LightGBM] [Info] Iteration:109, valid_1 ndcg@5 : 0.744839
+[LightGBM] [Info] Iteration:109, valid_1 ndcg@10 : 0.786773
+[LightGBM] [Info] 45.443672 seconds elapsed, finished iteration 109
+[LightGBM] [Info] Iteration:110, valid_1 ndcg@1 : 0.72365
+[LightGBM] [Info] Iteration:110, valid_1 ndcg@3 : 0.726635
+[LightGBM] [Info] Iteration:110, valid_1 ndcg@5 : 0.744801
+[LightGBM] [Info] Iteration:110, valid_1 ndcg@10 : 0.786724
+[LightGBM] [Info] 45.812526 seconds elapsed, finished iteration 110
+[LightGBM] [Info] Iteration:111, valid_1 ndcg@1 : 0.723665
+[LightGBM] [Info] Iteration:111, valid_1 ndcg@3 : 0.726344
+[LightGBM] [Info] Iteration:111, valid_1 ndcg@5 : 0.744841
+[LightGBM] [Info] Iteration:111, valid_1 ndcg@10 : 0.786655
+[LightGBM] [Info] 46.190121 seconds elapsed, finished iteration 111
+[LightGBM] [Info] Iteration:112, valid_1 ndcg@1 : 0.724111
+[LightGBM] [Info] Iteration:112, valid_1 ndcg@3 : 0.726237
+[LightGBM] [Info] Iteration:112, valid_1 ndcg@5 : 0.744885
+[LightGBM] [Info] Iteration:112, valid_1 ndcg@10 : 0.786649
+[LightGBM] [Info] 46.558561 seconds elapsed, finished iteration 112
+[LightGBM] [Info] Iteration:113, valid_1 ndcg@1 : 0.724532
+[LightGBM] [Info] Iteration:113, valid_1 ndcg@3 : 0.726808
+[LightGBM] [Info] Iteration:113, valid_1 ndcg@5 : 0.74518
+[LightGBM] [Info] Iteration:113, valid_1 ndcg@10 : 0.786897
+[LightGBM] [Info] 46.922979 seconds elapsed, finished iteration 113
+[LightGBM] [Info] Iteration:114, valid_1 ndcg@1 : 0.724673
+[LightGBM] [Info] Iteration:114, valid_1 ndcg@3 : 0.726793
+[LightGBM] [Info] Iteration:114, valid_1 ndcg@5 : 0.745188
+[LightGBM] [Info] Iteration:114, valid_1 ndcg@10 : 0.78711
+[LightGBM] [Info] 47.288875 seconds elapsed, finished iteration 114
+[LightGBM] [Info] Iteration:115, valid_1 ndcg@1 : 0.72485
+[LightGBM] [Info] Iteration:115, valid_1 ndcg@3 : 0.726849
+[LightGBM] [Info] Iteration:115, valid_1 ndcg@5 : 0.745281
+[LightGBM] [Info] Iteration:115, valid_1 ndcg@10 : 0.787034
+[LightGBM] [Info] 47.647065 seconds elapsed, finished iteration 115
+[LightGBM] [Info] Iteration:116, valid_1 ndcg@1 : 0.724661
+[LightGBM] [Info] Iteration:116, valid_1 ndcg@3 : 0.726646
+[LightGBM] [Info] Iteration:116, valid_1 ndcg@5 : 0.745219
+[LightGBM] [Info] Iteration:116, valid_1 ndcg@10 : 0.787173
+[LightGBM] [Info] 48.028634 seconds elapsed, finished iteration 116
+[LightGBM] [Info] Iteration:117, valid_1 ndcg@1 : 0.724391
+[LightGBM] [Info] Iteration:117, valid_1 ndcg@3 : 0.726649
+[LightGBM] [Info] Iteration:117, valid_1 ndcg@5 : 0.7452
+[LightGBM] [Info] Iteration:117, valid_1 ndcg@10 : 0.787116
+[LightGBM] [Info] 48.376029 seconds elapsed, finished iteration 117
+[LightGBM] [Info] Iteration:118, valid_1 ndcg@1 : 0.7251
+[LightGBM] [Info] Iteration:118, valid_1 ndcg@3 : 0.72725
+[LightGBM] [Info] Iteration:118, valid_1 ndcg@5 : 0.745609
+[LightGBM] [Info] Iteration:118, valid_1 ndcg@10 : 0.787129
+[LightGBM] [Info] 48.760705 seconds elapsed, finished iteration 118
+[LightGBM] [Info] Iteration:119, valid_1 ndcg@1 : 0.726245
+[LightGBM] [Info] Iteration:119, valid_1 ndcg@3 : 0.727185
+[LightGBM] [Info] Iteration:119, valid_1 ndcg@5 : 0.746023
+[LightGBM] [Info] Iteration:119, valid_1 ndcg@10 : 0.787465
+[LightGBM] [Info] 49.132299 seconds elapsed, finished iteration 119
+[LightGBM] [Info] Iteration:120, valid_1 ndcg@1 : 0.725877
+[LightGBM] [Info] Iteration:120, valid_1 ndcg@3 : 0.727089
+[LightGBM] [Info] Iteration:120, valid_1 ndcg@5 : 0.746216
+[LightGBM] [Info] Iteration:120, valid_1 ndcg@10 : 0.787422
+[LightGBM] [Info] 49.512495 seconds elapsed, finished iteration 120
+[LightGBM] [Info] Iteration:121, valid_1 ndcg@1 : 0.725598
+[LightGBM] [Info] Iteration:121, valid_1 ndcg@3 : 0.727062
+[LightGBM] [Info] Iteration:121, valid_1 ndcg@5 : 0.746019
+[LightGBM] [Info] Iteration:121, valid_1 ndcg@10 : 0.78742
+[LightGBM] [Info] 49.912390 seconds elapsed, finished iteration 121
+[LightGBM] [Info] Iteration:122, valid_1 ndcg@1 : 0.726151
+[LightGBM] [Info] Iteration:122, valid_1 ndcg@3 : 0.726975
+[LightGBM] [Info] Iteration:122, valid_1 ndcg@5 : 0.746062
+[LightGBM] [Info] Iteration:122, valid_1 ndcg@10 : 0.787553
+[LightGBM] [Info] 50.250535 seconds elapsed, finished iteration 122
+[LightGBM] [Info] Iteration:123, valid_1 ndcg@1 : 0.727199
+[LightGBM] [Info] Iteration:123, valid_1 ndcg@3 : 0.727205
+[LightGBM] [Info] Iteration:123, valid_1 ndcg@5 : 0.746348
+[LightGBM] [Info] Iteration:123, valid_1 ndcg@10 : 0.787833
+[LightGBM] [Info] 50.599610 seconds elapsed, finished iteration 123
+[LightGBM] [Info] Iteration:124, valid_1 ndcg@1 : 0.726791
+[LightGBM] [Info] Iteration:124, valid_1 ndcg@3 : 0.727536
+[LightGBM] [Info] Iteration:124, valid_1 ndcg@5 : 0.746087
+[LightGBM] [Info] Iteration:124, valid_1 ndcg@10 : 0.7878
+[LightGBM] [Info] 50.987349 seconds elapsed, finished iteration 124
+[LightGBM] [Info] Iteration:125, valid_1 ndcg@1 : 0.726405
+[LightGBM] [Info] Iteration:125, valid_1 ndcg@3 : 0.727632
+[LightGBM] [Info] Iteration:125, valid_1 ndcg@5 : 0.746337
+[LightGBM] [Info] Iteration:125, valid_1 ndcg@10 : 0.787799
+[LightGBM] [Info] 51.339895 seconds elapsed, finished iteration 125
+[LightGBM] [Info] Iteration:126, valid_1 ndcg@1 : 0.726168
+[LightGBM] [Info] Iteration:126, valid_1 ndcg@3 : 0.72742
+[LightGBM] [Info] Iteration:126, valid_1 ndcg@5 : 0.746322
+[LightGBM] [Info] Iteration:126, valid_1 ndcg@10 : 0.787857
+[LightGBM] [Info] 51.702982 seconds elapsed, finished iteration 126
+[LightGBM] [Info] Iteration:127, valid_1 ndcg@1 : 0.726233
+[LightGBM] [Info] Iteration:127, valid_1 ndcg@3 : 0.727786
+[LightGBM] [Info] Iteration:127, valid_1 ndcg@5 : 0.74655
+[LightGBM] [Info] Iteration:127, valid_1 ndcg@10 : 0.788057
+[LightGBM] [Info] 52.058058 seconds elapsed, finished iteration 127
+[LightGBM] [Info] Iteration:128, valid_1 ndcg@1 : 0.726421
+[LightGBM] [Info] Iteration:128, valid_1 ndcg@3 : 0.728087
+[LightGBM] [Info] Iteration:128, valid_1 ndcg@5 : 0.746543
+[LightGBM] [Info] Iteration:128, valid_1 ndcg@10 : 0.788087
+[LightGBM] [Info] 52.422832 seconds elapsed, finished iteration 128
+[LightGBM] [Info] Iteration:129, valid_1 ndcg@1 : 0.726177
+[LightGBM] [Info] Iteration:129, valid_1 ndcg@3 : 0.72829
+[LightGBM] [Info] Iteration:129, valid_1 ndcg@5 : 0.746769
+[LightGBM] [Info] Iteration:129, valid_1 ndcg@10 : 0.788217
+[LightGBM] [Info] 52.763146 seconds elapsed, finished iteration 129
+[LightGBM] [Info] Iteration:130, valid_1 ndcg@1 : 0.726005
+[LightGBM] [Info] Iteration:130, valid_1 ndcg@3 : 0.728416
+[LightGBM] [Info] Iteration:130, valid_1 ndcg@5 : 0.746805
+[LightGBM] [Info] Iteration:130, valid_1 ndcg@10 : 0.788207
+[LightGBM] [Info] 53.136866 seconds elapsed, finished iteration 130
+[LightGBM] [Info] Iteration:131, valid_1 ndcg@1 : 0.726873
+[LightGBM] [Info] Iteration:131, valid_1 ndcg@3 : 0.728848
+[LightGBM] [Info] Iteration:131, valid_1 ndcg@5 : 0.747346
+[LightGBM] [Info] Iteration:131, valid_1 ndcg@10 : 0.788726
+[LightGBM] [Info] 53.597491 seconds elapsed, finished iteration 131
+[LightGBM] [Info] Iteration:132, valid_1 ndcg@1 : 0.727276
+[LightGBM] [Info] Iteration:132, valid_1 ndcg@3 : 0.728843
+[LightGBM] [Info] Iteration:132, valid_1 ndcg@5 : 0.747603
+[LightGBM] [Info] Iteration:132, valid_1 ndcg@10 : 0.788828
+[LightGBM] [Info] 53.973497 seconds elapsed, finished iteration 132
+[LightGBM] [Info] Iteration:133, valid_1 ndcg@1 : 0.727591
+[LightGBM] [Info] Iteration:133, valid_1 ndcg@3 : 0.729156
+[LightGBM] [Info] Iteration:133, valid_1 ndcg@5 : 0.747949
+[LightGBM] [Info] Iteration:133, valid_1 ndcg@10 : 0.788992
+[LightGBM] [Info] 54.411191 seconds elapsed, finished iteration 133
+[LightGBM] [Info] Iteration:134, valid_1 ndcg@1 : 0.728073
+[LightGBM] [Info] Iteration:134, valid_1 ndcg@3 : 0.729449
+[LightGBM] [Info] Iteration:134, valid_1 ndcg@5 : 0.74817
+[LightGBM] [Info] Iteration:134, valid_1 ndcg@10 : 0.789234
+[LightGBM] [Info] 54.777288 seconds elapsed, finished iteration 134
+[LightGBM] [Info] Iteration:135, valid_1 ndcg@1 : 0.727838
+[LightGBM] [Info] Iteration:135, valid_1 ndcg@3 : 0.729555
+[LightGBM] [Info] Iteration:135, valid_1 ndcg@5 : 0.748215
+[LightGBM] [Info] Iteration:135, valid_1 ndcg@10 : 0.789075
+[LightGBM] [Info] 55.150926 seconds elapsed, finished iteration 135
+[LightGBM] [Info] Iteration:136, valid_1 ndcg@1 : 0.727616
+[LightGBM] [Info] Iteration:136, valid_1 ndcg@3 : 0.729816
+[LightGBM] [Info] Iteration:136, valid_1 ndcg@5 : 0.748303
+[LightGBM] [Info] Iteration:136, valid_1 ndcg@10 : 0.789014
+[LightGBM] [Info] 55.472280 seconds elapsed, finished iteration 136
+[LightGBM] [Info] Iteration:137, valid_1 ndcg@1 : 0.728515
+[LightGBM] [Info] Iteration:137, valid_1 ndcg@3 : 0.729495
+[LightGBM] [Info] Iteration:137, valid_1 ndcg@5 : 0.748129
+[LightGBM] [Info] Iteration:137, valid_1 ndcg@10 : 0.789158
+[LightGBM] [Info] 55.825259 seconds elapsed, finished iteration 137
+[LightGBM] [Info] Iteration:138, valid_1 ndcg@1 : 0.727859
+[LightGBM] [Info] Iteration:138, valid_1 ndcg@3 : 0.729891
+[LightGBM] [Info] Iteration:138, valid_1 ndcg@5 : 0.748093
+[LightGBM] [Info] Iteration:138, valid_1 ndcg@10 : 0.789187
+[LightGBM] [Info] 56.233752 seconds elapsed, finished iteration 138
+[LightGBM] [Info] Iteration:139, valid_1 ndcg@1 : 0.728181
+[LightGBM] [Info] Iteration:139, valid_1 ndcg@3 : 0.730435
+[LightGBM] [Info] Iteration:139, valid_1 ndcg@5 : 0.748222
+[LightGBM] [Info] Iteration:139, valid_1 ndcg@10 : 0.789304
+[LightGBM] [Info] 56.596271 seconds elapsed, finished iteration 139
+[LightGBM] [Info] Iteration:140, valid_1 ndcg@1 : 0.727763
+[LightGBM] [Info] Iteration:140, valid_1 ndcg@3 : 0.730152
+[LightGBM] [Info] Iteration:140, valid_1 ndcg@5 : 0.748451
+[LightGBM] [Info] Iteration:140, valid_1 ndcg@10 : 0.789365
+[LightGBM] [Info] 56.930064 seconds elapsed, finished iteration 140
+[LightGBM] [Info] Iteration:141, valid_1 ndcg@1 : 0.727972
+[LightGBM] [Info] Iteration:141, valid_1 ndcg@3 : 0.730202
+[LightGBM] [Info] Iteration:141, valid_1 ndcg@5 : 0.748847
+[LightGBM] [Info] Iteration:141, valid_1 ndcg@10 : 0.789298
+[LightGBM] [Info] 57.290852 seconds elapsed, finished iteration 141
+[LightGBM] [Info] Iteration:142, valid_1 ndcg@1 : 0.727755
+[LightGBM] [Info] Iteration:142, valid_1 ndcg@3 : 0.730303
+[LightGBM] [Info] Iteration:142, valid_1 ndcg@5 : 0.748697
+[LightGBM] [Info] Iteration:142, valid_1 ndcg@10 : 0.789665
+[LightGBM] [Info] 57.649679 seconds elapsed, finished iteration 142
+[LightGBM] [Info] Iteration:143, valid_1 ndcg@1 : 0.729141
+[LightGBM] [Info] Iteration:143, valid_1 ndcg@3 : 0.730942
+[LightGBM] [Info] Iteration:143, valid_1 ndcg@5 : 0.749079
+[LightGBM] [Info] Iteration:143, valid_1 ndcg@10 : 0.789925
+[LightGBM] [Info] 57.995456 seconds elapsed, finished iteration 143
+[LightGBM] [Info] Iteration:144, valid_1 ndcg@1 : 0.728145
+[LightGBM] [Info] Iteration:144, valid_1 ndcg@3 : 0.730964
+[LightGBM] [Info] Iteration:144, valid_1 ndcg@5 : 0.749178
+[LightGBM] [Info] Iteration:144, valid_1 ndcg@10 : 0.789831
+[LightGBM] [Info] 58.360565 seconds elapsed, finished iteration 144
+[LightGBM] [Info] Iteration:145, valid_1 ndcg@1 : 0.729009
+[LightGBM] [Info] Iteration:145, valid_1 ndcg@3 : 0.731133
+[LightGBM] [Info] Iteration:145, valid_1 ndcg@5 : 0.749478
+[LightGBM] [Info] Iteration:145, valid_1 ndcg@10 : 0.790058
+[LightGBM] [Info] 58.723376 seconds elapsed, finished iteration 145
+[LightGBM] [Info] Iteration:146, valid_1 ndcg@1 : 0.728548
+[LightGBM] [Info] Iteration:146, valid_1 ndcg@3 : 0.730985
+[LightGBM] [Info] Iteration:146, valid_1 ndcg@5 : 0.748699
+[LightGBM] [Info] Iteration:146, valid_1 ndcg@10 : 0.790007
+[LightGBM] [Info] 59.059783 seconds elapsed, finished iteration 146
+[LightGBM] [Info] Iteration:147, valid_1 ndcg@1 : 0.728324
+[LightGBM] [Info] Iteration:147, valid_1 ndcg@3 : 0.730581
+[LightGBM] [Info] Iteration:147, valid_1 ndcg@5 : 0.748584
+[LightGBM] [Info] Iteration:147, valid_1 ndcg@10 : 0.789941
+[LightGBM] [Info] 59.449680 seconds elapsed, finished iteration 147
+[LightGBM] [Info] Iteration:148, valid_1 ndcg@1 : 0.728837
+[LightGBM] [Info] Iteration:148, valid_1 ndcg@3 : 0.731054
+[LightGBM] [Info] Iteration:148, valid_1 ndcg@5 : 0.749026
+[LightGBM] [Info] Iteration:148, valid_1 ndcg@10 : 0.790299
+[LightGBM] [Info] 59.832296 seconds elapsed, finished iteration 148
+[LightGBM] [Info] Iteration:149, valid_1 ndcg@1 : 0.728153
+[LightGBM] [Info] Iteration:149, valid_1 ndcg@3 : 0.730723
+[LightGBM] [Info] Iteration:149, valid_1 ndcg@5 : 0.748941
+[LightGBM] [Info] Iteration:149, valid_1 ndcg@10 : 0.790152
+[LightGBM] [Info] 60.177122 seconds elapsed, finished iteration 149
+[LightGBM] [Info] Iteration:150, valid_1 ndcg@1 : 0.728471
+[LightGBM] [Info] Iteration:150, valid_1 ndcg@3 : 0.730592
+[LightGBM] [Info] Iteration:150, valid_1 ndcg@5 : 0.748767
+[LightGBM] [Info] Iteration:150, valid_1 ndcg@10 : 0.790007
+[LightGBM] [Info] 60.536152 seconds elapsed, finished iteration 150
+[LightGBM] [Info] Iteration:151, valid_1 ndcg@1 : 0.728603
+[LightGBM] [Info] Iteration:151, valid_1 ndcg@3 : 0.730672
+[LightGBM] [Info] Iteration:151, valid_1 ndcg@5 : 0.748762
+[LightGBM] [Info] Iteration:151, valid_1 ndcg@10 : 0.790004
+[LightGBM] [Info] 60.844970 seconds elapsed, finished iteration 151
+[LightGBM] [Info] Iteration:152, valid_1 ndcg@1 : 0.728452
+[LightGBM] [Info] Iteration:152, valid_1 ndcg@3 : 0.730348
+[LightGBM] [Info] Iteration:152, valid_1 ndcg@5 : 0.748732
+[LightGBM] [Info] Iteration:152, valid_1 ndcg@10 : 0.789884
+[LightGBM] [Info] 61.190013 seconds elapsed, finished iteration 152
+[LightGBM] [Info] Iteration:153, valid_1 ndcg@1 : 0.728301
+[LightGBM] [Info] Iteration:153, valid_1 ndcg@3 : 0.730276
+[LightGBM] [Info] Iteration:153, valid_1 ndcg@5 : 0.748785
+[LightGBM] [Info] Iteration:153, valid_1 ndcg@10 : 0.789929
+[LightGBM] [Info] 61.527696 seconds elapsed, finished iteration 153
+[LightGBM] [Info] Iteration:154, valid_1 ndcg@1 : 0.727667
+[LightGBM] [Info] Iteration:154, valid_1 ndcg@3 : 0.730228
+[LightGBM] [Info] Iteration:154, valid_1 ndcg@5 : 0.748906
+[LightGBM] [Info] Iteration:154, valid_1 ndcg@10 : 0.790084
+[LightGBM] [Info] 61.876859 seconds elapsed, finished iteration 154
+[LightGBM] [Info] Iteration:155, valid_1 ndcg@1 : 0.727529
+[LightGBM] [Info] Iteration:155, valid_1 ndcg@3 : 0.730397
+[LightGBM] [Info] Iteration:155, valid_1 ndcg@5 : 0.74929
+[LightGBM] [Info] Iteration:155, valid_1 ndcg@10 : 0.790029
+[LightGBM] [Info] 62.228150 seconds elapsed, finished iteration 155
+[LightGBM] [Info] Iteration:156, valid_1 ndcg@1 : 0.727476
+[LightGBM] [Info] Iteration:156, valid_1 ndcg@3 : 0.730384
+[LightGBM] [Info] Iteration:156, valid_1 ndcg@5 : 0.749062
+[LightGBM] [Info] Iteration:156, valid_1 ndcg@10 : 0.790073
+[LightGBM] [Info] 62.596646 seconds elapsed, finished iteration 156
+[LightGBM] [Info] Iteration:157, valid_1 ndcg@1 : 0.727439
+[LightGBM] [Info] Iteration:157, valid_1 ndcg@3 : 0.730578
+[LightGBM] [Info] Iteration:157, valid_1 ndcg@5 : 0.749032
+[LightGBM] [Info] Iteration:157, valid_1 ndcg@10 : 0.790244
+[LightGBM] [Info] 62.973926 seconds elapsed, finished iteration 157
+[LightGBM] [Info] Iteration:158, valid_1 ndcg@1 : 0.726852
+[LightGBM] [Info] Iteration:158, valid_1 ndcg@3 : 0.730481
+[LightGBM] [Info] Iteration:158, valid_1 ndcg@5 : 0.749201
+[LightGBM] [Info] Iteration:158, valid_1 ndcg@10 : 0.79018
+[LightGBM] [Info] 63.311992 seconds elapsed, finished iteration 158
+[LightGBM] [Info] Iteration:159, valid_1 ndcg@1 : 0.72693
+[LightGBM] [Info] Iteration:159, valid_1 ndcg@3 : 0.730558
+[LightGBM] [Info] Iteration:159, valid_1 ndcg@5 : 0.749162
+[LightGBM] [Info] Iteration:159, valid_1 ndcg@10 : 0.790074
+[LightGBM] [Info] 63.686665 seconds elapsed, finished iteration 159
+[LightGBM] [Info] Iteration:160, valid_1 ndcg@1 : 0.725648
+[LightGBM] [Info] Iteration:160, valid_1 ndcg@3 : 0.730656
+[LightGBM] [Info] Iteration:160, valid_1 ndcg@5 : 0.749095
+[LightGBM] [Info] Iteration:160, valid_1 ndcg@10 : 0.789873
+[LightGBM] [Info] 64.078365 seconds elapsed, finished iteration 160
+[LightGBM] [Info] Iteration:161, valid_1 ndcg@1 : 0.725817
+[LightGBM] [Info] Iteration:161, valid_1 ndcg@3 : 0.730828
+[LightGBM] [Info] Iteration:161, valid_1 ndcg@5 : 0.749269
+[LightGBM] [Info] Iteration:161, valid_1 ndcg@10 : 0.78989
+[LightGBM] [Info] 64.445556 seconds elapsed, finished iteration 161
+[LightGBM] [Info] Iteration:162, valid_1 ndcg@1 : 0.725701
+[LightGBM] [Info] Iteration:162, valid_1 ndcg@3 : 0.730915
+[LightGBM] [Info] Iteration:162, valid_1 ndcg@5 : 0.749405
+[LightGBM] [Info] Iteration:162, valid_1 ndcg@10 : 0.790036
+[LightGBM] [Info] 64.788665 seconds elapsed, finished iteration 162
+[LightGBM] [Info] Iteration:163, valid_1 ndcg@1 : 0.725532
+[LightGBM] [Info] Iteration:163, valid_1 ndcg@3 : 0.731075
+[LightGBM] [Info] Iteration:163, valid_1 ndcg@5 : 0.749157
+[LightGBM] [Info] Iteration:163, valid_1 ndcg@10 : 0.78999
+[LightGBM] [Info] 65.152500 seconds elapsed, finished iteration 163
+[LightGBM] [Info] Iteration:164, valid_1 ndcg@1 : 0.724972
+[LightGBM] [Info] Iteration:164, valid_1 ndcg@3 : 0.730858
+[LightGBM] [Info] Iteration:164, valid_1 ndcg@5 : 0.749216
+[LightGBM] [Info] Iteration:164, valid_1 ndcg@10 : 0.789981
+[LightGBM] [Info] 65.498676 seconds elapsed, finished iteration 164
+[LightGBM] [Info] Iteration:165, valid_1 ndcg@1 : 0.725325
+[LightGBM] [Info] Iteration:165, valid_1 ndcg@3 : 0.730829
+[LightGBM] [Info] Iteration:165, valid_1 ndcg@5 : 0.749464
+[LightGBM] [Info] Iteration:165, valid_1 ndcg@10 : 0.790253
+[LightGBM] [Info] 65.822635 seconds elapsed, finished iteration 165
+[LightGBM] [Info] Iteration:166, valid_1 ndcg@1 : 0.725168
+[LightGBM] [Info] Iteration:166, valid_1 ndcg@3 : 0.730542
+[LightGBM] [Info] Iteration:166, valid_1 ndcg@5 : 0.749476
+[LightGBM] [Info] Iteration:166, valid_1 ndcg@10 : 0.790477
+[LightGBM] [Info] 66.179866 seconds elapsed, finished iteration 166
+[LightGBM] [Info] Iteration:167, valid_1 ndcg@1 : 0.726074
+[LightGBM] [Info] Iteration:167, valid_1 ndcg@3 : 0.73118
+[LightGBM] [Info] Iteration:167, valid_1 ndcg@5 : 0.749792
+[LightGBM] [Info] Iteration:167, valid_1 ndcg@10 : 0.790679
+[LightGBM] [Info] 66.509856 seconds elapsed, finished iteration 167
+[LightGBM] [Info] Iteration:168, valid_1 ndcg@1 : 0.726798
+[LightGBM] [Info] Iteration:168, valid_1 ndcg@3 : 0.731023
+[LightGBM] [Info] Iteration:168, valid_1 ndcg@5 : 0.749796
+[LightGBM] [Info] Iteration:168, valid_1 ndcg@10 : 0.790758
+[LightGBM] [Info] 66.871032 seconds elapsed, finished iteration 168
+[LightGBM] [Info] Iteration:169, valid_1 ndcg@1 : 0.727101
+[LightGBM] [Info] Iteration:169, valid_1 ndcg@3 : 0.731024
+[LightGBM] [Info] Iteration:169, valid_1 ndcg@5 : 0.749904
+[LightGBM] [Info] Iteration:169, valid_1 ndcg@10 : 0.79083
+[LightGBM] [Info] 67.166311 seconds elapsed, finished iteration 169
+[LightGBM] [Info] Iteration:170, valid_1 ndcg@1 : 0.726551
+[LightGBM] [Info] Iteration:170, valid_1 ndcg@3 : 0.731219
+[LightGBM] [Info] Iteration:170, valid_1 ndcg@5 : 0.750051
+[LightGBM] [Info] Iteration:170, valid_1 ndcg@10 : 0.790786
+[LightGBM] [Info] 67.537236 seconds elapsed, finished iteration 170
+[LightGBM] [Info] Iteration:171, valid_1 ndcg@1 : 0.726685
+[LightGBM] [Info] Iteration:171, valid_1 ndcg@3 : 0.731814
+[LightGBM] [Info] Iteration:171, valid_1 ndcg@5 : 0.750278
+[LightGBM] [Info] Iteration:171, valid_1 ndcg@10 : 0.790989
+[LightGBM] [Info] 67.838969 seconds elapsed, finished iteration 171
+[LightGBM] [Info] Iteration:172, valid_1 ndcg@1 : 0.72593
+[LightGBM] [Info] Iteration:172, valid_1 ndcg@3 : 0.731633
+[LightGBM] [Info] Iteration:172, valid_1 ndcg@5 : 0.750216
+[LightGBM] [Info] Iteration:172, valid_1 ndcg@10 : 0.790955
+[LightGBM] [Info] 68.146140 seconds elapsed, finished iteration 172
+[LightGBM] [Info] Iteration:173, valid_1 ndcg@1 : 0.726352
+[LightGBM] [Info] Iteration:173, valid_1 ndcg@3 : 0.731746
+[LightGBM] [Info] Iteration:173, valid_1 ndcg@5 : 0.750333
+[LightGBM] [Info] Iteration:173, valid_1 ndcg@10 : 0.791006
+[LightGBM] [Info] 68.461901 seconds elapsed, finished iteration 173
+[LightGBM] [Info] Iteration:174, valid_1 ndcg@1 : 0.726502
+[LightGBM] [Info] Iteration:174, valid_1 ndcg@3 : 0.731796
+[LightGBM] [Info] Iteration:174, valid_1 ndcg@5 : 0.750588
+[LightGBM] [Info] Iteration:174, valid_1 ndcg@10 : 0.791122
+[LightGBM] [Info] 68.777149 seconds elapsed, finished iteration 174
+[LightGBM] [Info] Iteration:175, valid_1 ndcg@1 : 0.726869
+[LightGBM] [Info] Iteration:175, valid_1 ndcg@3 : 0.731784
+[LightGBM] [Info] Iteration:175, valid_1 ndcg@5 : 0.750394
+[LightGBM] [Info] Iteration:175, valid_1 ndcg@10 : 0.790969
+[LightGBM] [Info] 69.079149 seconds elapsed, finished iteration 175
+[LightGBM] [Info] Iteration:176, valid_1 ndcg@1 : 0.727478
+[LightGBM] [Info] Iteration:176, valid_1 ndcg@3 : 0.731904
+[LightGBM] [Info] Iteration:176, valid_1 ndcg@5 : 0.75044
+[LightGBM] [Info] Iteration:176, valid_1 ndcg@10 : 0.790942
+[LightGBM] [Info] 69.364744 seconds elapsed, finished iteration 176
+[LightGBM] [Info] Iteration:177, valid_1 ndcg@1 : 0.72901
+[LightGBM] [Info] Iteration:177, valid_1 ndcg@3 : 0.732566
+[LightGBM] [Info] Iteration:177, valid_1 ndcg@5 : 0.750856
+[LightGBM] [Info] Iteration:177, valid_1 ndcg@10 : 0.791265
+[LightGBM] [Info] 69.698609 seconds elapsed, finished iteration 177
+[LightGBM] [Info] Iteration:178, valid_1 ndcg@1 : 0.728842
+[LightGBM] [Info] Iteration:178, valid_1 ndcg@3 : 0.732449
+[LightGBM] [Info] Iteration:178, valid_1 ndcg@5 : 0.75071
+[LightGBM] [Info] Iteration:178, valid_1 ndcg@10 : 0.791271
+[LightGBM] [Info] 70.041513 seconds elapsed, finished iteration 178
+[LightGBM] [Info] Iteration:179, valid_1 ndcg@1 : 0.728932
+[LightGBM] [Info] Iteration:179, valid_1 ndcg@3 : 0.732439
+[LightGBM] [Info] Iteration:179, valid_1 ndcg@5 : 0.750714
+[LightGBM] [Info] Iteration:179, valid_1 ndcg@10 : 0.791302
+[LightGBM] [Info] 70.387071 seconds elapsed, finished iteration 179
+[LightGBM] [Info] Iteration:180, valid_1 ndcg@1 : 0.729746
+[LightGBM] [Info] Iteration:180, valid_1 ndcg@3 : 0.732635
+[LightGBM] [Info] Iteration:180, valid_1 ndcg@5 : 0.750885
+[LightGBM] [Info] Iteration:180, valid_1 ndcg@10 : 0.791414
+[LightGBM] [Info] 70.663424 seconds elapsed, finished iteration 180
+[LightGBM] [Info] Iteration:181, valid_1 ndcg@1 : 0.730276
+[LightGBM] [Info] Iteration:181, valid_1 ndcg@3 : 0.732475
+[LightGBM] [Info] Iteration:181, valid_1 ndcg@5 : 0.751112
+[LightGBM] [Info] Iteration:181, valid_1 ndcg@10 : 0.791573
+[LightGBM] [Info] 71.038712 seconds elapsed, finished iteration 181
+[LightGBM] [Info] Iteration:182, valid_1 ndcg@1 : 0.730139
+[LightGBM] [Info] Iteration:182, valid_1 ndcg@3 : 0.732541
+[LightGBM] [Info] Iteration:182, valid_1 ndcg@5 : 0.750993
+[LightGBM] [Info] Iteration:182, valid_1 ndcg@10 : 0.79158
+[LightGBM] [Info] 71.325874 seconds elapsed, finished iteration 182
+[LightGBM] [Info] Iteration:183, valid_1 ndcg@1 : 0.729918
+[LightGBM] [Info] Iteration:183, valid_1 ndcg@3 : 0.73279
+[LightGBM] [Info] Iteration:183, valid_1 ndcg@5 : 0.750996
+[LightGBM] [Info] Iteration:183, valid_1 ndcg@10 : 0.791596
+[LightGBM] [Info] 71.654511 seconds elapsed, finished iteration 183
+[LightGBM] [Info] Iteration:184, valid_1 ndcg@1 : 0.729486
+[LightGBM] [Info] Iteration:184, valid_1 ndcg@3 : 0.732507
+[LightGBM] [Info] Iteration:184, valid_1 ndcg@5 : 0.750918
+[LightGBM] [Info] Iteration:184, valid_1 ndcg@10 : 0.791674
+[LightGBM] [Info] 71.954107 seconds elapsed, finished iteration 184
+[LightGBM] [Info] Iteration:185, valid_1 ndcg@1 : 0.729375
+[LightGBM] [Info] Iteration:185, valid_1 ndcg@3 : 0.732134
+[LightGBM] [Info] Iteration:185, valid_1 ndcg@5 : 0.750912
+[LightGBM] [Info] Iteration:185, valid_1 ndcg@10 : 0.791597
+[LightGBM] [Info] 72.196907 seconds elapsed, finished iteration 185
+[LightGBM] [Info] Iteration:186, valid_1 ndcg@1 : 0.729951
+[LightGBM] [Info] Iteration:186, valid_1 ndcg@3 : 0.732521
+[LightGBM] [Info] Iteration:186, valid_1 ndcg@5 : 0.750974
+[LightGBM] [Info] Iteration:186, valid_1 ndcg@10 : 0.791648
+[LightGBM] [Info] 72.506125 seconds elapsed, finished iteration 186
+[LightGBM] [Info] Iteration:187, valid_1 ndcg@1 : 0.729281
+[LightGBM] [Info] Iteration:187, valid_1 ndcg@3 : 0.732274
+[LightGBM] [Info] Iteration:187, valid_1 ndcg@5 : 0.751019
+[LightGBM] [Info] Iteration:187, valid_1 ndcg@10 : 0.79165
+[LightGBM] [Info] 72.853860 seconds elapsed, finished iteration 187
+[LightGBM] [Info] Iteration:188, valid_1 ndcg@1 : 0.728805
+[LightGBM] [Info] Iteration:188, valid_1 ndcg@3 : 0.73228
+[LightGBM] [Info] Iteration:188, valid_1 ndcg@5 : 0.751097
+[LightGBM] [Info] Iteration:188, valid_1 ndcg@10 : 0.791734
+[LightGBM] [Info] 73.139545 seconds elapsed, finished iteration 188
+[LightGBM] [Info] Iteration:189, valid_1 ndcg@1 : 0.728155
+[LightGBM] [Info] Iteration:189, valid_1 ndcg@3 : 0.732631
+[LightGBM] [Info] Iteration:189, valid_1 ndcg@5 : 0.751329
+[LightGBM] [Info] Iteration:189, valid_1 ndcg@10 : 0.791787
+[LightGBM] [Info] 73.474689 seconds elapsed, finished iteration 189
+[LightGBM] [Info] Iteration:190, valid_1 ndcg@1 : 0.728314
+[LightGBM] [Info] Iteration:190, valid_1 ndcg@3 : 0.732722
+[LightGBM] [Info] Iteration:190, valid_1 ndcg@5 : 0.751427
+[LightGBM] [Info] Iteration:190, valid_1 ndcg@10 : 0.791984
+[LightGBM] [Info] 73.879838 seconds elapsed, finished iteration 190
+[LightGBM] [Info] Iteration:191, valid_1 ndcg@1 : 0.727882
+[LightGBM] [Info] Iteration:191, valid_1 ndcg@3 : 0.732503
+[LightGBM] [Info] Iteration:191, valid_1 ndcg@5 : 0.75137
+[LightGBM] [Info] Iteration:191, valid_1 ndcg@10 : 0.791764
+[LightGBM] [Info] 74.177386 seconds elapsed, finished iteration 191
+[LightGBM] [Info] Iteration:192, valid_1 ndcg@1 : 0.728013
+[LightGBM] [Info] Iteration:192, valid_1 ndcg@3 : 0.732457
+[LightGBM] [Info] Iteration:192, valid_1 ndcg@5 : 0.751204
+[LightGBM] [Info] Iteration:192, valid_1 ndcg@10 : 0.791803
+[LightGBM] [Info] 74.512854 seconds elapsed, finished iteration 192
+[LightGBM] [Info] Iteration:193, valid_1 ndcg@1 : 0.728601
+[LightGBM] [Info] Iteration:193, valid_1 ndcg@3 : 0.732257
+[LightGBM] [Info] Iteration:193, valid_1 ndcg@5 : 0.751149
+[LightGBM] [Info] Iteration:193, valid_1 ndcg@10 : 0.791775
+[LightGBM] [Info] 74.829717 seconds elapsed, finished iteration 193
+[LightGBM] [Info] Iteration:194, valid_1 ndcg@1 : 0.729681
+[LightGBM] [Info] Iteration:194, valid_1 ndcg@3 : 0.732472
+[LightGBM] [Info] Iteration:194, valid_1 ndcg@5 : 0.751102
+[LightGBM] [Info] Iteration:194, valid_1 ndcg@10 : 0.791823
+[LightGBM] [Info] 75.196258 seconds elapsed, finished iteration 194
+[LightGBM] [Info] Iteration:195, valid_1 ndcg@1 : 0.729294
+[LightGBM] [Info] Iteration:195, valid_1 ndcg@3 : 0.732381
+[LightGBM] [Info] Iteration:195, valid_1 ndcg@5 : 0.751497
+[LightGBM] [Info] Iteration:195, valid_1 ndcg@10 : 0.79181
+[LightGBM] [Info] 75.512585 seconds elapsed, finished iteration 195
+[LightGBM] [Info] Iteration:196, valid_1 ndcg@1 : 0.729415
+[LightGBM] [Info] Iteration:196, valid_1 ndcg@3 : 0.732779
+[LightGBM] [Info] Iteration:196, valid_1 ndcg@5 : 0.751561
+[LightGBM] [Info] Iteration:196, valid_1 ndcg@10 : 0.791894
+[LightGBM] [Info] 75.828604 seconds elapsed, finished iteration 196
+[LightGBM] [Info] Iteration:197, valid_1 ndcg@1 : 0.729816
+[LightGBM] [Info] Iteration:197, valid_1 ndcg@3 : 0.732767
+[LightGBM] [Info] Iteration:197, valid_1 ndcg@5 : 0.751609
+[LightGBM] [Info] Iteration:197, valid_1 ndcg@10 : 0.791884
+[LightGBM] [Info] 76.182047 seconds elapsed, finished iteration 197
+[LightGBM] [Info] Iteration:198, valid_1 ndcg@1 : 0.730382
+[LightGBM] [Info] Iteration:198, valid_1 ndcg@3 : 0.733042
+[LightGBM] [Info] Iteration:198, valid_1 ndcg@5 : 0.751625
+[LightGBM] [Info] Iteration:198, valid_1 ndcg@10 : 0.791906
+[LightGBM] [Info] 76.503470 seconds elapsed, finished iteration 198
+[LightGBM] [Info] Iteration:199, valid_1 ndcg@1 : 0.730513
+[LightGBM] [Info] Iteration:199, valid_1 ndcg@3 : 0.733263
+[LightGBM] [Info] Iteration:199, valid_1 ndcg@5 : 0.751725
+[LightGBM] [Info] Iteration:199, valid_1 ndcg@10 : 0.791952
+[LightGBM] [Info] 76.837600 seconds elapsed, finished iteration 199
+[LightGBM] [Info] Iteration:200, valid_1 ndcg@1 : 0.730135
+[LightGBM] [Info] Iteration:200, valid_1 ndcg@3 : 0.733162
+[LightGBM] [Info] Iteration:200, valid_1 ndcg@5 : 0.751723
+[LightGBM] [Info] Iteration:200, valid_1 ndcg@10 : 0.79202
+[LightGBM] [Info] 77.126472 seconds elapsed, finished iteration 200
+[LightGBM] [Info] Iteration:201, valid_1 ndcg@1 : 0.729898
+[LightGBM] [Info] Iteration:201, valid_1 ndcg@3 : 0.732896
+[LightGBM] [Info] Iteration:201, valid_1 ndcg@5 : 0.751646
+[LightGBM] [Info] Iteration:201, valid_1 ndcg@10 : 0.791995
+[LightGBM] [Info] 77.457074 seconds elapsed, finished iteration 201
+[LightGBM] [Info] Iteration:202, valid_1 ndcg@1 : 0.729746
+[LightGBM] [Info] Iteration:202, valid_1 ndcg@3 : 0.733007
+[LightGBM] [Info] Iteration:202, valid_1 ndcg@5 : 0.751567
+[LightGBM] [Info] Iteration:202, valid_1 ndcg@10 : 0.792048
+[LightGBM] [Info] 77.748035 seconds elapsed, finished iteration 202
+[LightGBM] [Info] Iteration:203, valid_1 ndcg@1 : 0.72968
+[LightGBM] [Info] Iteration:203, valid_1 ndcg@3 : 0.733082
+[LightGBM] [Info] Iteration:203, valid_1 ndcg@5 : 0.75132
+[LightGBM] [Info] Iteration:203, valid_1 ndcg@10 : 0.791962
+[LightGBM] [Info] 78.097894 seconds elapsed, finished iteration 203
+[LightGBM] [Info] Iteration:204, valid_1 ndcg@1 : 0.729647
+[LightGBM] [Info] Iteration:204, valid_1 ndcg@3 : 0.733183
+[LightGBM] [Info] Iteration:204, valid_1 ndcg@5 : 0.75167
+[LightGBM] [Info] Iteration:204, valid_1 ndcg@10 : 0.792027
+[LightGBM] [Info] 78.374981 seconds elapsed, finished iteration 204
+[LightGBM] [Info] Iteration:205, valid_1 ndcg@1 : 0.729344
+[LightGBM] [Info] Iteration:205, valid_1 ndcg@3 : 0.732859
+[LightGBM] [Info] Iteration:205, valid_1 ndcg@5 : 0.75172
+[LightGBM] [Info] Iteration:205, valid_1 ndcg@10 : 0.791867
+[LightGBM] [Info] 78.656085 seconds elapsed, finished iteration 205
+[LightGBM] [Info] Iteration:206, valid_1 ndcg@1 : 0.729221
+[LightGBM] [Info] Iteration:206, valid_1 ndcg@3 : 0.732672
+[LightGBM] [Info] Iteration:206, valid_1 ndcg@5 : 0.751915
+[LightGBM] [Info] Iteration:206, valid_1 ndcg@10 : 0.791927
+[LightGBM] [Info] 78.986071 seconds elapsed, finished iteration 206
+[LightGBM] [Info] Iteration:207, valid_1 ndcg@1 : 0.7297
+[LightGBM] [Info] Iteration:207, valid_1 ndcg@3 : 0.732648
+[LightGBM] [Info] Iteration:207, valid_1 ndcg@5 : 0.751892
+[LightGBM] [Info] Iteration:207, valid_1 ndcg@10 : 0.791976
+[LightGBM] [Info] 79.285714 seconds elapsed, finished iteration 207
+[LightGBM] [Info] Iteration:208, valid_1 ndcg@1 : 0.729052
+[LightGBM] [Info] Iteration:208, valid_1 ndcg@3 : 0.732892
+[LightGBM] [Info] Iteration:208, valid_1 ndcg@5 : 0.751908
+[LightGBM] [Info] Iteration:208, valid_1 ndcg@10 : 0.791959
+[LightGBM] [Info] 79.624803 seconds elapsed, finished iteration 208
+[LightGBM] [Info] Iteration:209, valid_1 ndcg@1 : 0.729647
+[LightGBM] [Info] Iteration:209, valid_1 ndcg@3 : 0.732907
+[LightGBM] [Info] Iteration:209, valid_1 ndcg@5 : 0.752092
+[LightGBM] [Info] Iteration:209, valid_1 ndcg@10 : 0.792072
+[LightGBM] [Info] 80.000356 seconds elapsed, finished iteration 209
+[LightGBM] [Info] Iteration:210, valid_1 ndcg@1 : 0.729288
+[LightGBM] [Info] Iteration:210, valid_1 ndcg@3 : 0.732931
+[LightGBM] [Info] Iteration:210, valid_1 ndcg@5 : 0.75196
+[LightGBM] [Info] Iteration:210, valid_1 ndcg@10 : 0.792089
+[LightGBM] [Info] 80.276688 seconds elapsed, finished iteration 210
+[LightGBM] [Info] Iteration:211, valid_1 ndcg@1 : 0.72957
+[LightGBM] [Info] Iteration:211, valid_1 ndcg@3 : 0.732916
+[LightGBM] [Info] Iteration:211, valid_1 ndcg@5 : 0.752031
+[LightGBM] [Info] Iteration:211, valid_1 ndcg@10 : 0.792023
+[LightGBM] [Info] 80.573992 seconds elapsed, finished iteration 211
+[LightGBM] [Info] Iteration:212, valid_1 ndcg@1 : 0.728897
+[LightGBM] [Info] Iteration:212, valid_1 ndcg@3 : 0.73298
+[LightGBM] [Info] Iteration:212, valid_1 ndcg@5 : 0.75196
+[LightGBM] [Info] Iteration:212, valid_1 ndcg@10 : 0.792007
+[LightGBM] [Info] 80.849084 seconds elapsed, finished iteration 212
+[LightGBM] [Info] Iteration:213, valid_1 ndcg@1 : 0.729377
+[LightGBM] [Info] Iteration:213, valid_1 ndcg@3 : 0.733035
+[LightGBM] [Info] Iteration:213, valid_1 ndcg@5 : 0.751895
+[LightGBM] [Info] Iteration:213, valid_1 ndcg@10 : 0.791951
+[LightGBM] [Info] 81.173091 seconds elapsed, finished iteration 213
+[LightGBM] [Info] Iteration:214, valid_1 ndcg@1 : 0.728966
+[LightGBM] [Info] Iteration:214, valid_1 ndcg@3 : 0.733038
+[LightGBM] [Info] Iteration:214, valid_1 ndcg@5 : 0.751925
+[LightGBM] [Info] Iteration:214, valid_1 ndcg@10 : 0.791931
+[LightGBM] [Info] 81.475255 seconds elapsed, finished iteration 214
+[LightGBM] [Info] Iteration:215, valid_1 ndcg@1 : 0.729412
+[LightGBM] [Info] Iteration:215, valid_1 ndcg@3 : 0.733545
+[LightGBM] [Info] Iteration:215, valid_1 ndcg@5 : 0.751809
+[LightGBM] [Info] Iteration:215, valid_1 ndcg@10 : 0.792042
+[LightGBM] [Info] 81.715636 seconds elapsed, finished iteration 215
+[LightGBM] [Info] Iteration:216, valid_1 ndcg@1 : 0.729329
+[LightGBM] [Info] Iteration:216, valid_1 ndcg@3 : 0.733525
+[LightGBM] [Info] Iteration:216, valid_1 ndcg@5 : 0.751978
+[LightGBM] [Info] Iteration:216, valid_1 ndcg@10 : 0.792154
+[LightGBM] [Info] 82.030483 seconds elapsed, finished iteration 216
+[LightGBM] [Info] Iteration:217, valid_1 ndcg@1 : 0.72982
+[LightGBM] [Info] Iteration:217, valid_1 ndcg@3 : 0.733393
+[LightGBM] [Info] Iteration:217, valid_1 ndcg@5 : 0.751919
+[LightGBM] [Info] Iteration:217, valid_1 ndcg@10 : 0.79218
+[LightGBM] [Info] 82.363481 seconds elapsed, finished iteration 217
+[LightGBM] [Info] Iteration:218, valid_1 ndcg@1 : 0.729157
+[LightGBM] [Info] Iteration:218, valid_1 ndcg@3 : 0.733327
+[LightGBM] [Info] Iteration:218, valid_1 ndcg@5 : 0.751616
+[LightGBM] [Info] Iteration:218, valid_1 ndcg@10 : 0.79205
+[LightGBM] [Info] 82.743542 seconds elapsed, finished iteration 218
+[LightGBM] [Info] Iteration:219, valid_1 ndcg@1 : 0.728767
+[LightGBM] [Info] Iteration:219, valid_1 ndcg@3 : 0.733479
+[LightGBM] [Info] Iteration:219, valid_1 ndcg@5 : 0.751492
+[LightGBM] [Info] Iteration:219, valid_1 ndcg@10 : 0.792046
+[LightGBM] [Info] 83.021656 seconds elapsed, finished iteration 219
+[LightGBM] [Info] Iteration:220, valid_1 ndcg@1 : 0.728759
+[LightGBM] [Info] Iteration:220, valid_1 ndcg@3 : 0.733406
+[LightGBM] [Info] Iteration:220, valid_1 ndcg@5 : 0.75165
+[LightGBM] [Info] Iteration:220, valid_1 ndcg@10 : 0.792179
+[LightGBM] [Info] 83.331286 seconds elapsed, finished iteration 220
+[LightGBM] [Info] Iteration:221, valid_1 ndcg@1 : 0.729266
+[LightGBM] [Info] Iteration:221, valid_1 ndcg@3 : 0.733635
+[LightGBM] [Info] Iteration:221, valid_1 ndcg@5 : 0.751891
+[LightGBM] [Info] Iteration:221, valid_1 ndcg@10 : 0.792283
+[LightGBM] [Info] 83.582163 seconds elapsed, finished iteration 221
+[LightGBM] [Info] Iteration:222, valid_1 ndcg@1 : 0.72966
+[LightGBM] [Info] Iteration:222, valid_1 ndcg@3 : 0.733648
+[LightGBM] [Info] Iteration:222, valid_1 ndcg@5 : 0.751824
+[LightGBM] [Info] Iteration:222, valid_1 ndcg@10 : 0.792349
+[LightGBM] [Info] 83.859603 seconds elapsed, finished iteration 222
+[LightGBM] [Info] Iteration:223, valid_1 ndcg@1 : 0.728955
+[LightGBM] [Info] Iteration:223, valid_1 ndcg@3 : 0.733457
+[LightGBM] [Info] Iteration:223, valid_1 ndcg@5 : 0.751734
+[LightGBM] [Info] Iteration:223, valid_1 ndcg@10 : 0.7922
+[LightGBM] [Info] 84.196655 seconds elapsed, finished iteration 223
+[LightGBM] [Info] Iteration:224, valid_1 ndcg@1 : 0.729273
+[LightGBM] [Info] Iteration:224, valid_1 ndcg@3 : 0.733515
+[LightGBM] [Info] Iteration:224, valid_1 ndcg@5 : 0.751849
+[LightGBM] [Info] Iteration:224, valid_1 ndcg@10 : 0.792367
+[LightGBM] [Info] 84.531197 seconds elapsed, finished iteration 224
+[LightGBM] [Info] Iteration:225, valid_1 ndcg@1 : 0.728923
+[LightGBM] [Info] Iteration:225, valid_1 ndcg@3 : 0.733163
+[LightGBM] [Info] Iteration:225, valid_1 ndcg@5 : 0.752153
+[LightGBM] [Info] Iteration:225, valid_1 ndcg@10 : 0.792334
+[LightGBM] [Info] 84.898778 seconds elapsed, finished iteration 225
+[LightGBM] [Info] Iteration:226, valid_1 ndcg@1 : 0.728958
+[LightGBM] [Info] Iteration:226, valid_1 ndcg@3 : 0.733265
+[LightGBM] [Info] Iteration:226, valid_1 ndcg@5 : 0.752147
+[LightGBM] [Info] Iteration:226, valid_1 ndcg@10 : 0.792452
+[LightGBM] [Info] 85.250907 seconds elapsed, finished iteration 226
+[LightGBM] [Info] Iteration:227, valid_1 ndcg@1 : 0.728657
+[LightGBM] [Info] Iteration:227, valid_1 ndcg@3 : 0.733423
+[LightGBM] [Info] Iteration:227, valid_1 ndcg@5 : 0.752081
+[LightGBM] [Info] Iteration:227, valid_1 ndcg@10 : 0.792613
+[LightGBM] [Info] 85.580561 seconds elapsed, finished iteration 227
+[LightGBM] [Info] Iteration:228, valid_1 ndcg@1 : 0.728445
+[LightGBM] [Info] Iteration:228, valid_1 ndcg@3 : 0.733223
+[LightGBM] [Info] Iteration:228, valid_1 ndcg@5 : 0.752092
+[LightGBM] [Info] Iteration:228, valid_1 ndcg@10 : 0.792658
+[LightGBM] [Info] 85.905818 seconds elapsed, finished iteration 228
+[LightGBM] [Info] Iteration:229, valid_1 ndcg@1 : 0.728959
+[LightGBM] [Info] Iteration:229, valid_1 ndcg@3 : 0.733003
+[LightGBM] [Info] Iteration:229, valid_1 ndcg@5 : 0.752665
+[LightGBM] [Info] Iteration:229, valid_1 ndcg@10 : 0.792665
+[LightGBM] [Info] 86.178271 seconds elapsed, finished iteration 229
+[LightGBM] [Info] Iteration:230, valid_1 ndcg@1 : 0.7288
+[LightGBM] [Info] Iteration:230, valid_1 ndcg@3 : 0.73301
+[LightGBM] [Info] Iteration:230, valid_1 ndcg@5 : 0.752622
+[LightGBM] [Info] Iteration:230, valid_1 ndcg@10 : 0.792558
+[LightGBM] [Info] 86.471714 seconds elapsed, finished iteration 230
+[LightGBM] [Info] Iteration:231, valid_1 ndcg@1 : 0.728722
+[LightGBM] [Info] Iteration:231, valid_1 ndcg@3 : 0.733234
+[LightGBM] [Info] Iteration:231, valid_1 ndcg@5 : 0.752577
+[LightGBM] [Info] Iteration:231, valid_1 ndcg@10 : 0.792644
+[LightGBM] [Info] 86.754336 seconds elapsed, finished iteration 231
+[LightGBM] [Info] Iteration:232, valid_1 ndcg@1 : 0.728359
+[LightGBM] [Info] Iteration:232, valid_1 ndcg@3 : 0.732866
+[LightGBM] [Info] Iteration:232, valid_1 ndcg@5 : 0.752587
+[LightGBM] [Info] Iteration:232, valid_1 ndcg@10 : 0.792738
+[LightGBM] [Info] 87.069510 seconds elapsed, finished iteration 232
+[LightGBM] [Info] Iteration:233, valid_1 ndcg@1 : 0.729435
+[LightGBM] [Info] Iteration:233, valid_1 ndcg@3 : 0.733092
+[LightGBM] [Info] Iteration:233, valid_1 ndcg@5 : 0.752728
+[LightGBM] [Info] Iteration:233, valid_1 ndcg@10 : 0.79292
+[LightGBM] [Info] 87.368441 seconds elapsed, finished iteration 233
+[LightGBM] [Info] Iteration:234, valid_1 ndcg@1 : 0.729135
+[LightGBM] [Info] Iteration:234, valid_1 ndcg@3 : 0.73333
+[LightGBM] [Info] Iteration:234, valid_1 ndcg@5 : 0.752997
+[LightGBM] [Info] Iteration:234, valid_1 ndcg@10 : 0.792832
+[LightGBM] [Info] 87.610366 seconds elapsed, finished iteration 234
+[LightGBM] [Info] Iteration:235, valid_1 ndcg@1 : 0.729696
+[LightGBM] [Info] Iteration:235, valid_1 ndcg@3 : 0.733439
+[LightGBM] [Info] Iteration:235, valid_1 ndcg@5 : 0.752997
+[LightGBM] [Info] Iteration:235, valid_1 ndcg@10 : 0.792999
+[LightGBM] [Info] 87.921767 seconds elapsed, finished iteration 235
+[LightGBM] [Info] Iteration:236, valid_1 ndcg@1 : 0.729476
+[LightGBM] [Info] Iteration:236, valid_1 ndcg@3 : 0.733118
+[LightGBM] [Info] Iteration:236, valid_1 ndcg@5 : 0.753023
+[LightGBM] [Info] Iteration:236, valid_1 ndcg@10 : 0.792979
+[LightGBM] [Info] 88.199741 seconds elapsed, finished iteration 236
+[LightGBM] [Info] Iteration:237, valid_1 ndcg@1 : 0.729101
+[LightGBM] [Info] Iteration:237, valid_1 ndcg@3 : 0.733074
+[LightGBM] [Info] Iteration:237, valid_1 ndcg@5 : 0.753027
+[LightGBM] [Info] Iteration:237, valid_1 ndcg@10 : 0.792897
+[LightGBM] [Info] 88.486475 seconds elapsed, finished iteration 237
+[LightGBM] [Info] Iteration:238, valid_1 ndcg@1 : 0.729348
+[LightGBM] [Info] Iteration:238, valid_1 ndcg@3 : 0.733385
+[LightGBM] [Info] Iteration:238, valid_1 ndcg@5 : 0.753204
+[LightGBM] [Info] Iteration:238, valid_1 ndcg@10 : 0.793065
+[LightGBM] [Info] 88.798838 seconds elapsed, finished iteration 238
+[LightGBM] [Info] Iteration:239, valid_1 ndcg@1 : 0.729096
+[LightGBM] [Info] Iteration:239, valid_1 ndcg@3 : 0.733248
+[LightGBM] [Info] Iteration:239, valid_1 ndcg@5 : 0.75301
+[LightGBM] [Info] Iteration:239, valid_1 ndcg@10 : 0.792992
+[LightGBM] [Info] 89.082098 seconds elapsed, finished iteration 239
+[LightGBM] [Info] Iteration:240, valid_1 ndcg@1 : 0.72915
+[LightGBM] [Info] Iteration:240, valid_1 ndcg@3 : 0.733034
+[LightGBM] [Info] Iteration:240, valid_1 ndcg@5 : 0.752693
+[LightGBM] [Info] Iteration:240, valid_1 ndcg@10 : 0.792955
+[LightGBM] [Info] 89.420081 seconds elapsed, finished iteration 240
+[LightGBM] [Info] Iteration:241, valid_1 ndcg@1 : 0.729081
+[LightGBM] [Info] Iteration:241, valid_1 ndcg@3 : 0.733633
+[LightGBM] [Info] Iteration:241, valid_1 ndcg@5 : 0.752584
+[LightGBM] [Info] Iteration:241, valid_1 ndcg@10 : 0.793095
+[LightGBM] [Info] 89.782855 seconds elapsed, finished iteration 241
+[LightGBM] [Info] Iteration:242, valid_1 ndcg@1 : 0.729967
+[LightGBM] [Info] Iteration:242, valid_1 ndcg@3 : 0.734198
+[LightGBM] [Info] Iteration:242, valid_1 ndcg@5 : 0.752659
+[LightGBM] [Info] Iteration:242, valid_1 ndcg@10 : 0.793239
+[LightGBM] [Info] 90.151601 seconds elapsed, finished iteration 242
+[LightGBM] [Info] Iteration:243, valid_1 ndcg@1 : 0.729783
+[LightGBM] [Info] Iteration:243, valid_1 ndcg@3 : 0.734282
+[LightGBM] [Info] Iteration:243, valid_1 ndcg@5 : 0.752743
+[LightGBM] [Info] Iteration:243, valid_1 ndcg@10 : 0.793213
+[LightGBM] [Info] 90.418695 seconds elapsed, finished iteration 243
+[LightGBM] [Info] Iteration:244, valid_1 ndcg@1 : 0.730116
+[LightGBM] [Info] Iteration:244, valid_1 ndcg@3 : 0.734356
+[LightGBM] [Info] Iteration:244, valid_1 ndcg@5 : 0.753102
+[LightGBM] [Info] Iteration:244, valid_1 ndcg@10 : 0.793326
+[LightGBM] [Info] 90.741645 seconds elapsed, finished iteration 244
+[LightGBM] [Info] Iteration:245, valid_1 ndcg@1 : 0.73004
+[LightGBM] [Info] Iteration:245, valid_1 ndcg@3 : 0.734132
+[LightGBM] [Info] Iteration:245, valid_1 ndcg@5 : 0.753269
+[LightGBM] [Info] Iteration:245, valid_1 ndcg@10 : 0.793333
+[LightGBM] [Info] 91.061335 seconds elapsed, finished iteration 245
+[LightGBM] [Info] Iteration:246, valid_1 ndcg@1 : 0.72979
+[LightGBM] [Info] Iteration:246, valid_1 ndcg@3 : 0.734012
+[LightGBM] [Info] Iteration:246, valid_1 ndcg@5 : 0.753304
+[LightGBM] [Info] Iteration:246, valid_1 ndcg@10 : 0.793293
+[LightGBM] [Info] 91.385781 seconds elapsed, finished iteration 246
+[LightGBM] [Info] Iteration:247, valid_1 ndcg@1 : 0.728908
+[LightGBM] [Info] Iteration:247, valid_1 ndcg@3 : 0.734027
+[LightGBM] [Info] Iteration:247, valid_1 ndcg@5 : 0.753429
+[LightGBM] [Info] Iteration:247, valid_1 ndcg@10 : 0.793205
+[LightGBM] [Info] 91.677387 seconds elapsed, finished iteration 247
+[LightGBM] [Info] Iteration:248, valid_1 ndcg@1 : 0.729374
+[LightGBM] [Info] Iteration:248, valid_1 ndcg@3 : 0.733933
+[LightGBM] [Info] Iteration:248, valid_1 ndcg@5 : 0.753289
+[LightGBM] [Info] Iteration:248, valid_1 ndcg@10 : 0.793345
+[LightGBM] [Info] 91.993509 seconds elapsed, finished iteration 248
+[LightGBM] [Info] Iteration:249, valid_1 ndcg@1 : 0.729854
+[LightGBM] [Info] Iteration:249, valid_1 ndcg@3 : 0.734144
+[LightGBM] [Info] Iteration:249, valid_1 ndcg@5 : 0.753498
+[LightGBM] [Info] Iteration:249, valid_1 ndcg@10 : 0.793637
+[LightGBM] [Info] 92.275997 seconds elapsed, finished iteration 249
+[LightGBM] [Info] Iteration:250, valid_1 ndcg@1 : 0.729607
+[LightGBM] [Info] Iteration:250, valid_1 ndcg@3 : 0.734371
+[LightGBM] [Info] Iteration:250, valid_1 ndcg@5 : 0.753433
+[LightGBM] [Info] Iteration:250, valid_1 ndcg@10 : 0.793499
+[LightGBM] [Info] 92.579615 seconds elapsed, finished iteration 250
+[LightGBM] [Info] Iteration:251, valid_1 ndcg@1 : 0.729948
+[LightGBM] [Info] Iteration:251, valid_1 ndcg@3 : 0.734283
+[LightGBM] [Info] Iteration:251, valid_1 ndcg@5 : 0.753285
+[LightGBM] [Info] Iteration:251, valid_1 ndcg@10 : 0.793585
+[LightGBM] [Info] 92.895932 seconds elapsed, finished iteration 251
+[LightGBM] [Info] Iteration:252, valid_1 ndcg@1 : 0.729303
+[LightGBM] [Info] Iteration:252, valid_1 ndcg@3 : 0.73387
+[LightGBM] [Info] Iteration:252, valid_1 ndcg@5 : 0.752949
+[LightGBM] [Info] Iteration:252, valid_1 ndcg@10 : 0.793304
+[LightGBM] [Info] 93.219007 seconds elapsed, finished iteration 252
+[LightGBM] [Info] Iteration:253, valid_1 ndcg@1 : 0.729004
+[LightGBM] [Info] Iteration:253, valid_1 ndcg@3 : 0.733889
+[LightGBM] [Info] Iteration:253, valid_1 ndcg@5 : 0.753123
+[LightGBM] [Info] Iteration:253, valid_1 ndcg@10 : 0.793307
+[LightGBM] [Info] 93.534357 seconds elapsed, finished iteration 253
+[LightGBM] [Info] Iteration:254, valid_1 ndcg@1 : 0.72936
+[LightGBM] [Info] Iteration:254, valid_1 ndcg@3 : 0.734025
+[LightGBM] [Info] Iteration:254, valid_1 ndcg@5 : 0.753234
+[LightGBM] [Info] Iteration:254, valid_1 ndcg@10 : 0.793305
+[LightGBM] [Info] 93.791453 seconds elapsed, finished iteration 254
+[LightGBM] [Info] Iteration:255, valid_1 ndcg@1 : 0.729497
+[LightGBM] [Info] Iteration:255, valid_1 ndcg@3 : 0.734003
+[LightGBM] [Info] Iteration:255, valid_1 ndcg@5 : 0.753192
+[LightGBM] [Info] Iteration:255, valid_1 ndcg@10 : 0.793217
+[LightGBM] [Info] 94.071839 seconds elapsed, finished iteration 255
+[LightGBM] [Info] Iteration:256, valid_1 ndcg@1 : 0.728063
+[LightGBM] [Info] Iteration:256, valid_1 ndcg@3 : 0.733914
+[LightGBM] [Info] Iteration:256, valid_1 ndcg@5 : 0.752859
+[LightGBM] [Info] Iteration:256, valid_1 ndcg@10 : 0.792958
+[LightGBM] [Info] 94.384694 seconds elapsed, finished iteration 256
+[LightGBM] [Info] Iteration:257, valid_1 ndcg@1 : 0.728299
+[LightGBM] [Info] Iteration:257, valid_1 ndcg@3 : 0.733811
+[LightGBM] [Info] Iteration:257, valid_1 ndcg@5 : 0.753056
+[LightGBM] [Info] Iteration:257, valid_1 ndcg@10 : 0.792982
+[LightGBM] [Info] 94.669354 seconds elapsed, finished iteration 257
+[LightGBM] [Info] Iteration:258, valid_1 ndcg@1 : 0.728374
+[LightGBM] [Info] Iteration:258, valid_1 ndcg@3 : 0.733688
+[LightGBM] [Info] Iteration:258, valid_1 ndcg@5 : 0.752953
+[LightGBM] [Info] Iteration:258, valid_1 ndcg@10 : 0.792908
+[LightGBM] [Info] 94.944980 seconds elapsed, finished iteration 258
+[LightGBM] [Info] Iteration:259, valid_1 ndcg@1 : 0.728749
+[LightGBM] [Info] Iteration:259, valid_1 ndcg@3 : 0.733655
+[LightGBM] [Info] Iteration:259, valid_1 ndcg@5 : 0.753161
+[LightGBM] [Info] Iteration:259, valid_1 ndcg@10 : 0.793156
+[LightGBM] [Info] 95.257200 seconds elapsed, finished iteration 259
+[LightGBM] [Info] Iteration:260, valid_1 ndcg@1 : 0.728909
+[LightGBM] [Info] Iteration:260, valid_1 ndcg@3 : 0.733682
+[LightGBM] [Info] Iteration:260, valid_1 ndcg@5 : 0.753319
+[LightGBM] [Info] Iteration:260, valid_1 ndcg@10 : 0.793293
+[LightGBM] [Info] 95.571584 seconds elapsed, finished iteration 260
+[LightGBM] [Info] Iteration:261, valid_1 ndcg@1 : 0.728183
+[LightGBM] [Info] Iteration:261, valid_1 ndcg@3 : 0.733753
+[LightGBM] [Info] Iteration:261, valid_1 ndcg@5 : 0.753239
+[LightGBM] [Info] Iteration:261, valid_1 ndcg@10 : 0.793193
+[LightGBM] [Info] 95.880161 seconds elapsed, finished iteration 261
+[LightGBM] [Info] Iteration:262, valid_1 ndcg@1 : 0.728325
+[LightGBM] [Info] Iteration:262, valid_1 ndcg@3 : 0.733695
+[LightGBM] [Info] Iteration:262, valid_1 ndcg@5 : 0.753079
+[LightGBM] [Info] Iteration:262, valid_1 ndcg@10 : 0.793126
+[LightGBM] [Info] 96.178330 seconds elapsed, finished iteration 262
+[LightGBM] [Info] Iteration:263, valid_1 ndcg@1 : 0.728508
+[LightGBM] [Info] Iteration:263, valid_1 ndcg@3 : 0.73378
+[LightGBM] [Info] Iteration:263, valid_1 ndcg@5 : 0.753165
+[LightGBM] [Info] Iteration:263, valid_1 ndcg@10 : 0.793216
+[LightGBM] [Info] 96.470741 seconds elapsed, finished iteration 263
+[LightGBM] [Info] Iteration:264, valid_1 ndcg@1 : 0.729209
+[LightGBM] [Info] Iteration:264, valid_1 ndcg@3 : 0.733517
+[LightGBM] [Info] Iteration:264, valid_1 ndcg@5 : 0.753279
+[LightGBM] [Info] Iteration:264, valid_1 ndcg@10 : 0.793211
+[LightGBM] [Info] 96.744210 seconds elapsed, finished iteration 264
+[LightGBM] [Info] Iteration:265, valid_1 ndcg@1 : 0.72932
+[LightGBM] [Info] Iteration:265, valid_1 ndcg@3 : 0.733502
+[LightGBM] [Info] Iteration:265, valid_1 ndcg@5 : 0.753407
+[LightGBM] [Info] Iteration:265, valid_1 ndcg@10 : 0.793231
+[LightGBM] [Info] 97.042862 seconds elapsed, finished iteration 265
+[LightGBM] [Info] Iteration:266, valid_1 ndcg@1 : 0.729884
+[LightGBM] [Info] Iteration:266, valid_1 ndcg@3 : 0.733782
+[LightGBM] [Info] Iteration:266, valid_1 ndcg@5 : 0.753301
+[LightGBM] [Info] Iteration:266, valid_1 ndcg@10 : 0.79341
+[LightGBM] [Info] 97.322199 seconds elapsed, finished iteration 266
+[LightGBM] [Info] Iteration:267, valid_1 ndcg@1 : 0.729497
+[LightGBM] [Info] Iteration:267, valid_1 ndcg@3 : 0.733564
+[LightGBM] [Info] Iteration:267, valid_1 ndcg@5 : 0.753164
+[LightGBM] [Info] Iteration:267, valid_1 ndcg@10 : 0.7933
+[LightGBM] [Info] 97.581656 seconds elapsed, finished iteration 267
+[LightGBM] [Info] Iteration:268, valid_1 ndcg@1 : 0.729605
+[LightGBM] [Info] Iteration:268, valid_1 ndcg@3 : 0.733589
+[LightGBM] [Info] Iteration:268, valid_1 ndcg@5 : 0.753295
+[LightGBM] [Info] Iteration:268, valid_1 ndcg@10 : 0.793433
+[LightGBM] [Info] 97.832972 seconds elapsed, finished iteration 268
+[LightGBM] [Info] Iteration:269, valid_1 ndcg@1 : 0.730308
+[LightGBM] [Info] Iteration:269, valid_1 ndcg@3 : 0.734073
+[LightGBM] [Info] Iteration:269, valid_1 ndcg@5 : 0.753439
+[LightGBM] [Info] Iteration:269, valid_1 ndcg@10 : 0.793641
+[LightGBM] [Info] 98.084988 seconds elapsed, finished iteration 269
+[LightGBM] [Info] Iteration:270, valid_1 ndcg@1 : 0.730471
+[LightGBM] [Info] Iteration:270, valid_1 ndcg@3 : 0.734089
+[LightGBM] [Info] Iteration:270, valid_1 ndcg@5 : 0.753464
+[LightGBM] [Info] Iteration:270, valid_1 ndcg@10 : 0.793627
+[LightGBM] [Info] 98.362255 seconds elapsed, finished iteration 270
+[LightGBM] [Info] Iteration:271, valid_1 ndcg@1 : 0.730391
+[LightGBM] [Info] Iteration:271, valid_1 ndcg@3 : 0.733937
+[LightGBM] [Info] Iteration:271, valid_1 ndcg@5 : 0.75336
+[LightGBM] [Info] Iteration:271, valid_1 ndcg@10 : 0.793569
+[LightGBM] [Info] 98.633551 seconds elapsed, finished iteration 271
+[LightGBM] [Info] Iteration:272, valid_1 ndcg@1 : 0.730231
+[LightGBM] [Info] Iteration:272, valid_1 ndcg@3 : 0.733977
+[LightGBM] [Info] Iteration:272, valid_1 ndcg@5 : 0.753337
+[LightGBM] [Info] Iteration:272, valid_1 ndcg@10 : 0.793504
+[LightGBM] [Info] 98.892214 seconds elapsed, finished iteration 272
+[LightGBM] [Info] Iteration:273, valid_1 ndcg@1 : 0.729223
+[LightGBM] [Info] Iteration:273, valid_1 ndcg@3 : 0.733751
+[LightGBM] [Info] Iteration:273, valid_1 ndcg@5 : 0.75317
+[LightGBM] [Info] Iteration:273, valid_1 ndcg@10 : 0.793423
+[LightGBM] [Info] 99.153624 seconds elapsed, finished iteration 273
+[LightGBM] [Info] Iteration:274, valid_1 ndcg@1 : 0.72949
+[LightGBM] [Info] Iteration:274, valid_1 ndcg@3 : 0.733723
+[LightGBM] [Info] Iteration:274, valid_1 ndcg@5 : 0.753302
+[LightGBM] [Info] Iteration:274, valid_1 ndcg@10 : 0.793481
+[LightGBM] [Info] 99.420925 seconds elapsed, finished iteration 274
+[LightGBM] [Info] Iteration:275, valid_1 ndcg@1 : 0.729917
+[LightGBM] [Info] Iteration:275, valid_1 ndcg@3 : 0.733979
+[LightGBM] [Info] Iteration:275, valid_1 ndcg@5 : 0.753572
+[LightGBM] [Info] Iteration:275, valid_1 ndcg@10 : 0.793601
+[LightGBM] [Info] 99.703837 seconds elapsed, finished iteration 275
+[LightGBM] [Info] Iteration:276, valid_1 ndcg@1 : 0.729277
+[LightGBM] [Info] Iteration:276, valid_1 ndcg@3 : 0.733789
+[LightGBM] [Info] Iteration:276, valid_1 ndcg@5 : 0.753445
+[LightGBM] [Info] Iteration:276, valid_1 ndcg@10 : 0.793442
+[LightGBM] [Info] 99.987612 seconds elapsed, finished iteration 276
+[LightGBM] [Info] Iteration:277, valid_1 ndcg@1 : 0.729303
+[LightGBM] [Info] Iteration:277, valid_1 ndcg@3 : 0.734041
+[LightGBM] [Info] Iteration:277, valid_1 ndcg@5 : 0.753521
+[LightGBM] [Info] Iteration:277, valid_1 ndcg@10 : 0.793447
+[LightGBM] [Info] 100.258398 seconds elapsed, finished iteration 277
+[LightGBM] [Info] Iteration:278, valid_1 ndcg@1 : 0.729508
+[LightGBM] [Info] Iteration:278, valid_1 ndcg@3 : 0.734194
+[LightGBM] [Info] Iteration:278, valid_1 ndcg@5 : 0.753602
+[LightGBM] [Info] Iteration:278, valid_1 ndcg@10 : 0.793497
+[LightGBM] [Info] 100.541839 seconds elapsed, finished iteration 278
+[LightGBM] [Info] Iteration:279, valid_1 ndcg@1 : 0.729419
+[LightGBM] [Info] Iteration:279, valid_1 ndcg@3 : 0.734384
+[LightGBM] [Info] Iteration:279, valid_1 ndcg@5 : 0.753589
+[LightGBM] [Info] Iteration:279, valid_1 ndcg@10 : 0.793463
+[LightGBM] [Info] 100.778441 seconds elapsed, finished iteration 279
+[LightGBM] [Info] Iteration:280, valid_1 ndcg@1 : 0.729497
+[LightGBM] [Info] Iteration:280, valid_1 ndcg@3 : 0.734343
+[LightGBM] [Info] Iteration:280, valid_1 ndcg@5 : 0.753778
+[LightGBM] [Info] Iteration:280, valid_1 ndcg@10 : 0.793439
+[LightGBM] [Info] 101.094927 seconds elapsed, finished iteration 280
+[LightGBM] [Info] Iteration:281, valid_1 ndcg@1 : 0.730026
+[LightGBM] [Info] Iteration:281, valid_1 ndcg@3 : 0.734344
+[LightGBM] [Info] Iteration:281, valid_1 ndcg@5 : 0.753994
+[LightGBM] [Info] Iteration:281, valid_1 ndcg@10 : 0.793619
+[LightGBM] [Info] 101.426595 seconds elapsed, finished iteration 281
+[LightGBM] [Info] Iteration:282, valid_1 ndcg@1 : 0.729494
+[LightGBM] [Info] Iteration:282, valid_1 ndcg@3 : 0.734201
+[LightGBM] [Info] Iteration:282, valid_1 ndcg@5 : 0.753902
+[LightGBM] [Info] Iteration:282, valid_1 ndcg@10 : 0.793689
+[LightGBM] [Info] 101.659322 seconds elapsed, finished iteration 282
+[LightGBM] [Info] Iteration:283, valid_1 ndcg@1 : 0.72979
+[LightGBM] [Info] Iteration:283, valid_1 ndcg@3 : 0.734237
+[LightGBM] [Info] Iteration:283, valid_1 ndcg@5 : 0.753781
+[LightGBM] [Info] Iteration:283, valid_1 ndcg@10 : 0.793679
+[LightGBM] [Info] 101.977623 seconds elapsed, finished iteration 283
+[LightGBM] [Info] Iteration:284, valid_1 ndcg@1 : 0.730008
+[LightGBM] [Info] Iteration:284, valid_1 ndcg@3 : 0.734494
+[LightGBM] [Info] Iteration:284, valid_1 ndcg@5 : 0.753721
+[LightGBM] [Info] Iteration:284, valid_1 ndcg@10 : 0.793802
+[LightGBM] [Info] 102.259639 seconds elapsed, finished iteration 284
+[LightGBM] [Info] Iteration:285, valid_1 ndcg@1 : 0.730337
+[LightGBM] [Info] Iteration:285, valid_1 ndcg@3 : 0.734656
+[LightGBM] [Info] Iteration:285, valid_1 ndcg@5 : 0.753686
+[LightGBM] [Info] Iteration:285, valid_1 ndcg@10 : 0.793729
+[LightGBM] [Info] 102.611465 seconds elapsed, finished iteration 285
+[LightGBM] [Info] Iteration:286, valid_1 ndcg@1 : 0.730663
+[LightGBM] [Info] Iteration:286, valid_1 ndcg@3 : 0.734825
+[LightGBM] [Info] Iteration:286, valid_1 ndcg@5 : 0.753762
+[LightGBM] [Info] Iteration:286, valid_1 ndcg@10 : 0.793759
+[LightGBM] [Info] 102.914481 seconds elapsed, finished iteration 286
+[LightGBM] [Info] Iteration:287, valid_1 ndcg@1 : 0.730458
+[LightGBM] [Info] Iteration:287, valid_1 ndcg@3 : 0.735073
+[LightGBM] [Info] Iteration:287, valid_1 ndcg@5 : 0.753928
+[LightGBM] [Info] Iteration:287, valid_1 ndcg@10 : 0.793631
+[LightGBM] [Info] 103.221987 seconds elapsed, finished iteration 287
+[LightGBM] [Info] Iteration:288, valid_1 ndcg@1 : 0.72998
+[LightGBM] [Info] Iteration:288, valid_1 ndcg@3 : 0.735121
+[LightGBM] [Info] Iteration:288, valid_1 ndcg@5 : 0.753906
+[LightGBM] [Info] Iteration:288, valid_1 ndcg@10 : 0.793654
+[LightGBM] [Info] 103.499775 seconds elapsed, finished iteration 288
+[LightGBM] [Info] Iteration:289, valid_1 ndcg@1 : 0.729779
+[LightGBM] [Info] Iteration:289, valid_1 ndcg@3 : 0.735068
+[LightGBM] [Info] Iteration:289, valid_1 ndcg@5 : 0.754034
+[LightGBM] [Info] Iteration:289, valid_1 ndcg@10 : 0.793736
+[LightGBM] [Info] 103.773303 seconds elapsed, finished iteration 289
+[LightGBM] [Info] Iteration:290, valid_1 ndcg@1 : 0.729774
+[LightGBM] [Info] Iteration:290, valid_1 ndcg@3 : 0.734948
+[LightGBM] [Info] Iteration:290, valid_1 ndcg@5 : 0.754054
+[LightGBM] [Info] Iteration:290, valid_1 ndcg@10 : 0.7938
+[LightGBM] [Info] 104.028980 seconds elapsed, finished iteration 290
+[LightGBM] [Info] Iteration:291, valid_1 ndcg@1 : 0.729888
+[LightGBM] [Info] Iteration:291, valid_1 ndcg@3 : 0.734996
+[LightGBM] [Info] Iteration:291, valid_1 ndcg@5 : 0.754019
+[LightGBM] [Info] Iteration:291, valid_1 ndcg@10 : 0.793869
+[LightGBM] [Info] 104.266078 seconds elapsed, finished iteration 291
+[LightGBM] [Info] Iteration:292, valid_1 ndcg@1 : 0.730225
+[LightGBM] [Info] Iteration:292, valid_1 ndcg@3 : 0.734951
+[LightGBM] [Info] Iteration:292, valid_1 ndcg@5 : 0.75413
+[LightGBM] [Info] Iteration:292, valid_1 ndcg@10 : 0.794052
+[LightGBM] [Info] 104.590310 seconds elapsed, finished iteration 292
+[LightGBM] [Info] Iteration:293, valid_1 ndcg@1 : 0.73096
+[LightGBM] [Info] Iteration:293, valid_1 ndcg@3 : 0.735247
+[LightGBM] [Info] Iteration:293, valid_1 ndcg@5 : 0.754363
+[LightGBM] [Info] Iteration:293, valid_1 ndcg@10 : 0.7942
+[LightGBM] [Info] 104.851697 seconds elapsed, finished iteration 293
+[LightGBM] [Info] Iteration:294, valid_1 ndcg@1 : 0.730993
+[LightGBM] [Info] Iteration:294, valid_1 ndcg@3 : 0.735609
+[LightGBM] [Info] Iteration:294, valid_1 ndcg@5 : 0.75437
+[LightGBM] [Info] Iteration:294, valid_1 ndcg@10 : 0.794158
+[LightGBM] [Info] 105.101766 seconds elapsed, finished iteration 294
+[LightGBM] [Info] Iteration:295, valid_1 ndcg@1 : 0.73081
+[LightGBM] [Info] Iteration:295, valid_1 ndcg@3 : 0.735681
+[LightGBM] [Info] Iteration:295, valid_1 ndcg@5 : 0.754537
+[LightGBM] [Info] Iteration:295, valid_1 ndcg@10 : 0.794231
+[LightGBM] [Info] 105.346594 seconds elapsed, finished iteration 295
+[LightGBM] [Info] Iteration:296, valid_1 ndcg@1 : 0.730572
+[LightGBM] [Info] Iteration:296, valid_1 ndcg@3 : 0.735764
+[LightGBM] [Info] Iteration:296, valid_1 ndcg@5 : 0.754685
+[LightGBM] [Info] Iteration:296, valid_1 ndcg@10 : 0.794252
+[LightGBM] [Info] 105.608441 seconds elapsed, finished iteration 296
+[LightGBM] [Info] Iteration:297, valid_1 ndcg@1 : 0.729993
+[LightGBM] [Info] Iteration:297, valid_1 ndcg@3 : 0.735359
+[LightGBM] [Info] Iteration:297, valid_1 ndcg@5 : 0.754557
+[LightGBM] [Info] Iteration:297, valid_1 ndcg@10 : 0.793923
+[LightGBM] [Info] 105.921228 seconds elapsed, finished iteration 297
+[LightGBM] [Info] Iteration:298, valid_1 ndcg@1 : 0.729969
+[LightGBM] [Info] Iteration:298, valid_1 ndcg@3 : 0.735449
+[LightGBM] [Info] Iteration:298, valid_1 ndcg@5 : 0.754465
+[LightGBM] [Info] Iteration:298, valid_1 ndcg@10 : 0.794016
+[LightGBM] [Info] 106.217925 seconds elapsed, finished iteration 298
+[LightGBM] [Info] Iteration:299, valid_1 ndcg@1 : 0.730134
+[LightGBM] [Info] Iteration:299, valid_1 ndcg@3 : 0.735397
+[LightGBM] [Info] Iteration:299, valid_1 ndcg@5 : 0.754408
+[LightGBM] [Info] Iteration:299, valid_1 ndcg@10 : 0.794083
+[LightGBM] [Info] 106.509116 seconds elapsed, finished iteration 299
+[LightGBM] [Info] Iteration:300, valid_1 ndcg@1 : 0.730011
+[LightGBM] [Info] Iteration:300, valid_1 ndcg@3 : 0.735418
+[LightGBM] [Info] Iteration:300, valid_1 ndcg@5 : 0.754525
+[LightGBM] [Info] Iteration:300, valid_1 ndcg@10 : 0.794107
+[LightGBM] [Info] 106.793843 seconds elapsed, finished iteration 300
+[LightGBM] [Info] Iteration:301, valid_1 ndcg@1 : 0.729996
+[LightGBM] [Info] Iteration:301, valid_1 ndcg@3 : 0.735225
+[LightGBM] [Info] Iteration:301, valid_1 ndcg@5 : 0.754529
+[LightGBM] [Info] Iteration:301, valid_1 ndcg@10 : 0.794098
+[LightGBM] [Info] 107.037766 seconds elapsed, finished iteration 301
+[LightGBM] [Info] Iteration:302, valid_1 ndcg@1 : 0.730166
+[LightGBM] [Info] Iteration:302, valid_1 ndcg@3 : 0.73496
+[LightGBM] [Info] Iteration:302, valid_1 ndcg@5 : 0.754365
+[LightGBM] [Info] Iteration:302, valid_1 ndcg@10 : 0.794074
+[LightGBM] [Info] 107.320800 seconds elapsed, finished iteration 302
+[LightGBM] [Info] Iteration:303, valid_1 ndcg@1 : 0.730341
+[LightGBM] [Info] Iteration:303, valid_1 ndcg@3 : 0.735079
+[LightGBM] [Info] Iteration:303, valid_1 ndcg@5 : 0.754609
+[LightGBM] [Info] Iteration:303, valid_1 ndcg@10 : 0.794116
+[LightGBM] [Info] 107.606040 seconds elapsed, finished iteration 303
+[LightGBM] [Info] Iteration:304, valid_1 ndcg@1 : 0.730679
+[LightGBM] [Info] Iteration:304, valid_1 ndcg@3 : 0.735263
+[LightGBM] [Info] Iteration:304, valid_1 ndcg@5 : 0.754541
+[LightGBM] [Info] Iteration:304, valid_1 ndcg@10 : 0.794174
+[LightGBM] [Info] 107.871078 seconds elapsed, finished iteration 304
+[LightGBM] [Info] Iteration:305, valid_1 ndcg@1 : 0.731022
+[LightGBM] [Info] Iteration:305, valid_1 ndcg@3 : 0.735478
+[LightGBM] [Info] Iteration:305, valid_1 ndcg@5 : 0.754843
+[LightGBM] [Info] Iteration:305, valid_1 ndcg@10 : 0.794389
+[LightGBM] [Info] 108.134823 seconds elapsed, finished iteration 305
+[LightGBM] [Info] Iteration:306, valid_1 ndcg@1 : 0.730753
+[LightGBM] [Info] Iteration:306, valid_1 ndcg@3 : 0.735319
+[LightGBM] [Info] Iteration:306, valid_1 ndcg@5 : 0.754892
+[LightGBM] [Info] Iteration:306, valid_1 ndcg@10 : 0.794391
+[LightGBM] [Info] 108.435640 seconds elapsed, finished iteration 306
+[LightGBM] [Info] Iteration:307, valid_1 ndcg@1 : 0.730769
+[LightGBM] [Info] Iteration:307, valid_1 ndcg@3 : 0.735228
+[LightGBM] [Info] Iteration:307, valid_1 ndcg@5 : 0.754855
+[LightGBM] [Info] Iteration:307, valid_1 ndcg@10 : 0.794287
+[LightGBM] [Info] 108.728666 seconds elapsed, finished iteration 307
+[LightGBM] [Info] Iteration:308, valid_1 ndcg@1 : 0.731012
+[LightGBM] [Info] Iteration:308, valid_1 ndcg@3 : 0.735641
+[LightGBM] [Info] Iteration:308, valid_1 ndcg@5 : 0.754641
+[LightGBM] [Info] Iteration:308, valid_1 ndcg@10 : 0.794317
+[LightGBM] [Info] 109.024511 seconds elapsed, finished iteration 308
+[LightGBM] [Info] Iteration:309, valid_1 ndcg@1 : 0.731675
+[LightGBM] [Info] Iteration:309, valid_1 ndcg@3 : 0.735579
+[LightGBM] [Info] Iteration:309, valid_1 ndcg@5 : 0.754792
+[LightGBM] [Info] Iteration:309, valid_1 ndcg@10 : 0.794424
+[LightGBM] [Info] 109.324252 seconds elapsed, finished iteration 309
+[LightGBM] [Info] Iteration:310, valid_1 ndcg@1 : 0.730722
+[LightGBM] [Info] Iteration:310, valid_1 ndcg@3 : 0.735573
+[LightGBM] [Info] Iteration:310, valid_1 ndcg@5 : 0.754605
+[LightGBM] [Info] Iteration:310, valid_1 ndcg@10 : 0.7944
+[LightGBM] [Info] 109.612969 seconds elapsed, finished iteration 310
+[LightGBM] [Info] Iteration:311, valid_1 ndcg@1 : 0.72998
+[LightGBM] [Info] Iteration:311, valid_1 ndcg@3 : 0.735578
+[LightGBM] [Info] Iteration:311, valid_1 ndcg@5 : 0.754579
+[LightGBM] [Info] Iteration:311, valid_1 ndcg@10 : 0.794208
+[LightGBM] [Info] 109.906336 seconds elapsed, finished iteration 311
+[LightGBM] [Info] Iteration:312, valid_1 ndcg@1 : 0.729682
+[LightGBM] [Info] Iteration:312, valid_1 ndcg@3 : 0.735596
+[LightGBM] [Info] Iteration:312, valid_1 ndcg@5 : 0.754581
+[LightGBM] [Info] Iteration:312, valid_1 ndcg@10 : 0.79431
+[LightGBM] [Info] 110.217084 seconds elapsed, finished iteration 312
+[LightGBM] [Info] Iteration:313, valid_1 ndcg@1 : 0.729809
+[LightGBM] [Info] Iteration:313, valid_1 ndcg@3 : 0.735424
+[LightGBM] [Info] Iteration:313, valid_1 ndcg@5 : 0.75468
+[LightGBM] [Info] Iteration:313, valid_1 ndcg@10 : 0.7943
+[LightGBM] [Info] 110.516052 seconds elapsed, finished iteration 313
+[LightGBM] [Info] Iteration:314, valid_1 ndcg@1 : 0.730441
+[LightGBM] [Info] Iteration:314, valid_1 ndcg@3 : 0.735435
+[LightGBM] [Info] Iteration:314, valid_1 ndcg@5 : 0.75473
+[LightGBM] [Info] Iteration:314, valid_1 ndcg@10 : 0.794377
+[LightGBM] [Info] 110.760487 seconds elapsed, finished iteration 314
+[LightGBM] [Info] Iteration:315, valid_1 ndcg@1 : 0.730483
+[LightGBM] [Info] Iteration:315, valid_1 ndcg@3 : 0.735018
+[LightGBM] [Info] Iteration:315, valid_1 ndcg@5 : 0.754885
+[LightGBM] [Info] Iteration:315, valid_1 ndcg@10 : 0.79438
+[LightGBM] [Info] 111.035028 seconds elapsed, finished iteration 315
+[LightGBM] [Info] Iteration:316, valid_1 ndcg@1 : 0.730146
+[LightGBM] [Info] Iteration:316, valid_1 ndcg@3 : 0.734953
+[LightGBM] [Info] Iteration:316, valid_1 ndcg@5 : 0.754769
+[LightGBM] [Info] Iteration:316, valid_1 ndcg@10 : 0.79416
+[LightGBM] [Info] 111.296306 seconds elapsed, finished iteration 316
+[LightGBM] [Info] Iteration:317, valid_1 ndcg@1 : 0.730222
+[LightGBM] [Info] Iteration:317, valid_1 ndcg@3 : 0.735019
+[LightGBM] [Info] Iteration:317, valid_1 ndcg@5 : 0.754918
+[LightGBM] [Info] Iteration:317, valid_1 ndcg@10 : 0.794278
+[LightGBM] [Info] 111.535187 seconds elapsed, finished iteration 317
+[LightGBM] [Info] Iteration:318, valid_1 ndcg@1 : 0.730762
+[LightGBM] [Info] Iteration:318, valid_1 ndcg@3 : 0.735224
+[LightGBM] [Info] Iteration:318, valid_1 ndcg@5 : 0.755055
+[LightGBM] [Info] Iteration:318, valid_1 ndcg@10 : 0.794312
+[LightGBM] [Info] 111.773407 seconds elapsed, finished iteration 318
+[LightGBM] [Info] Iteration:319, valid_1 ndcg@1 : 0.730468
+[LightGBM] [Info] Iteration:319, valid_1 ndcg@3 : 0.735183
+[LightGBM] [Info] Iteration:319, valid_1 ndcg@5 : 0.754876
+[LightGBM] [Info] Iteration:319, valid_1 ndcg@10 : 0.794358
+[LightGBM] [Info] 112.002427 seconds elapsed, finished iteration 319
+[LightGBM] [Info] Iteration:320, valid_1 ndcg@1 : 0.730413
+[LightGBM] [Info] Iteration:320, valid_1 ndcg@3 : 0.735424
+[LightGBM] [Info] Iteration:320, valid_1 ndcg@5 : 0.755003
+[LightGBM] [Info] Iteration:320, valid_1 ndcg@10 : 0.794436
+[LightGBM] [Info] 112.268580 seconds elapsed, finished iteration 320
+[LightGBM] [Info] Iteration:321, valid_1 ndcg@1 : 0.730607
+[LightGBM] [Info] Iteration:321, valid_1 ndcg@3 : 0.735309
+[LightGBM] [Info] Iteration:321, valid_1 ndcg@5 : 0.75517
+[LightGBM] [Info] Iteration:321, valid_1 ndcg@10 : 0.794403
+[LightGBM] [Info] 112.546938 seconds elapsed, finished iteration 321
+[LightGBM] [Info] Iteration:322, valid_1 ndcg@1 : 0.730412
+[LightGBM] [Info] Iteration:322, valid_1 ndcg@3 : 0.735435
+[LightGBM] [Info] Iteration:322, valid_1 ndcg@5 : 0.75544
+[LightGBM] [Info] Iteration:322, valid_1 ndcg@10 : 0.794551
+[LightGBM] [Info] 112.799151 seconds elapsed, finished iteration 322
+[LightGBM] [Info] Iteration:323, valid_1 ndcg@1 : 0.730105
+[LightGBM] [Info] Iteration:323, valid_1 ndcg@3 : 0.735337
+[LightGBM] [Info] Iteration:323, valid_1 ndcg@5 : 0.755243
+[LightGBM] [Info] Iteration:323, valid_1 ndcg@10 : 0.794517
+[LightGBM] [Info] 113.033011 seconds elapsed, finished iteration 323
+[LightGBM] [Info] Iteration:324, valid_1 ndcg@1 : 0.730603
+[LightGBM] [Info] Iteration:324, valid_1 ndcg@3 : 0.735683
+[LightGBM] [Info] Iteration:324, valid_1 ndcg@5 : 0.75529
+[LightGBM] [Info] Iteration:324, valid_1 ndcg@10 : 0.794472
+[LightGBM] [Info] 113.307781 seconds elapsed, finished iteration 324
+[LightGBM] [Info] Iteration:325, valid_1 ndcg@1 : 0.730501
+[LightGBM] [Info] Iteration:325, valid_1 ndcg@3 : 0.735551
+[LightGBM] [Info] Iteration:325, valid_1 ndcg@5 : 0.755184
+[LightGBM] [Info] Iteration:325, valid_1 ndcg@10 : 0.794585
+[LightGBM] [Info] 113.556159 seconds elapsed, finished iteration 325
+[LightGBM] [Info] Iteration:326, valid_1 ndcg@1 : 0.730379
+[LightGBM] [Info] Iteration:326, valid_1 ndcg@3 : 0.735265
+[LightGBM] [Info] Iteration:326, valid_1 ndcg@5 : 0.75496
+[LightGBM] [Info] Iteration:326, valid_1 ndcg@10 : 0.794495
+[LightGBM] [Info] 113.824854 seconds elapsed, finished iteration 326
+[LightGBM] [Info] Iteration:327, valid_1 ndcg@1 : 0.730923
+[LightGBM] [Info] Iteration:327, valid_1 ndcg@3 : 0.735347
+[LightGBM] [Info] Iteration:327, valid_1 ndcg@5 : 0.755195
+[LightGBM] [Info] Iteration:327, valid_1 ndcg@10 : 0.794648
+[LightGBM] [Info] 114.119065 seconds elapsed, finished iteration 327
+[LightGBM] [Info] Iteration:328, valid_1 ndcg@1 : 0.731315
+[LightGBM] [Info] Iteration:328, valid_1 ndcg@3 : 0.735392
+[LightGBM] [Info] Iteration:328, valid_1 ndcg@5 : 0.755287
+[LightGBM] [Info] Iteration:328, valid_1 ndcg@10 : 0.794792
+[LightGBM] [Info] 114.367102 seconds elapsed, finished iteration 328
+[LightGBM] [Info] Iteration:329, valid_1 ndcg@1 : 0.730878
+[LightGBM] [Info] Iteration:329, valid_1 ndcg@3 : 0.735354
+[LightGBM] [Info] Iteration:329, valid_1 ndcg@5 : 0.75518
+[LightGBM] [Info] Iteration:329, valid_1 ndcg@10 : 0.79485
+[LightGBM] [Info] 114.616132 seconds elapsed, finished iteration 329
+[LightGBM] [Info] Iteration:330, valid_1 ndcg@1 : 0.731294
+[LightGBM] [Info] Iteration:330, valid_1 ndcg@3 : 0.735622
+[LightGBM] [Info] Iteration:330, valid_1 ndcg@5 : 0.755537
+[LightGBM] [Info] Iteration:330, valid_1 ndcg@10 : 0.795084
+[LightGBM] [Info] 114.852517 seconds elapsed, finished iteration 330
+[LightGBM] [Info] Iteration:331, valid_1 ndcg@1 : 0.731267
+[LightGBM] [Info] Iteration:331, valid_1 ndcg@3 : 0.735557
+[LightGBM] [Info] Iteration:331, valid_1 ndcg@5 : 0.755559
+[LightGBM] [Info] Iteration:331, valid_1 ndcg@10 : 0.795088
+[LightGBM] [Info] 115.122364 seconds elapsed, finished iteration 331
+[LightGBM] [Info] Iteration:332, valid_1 ndcg@1 : 0.731697
+[LightGBM] [Info] Iteration:332, valid_1 ndcg@3 : 0.735452
+[LightGBM] [Info] Iteration:332, valid_1 ndcg@5 : 0.755724
+[LightGBM] [Info] Iteration:332, valid_1 ndcg@10 : 0.795138
+[LightGBM] [Info] 115.397046 seconds elapsed, finished iteration 332
+[LightGBM] [Info] Iteration:333, valid_1 ndcg@1 : 0.731376
+[LightGBM] [Info] Iteration:333, valid_1 ndcg@3 : 0.735883
+[LightGBM] [Info] Iteration:333, valid_1 ndcg@5 : 0.755519
+[LightGBM] [Info] Iteration:333, valid_1 ndcg@10 : 0.795103
+[LightGBM] [Info] 115.678537 seconds elapsed, finished iteration 333
+[LightGBM] [Info] Iteration:334, valid_1 ndcg@1 : 0.731743
+[LightGBM] [Info] Iteration:334, valid_1 ndcg@3 : 0.736051
+[LightGBM] [Info] Iteration:334, valid_1 ndcg@5 : 0.755567
+[LightGBM] [Info] Iteration:334, valid_1 ndcg@10 : 0.795056
+[LightGBM] [Info] 115.921023 seconds elapsed, finished iteration 334
+[LightGBM] [Info] Iteration:335, valid_1 ndcg@1 : 0.731886
+[LightGBM] [Info] Iteration:335, valid_1 ndcg@3 : 0.736163
+[LightGBM] [Info] Iteration:335, valid_1 ndcg@5 : 0.755611
+[LightGBM] [Info] Iteration:335, valid_1 ndcg@10 : 0.795039
+[LightGBM] [Info] 116.163917 seconds elapsed, finished iteration 335
+[LightGBM] [Info] Iteration:336, valid_1 ndcg@1 : 0.731144
+[LightGBM] [Info] Iteration:336, valid_1 ndcg@3 : 0.735803
+[LightGBM] [Info] Iteration:336, valid_1 ndcg@5 : 0.755343
+[LightGBM] [Info] Iteration:336, valid_1 ndcg@10 : 0.7951
+[LightGBM] [Info] 116.467860 seconds elapsed, finished iteration 336
+[LightGBM] [Info] Iteration:337, valid_1 ndcg@1 : 0.731035
+[LightGBM] [Info] Iteration:337, valid_1 ndcg@3 : 0.735681
+[LightGBM] [Info] Iteration:337, valid_1 ndcg@5 : 0.755327
+[LightGBM] [Info] Iteration:337, valid_1 ndcg@10 : 0.795091
+[LightGBM] [Info] 116.754908 seconds elapsed, finished iteration 337
+[LightGBM] [Info] Iteration:338, valid_1 ndcg@1 : 0.730582
+[LightGBM] [Info] Iteration:338, valid_1 ndcg@3 : 0.735611
+[LightGBM] [Info] Iteration:338, valid_1 ndcg@5 : 0.75514
+[LightGBM] [Info] Iteration:338, valid_1 ndcg@10 : 0.794941
+[LightGBM] [Info] 116.984809 seconds elapsed, finished iteration 338
+[LightGBM] [Info] Iteration:339, valid_1 ndcg@1 : 0.729755
+[LightGBM] [Info] Iteration:339, valid_1 ndcg@3 : 0.73535
+[LightGBM] [Info] Iteration:339, valid_1 ndcg@5 : 0.755018
+[LightGBM] [Info] Iteration:339, valid_1 ndcg@10 : 0.794899
+[LightGBM] [Info] 117.268946 seconds elapsed, finished iteration 339
+[LightGBM] [Info] Iteration:340, valid_1 ndcg@1 : 0.729467
+[LightGBM] [Info] Iteration:340, valid_1 ndcg@3 : 0.735247
+[LightGBM] [Info] Iteration:340, valid_1 ndcg@5 : 0.754996
+[LightGBM] [Info] Iteration:340, valid_1 ndcg@10 : 0.794781
+[LightGBM] [Info] 117.500943 seconds elapsed, finished iteration 340
+[LightGBM] [Info] Iteration:341, valid_1 ndcg@1 : 0.729489
+[LightGBM] [Info] Iteration:341, valid_1 ndcg@3 : 0.735028
+[LightGBM] [Info] Iteration:341, valid_1 ndcg@5 : 0.755017
+[LightGBM] [Info] Iteration:341, valid_1 ndcg@10 : 0.794656
+[LightGBM] [Info] 117.763685 seconds elapsed, finished iteration 341
+[LightGBM] [Info] Iteration:342, valid_1 ndcg@1 : 0.729561
+[LightGBM] [Info] Iteration:342, valid_1 ndcg@3 : 0.735088
+[LightGBM] [Info] Iteration:342, valid_1 ndcg@5 : 0.755054
+[LightGBM] [Info] Iteration:342, valid_1 ndcg@10 : 0.794632
+[LightGBM] [Info] 117.997659 seconds elapsed, finished iteration 342
+[LightGBM] [Info] Iteration:343, valid_1 ndcg@1 : 0.730171
+[LightGBM] [Info] Iteration:343, valid_1 ndcg@3 : 0.735172
+[LightGBM] [Info] Iteration:343, valid_1 ndcg@5 : 0.755061
+[LightGBM] [Info] Iteration:343, valid_1 ndcg@10 : 0.794665
+[LightGBM] [Info] 118.268216 seconds elapsed, finished iteration 343
+[LightGBM] [Info] Iteration:344, valid_1 ndcg@1 : 0.729986
+[LightGBM] [Info] Iteration:344, valid_1 ndcg@3 : 0.735219
+[LightGBM] [Info] Iteration:344, valid_1 ndcg@5 : 0.754957
+[LightGBM] [Info] Iteration:344, valid_1 ndcg@10 : 0.794558
+[LightGBM] [Info] 118.529683 seconds elapsed, finished iteration 344
+[LightGBM] [Info] Iteration:345, valid_1 ndcg@1 : 0.729759
+[LightGBM] [Info] Iteration:345, valid_1 ndcg@3 : 0.735275
+[LightGBM] [Info] Iteration:345, valid_1 ndcg@5 : 0.754962
+[LightGBM] [Info] Iteration:345, valid_1 ndcg@10 : 0.794528
+[LightGBM] [Info] 118.802330 seconds elapsed, finished iteration 345
+[LightGBM] [Info] Iteration:346, valid_1 ndcg@1 : 0.729595
+[LightGBM] [Info] Iteration:346, valid_1 ndcg@3 : 0.735308
+[LightGBM] [Info] Iteration:346, valid_1 ndcg@5 : 0.755157
+[LightGBM] [Info] Iteration:346, valid_1 ndcg@10 : 0.794474
+[LightGBM] [Info] 119.085939 seconds elapsed, finished iteration 346
+[LightGBM] [Info] Iteration:347, valid_1 ndcg@1 : 0.730237
+[LightGBM] [Info] Iteration:347, valid_1 ndcg@3 : 0.73572
+[LightGBM] [Info] Iteration:347, valid_1 ndcg@5 : 0.755243
+[LightGBM] [Info] Iteration:347, valid_1 ndcg@10 : 0.794732
+[LightGBM] [Info] 119.390605 seconds elapsed, finished iteration 347
+[LightGBM] [Info] Iteration:348, valid_1 ndcg@1 : 0.73049
+[LightGBM] [Info] Iteration:348, valid_1 ndcg@3 : 0.735962
+[LightGBM] [Info] Iteration:348, valid_1 ndcg@5 : 0.755332
+[LightGBM] [Info] Iteration:348, valid_1 ndcg@10 : 0.794787
+[LightGBM] [Info] 119.661986 seconds elapsed, finished iteration 348
+[LightGBM] [Info] Iteration:349, valid_1 ndcg@1 : 0.730831
+[LightGBM] [Info] Iteration:349, valid_1 ndcg@3 : 0.736083
+[LightGBM] [Info] Iteration:349, valid_1 ndcg@5 : 0.755342
+[LightGBM] [Info] Iteration:349, valid_1 ndcg@10 : 0.79485
+[LightGBM] [Info] 119.896877 seconds elapsed, finished iteration 349
+[LightGBM] [Info] Iteration:350, valid_1 ndcg@1 : 0.730543
+[LightGBM] [Info] Iteration:350, valid_1 ndcg@3 : 0.735951
+[LightGBM] [Info] Iteration:350, valid_1 ndcg@5 : 0.75529
+[LightGBM] [Info] Iteration:350, valid_1 ndcg@10 : 0.794793
+[LightGBM] [Info] 120.172579 seconds elapsed, finished iteration 350
+[LightGBM] [Info] Iteration:351, valid_1 ndcg@1 : 0.730882
+[LightGBM] [Info] Iteration:351, valid_1 ndcg@3 : 0.736122
+[LightGBM] [Info] Iteration:351, valid_1 ndcg@5 : 0.75537
+[LightGBM] [Info] Iteration:351, valid_1 ndcg@10 : 0.794893
+[LightGBM] [Info] 120.454380 seconds elapsed, finished iteration 351
+[LightGBM] [Info] Iteration:352, valid_1 ndcg@1 : 0.730836
+[LightGBM] [Info] Iteration:352, valid_1 ndcg@3 : 0.736198
+[LightGBM] [Info] Iteration:352, valid_1 ndcg@5 : 0.755261
+[LightGBM] [Info] Iteration:352, valid_1 ndcg@10 : 0.794817
+[LightGBM] [Info] 120.739533 seconds elapsed, finished iteration 352
+[LightGBM] [Info] Iteration:353, valid_1 ndcg@1 : 0.730822
+[LightGBM] [Info] Iteration:353, valid_1 ndcg@3 : 0.736194
+[LightGBM] [Info] Iteration:353, valid_1 ndcg@5 : 0.755111
+[LightGBM] [Info] Iteration:353, valid_1 ndcg@10 : 0.794687
+[LightGBM] [Info] 120.986658 seconds elapsed, finished iteration 353
+[LightGBM] [Info] Iteration:354, valid_1 ndcg@1 : 0.731226
+[LightGBM] [Info] Iteration:354, valid_1 ndcg@3 : 0.736026
+[LightGBM] [Info] Iteration:354, valid_1 ndcg@5 : 0.755194
+[LightGBM] [Info] Iteration:354, valid_1 ndcg@10 : 0.79476
+[LightGBM] [Info] 121.253295 seconds elapsed, finished iteration 354
+[LightGBM] [Info] Iteration:355, valid_1 ndcg@1 : 0.730922
+[LightGBM] [Info] Iteration:355, valid_1 ndcg@3 : 0.736039
+[LightGBM] [Info] Iteration:355, valid_1 ndcg@5 : 0.755066
+[LightGBM] [Info] Iteration:355, valid_1 ndcg@10 : 0.794776
+[LightGBM] [Info] 121.522309 seconds elapsed, finished iteration 355
+[LightGBM] [Info] Iteration:356, valid_1 ndcg@1 : 0.730671
+[LightGBM] [Info] Iteration:356, valid_1 ndcg@3 : 0.735953
+[LightGBM] [Info] Iteration:356, valid_1 ndcg@5 : 0.755007
+[LightGBM] [Info] Iteration:356, valid_1 ndcg@10 : 0.794698
+[LightGBM] [Info] 121.759679 seconds elapsed, finished iteration 356
+[LightGBM] [Info] Iteration:357, valid_1 ndcg@1 : 0.731065
+[LightGBM] [Info] Iteration:357, valid_1 ndcg@3 : 0.736012
+[LightGBM] [Info] Iteration:357, valid_1 ndcg@5 : 0.754945
+[LightGBM] [Info] Iteration:357, valid_1 ndcg@10 : 0.794736
+[LightGBM] [Info] 122.008777 seconds elapsed, finished iteration 357
+[LightGBM] [Info] Iteration:358, valid_1 ndcg@1 : 0.730567
+[LightGBM] [Info] Iteration:358, valid_1 ndcg@3 : 0.735652
+[LightGBM] [Info] Iteration:358, valid_1 ndcg@5 : 0.754864
+[LightGBM] [Info] Iteration:358, valid_1 ndcg@10 : 0.794671
+[LightGBM] [Info] 122.274127 seconds elapsed, finished iteration 358
+[LightGBM] [Info] Iteration:359, valid_1 ndcg@1 : 0.730547
+[LightGBM] [Info] Iteration:359, valid_1 ndcg@3 : 0.735742
+[LightGBM] [Info] Iteration:359, valid_1 ndcg@5 : 0.755095
+[LightGBM] [Info] Iteration:359, valid_1 ndcg@10 : 0.794667
+[LightGBM] [Info] 122.536500 seconds elapsed, finished iteration 359
+[LightGBM] [Info] Iteration:360, valid_1 ndcg@1 : 0.730315
+[LightGBM] [Info] Iteration:360, valid_1 ndcg@3 : 0.735754
+[LightGBM] [Info] Iteration:360, valid_1 ndcg@5 : 0.754984
+[LightGBM] [Info] Iteration:360, valid_1 ndcg@10 : 0.7947
+[LightGBM] [Info] 122.770276 seconds elapsed, finished iteration 360
+[LightGBM] [Info] Iteration:361, valid_1 ndcg@1 : 0.730106
+[LightGBM] [Info] Iteration:361, valid_1 ndcg@3 : 0.735564
+[LightGBM] [Info] Iteration:361, valid_1 ndcg@5 : 0.755083
+[LightGBM] [Info] Iteration:361, valid_1 ndcg@10 : 0.794755
+[LightGBM] [Info] 123.009659 seconds elapsed, finished iteration 361
+[LightGBM] [Info] Iteration:362, valid_1 ndcg@1 : 0.73049
+[LightGBM] [Info] Iteration:362, valid_1 ndcg@3 : 0.735668
+[LightGBM] [Info] Iteration:362, valid_1 ndcg@5 : 0.755191
+[LightGBM] [Info] Iteration:362, valid_1 ndcg@10 : 0.794911
+[LightGBM] [Info] 123.243832 seconds elapsed, finished iteration 362
+[LightGBM] [Info] Iteration:363, valid_1 ndcg@1 : 0.730974
+[LightGBM] [Info] Iteration:363, valid_1 ndcg@3 : 0.73585
+[LightGBM] [Info] Iteration:363, valid_1 ndcg@5 : 0.755284
+[LightGBM] [Info] Iteration:363, valid_1 ndcg@10 : 0.794956
+[LightGBM] [Info] 123.468002 seconds elapsed, finished iteration 363
+[LightGBM] [Info] Iteration:364, valid_1 ndcg@1 : 0.73082
+[LightGBM] [Info] Iteration:364, valid_1 ndcg@3 : 0.735852
+[LightGBM] [Info] Iteration:364, valid_1 ndcg@5 : 0.755204
+[LightGBM] [Info] Iteration:364, valid_1 ndcg@10 : 0.795016
+[LightGBM] [Info] 123.717674 seconds elapsed, finished iteration 364
+[LightGBM] [Info] Iteration:365, valid_1 ndcg@1 : 0.730236
+[LightGBM] [Info] Iteration:365, valid_1 ndcg@3 : 0.735888
+[LightGBM] [Info] Iteration:365, valid_1 ndcg@5 : 0.755158
+[LightGBM] [Info] Iteration:365, valid_1 ndcg@10 : 0.79503
+[LightGBM] [Info] 123.968490 seconds elapsed, finished iteration 365
+[LightGBM] [Info] Iteration:366, valid_1 ndcg@1 : 0.73084
+[LightGBM] [Info] Iteration:366, valid_1 ndcg@3 : 0.736073
+[LightGBM] [Info] Iteration:366, valid_1 ndcg@5 : 0.755326
+[LightGBM] [Info] Iteration:366, valid_1 ndcg@10 : 0.795099
+[LightGBM] [Info] 124.198712 seconds elapsed, finished iteration 366
+[LightGBM] [Info] Iteration:367, valid_1 ndcg@1 : 0.730558
+[LightGBM] [Info] Iteration:367, valid_1 ndcg@3 : 0.735866
+[LightGBM] [Info] Iteration:367, valid_1 ndcg@5 : 0.755245
+[LightGBM] [Info] Iteration:367, valid_1 ndcg@10 : 0.795028
+[LightGBM] [Info] 124.451331 seconds elapsed, finished iteration 367
+[LightGBM] [Info] Iteration:368, valid_1 ndcg@1 : 0.730467
+[LightGBM] [Info] Iteration:368, valid_1 ndcg@3 : 0.736037
+[LightGBM] [Info] Iteration:368, valid_1 ndcg@5 : 0.755206
+[LightGBM] [Info] Iteration:368, valid_1 ndcg@10 : 0.795158
+[LightGBM] [Info] 124.738507 seconds elapsed, finished iteration 368
+[LightGBM] [Info] Iteration:369, valid_1 ndcg@1 : 0.73136
+[LightGBM] [Info] Iteration:369, valid_1 ndcg@3 : 0.73628
+[LightGBM] [Info] Iteration:369, valid_1 ndcg@5 : 0.755532
+[LightGBM] [Info] Iteration:369, valid_1 ndcg@10 : 0.795305
+[LightGBM] [Info] 124.988677 seconds elapsed, finished iteration 369
+[LightGBM] [Info] Iteration:370, valid_1 ndcg@1 : 0.730833
+[LightGBM] [Info] Iteration:370, valid_1 ndcg@3 : 0.736348
+[LightGBM] [Info] Iteration:370, valid_1 ndcg@5 : 0.755154
+[LightGBM] [Info] Iteration:370, valid_1 ndcg@10 : 0.795116
+[LightGBM] [Info] 125.249656 seconds elapsed, finished iteration 370
+[LightGBM] [Info] Iteration:371, valid_1 ndcg@1 : 0.730854
+[LightGBM] [Info] Iteration:371, valid_1 ndcg@3 : 0.736097
+[LightGBM] [Info] Iteration:371, valid_1 ndcg@5 : 0.755248
+[LightGBM] [Info] Iteration:371, valid_1 ndcg@10 : 0.795089
+[LightGBM] [Info] 125.495685 seconds elapsed, finished iteration 371
+[LightGBM] [Info] Iteration:372, valid_1 ndcg@1 : 0.730989
+[LightGBM] [Info] Iteration:372, valid_1 ndcg@3 : 0.736257
+[LightGBM] [Info] Iteration:372, valid_1 ndcg@5 : 0.755276
+[LightGBM] [Info] Iteration:372, valid_1 ndcg@10 : 0.795224
+[LightGBM] [Info] 125.789402 seconds elapsed, finished iteration 372
+[LightGBM] [Info] Iteration:373, valid_1 ndcg@1 : 0.731162
+[LightGBM] [Info] Iteration:373, valid_1 ndcg@3 : 0.736248
+[LightGBM] [Info] Iteration:373, valid_1 ndcg@5 : 0.755435
+[LightGBM] [Info] Iteration:373, valid_1 ndcg@10 : 0.795306
+[LightGBM] [Info] 126.023946 seconds elapsed, finished iteration 373
+[LightGBM] [Info] Iteration:374, valid_1 ndcg@1 : 0.731244
+[LightGBM] [Info] Iteration:374, valid_1 ndcg@3 : 0.73636
+[LightGBM] [Info] Iteration:374, valid_1 ndcg@5 : 0.755466
+[LightGBM] [Info] Iteration:374, valid_1 ndcg@10 : 0.795375
+[LightGBM] [Info] 126.242183 seconds elapsed, finished iteration 374
+[LightGBM] [Info] Iteration:375, valid_1 ndcg@1 : 0.731155
+[LightGBM] [Info] Iteration:375, valid_1 ndcg@3 : 0.736247
+[LightGBM] [Info] Iteration:375, valid_1 ndcg@5 : 0.755265
+[LightGBM] [Info] Iteration:375, valid_1 ndcg@10 : 0.795286
+[LightGBM] [Info] 126.472525 seconds elapsed, finished iteration 375
+[LightGBM] [Info] Iteration:376, valid_1 ndcg@1 : 0.730794
+[LightGBM] [Info] Iteration:376, valid_1 ndcg@3 : 0.736269
+[LightGBM] [Info] Iteration:376, valid_1 ndcg@5 : 0.755317
+[LightGBM] [Info] Iteration:376, valid_1 ndcg@10 : 0.795218
+[LightGBM] [Info] 126.700247 seconds elapsed, finished iteration 376
+[LightGBM] [Info] Iteration:377, valid_1 ndcg@1 : 0.730535
+[LightGBM] [Info] Iteration:377, valid_1 ndcg@3 : 0.736158
+[LightGBM] [Info] Iteration:377, valid_1 ndcg@5 : 0.75524
+[LightGBM] [Info] Iteration:377, valid_1 ndcg@10 : 0.795241
+[LightGBM] [Info] 126.928956 seconds elapsed, finished iteration 377
+[LightGBM] [Info] Iteration:378, valid_1 ndcg@1 : 0.731144
+[LightGBM] [Info] Iteration:378, valid_1 ndcg@3 : 0.736151
+[LightGBM] [Info] Iteration:378, valid_1 ndcg@5 : 0.755319
+[LightGBM] [Info] Iteration:378, valid_1 ndcg@10 : 0.795302
+[LightGBM] [Info] 127.154813 seconds elapsed, finished iteration 378
+[LightGBM] [Info] Iteration:379, valid_1 ndcg@1 : 0.730633
+[LightGBM] [Info] Iteration:379, valid_1 ndcg@3 : 0.736251
+[LightGBM] [Info] Iteration:379, valid_1 ndcg@5 : 0.755237
+[LightGBM] [Info] Iteration:379, valid_1 ndcg@10 : 0.79523
+[LightGBM] [Info] 127.381265 seconds elapsed, finished iteration 379
+[LightGBM] [Info] Iteration:380, valid_1 ndcg@1 : 0.729944
+[LightGBM] [Info] Iteration:380, valid_1 ndcg@3 : 0.736018
+[LightGBM] [Info] Iteration:380, valid_1 ndcg@5 : 0.755182
+[LightGBM] [Info] Iteration:380, valid_1 ndcg@10 : 0.79508
+[LightGBM] [Info] 127.675133 seconds elapsed, finished iteration 380
+[LightGBM] [Info] Iteration:381, valid_1 ndcg@1 : 0.729446
+[LightGBM] [Info] Iteration:381, valid_1 ndcg@3 : 0.73596
+[LightGBM] [Info] Iteration:381, valid_1 ndcg@5 : 0.755105
+[LightGBM] [Info] Iteration:381, valid_1 ndcg@10 : 0.79496
+[LightGBM] [Info] 127.931125 seconds elapsed, finished iteration 381
+[LightGBM] [Info] Iteration:382, valid_1 ndcg@1 : 0.730172
+[LightGBM] [Info] Iteration:382, valid_1 ndcg@3 : 0.736019
+[LightGBM] [Info] Iteration:382, valid_1 ndcg@5 : 0.755299
+[LightGBM] [Info] Iteration:382, valid_1 ndcg@10 : 0.795009
+[LightGBM] [Info] 128.239300 seconds elapsed, finished iteration 382
+[LightGBM] [Info] Iteration:383, valid_1 ndcg@1 : 0.73103
+[LightGBM] [Info] Iteration:383, valid_1 ndcg@3 : 0.736069
+[LightGBM] [Info] Iteration:383, valid_1 ndcg@5 : 0.755333
+[LightGBM] [Info] Iteration:383, valid_1 ndcg@10 : 0.79505
+[LightGBM] [Info] 128.537380 seconds elapsed, finished iteration 383
+[LightGBM] [Info] Iteration:384, valid_1 ndcg@1 : 0.73154
+[LightGBM] [Info] Iteration:384, valid_1 ndcg@3 : 0.736281
+[LightGBM] [Info] Iteration:384, valid_1 ndcg@5 : 0.755636
+[LightGBM] [Info] Iteration:384, valid_1 ndcg@10 : 0.795127
+[LightGBM] [Info] 128.776159 seconds elapsed, finished iteration 384
+[LightGBM] [Info] Iteration:385, valid_1 ndcg@1 : 0.731365
+[LightGBM] [Info] Iteration:385, valid_1 ndcg@3 : 0.736385
+[LightGBM] [Info] Iteration:385, valid_1 ndcg@5 : 0.755438
+[LightGBM] [Info] Iteration:385, valid_1 ndcg@10 : 0.795179
+[LightGBM] [Info] 129.017948 seconds elapsed, finished iteration 385
+[LightGBM] [Info] Iteration:386, valid_1 ndcg@1 : 0.731249
+[LightGBM] [Info] Iteration:386, valid_1 ndcg@3 : 0.736296
+[LightGBM] [Info] Iteration:386, valid_1 ndcg@5 : 0.755083
+[LightGBM] [Info] Iteration:386, valid_1 ndcg@10 : 0.795119
+[LightGBM] [Info] 129.263240 seconds elapsed, finished iteration 386
+[LightGBM] [Info] Iteration:387, valid_1 ndcg@1 : 0.731971
+[LightGBM] [Info] Iteration:387, valid_1 ndcg@3 : 0.73638
+[LightGBM] [Info] Iteration:387, valid_1 ndcg@5 : 0.755129
+[LightGBM] [Info] Iteration:387, valid_1 ndcg@10 : 0.795139
+[LightGBM] [Info] 129.505060 seconds elapsed, finished iteration 387
+[LightGBM] [Info] Iteration:388, valid_1 ndcg@1 : 0.731946
+[LightGBM] [Info] Iteration:388, valid_1 ndcg@3 : 0.736181
+[LightGBM] [Info] Iteration:388, valid_1 ndcg@5 : 0.754946
+[LightGBM] [Info] Iteration:388, valid_1 ndcg@10 : 0.795145
+[LightGBM] [Info] 129.764390 seconds elapsed, finished iteration 388
+[LightGBM] [Info] Iteration:389, valid_1 ndcg@1 : 0.73166
+[LightGBM] [Info] Iteration:389, valid_1 ndcg@3 : 0.736274
+[LightGBM] [Info] Iteration:389, valid_1 ndcg@5 : 0.755063
+[LightGBM] [Info] Iteration:389, valid_1 ndcg@10 : 0.795245
+[LightGBM] [Info] 130.069856 seconds elapsed, finished iteration 389
+[LightGBM] [Info] Iteration:390, valid_1 ndcg@1 : 0.731671
+[LightGBM] [Info] Iteration:390, valid_1 ndcg@3 : 0.736044
+[LightGBM] [Info] Iteration:390, valid_1 ndcg@5 : 0.755148
+[LightGBM] [Info] Iteration:390, valid_1 ndcg@10 : 0.795347
+[LightGBM] [Info] 130.383969 seconds elapsed, finished iteration 390
+[LightGBM] [Info] Iteration:391, valid_1 ndcg@1 : 0.731615
+[LightGBM] [Info] Iteration:391, valid_1 ndcg@3 : 0.73624
+[LightGBM] [Info] Iteration:391, valid_1 ndcg@5 : 0.755244
+[LightGBM] [Info] Iteration:391, valid_1 ndcg@10 : 0.79525
+[LightGBM] [Info] 130.656703 seconds elapsed, finished iteration 391
+[LightGBM] [Info] Iteration:392, valid_1 ndcg@1 : 0.731634
+[LightGBM] [Info] Iteration:392, valid_1 ndcg@3 : 0.73619
+[LightGBM] [Info] Iteration:392, valid_1 ndcg@5 : 0.755201
+[LightGBM] [Info] Iteration:392, valid_1 ndcg@10 : 0.795237
+[LightGBM] [Info] 130.913922 seconds elapsed, finished iteration 392
+[LightGBM] [Info] Iteration:393, valid_1 ndcg@1 : 0.73093
+[LightGBM] [Info] Iteration:393, valid_1 ndcg@3 : 0.736166
+[LightGBM] [Info] Iteration:393, valid_1 ndcg@5 : 0.755072
+[LightGBM] [Info] Iteration:393, valid_1 ndcg@10 : 0.795226
+[LightGBM] [Info] 131.195744 seconds elapsed, finished iteration 393
+[LightGBM] [Info] Iteration:394, valid_1 ndcg@1 : 0.730874
+[LightGBM] [Info] Iteration:394, valid_1 ndcg@3 : 0.736365
+[LightGBM] [Info] Iteration:394, valid_1 ndcg@5 : 0.755352
+[LightGBM] [Info] Iteration:394, valid_1 ndcg@10 : 0.795233
+[LightGBM] [Info] 131.429742 seconds elapsed, finished iteration 394
+[LightGBM] [Info] Iteration:395, valid_1 ndcg@1 : 0.730724
+[LightGBM] [Info] Iteration:395, valid_1 ndcg@3 : 0.736394
+[LightGBM] [Info] Iteration:395, valid_1 ndcg@5 : 0.755703
+[LightGBM] [Info] Iteration:395, valid_1 ndcg@10 : 0.795396
+[LightGBM] [Info] 131.639270 seconds elapsed, finished iteration 395
+[LightGBM] [Info] Iteration:396, valid_1 ndcg@1 : 0.730799
+[LightGBM] [Info] Iteration:396, valid_1 ndcg@3 : 0.73641
+[LightGBM] [Info] Iteration:396, valid_1 ndcg@5 : 0.755555
+[LightGBM] [Info] Iteration:396, valid_1 ndcg@10 : 0.795364
+[LightGBM] [Info] 131.884142 seconds elapsed, finished iteration 396
+[LightGBM] [Info] Iteration:397, valid_1 ndcg@1 : 0.731215
+[LightGBM] [Info] Iteration:397, valid_1 ndcg@3 : 0.736621
+[LightGBM] [Info] Iteration:397, valid_1 ndcg@5 : 0.755584
+[LightGBM] [Info] Iteration:397, valid_1 ndcg@10 : 0.79558
+[LightGBM] [Info] 132.147849 seconds elapsed, finished iteration 397
+[LightGBM] [Info] Iteration:398, valid_1 ndcg@1 : 0.731807
+[LightGBM] [Info] Iteration:398, valid_1 ndcg@3 : 0.736655
+[LightGBM] [Info] Iteration:398, valid_1 ndcg@5 : 0.755628
+[LightGBM] [Info] Iteration:398, valid_1 ndcg@10 : 0.795749
+[LightGBM] [Info] 132.423737 seconds elapsed, finished iteration 398
+[LightGBM] [Info] Iteration:399, valid_1 ndcg@1 : 0.731773
+[LightGBM] [Info] Iteration:399, valid_1 ndcg@3 : 0.736765
+[LightGBM] [Info] Iteration:399, valid_1 ndcg@5 : 0.755622
+[LightGBM] [Info] Iteration:399, valid_1 ndcg@10 : 0.795731
+[LightGBM] [Info] 132.713929 seconds elapsed, finished iteration 399
+[LightGBM] [Info] Iteration:400, valid_1 ndcg@1 : 0.731759
+[LightGBM] [Info] Iteration:400, valid_1 ndcg@3 : 0.736894
+[LightGBM] [Info] Iteration:400, valid_1 ndcg@5 : 0.755424
+[LightGBM] [Info] Iteration:400, valid_1 ndcg@10 : 0.795749
+[LightGBM] [Info] 133.009759 seconds elapsed, finished iteration 400
+[LightGBM] [Info] Iteration:401, valid_1 ndcg@1 : 0.731247
+[LightGBM] [Info] Iteration:401, valid_1 ndcg@3 : 0.736885
+[LightGBM] [Info] Iteration:401, valid_1 ndcg@5 : 0.755306
+[LightGBM] [Info] Iteration:401, valid_1 ndcg@10 : 0.795828
+[LightGBM] [Info] 133.287427 seconds elapsed, finished iteration 401
+[LightGBM] [Info] Iteration:402, valid_1 ndcg@1 : 0.730546
+[LightGBM] [Info] Iteration:402, valid_1 ndcg@3 : 0.736786
+[LightGBM] [Info] Iteration:402, valid_1 ndcg@5 : 0.755171
+[LightGBM] [Info] Iteration:402, valid_1 ndcg@10 : 0.795658
+[LightGBM] [Info] 133.615292 seconds elapsed, finished iteration 402
+[LightGBM] [Info] Iteration:403, valid_1 ndcg@1 : 0.730381
+[LightGBM] [Info] Iteration:403, valid_1 ndcg@3 : 0.736849
+[LightGBM] [Info] Iteration:403, valid_1 ndcg@5 : 0.755266
+[LightGBM] [Info] Iteration:403, valid_1 ndcg@10 : 0.795686
+[LightGBM] [Info] 133.901894 seconds elapsed, finished iteration 403
+[LightGBM] [Info] Iteration:404, valid_1 ndcg@1 : 0.730578
+[LightGBM] [Info] Iteration:404, valid_1 ndcg@3 : 0.736898
+[LightGBM] [Info] Iteration:404, valid_1 ndcg@5 : 0.75539
+[LightGBM] [Info] Iteration:404, valid_1 ndcg@10 : 0.795697
+[LightGBM] [Info] 134.145450 seconds elapsed, finished iteration 404
+[LightGBM] [Info] Iteration:405, valid_1 ndcg@1 : 0.730576
+[LightGBM] [Info] Iteration:405, valid_1 ndcg@3 : 0.736829
+[LightGBM] [Info] Iteration:405, valid_1 ndcg@5 : 0.755336
+[LightGBM] [Info] Iteration:405, valid_1 ndcg@10 : 0.79568
+[LightGBM] [Info] 134.371932 seconds elapsed, finished iteration 405
+[LightGBM] [Info] Iteration:406, valid_1 ndcg@1 : 0.730623
+[LightGBM] [Info] Iteration:406, valid_1 ndcg@3 : 0.736872
+[LightGBM] [Info] Iteration:406, valid_1 ndcg@5 : 0.755379
+[LightGBM] [Info] Iteration:406, valid_1 ndcg@10 : 0.795715
+[LightGBM] [Info] 134.598701 seconds elapsed, finished iteration 406
+[LightGBM] [Info] Iteration:407, valid_1 ndcg@1 : 0.730827
+[LightGBM] [Info] Iteration:407, valid_1 ndcg@3 : 0.73681
+[LightGBM] [Info] Iteration:407, valid_1 ndcg@5 : 0.755227
+[LightGBM] [Info] Iteration:407, valid_1 ndcg@10 : 0.795744
+[LightGBM] [Info] 134.831824 seconds elapsed, finished iteration 407
+[LightGBM] [Info] Iteration:408, valid_1 ndcg@1 : 0.730596
+[LightGBM] [Info] Iteration:408, valid_1 ndcg@3 : 0.736313
+[LightGBM] [Info] Iteration:408, valid_1 ndcg@5 : 0.755115
+[LightGBM] [Info] Iteration:408, valid_1 ndcg@10 : 0.795573
+[LightGBM] [Info] 135.044347 seconds elapsed, finished iteration 408
+[LightGBM] [Info] Iteration:409, valid_1 ndcg@1 : 0.731189
+[LightGBM] [Info] Iteration:409, valid_1 ndcg@3 : 0.736618
+[LightGBM] [Info] Iteration:409, valid_1 ndcg@5 : 0.755335
+[LightGBM] [Info] Iteration:409, valid_1 ndcg@10 : 0.795611
+[LightGBM] [Info] 135.268662 seconds elapsed, finished iteration 409
+[LightGBM] [Info] Iteration:410, valid_1 ndcg@1 : 0.730806
+[LightGBM] [Info] Iteration:410, valid_1 ndcg@3 : 0.736677
+[LightGBM] [Info] Iteration:410, valid_1 ndcg@5 : 0.755432
+[LightGBM] [Info] Iteration:410, valid_1 ndcg@10 : 0.795669
+[LightGBM] [Info] 135.533647 seconds elapsed, finished iteration 410
+[LightGBM] [Info] Iteration:411, valid_1 ndcg@1 : 0.731038
+[LightGBM] [Info] Iteration:411, valid_1 ndcg@3 : 0.736823
+[LightGBM] [Info] Iteration:411, valid_1 ndcg@5 : 0.755583
+[LightGBM] [Info] Iteration:411, valid_1 ndcg@10 : 0.79579
+[LightGBM] [Info] 135.771234 seconds elapsed, finished iteration 411
+[LightGBM] [Info] Iteration:412, valid_1 ndcg@1 : 0.731461
+[LightGBM] [Info] Iteration:412, valid_1 ndcg@3 : 0.737104
+[LightGBM] [Info] Iteration:412, valid_1 ndcg@5 : 0.755592
+[LightGBM] [Info] Iteration:412, valid_1 ndcg@10 : 0.795835
+[LightGBM] [Info] 136.020484 seconds elapsed, finished iteration 412
+[LightGBM] [Info] Iteration:413, valid_1 ndcg@1 : 0.731608
+[LightGBM] [Info] Iteration:413, valid_1 ndcg@3 : 0.737026
+[LightGBM] [Info] Iteration:413, valid_1 ndcg@5 : 0.755709
+[LightGBM] [Info] Iteration:413, valid_1 ndcg@10 : 0.795944
+[LightGBM] [Info] 136.329696 seconds elapsed, finished iteration 413
+[LightGBM] [Info] Iteration:414, valid_1 ndcg@1 : 0.731773
+[LightGBM] [Info] Iteration:414, valid_1 ndcg@3 : 0.737015
+[LightGBM] [Info] Iteration:414, valid_1 ndcg@5 : 0.755919
+[LightGBM] [Info] Iteration:414, valid_1 ndcg@10 : 0.796094
+[LightGBM] [Info] 136.632797 seconds elapsed, finished iteration 414
+[LightGBM] [Info] Iteration:415, valid_1 ndcg@1 : 0.731639
+[LightGBM] [Info] Iteration:415, valid_1 ndcg@3 : 0.736814
+[LightGBM] [Info] Iteration:415, valid_1 ndcg@5 : 0.755676
+[LightGBM] [Info] Iteration:415, valid_1 ndcg@10 : 0.795949
+[LightGBM] [Info] 136.866505 seconds elapsed, finished iteration 415
+[LightGBM] [Info] Iteration:416, valid_1 ndcg@1 : 0.73136
+[LightGBM] [Info] Iteration:416, valid_1 ndcg@3 : 0.73677
+[LightGBM] [Info] Iteration:416, valid_1 ndcg@5 : 0.755665
+[LightGBM] [Info] Iteration:416, valid_1 ndcg@10 : 0.795819
+[LightGBM] [Info] 137.144525 seconds elapsed, finished iteration 416
+[LightGBM] [Info] Iteration:417, valid_1 ndcg@1 : 0.731416
+[LightGBM] [Info] Iteration:417, valid_1 ndcg@3 : 0.736802
+[LightGBM] [Info] Iteration:417, valid_1 ndcg@5 : 0.755698
+[LightGBM] [Info] Iteration:417, valid_1 ndcg@10 : 0.79585
+[LightGBM] [Info] 137.383860 seconds elapsed, finished iteration 417
+[LightGBM] [Info] Iteration:418, valid_1 ndcg@1 : 0.731203
+[LightGBM] [Info] Iteration:418, valid_1 ndcg@3 : 0.736959
+[LightGBM] [Info] Iteration:418, valid_1 ndcg@5 : 0.755511
+[LightGBM] [Info] Iteration:418, valid_1 ndcg@10 : 0.795706
+[LightGBM] [Info] 137.651175 seconds elapsed, finished iteration 418
+[LightGBM] [Info] Iteration:419, valid_1 ndcg@1 : 0.731435
+[LightGBM] [Info] Iteration:419, valid_1 ndcg@3 : 0.736806
+[LightGBM] [Info] Iteration:419, valid_1 ndcg@5 : 0.755622
+[LightGBM] [Info] Iteration:419, valid_1 ndcg@10 : 0.795873
+[LightGBM] [Info] 137.948430 seconds elapsed, finished iteration 419
+[LightGBM] [Info] Iteration:420, valid_1 ndcg@1 : 0.730866
+[LightGBM] [Info] Iteration:420, valid_1 ndcg@3 : 0.73668
+[LightGBM] [Info] Iteration:420, valid_1 ndcg@5 : 0.755708
+[LightGBM] [Info] Iteration:420, valid_1 ndcg@10 : 0.795832
+[LightGBM] [Info] 138.232615 seconds elapsed, finished iteration 420
+[LightGBM] [Info] Iteration:421, valid_1 ndcg@1 : 0.731431
+[LightGBM] [Info] Iteration:421, valid_1 ndcg@3 : 0.736804
+[LightGBM] [Info] Iteration:421, valid_1 ndcg@5 : 0.755721
+[LightGBM] [Info] Iteration:421, valid_1 ndcg@10 : 0.795844
+[LightGBM] [Info] 138.532504 seconds elapsed, finished iteration 421
+[LightGBM] [Info] Iteration:422, valid_1 ndcg@1 : 0.731458
+[LightGBM] [Info] Iteration:422, valid_1 ndcg@3 : 0.736961
+[LightGBM] [Info] Iteration:422, valid_1 ndcg@5 : 0.755846
+[LightGBM] [Info] Iteration:422, valid_1 ndcg@10 : 0.795839
+[LightGBM] [Info] 138.771096 seconds elapsed, finished iteration 422
+[LightGBM] [Info] Iteration:423, valid_1 ndcg@1 : 0.731578
+[LightGBM] [Info] Iteration:423, valid_1 ndcg@3 : 0.736894
+[LightGBM] [Info] Iteration:423, valid_1 ndcg@5 : 0.755602
+[LightGBM] [Info] Iteration:423, valid_1 ndcg@10 : 0.795792
+[LightGBM] [Info] 138.998507 seconds elapsed, finished iteration 423
+[LightGBM] [Info] Iteration:424, valid_1 ndcg@1 : 0.731215
+[LightGBM] [Info] Iteration:424, valid_1 ndcg@3 : 0.736877
+[LightGBM] [Info] Iteration:424, valid_1 ndcg@5 : 0.755554
+[LightGBM] [Info] Iteration:424, valid_1 ndcg@10 : 0.795719
+[LightGBM] [Info] 139.272202 seconds elapsed, finished iteration 424
+[LightGBM] [Info] Iteration:425, valid_1 ndcg@1 : 0.731125
+[LightGBM] [Info] Iteration:425, valid_1 ndcg@3 : 0.736706
+[LightGBM] [Info] Iteration:425, valid_1 ndcg@5 : 0.755461
+[LightGBM] [Info] Iteration:425, valid_1 ndcg@10 : 0.795655
+[LightGBM] [Info] 139.520472 seconds elapsed, finished iteration 425
+[LightGBM] [Info] Iteration:426, valid_1 ndcg@1 : 0.730809
+[LightGBM] [Info] Iteration:426, valid_1 ndcg@3 : 0.736611
+[LightGBM] [Info] Iteration:426, valid_1 ndcg@5 : 0.755266
+[LightGBM] [Info] Iteration:426, valid_1 ndcg@10 : 0.79565
+[LightGBM] [Info] 139.743115 seconds elapsed, finished iteration 426
+[LightGBM] [Info] Iteration:427, valid_1 ndcg@1 : 0.731073
+[LightGBM] [Info] Iteration:427, valid_1 ndcg@3 : 0.736787
+[LightGBM] [Info] Iteration:427, valid_1 ndcg@5 : 0.755272
+[LightGBM] [Info] Iteration:427, valid_1 ndcg@10 : 0.795639
+[LightGBM] [Info] 140.010047 seconds elapsed, finished iteration 427
+[LightGBM] [Info] Iteration:428, valid_1 ndcg@1 : 0.73103
+[LightGBM] [Info] Iteration:428, valid_1 ndcg@3 : 0.736892
+[LightGBM] [Info] Iteration:428, valid_1 ndcg@5 : 0.755248
+[LightGBM] [Info] Iteration:428, valid_1 ndcg@10 : 0.795626
+[LightGBM] [Info] 140.322155 seconds elapsed, finished iteration 428
+[LightGBM] [Info] Iteration:429, valid_1 ndcg@1 : 0.731041
+[LightGBM] [Info] Iteration:429, valid_1 ndcg@3 : 0.736837
+[LightGBM] [Info] Iteration:429, valid_1 ndcg@5 : 0.755493
+[LightGBM] [Info] Iteration:429, valid_1 ndcg@10 : 0.795781
+[LightGBM] [Info] 140.593126 seconds elapsed, finished iteration 429
+[LightGBM] [Info] Iteration:430, valid_1 ndcg@1 : 0.730484
+[LightGBM] [Info] Iteration:430, valid_1 ndcg@3 : 0.736632
+[LightGBM] [Info] Iteration:430, valid_1 ndcg@5 : 0.755335
+[LightGBM] [Info] Iteration:430, valid_1 ndcg@10 : 0.795666
+[LightGBM] [Info] 140.805584 seconds elapsed, finished iteration 430
+[LightGBM] [Info] Iteration:431, valid_1 ndcg@1 : 0.730862
+[LightGBM] [Info] Iteration:431, valid_1 ndcg@3 : 0.736784
+[LightGBM] [Info] Iteration:431, valid_1 ndcg@5 : 0.755472
+[LightGBM] [Info] Iteration:431, valid_1 ndcg@10 : 0.795797
+[LightGBM] [Info] 141.017256 seconds elapsed, finished iteration 431
+[LightGBM] [Info] Iteration:432, valid_1 ndcg@1 : 0.731019
+[LightGBM] [Info] Iteration:432, valid_1 ndcg@3 : 0.736912
+[LightGBM] [Info] Iteration:432, valid_1 ndcg@5 : 0.755505
+[LightGBM] [Info] Iteration:432, valid_1 ndcg@10 : 0.79574
+[LightGBM] [Info] 141.239632 seconds elapsed, finished iteration 432
+[LightGBM] [Info] Iteration:433, valid_1 ndcg@1 : 0.731369
+[LightGBM] [Info] Iteration:433, valid_1 ndcg@3 : 0.737063
+[LightGBM] [Info] Iteration:433, valid_1 ndcg@5 : 0.75559
+[LightGBM] [Info] Iteration:433, valid_1 ndcg@10 : 0.795877
+[LightGBM] [Info] 141.451013 seconds elapsed, finished iteration 433
+[LightGBM] [Info] Iteration:434, valid_1 ndcg@1 : 0.731004
+[LightGBM] [Info] Iteration:434, valid_1 ndcg@3 : 0.737162
+[LightGBM] [Info] Iteration:434, valid_1 ndcg@5 : 0.755654
+[LightGBM] [Info] Iteration:434, valid_1 ndcg@10 : 0.795825
+[LightGBM] [Info] 141.685456 seconds elapsed, finished iteration 434
+[LightGBM] [Info] Iteration:435, valid_1 ndcg@1 : 0.730996
+[LightGBM] [Info] Iteration:435, valid_1 ndcg@3 : 0.737274
+[LightGBM] [Info] Iteration:435, valid_1 ndcg@5 : 0.755604
+[LightGBM] [Info] Iteration:435, valid_1 ndcg@10 : 0.795856
+[LightGBM] [Info] 141.947328 seconds elapsed, finished iteration 435
+[LightGBM] [Info] Iteration:436, valid_1 ndcg@1 : 0.730978
+[LightGBM] [Info] Iteration:436, valid_1 ndcg@3 : 0.737136
+[LightGBM] [Info] Iteration:436, valid_1 ndcg@5 : 0.755688
+[LightGBM] [Info] Iteration:436, valid_1 ndcg@10 : 0.79593
+[LightGBM] [Info] 142.220587 seconds elapsed, finished iteration 436
+[LightGBM] [Info] Iteration:437, valid_1 ndcg@1 : 0.730401
+[LightGBM] [Info] Iteration:437, valid_1 ndcg@3 : 0.736844
+[LightGBM] [Info] Iteration:437, valid_1 ndcg@5 : 0.755539
+[LightGBM] [Info] Iteration:437, valid_1 ndcg@10 : 0.795802
+[LightGBM] [Info] 142.488602 seconds elapsed, finished iteration 437
+[LightGBM] [Info] Iteration:438, valid_1 ndcg@1 : 0.731042
+[LightGBM] [Info] Iteration:438, valid_1 ndcg@3 : 0.737116
+[LightGBM] [Info] Iteration:438, valid_1 ndcg@5 : 0.755543
+[LightGBM] [Info] Iteration:438, valid_1 ndcg@10 : 0.795827
+[LightGBM] [Info] 142.770840 seconds elapsed, finished iteration 438
+[LightGBM] [Info] Iteration:439, valid_1 ndcg@1 : 0.730904
+[LightGBM] [Info] Iteration:439, valid_1 ndcg@3 : 0.737142
+[LightGBM] [Info] Iteration:439, valid_1 ndcg@5 : 0.755634
+[LightGBM] [Info] Iteration:439, valid_1 ndcg@10 : 0.795867
+[LightGBM] [Info] 143.046186 seconds elapsed, finished iteration 439
+[LightGBM] [Info] Iteration:440, valid_1 ndcg@1 : 0.730857
+[LightGBM] [Info] Iteration:440, valid_1 ndcg@3 : 0.737421
+[LightGBM] [Info] Iteration:440, valid_1 ndcg@5 : 0.755617
+[LightGBM] [Info] Iteration:440, valid_1 ndcg@10 : 0.795924
+[LightGBM] [Info] 143.334308 seconds elapsed, finished iteration 440
+[LightGBM] [Info] Iteration:441, valid_1 ndcg@1 : 0.731432
+[LightGBM] [Info] Iteration:441, valid_1 ndcg@3 : 0.737535
+[LightGBM] [Info] Iteration:441, valid_1 ndcg@5 : 0.755823
+[LightGBM] [Info] Iteration:441, valid_1 ndcg@10 : 0.796077
+[LightGBM] [Info] 143.572281 seconds elapsed, finished iteration 441
+[LightGBM] [Info] Iteration:442, valid_1 ndcg@1 : 0.731543
+[LightGBM] [Info] Iteration:442, valid_1 ndcg@3 : 0.737241
+[LightGBM] [Info] Iteration:442, valid_1 ndcg@5 : 0.755814
+[LightGBM] [Info] Iteration:442, valid_1 ndcg@10 : 0.796083
+[LightGBM] [Info] 143.840660 seconds elapsed, finished iteration 442
+[LightGBM] [Info] Iteration:443, valid_1 ndcg@1 : 0.731148
+[LightGBM] [Info] Iteration:443, valid_1 ndcg@3 : 0.737163
+[LightGBM] [Info] Iteration:443, valid_1 ndcg@5 : 0.755659
+[LightGBM] [Info] Iteration:443, valid_1 ndcg@10 : 0.795944
+[LightGBM] [Info] 144.090864 seconds elapsed, finished iteration 443
+[LightGBM] [Info] Iteration:444, valid_1 ndcg@1 : 0.731338
+[LightGBM] [Info] Iteration:444, valid_1 ndcg@3 : 0.737303
+[LightGBM] [Info] Iteration:444, valid_1 ndcg@5 : 0.755632
+[LightGBM] [Info] Iteration:444, valid_1 ndcg@10 : 0.795997
+[LightGBM] [Info] 144.351362 seconds elapsed, finished iteration 444
+[LightGBM] [Info] Iteration:445, valid_1 ndcg@1 : 0.731608
+[LightGBM] [Info] Iteration:445, valid_1 ndcg@3 : 0.737307
+[LightGBM] [Info] Iteration:445, valid_1 ndcg@5 : 0.755785
+[LightGBM] [Info] Iteration:445, valid_1 ndcg@10 : 0.79611
+[LightGBM] [Info] 144.659424 seconds elapsed, finished iteration 445
+[LightGBM] [Info] Iteration:446, valid_1 ndcg@1 : 0.731854
+[LightGBM] [Info] Iteration:446, valid_1 ndcg@3 : 0.73721
+[LightGBM] [Info] Iteration:446, valid_1 ndcg@5 : 0.755727
+[LightGBM] [Info] Iteration:446, valid_1 ndcg@10 : 0.796026
+[LightGBM] [Info] 144.881023 seconds elapsed, finished iteration 446
+[LightGBM] [Info] Iteration:447, valid_1 ndcg@1 : 0.732238
+[LightGBM] [Info] Iteration:447, valid_1 ndcg@3 : 0.737353
+[LightGBM] [Info] Iteration:447, valid_1 ndcg@5 : 0.755821
+[LightGBM] [Info] Iteration:447, valid_1 ndcg@10 : 0.796061
+[LightGBM] [Info] 145.156556 seconds elapsed, finished iteration 447
+[LightGBM] [Info] Iteration:448, valid_1 ndcg@1 : 0.732066
+[LightGBM] [Info] Iteration:448, valid_1 ndcg@3 : 0.737205
+[LightGBM] [Info] Iteration:448, valid_1 ndcg@5 : 0.75589
+[LightGBM] [Info] Iteration:448, valid_1 ndcg@10 : 0.796217
+[LightGBM] [Info] 145.434988 seconds elapsed, finished iteration 448
+[LightGBM] [Info] Iteration:449, valid_1 ndcg@1 : 0.731319
+[LightGBM] [Info] Iteration:449, valid_1 ndcg@3 : 0.737192
+[LightGBM] [Info] Iteration:449, valid_1 ndcg@5 : 0.755785
+[LightGBM] [Info] Iteration:449, valid_1 ndcg@10 : 0.796125
+[LightGBM] [Info] 145.708040 seconds elapsed, finished iteration 449
+[LightGBM] [Info] Iteration:450, valid_1 ndcg@1 : 0.731076
+[LightGBM] [Info] Iteration:450, valid_1 ndcg@3 : 0.737129
+[LightGBM] [Info] Iteration:450, valid_1 ndcg@5 : 0.755836
+[LightGBM] [Info] Iteration:450, valid_1 ndcg@10 : 0.796171
+[LightGBM] [Info] 145.992587 seconds elapsed, finished iteration 450
+[LightGBM] [Info] Iteration:451, valid_1 ndcg@1 : 0.731431
+[LightGBM] [Info] Iteration:451, valid_1 ndcg@3 : 0.737226
+[LightGBM] [Info] Iteration:451, valid_1 ndcg@5 : 0.755769
+[LightGBM] [Info] Iteration:451, valid_1 ndcg@10 : 0.796213
+[LightGBM] [Info] 146.259876 seconds elapsed, finished iteration 451
+[LightGBM] [Info] Iteration:452, valid_1 ndcg@1 : 0.731307
+[LightGBM] [Info] Iteration:452, valid_1 ndcg@3 : 0.737086
+[LightGBM] [Info] Iteration:452, valid_1 ndcg@5 : 0.755991
+[LightGBM] [Info] Iteration:452, valid_1 ndcg@10 : 0.796138
+[LightGBM] [Info] 146.574746 seconds elapsed, finished iteration 452
+[LightGBM] [Info] Iteration:453, valid_1 ndcg@1 : 0.731174
+[LightGBM] [Info] Iteration:453, valid_1 ndcg@3 : 0.736942
+[LightGBM] [Info] Iteration:453, valid_1 ndcg@5 : 0.755826
+[LightGBM] [Info] Iteration:453, valid_1 ndcg@10 : 0.796106
+[LightGBM] [Info] 146.828876 seconds elapsed, finished iteration 453
+[LightGBM] [Info] Iteration:454, valid_1 ndcg@1 : 0.731409
+[LightGBM] [Info] Iteration:454, valid_1 ndcg@3 : 0.73708
+[LightGBM] [Info] Iteration:454, valid_1 ndcg@5 : 0.756038
+[LightGBM] [Info] Iteration:454, valid_1 ndcg@10 : 0.79623
+[LightGBM] [Info] 147.077086 seconds elapsed, finished iteration 454
+[LightGBM] [Info] Iteration:455, valid_1 ndcg@1 : 0.731641
+[LightGBM] [Info] Iteration:455, valid_1 ndcg@3 : 0.737202
+[LightGBM] [Info] Iteration:455, valid_1 ndcg@5 : 0.756105
+[LightGBM] [Info] Iteration:455, valid_1 ndcg@10 : 0.796285
+[LightGBM] [Info] 147.329425 seconds elapsed, finished iteration 455
+[LightGBM] [Info] Iteration:456, valid_1 ndcg@1 : 0.731668
+[LightGBM] [Info] Iteration:456, valid_1 ndcg@3 : 0.737151
+[LightGBM] [Info] Iteration:456, valid_1 ndcg@5 : 0.756246
+[LightGBM] [Info] Iteration:456, valid_1 ndcg@10 : 0.796365
+[LightGBM] [Info] 147.571648 seconds elapsed, finished iteration 456
+[LightGBM] [Info] Iteration:457, valid_1 ndcg@1 : 0.731879
+[LightGBM] [Info] Iteration:457, valid_1 ndcg@3 : 0.737427
+[LightGBM] [Info] Iteration:457, valid_1 ndcg@5 : 0.756114
+[LightGBM] [Info] Iteration:457, valid_1 ndcg@10 : 0.796374
+[LightGBM] [Info] 147.819261 seconds elapsed, finished iteration 457
+[LightGBM] [Info] Iteration:458, valid_1 ndcg@1 : 0.731725
+[LightGBM] [Info] Iteration:458, valid_1 ndcg@3 : 0.737397
+[LightGBM] [Info] Iteration:458, valid_1 ndcg@5 : 0.756187
+[LightGBM] [Info] Iteration:458, valid_1 ndcg@10 : 0.796389
+[LightGBM] [Info] 148.092996 seconds elapsed, finished iteration 458
+[LightGBM] [Info] Iteration:459, valid_1 ndcg@1 : 0.731684
+[LightGBM] [Info] Iteration:459, valid_1 ndcg@3 : 0.737444
+[LightGBM] [Info] Iteration:459, valid_1 ndcg@5 : 0.756245
+[LightGBM] [Info] Iteration:459, valid_1 ndcg@10 : 0.796326
+[LightGBM] [Info] 148.315051 seconds elapsed, finished iteration 459
+[LightGBM] [Info] Iteration:460, valid_1 ndcg@1 : 0.731596
+[LightGBM] [Info] Iteration:460, valid_1 ndcg@3 : 0.737593
+[LightGBM] [Info] Iteration:460, valid_1 ndcg@5 : 0.756253
+[LightGBM] [Info] Iteration:460, valid_1 ndcg@10 : 0.796344
+[LightGBM] [Info] 148.547570 seconds elapsed, finished iteration 460
+[LightGBM] [Info] Iteration:461, valid_1 ndcg@1 : 0.731136
+[LightGBM] [Info] Iteration:461, valid_1 ndcg@3 : 0.737599
+[LightGBM] [Info] Iteration:461, valid_1 ndcg@5 : 0.756277
+[LightGBM] [Info] Iteration:461, valid_1 ndcg@10 : 0.796301
+[LightGBM] [Info] 148.763910 seconds elapsed, finished iteration 461
+[LightGBM] [Info] Iteration:462, valid_1 ndcg@1 : 0.731301
+[LightGBM] [Info] Iteration:462, valid_1 ndcg@3 : 0.737737
+[LightGBM] [Info] Iteration:462, valid_1 ndcg@5 : 0.756312
+[LightGBM] [Info] Iteration:462, valid_1 ndcg@10 : 0.796425
+[LightGBM] [Info] 148.987113 seconds elapsed, finished iteration 462
+[LightGBM] [Info] Iteration:463, valid_1 ndcg@1 : 0.731469
+[LightGBM] [Info] Iteration:463, valid_1 ndcg@3 : 0.737877
+[LightGBM] [Info] Iteration:463, valid_1 ndcg@5 : 0.756374
+[LightGBM] [Info] Iteration:463, valid_1 ndcg@10 : 0.796479
+[LightGBM] [Info] 149.189319 seconds elapsed, finished iteration 463
+[LightGBM] [Info] Iteration:464, valid_1 ndcg@1 : 0.731491
+[LightGBM] [Info] Iteration:464, valid_1 ndcg@3 : 0.737812
+[LightGBM] [Info] Iteration:464, valid_1 ndcg@5 : 0.75634
+[LightGBM] [Info] Iteration:464, valid_1 ndcg@10 : 0.796435
+[LightGBM] [Info] 149.389737 seconds elapsed, finished iteration 464
+[LightGBM] [Info] Iteration:465, valid_1 ndcg@1 : 0.731474
+[LightGBM] [Info] Iteration:465, valid_1 ndcg@3 : 0.7377
+[LightGBM] [Info] Iteration:465, valid_1 ndcg@5 : 0.756237
+[LightGBM] [Info] Iteration:465, valid_1 ndcg@10 : 0.796368
+[LightGBM] [Info] 149.591432 seconds elapsed, finished iteration 465
+[LightGBM] [Info] Iteration:466, valid_1 ndcg@1 : 0.73232
+[LightGBM] [Info] Iteration:466, valid_1 ndcg@3 : 0.737747
+[LightGBM] [Info] Iteration:466, valid_1 ndcg@5 : 0.756296
+[LightGBM] [Info] Iteration:466, valid_1 ndcg@10 : 0.796443
+[LightGBM] [Info] 149.843090 seconds elapsed, finished iteration 466
+[LightGBM] [Info] Iteration:467, valid_1 ndcg@1 : 0.731968
+[LightGBM] [Info] Iteration:467, valid_1 ndcg@3 : 0.737649
+[LightGBM] [Info] Iteration:467, valid_1 ndcg@5 : 0.756375
+[LightGBM] [Info] Iteration:467, valid_1 ndcg@10 : 0.796406
+[LightGBM] [Info] 150.055822 seconds elapsed, finished iteration 467
+[LightGBM] [Info] Iteration:468, valid_1 ndcg@1 : 0.731916
+[LightGBM] [Info] Iteration:468, valid_1 ndcg@3 : 0.737693
+[LightGBM] [Info] Iteration:468, valid_1 ndcg@5 : 0.756099
+[LightGBM] [Info] Iteration:468, valid_1 ndcg@10 : 0.796472
+[LightGBM] [Info] 150.299963 seconds elapsed, finished iteration 468
+[LightGBM] [Info] Iteration:469, valid_1 ndcg@1 : 0.732466
+[LightGBM] [Info] Iteration:469, valid_1 ndcg@3 : 0.737999
+[LightGBM] [Info] Iteration:469, valid_1 ndcg@5 : 0.756346
+[LightGBM] [Info] Iteration:469, valid_1 ndcg@10 : 0.796585
+[LightGBM] [Info] 150.520287 seconds elapsed, finished iteration 469
+[LightGBM] [Info] Iteration:470, valid_1 ndcg@1 : 0.732355
+[LightGBM] [Info] Iteration:470, valid_1 ndcg@3 : 0.738048
+[LightGBM] [Info] Iteration:470, valid_1 ndcg@5 : 0.756359
+[LightGBM] [Info] Iteration:470, valid_1 ndcg@10 : 0.796627
+[LightGBM] [Info] 150.760417 seconds elapsed, finished iteration 470
+[LightGBM] [Info] Iteration:471, valid_1 ndcg@1 : 0.732165
+[LightGBM] [Info] Iteration:471, valid_1 ndcg@3 : 0.73779
+[LightGBM] [Info] Iteration:471, valid_1 ndcg@5 : 0.756492
+[LightGBM] [Info] Iteration:471, valid_1 ndcg@10 : 0.79678
+[LightGBM] [Info] 150.971697 seconds elapsed, finished iteration 471
+[LightGBM] [Info] Iteration:472, valid_1 ndcg@1 : 0.731468
+[LightGBM] [Info] Iteration:472, valid_1 ndcg@3 : 0.737505
+[LightGBM] [Info] Iteration:472, valid_1 ndcg@5 : 0.756548
+[LightGBM] [Info] Iteration:472, valid_1 ndcg@10 : 0.796787
+[LightGBM] [Info] 151.176195 seconds elapsed, finished iteration 472
+[LightGBM] [Info] Iteration:473, valid_1 ndcg@1 : 0.731343
+[LightGBM] [Info] Iteration:473, valid_1 ndcg@3 : 0.737465
+[LightGBM] [Info] Iteration:473, valid_1 ndcg@5 : 0.756464
+[LightGBM] [Info] Iteration:473, valid_1 ndcg@10 : 0.796659
+[LightGBM] [Info] 151.408801 seconds elapsed, finished iteration 473
+[LightGBM] [Info] Iteration:474, valid_1 ndcg@1 : 0.731652
+[LightGBM] [Info] Iteration:474, valid_1 ndcg@3 : 0.737389
+[LightGBM] [Info] Iteration:474, valid_1 ndcg@5 : 0.75648
+[LightGBM] [Info] Iteration:474, valid_1 ndcg@10 : 0.796756
+[LightGBM] [Info] 151.637951 seconds elapsed, finished iteration 474
+[LightGBM] [Info] Iteration:475, valid_1 ndcg@1 : 0.731275
+[LightGBM] [Info] Iteration:475, valid_1 ndcg@3 : 0.737341
+[LightGBM] [Info] Iteration:475, valid_1 ndcg@5 : 0.756299
+[LightGBM] [Info] Iteration:475, valid_1 ndcg@10 : 0.796691
+[LightGBM] [Info] 151.864539 seconds elapsed, finished iteration 475
+[LightGBM] [Info] Iteration:476, valid_1 ndcg@1 : 0.731631
+[LightGBM] [Info] Iteration:476, valid_1 ndcg@3 : 0.737262
+[LightGBM] [Info] Iteration:476, valid_1 ndcg@5 : 0.756381
+[LightGBM] [Info] Iteration:476, valid_1 ndcg@10 : 0.796818
+[LightGBM] [Info] 152.080317 seconds elapsed, finished iteration 476
+[LightGBM] [Info] Iteration:477, valid_1 ndcg@1 : 0.731999
+[LightGBM] [Info] Iteration:477, valid_1 ndcg@3 : 0.737285
+[LightGBM] [Info] Iteration:477, valid_1 ndcg@5 : 0.756458
+[LightGBM] [Info] Iteration:477, valid_1 ndcg@10 : 0.796771
+[LightGBM] [Info] 152.319098 seconds elapsed, finished iteration 477
+[LightGBM] [Info] Iteration:478, valid_1 ndcg@1 : 0.731761
+[LightGBM] [Info] Iteration:478, valid_1 ndcg@3 : 0.737139
+[LightGBM] [Info] Iteration:478, valid_1 ndcg@5 : 0.756333
+[LightGBM] [Info] Iteration:478, valid_1 ndcg@10 : 0.796659
+[LightGBM] [Info] 152.534662 seconds elapsed, finished iteration 478
+[LightGBM] [Info] Iteration:479, valid_1 ndcg@1 : 0.731515
+[LightGBM] [Info] Iteration:479, valid_1 ndcg@3 : 0.737142
+[LightGBM] [Info] Iteration:479, valid_1 ndcg@5 : 0.756234
+[LightGBM] [Info] Iteration:479, valid_1 ndcg@10 : 0.796656
+[LightGBM] [Info] 152.749470 seconds elapsed, finished iteration 479
+[LightGBM] [Info] Iteration:480, valid_1 ndcg@1 : 0.731508
+[LightGBM] [Info] Iteration:480, valid_1 ndcg@3 : 0.737129
+[LightGBM] [Info] Iteration:480, valid_1 ndcg@5 : 0.756139
+[LightGBM] [Info] Iteration:480, valid_1 ndcg@10 : 0.796642
+[LightGBM] [Info] 152.998487 seconds elapsed, finished iteration 480
+[LightGBM] [Info] Iteration:481, valid_1 ndcg@1 : 0.731652
+[LightGBM] [Info] Iteration:481, valid_1 ndcg@3 : 0.737274
+[LightGBM] [Info] Iteration:481, valid_1 ndcg@5 : 0.756098
+[LightGBM] [Info] Iteration:481, valid_1 ndcg@10 : 0.79663
+[LightGBM] [Info] 153.234897 seconds elapsed, finished iteration 481
+[LightGBM] [Info] Iteration:482, valid_1 ndcg@1 : 0.731734
+[LightGBM] [Info] Iteration:482, valid_1 ndcg@3 : 0.737262
+[LightGBM] [Info] Iteration:482, valid_1 ndcg@5 : 0.756175
+[LightGBM] [Info] Iteration:482, valid_1 ndcg@10 : 0.796716
+[LightGBM] [Info] 153.450979 seconds elapsed, finished iteration 482
+[LightGBM] [Info] Iteration:483, valid_1 ndcg@1 : 0.731829
+[LightGBM] [Info] Iteration:483, valid_1 ndcg@3 : 0.737125
+[LightGBM] [Info] Iteration:483, valid_1 ndcg@5 : 0.756016
+[LightGBM] [Info] Iteration:483, valid_1 ndcg@10 : 0.796637
+[LightGBM] [Info] 153.669841 seconds elapsed, finished iteration 483
+[LightGBM] [Info] Iteration:484, valid_1 ndcg@1 : 0.73177
+[LightGBM] [Info] Iteration:484, valid_1 ndcg@3 : 0.737101
+[LightGBM] [Info] Iteration:484, valid_1 ndcg@5 : 0.755993
+[LightGBM] [Info] Iteration:484, valid_1 ndcg@10 : 0.796682
+[LightGBM] [Info] 153.967763 seconds elapsed, finished iteration 484
+[LightGBM] [Info] Iteration:485, valid_1 ndcg@1 : 0.731764
+[LightGBM] [Info] Iteration:485, valid_1 ndcg@3 : 0.736993
+[LightGBM] [Info] Iteration:485, valid_1 ndcg@5 : 0.756212
+[LightGBM] [Info] Iteration:485, valid_1 ndcg@10 : 0.796602
+[LightGBM] [Info] 154.240898 seconds elapsed, finished iteration 485
+[LightGBM] [Info] Iteration:486, valid_1 ndcg@1 : 0.731559
+[LightGBM] [Info] Iteration:486, valid_1 ndcg@3 : 0.736708
+[LightGBM] [Info] Iteration:486, valid_1 ndcg@5 : 0.756046
+[LightGBM] [Info] Iteration:486, valid_1 ndcg@10 : 0.796574
+[LightGBM] [Info] 154.469240 seconds elapsed, finished iteration 486
+[LightGBM] [Info] Iteration:487, valid_1 ndcg@1 : 0.73207
+[LightGBM] [Info] Iteration:487, valid_1 ndcg@3 : 0.736791
+[LightGBM] [Info] Iteration:487, valid_1 ndcg@5 : 0.756118
+[LightGBM] [Info] Iteration:487, valid_1 ndcg@10 : 0.796601
+[LightGBM] [Info] 154.709789 seconds elapsed, finished iteration 487
+[LightGBM] [Info] Iteration:488, valid_1 ndcg@1 : 0.731687
+[LightGBM] [Info] Iteration:488, valid_1 ndcg@3 : 0.736718
+[LightGBM] [Info] Iteration:488, valid_1 ndcg@5 : 0.756116
+[LightGBM] [Info] Iteration:488, valid_1 ndcg@10 : 0.796525
+[LightGBM] [Info] 154.936180 seconds elapsed, finished iteration 488
+[LightGBM] [Info] Iteration:489, valid_1 ndcg@1 : 0.731428
+[LightGBM] [Info] Iteration:489, valid_1 ndcg@3 : 0.736982
+[LightGBM] [Info] Iteration:489, valid_1 ndcg@5 : 0.756048
+[LightGBM] [Info] Iteration:489, valid_1 ndcg@10 : 0.796448
+[LightGBM] [Info] 155.161019 seconds elapsed, finished iteration 489
+[LightGBM] [Info] Iteration:490, valid_1 ndcg@1 : 0.731307
+[LightGBM] [Info] Iteration:490, valid_1 ndcg@3 : 0.73695
+[LightGBM] [Info] Iteration:490, valid_1 ndcg@5 : 0.756234
+[LightGBM] [Info] Iteration:490, valid_1 ndcg@10 : 0.79653
+[LightGBM] [Info] 155.391243 seconds elapsed, finished iteration 490
+[LightGBM] [Info] Iteration:491, valid_1 ndcg@1 : 0.730801
+[LightGBM] [Info] Iteration:491, valid_1 ndcg@3 : 0.73682
+[LightGBM] [Info] Iteration:491, valid_1 ndcg@5 : 0.756163
+[LightGBM] [Info] Iteration:491, valid_1 ndcg@10 : 0.796499
+[LightGBM] [Info] 155.609459 seconds elapsed, finished iteration 491
+[LightGBM] [Info] Iteration:492, valid_1 ndcg@1 : 0.73127
+[LightGBM] [Info] Iteration:492, valid_1 ndcg@3 : 0.736777
+[LightGBM] [Info] Iteration:492, valid_1 ndcg@5 : 0.756142
+[LightGBM] [Info] Iteration:492, valid_1 ndcg@10 : 0.796479
+[LightGBM] [Info] 155.884704 seconds elapsed, finished iteration 492
+[LightGBM] [Info] Iteration:493, valid_1 ndcg@1 : 0.730896
+[LightGBM] [Info] Iteration:493, valid_1 ndcg@3 : 0.736826
+[LightGBM] [Info] Iteration:493, valid_1 ndcg@5 : 0.756164
+[LightGBM] [Info] Iteration:493, valid_1 ndcg@10 : 0.796518
+[LightGBM] [Info] 156.128096 seconds elapsed, finished iteration 493
+[LightGBM] [Info] Iteration:494, valid_1 ndcg@1 : 0.730985
+[LightGBM] [Info] Iteration:494, valid_1 ndcg@3 : 0.736966
+[LightGBM] [Info] Iteration:494, valid_1 ndcg@5 : 0.756165
+[LightGBM] [Info] Iteration:494, valid_1 ndcg@10 : 0.796505
+[LightGBM] [Info] 156.346773 seconds elapsed, finished iteration 494
+[LightGBM] [Info] Iteration:495, valid_1 ndcg@1 : 0.730712
+[LightGBM] [Info] Iteration:495, valid_1 ndcg@3 : 0.736689
+[LightGBM] [Info] Iteration:495, valid_1 ndcg@5 : 0.756029
+[LightGBM] [Info] Iteration:495, valid_1 ndcg@10 : 0.796392
+[LightGBM] [Info] 156.624387 seconds elapsed, finished iteration 495
+[LightGBM] [Info] Iteration:496, valid_1 ndcg@1 : 0.731398
+[LightGBM] [Info] Iteration:496, valid_1 ndcg@3 : 0.736827
+[LightGBM] [Info] Iteration:496, valid_1 ndcg@5 : 0.756177
+[LightGBM] [Info] Iteration:496, valid_1 ndcg@10 : 0.796478
+[LightGBM] [Info] 156.847640 seconds elapsed, finished iteration 496
+[LightGBM] [Info] Iteration:497, valid_1 ndcg@1 : 0.731676
+[LightGBM] [Info] Iteration:497, valid_1 ndcg@3 : 0.736738
+[LightGBM] [Info] Iteration:497, valid_1 ndcg@5 : 0.755974
+[LightGBM] [Info] Iteration:497, valid_1 ndcg@10 : 0.796425
+[LightGBM] [Info] 157.102927 seconds elapsed, finished iteration 497
+[LightGBM] [Info] Iteration:498, valid_1 ndcg@1 : 0.731432
+[LightGBM] [Info] Iteration:498, valid_1 ndcg@3 : 0.736831
+[LightGBM] [Info] Iteration:498, valid_1 ndcg@5 : 0.755883
+[LightGBM] [Info] Iteration:498, valid_1 ndcg@10 : 0.796366
+[LightGBM] [Info] 157.347646 seconds elapsed, finished iteration 498
+[LightGBM] [Info] Iteration:499, valid_1 ndcg@1 : 0.731578
+[LightGBM] [Info] Iteration:499, valid_1 ndcg@3 : 0.736741
+[LightGBM] [Info] Iteration:499, valid_1 ndcg@5 : 0.75606
+[LightGBM] [Info] Iteration:499, valid_1 ndcg@10 : 0.796421
+[LightGBM] [Info] 157.657260 seconds elapsed, finished iteration 499
+[LightGBM] [Info] Iteration:500, valid_1 ndcg@1 : 0.731802
+[LightGBM] [Info] Iteration:500, valid_1 ndcg@3 : 0.73684
+[LightGBM] [Info] Iteration:500, valid_1 ndcg@5 : 0.756238
+[LightGBM] [Info] Iteration:500, valid_1 ndcg@10 : 0.79646
+[LightGBM] [Info] 157.956137 seconds elapsed, finished iteration 500
+[LightGBM] [Info] Finished training

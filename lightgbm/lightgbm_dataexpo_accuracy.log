@@ -1,0 +1,1011 @@
+[LightGBM] [Info] Finished loading parameters
+[LightGBM] [Info] feature clustering: merge 700 features into 8 groups
+[LightGBM] [Info] feature clustering: real groups 8
+[LightGBM] [Info] Cost 0.006684 seconds for bundling
+[LightGBM] [Info] Finished loading data in 2.479280 seconds
+[LightGBM] [Info] Number of positive: 1927804, number of negative: 8072196
+[LightGBM] [Info] Total Bins 1168
+[LightGBM] [Info] Number of data: 10000000, number of used features: 654
+[LightGBM] [Info] Finished initializing training
+[LightGBM] [Info] Started training...
+[LightGBM] [Info] Iteration:1, valid_1 auc : 0.718617
+[LightGBM] [Info] 0.650268 seconds elapsed, finished iteration 1
+[LightGBM] [Info] Iteration:2, valid_1 auc : 0.723382
+[LightGBM] [Info] 1.284703 seconds elapsed, finished iteration 2
+[LightGBM] [Info] Iteration:3, valid_1 auc : 0.725513
+[LightGBM] [Info] 1.917555 seconds elapsed, finished iteration 3
+[LightGBM] [Info] Iteration:4, valid_1 auc : 0.726706
+[LightGBM] [Info] 2.620318 seconds elapsed, finished iteration 4
+[LightGBM] [Info] Iteration:5, valid_1 auc : 0.727923
+[LightGBM] [Info] 3.215887 seconds elapsed, finished iteration 5
+[LightGBM] [Info] Iteration:6, valid_1 auc : 0.728973
+[LightGBM] [Info] 3.843650 seconds elapsed, finished iteration 6
+[LightGBM] [Info] Iteration:7, valid_1 auc : 0.730032
+[LightGBM] [Info] 4.507434 seconds elapsed, finished iteration 7
+[LightGBM] [Info] Iteration:8, valid_1 auc : 0.730912
+[LightGBM] [Info] 5.142335 seconds elapsed, finished iteration 8
+[LightGBM] [Info] Iteration:9, valid_1 auc : 0.731061
+[LightGBM] [Info] 5.774321 seconds elapsed, finished iteration 9
+[LightGBM] [Info] Iteration:10, valid_1 auc : 0.73178
+[LightGBM] [Info] 6.485494 seconds elapsed, finished iteration 10
+[LightGBM] [Info] Iteration:11, valid_1 auc : 0.732874
+[LightGBM] [Info] 7.159389 seconds elapsed, finished iteration 11
+[LightGBM] [Info] Iteration:12, valid_1 auc : 0.733265
+[LightGBM] [Info] 7.829414 seconds elapsed, finished iteration 12
+[LightGBM] [Info] Iteration:13, valid_1 auc : 0.734301
+[LightGBM] [Info] 8.505286 seconds elapsed, finished iteration 13
+[LightGBM] [Info] Iteration:14, valid_1 auc : 0.735401
+[LightGBM] [Info] 9.203114 seconds elapsed, finished iteration 14
+[LightGBM] [Info] Iteration:15, valid_1 auc : 0.736108
+[LightGBM] [Info] 9.807286 seconds elapsed, finished iteration 15
+[LightGBM] [Info] Iteration:16, valid_1 auc : 0.736752
+[LightGBM] [Info] 10.519054 seconds elapsed, finished iteration 16
+[LightGBM] [Info] Iteration:17, valid_1 auc : 0.737495
+[LightGBM] [Info] 11.183252 seconds elapsed, finished iteration 17
+[LightGBM] [Info] Iteration:18, valid_1 auc : 0.738107
+[LightGBM] [Info] 11.819555 seconds elapsed, finished iteration 18
+[LightGBM] [Info] Iteration:19, valid_1 auc : 0.738887
+[LightGBM] [Info] 12.440229 seconds elapsed, finished iteration 19
+[LightGBM] [Info] Iteration:20, valid_1 auc : 0.73957
+[LightGBM] [Info] 13.073595 seconds elapsed, finished iteration 20
+[LightGBM] [Info] Iteration:21, valid_1 auc : 0.740113
+[LightGBM] [Info] 13.682529 seconds elapsed, finished iteration 21
+[LightGBM] [Info] Iteration:22, valid_1 auc : 0.740445
+[LightGBM] [Info] 14.222108 seconds elapsed, finished iteration 22
+[LightGBM] [Info] Iteration:23, valid_1 auc : 0.741341
+[LightGBM] [Info] 14.874052 seconds elapsed, finished iteration 23
+[LightGBM] [Info] Iteration:24, valid_1 auc : 0.741632
+[LightGBM] [Info] 15.559249 seconds elapsed, finished iteration 24
+[LightGBM] [Info] Iteration:25, valid_1 auc : 0.741882
+[LightGBM] [Info] 16.257897 seconds elapsed, finished iteration 25
+[LightGBM] [Info] Iteration:26, valid_1 auc : 0.742963
+[LightGBM] [Info] 16.847494 seconds elapsed, finished iteration 26
+[LightGBM] [Info] Iteration:27, valid_1 auc : 0.743718
+[LightGBM] [Info] 17.507817 seconds elapsed, finished iteration 27
+[LightGBM] [Info] Iteration:28, valid_1 auc : 0.744467
+[LightGBM] [Info] 18.093191 seconds elapsed, finished iteration 28
+[LightGBM] [Info] Iteration:29, valid_1 auc : 0.744826
+[LightGBM] [Info] 18.721762 seconds elapsed, finished iteration 29
+[LightGBM] [Info] Iteration:30, valid_1 auc : 0.745921
+[LightGBM] [Info] 19.420298 seconds elapsed, finished iteration 30
+[LightGBM] [Info] Iteration:31, valid_1 auc : 0.746469
+[LightGBM] [Info] 20.107326 seconds elapsed, finished iteration 31
+[LightGBM] [Info] Iteration:32, valid_1 auc : 0.746455
+[LightGBM] [Info] 20.722555 seconds elapsed, finished iteration 32
+[LightGBM] [Info] Iteration:33, valid_1 auc : 0.747137
+[LightGBM] [Info] 21.293122 seconds elapsed, finished iteration 33
+[LightGBM] [Info] Iteration:34, valid_1 auc : 0.747534
+[LightGBM] [Info] 21.962169 seconds elapsed, finished iteration 34
+[LightGBM] [Info] Iteration:35, valid_1 auc : 0.747616
+[LightGBM] [Info] 22.537988 seconds elapsed, finished iteration 35
+[LightGBM] [Info] Iteration:36, valid_1 auc : 0.747735
+[LightGBM] [Info] 23.099675 seconds elapsed, finished iteration 36
+[LightGBM] [Info] Iteration:37, valid_1 auc : 0.748127
+[LightGBM] [Info] 23.722330 seconds elapsed, finished iteration 37
+[LightGBM] [Info] Iteration:38, valid_1 auc : 0.748823
+[LightGBM] [Info] 24.370505 seconds elapsed, finished iteration 38
+[LightGBM] [Info] Iteration:39, valid_1 auc : 0.749267
+[LightGBM] [Info] 24.983199 seconds elapsed, finished iteration 39
+[LightGBM] [Info] Iteration:40, valid_1 auc : 0.749711
+[LightGBM] [Info] 25.522636 seconds elapsed, finished iteration 40
+[LightGBM] [Info] Iteration:41, valid_1 auc : 0.749741
+[LightGBM] [Info] 26.120362 seconds elapsed, finished iteration 41
+[LightGBM] [Info] Iteration:42, valid_1 auc : 0.749323
+[LightGBM] [Info] 26.787436 seconds elapsed, finished iteration 42
+[LightGBM] [Info] Iteration:43, valid_1 auc : 0.749923
+[LightGBM] [Info] 27.378240 seconds elapsed, finished iteration 43
+[LightGBM] [Info] Iteration:44, valid_1 auc : 0.750073
+[LightGBM] [Info] 27.905927 seconds elapsed, finished iteration 44
+[LightGBM] [Info] Iteration:45, valid_1 auc : 0.750208
+[LightGBM] [Info] 28.533126 seconds elapsed, finished iteration 45
+[LightGBM] [Info] Iteration:46, valid_1 auc : 0.750859
+[LightGBM] [Info] 29.142561 seconds elapsed, finished iteration 46
+[LightGBM] [Info] Iteration:47, valid_1 auc : 0.750824
+[LightGBM] [Info] 29.739535 seconds elapsed, finished iteration 47
+[LightGBM] [Info] Iteration:48, valid_1 auc : 0.751286
+[LightGBM] [Info] 30.276426 seconds elapsed, finished iteration 48
+[LightGBM] [Info] Iteration:49, valid_1 auc : 0.752047
+[LightGBM] [Info] 30.840229 seconds elapsed, finished iteration 49
+[LightGBM] [Info] Iteration:50, valid_1 auc : 0.751912
+[LightGBM] [Info] 31.428536 seconds elapsed, finished iteration 50
+[LightGBM] [Info] Iteration:51, valid_1 auc : 0.752027
+[LightGBM] [Info] 31.992151 seconds elapsed, finished iteration 51
+[LightGBM] [Info] Iteration:52, valid_1 auc : 0.752136
+[LightGBM] [Info] 32.494269 seconds elapsed, finished iteration 52
+[LightGBM] [Info] Iteration:53, valid_1 auc : 0.752361
+[LightGBM] [Info] 33.038755 seconds elapsed, finished iteration 53
+[LightGBM] [Info] Iteration:54, valid_1 auc : 0.752485
+[LightGBM] [Info] 33.587894 seconds elapsed, finished iteration 54
+[LightGBM] [Info] Iteration:55, valid_1 auc : 0.752639
+[LightGBM] [Info] 34.140341 seconds elapsed, finished iteration 55
+[LightGBM] [Info] Iteration:56, valid_1 auc : 0.752703
+[LightGBM] [Info] 34.639802 seconds elapsed, finished iteration 56
+[LightGBM] [Info] Iteration:57, valid_1 auc : 0.753117
+[LightGBM] [Info] 35.107403 seconds elapsed, finished iteration 57
+[LightGBM] [Info] Iteration:58, valid_1 auc : 0.752902
+[LightGBM] [Info] 35.608292 seconds elapsed, finished iteration 58
+[LightGBM] [Info] Iteration:59, valid_1 auc : 0.753153
+[LightGBM] [Info] 36.146873 seconds elapsed, finished iteration 59
+[LightGBM] [Info] Iteration:60, valid_1 auc : 0.753327
+[LightGBM] [Info] 36.720886 seconds elapsed, finished iteration 60
+[LightGBM] [Info] Iteration:61, valid_1 auc : 0.753402
+[LightGBM] [Info] 37.275423 seconds elapsed, finished iteration 61
+[LightGBM] [Info] Iteration:62, valid_1 auc : 0.753372
+[LightGBM] [Info] 37.801619 seconds elapsed, finished iteration 62
+[LightGBM] [Info] Iteration:63, valid_1 auc : 0.75381
+[LightGBM] [Info] 38.320580 seconds elapsed, finished iteration 63
+[LightGBM] [Info] Iteration:64, valid_1 auc : 0.754057
+[LightGBM] [Info] 38.862940 seconds elapsed, finished iteration 64
+[LightGBM] [Info] Iteration:65, valid_1 auc : 0.754575
+[LightGBM] [Info] 39.443327 seconds elapsed, finished iteration 65
+[LightGBM] [Info] Iteration:66, valid_1 auc : 0.754498
+[LightGBM] [Info] 39.994510 seconds elapsed, finished iteration 66
+[LightGBM] [Info] Iteration:67, valid_1 auc : 0.754753
+[LightGBM] [Info] 40.464930 seconds elapsed, finished iteration 67
+[LightGBM] [Info] Iteration:68, valid_1 auc : 0.754869
+[LightGBM] [Info] 40.943749 seconds elapsed, finished iteration 68
+[LightGBM] [Info] Iteration:69, valid_1 auc : 0.75501
+[LightGBM] [Info] 41.419549 seconds elapsed, finished iteration 69
+[LightGBM] [Info] Iteration:70, valid_1 auc : 0.755262
+[LightGBM] [Info] 41.884317 seconds elapsed, finished iteration 70
+[LightGBM] [Info] Iteration:71, valid_1 auc : 0.755234
+[LightGBM] [Info] 42.401233 seconds elapsed, finished iteration 71
+[LightGBM] [Info] Iteration:72, valid_1 auc : 0.755448
+[LightGBM] [Info] 42.860149 seconds elapsed, finished iteration 72
+[LightGBM] [Info] Iteration:73, valid_1 auc : 0.755577
+[LightGBM] [Info] 43.207667 seconds elapsed, finished iteration 73
+[LightGBM] [Info] Iteration:74, valid_1 auc : 0.755442
+[LightGBM] [Info] 43.593539 seconds elapsed, finished iteration 74
+[LightGBM] [Info] Iteration:75, valid_1 auc : 0.755698
+[LightGBM] [Info] 44.006867 seconds elapsed, finished iteration 75
+[LightGBM] [Info] Iteration:76, valid_1 auc : 0.755848
+[LightGBM] [Info] 44.436547 seconds elapsed, finished iteration 76
+[LightGBM] [Info] Iteration:77, valid_1 auc : 0.755894
+[LightGBM] [Info] 44.934681 seconds elapsed, finished iteration 77
+[LightGBM] [Info] Iteration:78, valid_1 auc : 0.756221
+[LightGBM] [Info] 45.281301 seconds elapsed, finished iteration 78
+[LightGBM] [Info] Iteration:79, valid_1 auc : 0.756354
+[LightGBM] [Info] 45.611930 seconds elapsed, finished iteration 79
+[LightGBM] [Info] Iteration:80, valid_1 auc : 0.756518
+[LightGBM] [Info] 45.934334 seconds elapsed, finished iteration 80
+[LightGBM] [Info] Iteration:81, valid_1 auc : 0.756402
+[LightGBM] [Info] 46.413289 seconds elapsed, finished iteration 81
+[LightGBM] [Info] Iteration:82, valid_1 auc : 0.756681
+[LightGBM] [Info] 46.898670 seconds elapsed, finished iteration 82
+[LightGBM] [Info] Iteration:83, valid_1 auc : 0.756848
+[LightGBM] [Info] 47.307221 seconds elapsed, finished iteration 83
+[LightGBM] [Info] Iteration:84, valid_1 auc : 0.757114
+[LightGBM] [Info] 47.787528 seconds elapsed, finished iteration 84
+[LightGBM] [Info] Iteration:85, valid_1 auc : 0.757278
+[LightGBM] [Info] 48.203950 seconds elapsed, finished iteration 85
+[LightGBM] [Info] Iteration:86, valid_1 auc : 0.757501
+[LightGBM] [Info] 48.649625 seconds elapsed, finished iteration 86
+[LightGBM] [Info] Iteration:87, valid_1 auc : 0.757576
+[LightGBM] [Info] 49.031301 seconds elapsed, finished iteration 87
+[LightGBM] [Info] Iteration:88, valid_1 auc : 0.757597
+[LightGBM] [Info] 49.334586 seconds elapsed, finished iteration 88
+[LightGBM] [Info] Iteration:89, valid_1 auc : 0.757623
+[LightGBM] [Info] 49.747066 seconds elapsed, finished iteration 89
+[LightGBM] [Info] Iteration:90, valid_1 auc : 0.757835
+[LightGBM] [Info] 50.108985 seconds elapsed, finished iteration 90
+[LightGBM] [Info] Iteration:91, valid_1 auc : 0.758004
+[LightGBM] [Info] 50.506459 seconds elapsed, finished iteration 91
+[LightGBM] [Info] Iteration:92, valid_1 auc : 0.758172
+[LightGBM] [Info] 50.785745 seconds elapsed, finished iteration 92
+[LightGBM] [Info] Iteration:93, valid_1 auc : 0.758316
+[LightGBM] [Info] 51.131029 seconds elapsed, finished iteration 93
+[LightGBM] [Info] Iteration:94, valid_1 auc : 0.758524
+[LightGBM] [Info] 51.433566 seconds elapsed, finished iteration 94
+[LightGBM] [Info] Iteration:95, valid_1 auc : 0.758543
+[LightGBM] [Info] 51.762671 seconds elapsed, finished iteration 95
+[LightGBM] [Info] Iteration:96, valid_1 auc : 0.758611
+[LightGBM] [Info] 52.156723 seconds elapsed, finished iteration 96
+[LightGBM] [Info] Iteration:97, valid_1 auc : 0.758603
+[LightGBM] [Info] 52.518935 seconds elapsed, finished iteration 97
+[LightGBM] [Info] Iteration:98, valid_1 auc : 0.758611
+[LightGBM] [Info] 52.853879 seconds elapsed, finished iteration 98
+[LightGBM] [Info] Iteration:99, valid_1 auc : 0.758685
+[LightGBM] [Info] 53.263604 seconds elapsed, finished iteration 99
+[LightGBM] [Info] Iteration:100, valid_1 auc : 0.758738
+[LightGBM] [Info] 53.514640 seconds elapsed, finished iteration 100
+[LightGBM] [Info] Iteration:101, valid_1 auc : 0.758899
+[LightGBM] [Info] 53.856776 seconds elapsed, finished iteration 101
+[LightGBM] [Info] Iteration:102, valid_1 auc : 0.758971
+[LightGBM] [Info] 54.233655 seconds elapsed, finished iteration 102
+[LightGBM] [Info] Iteration:103, valid_1 auc : 0.759259
+[LightGBM] [Info] 54.482858 seconds elapsed, finished iteration 103
+[LightGBM] [Info] Iteration:104, valid_1 auc : 0.759363
+[LightGBM] [Info] 54.872523 seconds elapsed, finished iteration 104
+[LightGBM] [Info] Iteration:105, valid_1 auc : 0.759344
+[LightGBM] [Info] 55.169905 seconds elapsed, finished iteration 105
+[LightGBM] [Info] Iteration:106, valid_1 auc : 0.759445
+[LightGBM] [Info] 55.539194 seconds elapsed, finished iteration 106
+[LightGBM] [Info] Iteration:107, valid_1 auc : 0.75951
+[LightGBM] [Info] 55.850465 seconds elapsed, finished iteration 107
+[LightGBM] [Info] Iteration:108, valid_1 auc : 0.759604
+[LightGBM] [Info] 56.234432 seconds elapsed, finished iteration 108
+[LightGBM] [Info] Iteration:109, valid_1 auc : 0.759694
+[LightGBM] [Info] 56.624845 seconds elapsed, finished iteration 109
+[LightGBM] [Info] Iteration:110, valid_1 auc : 0.759879
+[LightGBM] [Info] 56.955595 seconds elapsed, finished iteration 110
+[LightGBM] [Info] Iteration:111, valid_1 auc : 0.760277
+[LightGBM] [Info] 57.355270 seconds elapsed, finished iteration 111
+[LightGBM] [Info] Iteration:112, valid_1 auc : 0.760316
+[LightGBM] [Info] 57.633728 seconds elapsed, finished iteration 112
+[LightGBM] [Info] Iteration:113, valid_1 auc : 0.760326
+[LightGBM] [Info] 57.935214 seconds elapsed, finished iteration 113
+[LightGBM] [Info] Iteration:114, valid_1 auc : 0.760479
+[LightGBM] [Info] 58.211198 seconds elapsed, finished iteration 114
+[LightGBM] [Info] Iteration:115, valid_1 auc : 0.760795
+[LightGBM] [Info] 58.458578 seconds elapsed, finished iteration 115
+[LightGBM] [Info] Iteration:116, valid_1 auc : 0.760721
+[LightGBM] [Info] 58.727363 seconds elapsed, finished iteration 116
+[LightGBM] [Info] Iteration:117, valid_1 auc : 0.760703
+[LightGBM] [Info] 59.005537 seconds elapsed, finished iteration 117
+[LightGBM] [Info] Iteration:118, valid_1 auc : 0.760814
+[LightGBM] [Info] 59.220317 seconds elapsed, finished iteration 118
+[LightGBM] [Info] Iteration:119, valid_1 auc : 0.760843
+[LightGBM] [Info] 59.501010 seconds elapsed, finished iteration 119
+[LightGBM] [Info] Iteration:120, valid_1 auc : 0.761
+[LightGBM] [Info] 59.762698 seconds elapsed, finished iteration 120
+[LightGBM] [Info] Iteration:121, valid_1 auc : 0.761096
+[LightGBM] [Info] 60.039749 seconds elapsed, finished iteration 121
+[LightGBM] [Info] Iteration:122, valid_1 auc : 0.761181
+[LightGBM] [Info] 60.328432 seconds elapsed, finished iteration 122
+[LightGBM] [Info] Iteration:123, valid_1 auc : 0.761462
+[LightGBM] [Info] 60.588624 seconds elapsed, finished iteration 123
+[LightGBM] [Info] Iteration:124, valid_1 auc : 0.761461
+[LightGBM] [Info] 60.860112 seconds elapsed, finished iteration 124
+[LightGBM] [Info] Iteration:125, valid_1 auc : 0.761693
+[LightGBM] [Info] 61.154954 seconds elapsed, finished iteration 125
+[LightGBM] [Info] Iteration:126, valid_1 auc : 0.76167
+[LightGBM] [Info] 61.512746 seconds elapsed, finished iteration 126
+[LightGBM] [Info] Iteration:127, valid_1 auc : 0.761756
+[LightGBM] [Info] 61.843301 seconds elapsed, finished iteration 127
+[LightGBM] [Info] Iteration:128, valid_1 auc : 0.761803
+[LightGBM] [Info] 62.192328 seconds elapsed, finished iteration 128
+[LightGBM] [Info] Iteration:129, valid_1 auc : 0.76182
+[LightGBM] [Info] 62.522594 seconds elapsed, finished iteration 129
+[LightGBM] [Info] Iteration:130, valid_1 auc : 0.761792
+[LightGBM] [Info] 62.964840 seconds elapsed, finished iteration 130
+[LightGBM] [Info] Iteration:131, valid_1 auc : 0.761879
+[LightGBM] [Info] 63.248521 seconds elapsed, finished iteration 131
+[LightGBM] [Info] Iteration:132, valid_1 auc : 0.762055
+[LightGBM] [Info] 63.602883 seconds elapsed, finished iteration 132
+[LightGBM] [Info] Iteration:133, valid_1 auc : 0.762174
+[LightGBM] [Info] 63.974457 seconds elapsed, finished iteration 133
+[LightGBM] [Info] Iteration:134, valid_1 auc : 0.762312
+[LightGBM] [Info] 64.338915 seconds elapsed, finished iteration 134
+[LightGBM] [Info] Iteration:135, valid_1 auc : 0.762301
+[LightGBM] [Info] 64.691376 seconds elapsed, finished iteration 135
+[LightGBM] [Info] Iteration:136, valid_1 auc : 0.76234
+[LightGBM] [Info] 65.000410 seconds elapsed, finished iteration 136
+[LightGBM] [Info] Iteration:137, valid_1 auc : 0.762443
+[LightGBM] [Info] 65.327324 seconds elapsed, finished iteration 137
+[LightGBM] [Info] Iteration:138, valid_1 auc : 0.762488
+[LightGBM] [Info] 65.626899 seconds elapsed, finished iteration 138
+[LightGBM] [Info] Iteration:139, valid_1 auc : 0.762619
+[LightGBM] [Info] 65.970748 seconds elapsed, finished iteration 139
+[LightGBM] [Info] Iteration:140, valid_1 auc : 0.762681
+[LightGBM] [Info] 66.249328 seconds elapsed, finished iteration 140
+[LightGBM] [Info] Iteration:141, valid_1 auc : 0.762706
+[LightGBM] [Info] 66.600899 seconds elapsed, finished iteration 141
+[LightGBM] [Info] Iteration:142, valid_1 auc : 0.762772
+[LightGBM] [Info] 66.921123 seconds elapsed, finished iteration 142
+[LightGBM] [Info] Iteration:143, valid_1 auc : 0.762762
+[LightGBM] [Info] 67.217590 seconds elapsed, finished iteration 143
+[LightGBM] [Info] Iteration:144, valid_1 auc : 0.762799
+[LightGBM] [Info] 67.461340 seconds elapsed, finished iteration 144
+[LightGBM] [Info] Iteration:145, valid_1 auc : 0.762798
+[LightGBM] [Info] 67.742619 seconds elapsed, finished iteration 145
+[LightGBM] [Info] Iteration:146, valid_1 auc : 0.762823
+[LightGBM] [Info] 68.081173 seconds elapsed, finished iteration 146
+[LightGBM] [Info] Iteration:147, valid_1 auc : 0.762872
+[LightGBM] [Info] 68.398788 seconds elapsed, finished iteration 147
+[LightGBM] [Info] Iteration:148, valid_1 auc : 0.763017
+[LightGBM] [Info] 68.716465 seconds elapsed, finished iteration 148
+[LightGBM] [Info] Iteration:149, valid_1 auc : 0.76313
+[LightGBM] [Info] 69.008262 seconds elapsed, finished iteration 149
+[LightGBM] [Info] Iteration:150, valid_1 auc : 0.763236
+[LightGBM] [Info] 69.313197 seconds elapsed, finished iteration 150
+[LightGBM] [Info] Iteration:151, valid_1 auc : 0.763375
+[LightGBM] [Info] 69.576119 seconds elapsed, finished iteration 151
+[LightGBM] [Info] Iteration:152, valid_1 auc : 0.76336
+[LightGBM] [Info] 69.929718 seconds elapsed, finished iteration 152
+[LightGBM] [Info] Iteration:153, valid_1 auc : 0.763365
+[LightGBM] [Info] 70.286875 seconds elapsed, finished iteration 153
+[LightGBM] [Info] Iteration:154, valid_1 auc : 0.763479
+[LightGBM] [Info] 70.565210 seconds elapsed, finished iteration 154
+[LightGBM] [Info] Iteration:155, valid_1 auc : 0.763547
+[LightGBM] [Info] 70.882995 seconds elapsed, finished iteration 155
+[LightGBM] [Info] Iteration:156, valid_1 auc : 0.763844
+[LightGBM] [Info] 71.196339 seconds elapsed, finished iteration 156
+[LightGBM] [Info] Iteration:157, valid_1 auc : 0.763886
+[LightGBM] [Info] 71.486010 seconds elapsed, finished iteration 157
+[LightGBM] [Info] Iteration:158, valid_1 auc : 0.763901
+[LightGBM] [Info] 71.795781 seconds elapsed, finished iteration 158
+[LightGBM] [Info] Iteration:159, valid_1 auc : 0.763861
+[LightGBM] [Info] 72.063953 seconds elapsed, finished iteration 159
+[LightGBM] [Info] Iteration:160, valid_1 auc : 0.763873
+[LightGBM] [Info] 72.324668 seconds elapsed, finished iteration 160
+[LightGBM] [Info] Iteration:161, valid_1 auc : 0.763911
+[LightGBM] [Info] 72.635279 seconds elapsed, finished iteration 161
+[LightGBM] [Info] Iteration:162, valid_1 auc : 0.76392
+[LightGBM] [Info] 72.949676 seconds elapsed, finished iteration 162
+[LightGBM] [Info] Iteration:163, valid_1 auc : 0.76395
+[LightGBM] [Info] 73.307400 seconds elapsed, finished iteration 163
+[LightGBM] [Info] Iteration:164, valid_1 auc : 0.764038
+[LightGBM] [Info] 73.620288 seconds elapsed, finished iteration 164
+[LightGBM] [Info] Iteration:165, valid_1 auc : 0.764241
+[LightGBM] [Info] 73.917378 seconds elapsed, finished iteration 165
+[LightGBM] [Info] Iteration:166, valid_1 auc : 0.764423
+[LightGBM] [Info] 74.167818 seconds elapsed, finished iteration 166
+[LightGBM] [Info] Iteration:167, valid_1 auc : 0.764452
+[LightGBM] [Info] 74.428356 seconds elapsed, finished iteration 167
+[LightGBM] [Info] Iteration:168, valid_1 auc : 0.76446
+[LightGBM] [Info] 74.695105 seconds elapsed, finished iteration 168
+[LightGBM] [Info] Iteration:169, valid_1 auc : 0.764437
+[LightGBM] [Info] 74.962274 seconds elapsed, finished iteration 169
+[LightGBM] [Info] Iteration:170, valid_1 auc : 0.764483
+[LightGBM] [Info] 75.260497 seconds elapsed, finished iteration 170
+[LightGBM] [Info] Iteration:171, valid_1 auc : 0.764531
+[LightGBM] [Info] 75.585162 seconds elapsed, finished iteration 171
+[LightGBM] [Info] Iteration:172, valid_1 auc : 0.764622
+[LightGBM] [Info] 75.939474 seconds elapsed, finished iteration 172
+[LightGBM] [Info] Iteration:173, valid_1 auc : 0.764703
+[LightGBM] [Info] 76.310496 seconds elapsed, finished iteration 173
+[LightGBM] [Info] Iteration:174, valid_1 auc : 0.764762
+[LightGBM] [Info] 76.639703 seconds elapsed, finished iteration 174
+[LightGBM] [Info] Iteration:175, valid_1 auc : 0.764931
+[LightGBM] [Info] 76.995964 seconds elapsed, finished iteration 175
+[LightGBM] [Info] Iteration:176, valid_1 auc : 0.764955
+[LightGBM] [Info] 77.251757 seconds elapsed, finished iteration 176
+[LightGBM] [Info] Iteration:177, valid_1 auc : 0.765018
+[LightGBM] [Info] 77.547108 seconds elapsed, finished iteration 177
+[LightGBM] [Info] Iteration:178, valid_1 auc : 0.765226
+[LightGBM] [Info] 77.805857 seconds elapsed, finished iteration 178
+[LightGBM] [Info] Iteration:179, valid_1 auc : 0.765675
+[LightGBM] [Info] 78.067850 seconds elapsed, finished iteration 179
+[LightGBM] [Info] Iteration:180, valid_1 auc : 0.765653
+[LightGBM] [Info] 78.300195 seconds elapsed, finished iteration 180
+[LightGBM] [Info] Iteration:181, valid_1 auc : 0.765718
+[LightGBM] [Info] 78.584886 seconds elapsed, finished iteration 181
+[LightGBM] [Info] Iteration:182, valid_1 auc : 0.7658
+[LightGBM] [Info] 78.853857 seconds elapsed, finished iteration 182
+[LightGBM] [Info] Iteration:183, valid_1 auc : 0.765901
+[LightGBM] [Info] 79.240341 seconds elapsed, finished iteration 183
+[LightGBM] [Info] Iteration:184, valid_1 auc : 0.765945
+[LightGBM] [Info] 79.536765 seconds elapsed, finished iteration 184
+[LightGBM] [Info] Iteration:185, valid_1 auc : 0.766009
+[LightGBM] [Info] 79.786772 seconds elapsed, finished iteration 185
+[LightGBM] [Info] Iteration:186, valid_1 auc : 0.765957
+[LightGBM] [Info] 80.059943 seconds elapsed, finished iteration 186
+[LightGBM] [Info] Iteration:187, valid_1 auc : 0.766047
+[LightGBM] [Info] 80.320791 seconds elapsed, finished iteration 187
+[LightGBM] [Info] Iteration:188, valid_1 auc : 0.76604
+[LightGBM] [Info] 80.660084 seconds elapsed, finished iteration 188
+[LightGBM] [Info] Iteration:189, valid_1 auc : 0.766086
+[LightGBM] [Info] 80.833055 seconds elapsed, finished iteration 189
+[LightGBM] [Info] Iteration:190, valid_1 auc : 0.76609
+[LightGBM] [Info] 81.093428 seconds elapsed, finished iteration 190
+[LightGBM] [Info] Iteration:191, valid_1 auc : 0.766186
+[LightGBM] [Info] 81.317098 seconds elapsed, finished iteration 191
+[LightGBM] [Info] Iteration:192, valid_1 auc : 0.766169
+[LightGBM] [Info] 81.567958 seconds elapsed, finished iteration 192
+[LightGBM] [Info] Iteration:193, valid_1 auc : 0.766415
+[LightGBM] [Info] 81.884695 seconds elapsed, finished iteration 193
+[LightGBM] [Info] Iteration:194, valid_1 auc : 0.766436
+[LightGBM] [Info] 82.118251 seconds elapsed, finished iteration 194
+[LightGBM] [Info] Iteration:195, valid_1 auc : 0.766431
+[LightGBM] [Info] 82.354394 seconds elapsed, finished iteration 195
+[LightGBM] [Info] Iteration:196, valid_1 auc : 0.766562
+[LightGBM] [Info] 82.663579 seconds elapsed, finished iteration 196
+[LightGBM] [Info] Iteration:197, valid_1 auc : 0.766649
+[LightGBM] [Info] 82.872364 seconds elapsed, finished iteration 197
+[LightGBM] [Info] Iteration:198, valid_1 auc : 0.76671
+[LightGBM] [Info] 83.087541 seconds elapsed, finished iteration 198
+[LightGBM] [Info] Iteration:199, valid_1 auc : 0.76674
+[LightGBM] [Info] 83.304934 seconds elapsed, finished iteration 199
+[LightGBM] [Info] Iteration:200, valid_1 auc : 0.766789
+[LightGBM] [Info] 83.623199 seconds elapsed, finished iteration 200
+[LightGBM] [Info] Iteration:201, valid_1 auc : 0.766843
+[LightGBM] [Info] 83.955348 seconds elapsed, finished iteration 201
+[LightGBM] [Info] Iteration:202, valid_1 auc : 0.766868
+[LightGBM] [Info] 84.285183 seconds elapsed, finished iteration 202
+[LightGBM] [Info] Iteration:203, valid_1 auc : 0.766969
+[LightGBM] [Info] 84.485521 seconds elapsed, finished iteration 203
+[LightGBM] [Info] Iteration:204, valid_1 auc : 0.767055
+[LightGBM] [Info] 84.718415 seconds elapsed, finished iteration 204
+[LightGBM] [Info] Iteration:205, valid_1 auc : 0.767168
+[LightGBM] [Info] 85.030710 seconds elapsed, finished iteration 205
+[LightGBM] [Info] Iteration:206, valid_1 auc : 0.767191
+[LightGBM] [Info] 85.309741 seconds elapsed, finished iteration 206
+[LightGBM] [Info] Iteration:207, valid_1 auc : 0.767241
+[LightGBM] [Info] 85.630860 seconds elapsed, finished iteration 207
+[LightGBM] [Info] Iteration:208, valid_1 auc : 0.767317
+[LightGBM] [Info] 86.048341 seconds elapsed, finished iteration 208
+[LightGBM] [Info] Iteration:209, valid_1 auc : 0.767487
+[LightGBM] [Info] 86.354168 seconds elapsed, finished iteration 209
+[LightGBM] [Info] Iteration:210, valid_1 auc : 0.767543
+[LightGBM] [Info] 86.720908 seconds elapsed, finished iteration 210
+[LightGBM] [Info] Iteration:211, valid_1 auc : 0.767682
+[LightGBM] [Info] 87.042015 seconds elapsed, finished iteration 211
+[LightGBM] [Info] Iteration:212, valid_1 auc : 0.767687
+[LightGBM] [Info] 87.414557 seconds elapsed, finished iteration 212
+[LightGBM] [Info] Iteration:213, valid_1 auc : 0.767737
+[LightGBM] [Info] 87.645962 seconds elapsed, finished iteration 213
+[LightGBM] [Info] Iteration:214, valid_1 auc : 0.767764
+[LightGBM] [Info] 87.903605 seconds elapsed, finished iteration 214
+[LightGBM] [Info] Iteration:215, valid_1 auc : 0.767818
+[LightGBM] [Info] 88.127318 seconds elapsed, finished iteration 215
+[LightGBM] [Info] Iteration:216, valid_1 auc : 0.76795
+[LightGBM] [Info] 88.425995 seconds elapsed, finished iteration 216
+[LightGBM] [Info] Iteration:217, valid_1 auc : 0.768093
+[LightGBM] [Info] 88.736753 seconds elapsed, finished iteration 217
+[LightGBM] [Info] Iteration:218, valid_1 auc : 0.768179
+[LightGBM] [Info] 89.028021 seconds elapsed, finished iteration 218
+[LightGBM] [Info] Iteration:219, valid_1 auc : 0.768244
+[LightGBM] [Info] 89.296053 seconds elapsed, finished iteration 219
+[LightGBM] [Info] Iteration:220, valid_1 auc : 0.768233
+[LightGBM] [Info] 89.588381 seconds elapsed, finished iteration 220
+[LightGBM] [Info] Iteration:221, valid_1 auc : 0.768266
+[LightGBM] [Info] 89.818450 seconds elapsed, finished iteration 221
+[LightGBM] [Info] Iteration:222, valid_1 auc : 0.76835
+[LightGBM] [Info] 90.127905 seconds elapsed, finished iteration 222
+[LightGBM] [Info] Iteration:223, valid_1 auc : 0.768428
+[LightGBM] [Info] 90.336220 seconds elapsed, finished iteration 223
+[LightGBM] [Info] Iteration:224, valid_1 auc : 0.768502
+[LightGBM] [Info] 90.666202 seconds elapsed, finished iteration 224
+[LightGBM] [Info] Iteration:225, valid_1 auc : 0.768548
+[LightGBM] [Info] 90.897394 seconds elapsed, finished iteration 225
+[LightGBM] [Info] Iteration:226, valid_1 auc : 0.768653
+[LightGBM] [Info] 91.249970 seconds elapsed, finished iteration 226
+[LightGBM] [Info] Iteration:227, valid_1 auc : 0.768669
+[LightGBM] [Info] 91.531309 seconds elapsed, finished iteration 227
+[LightGBM] [Info] Iteration:228, valid_1 auc : 0.768713
+[LightGBM] [Info] 91.834693 seconds elapsed, finished iteration 228
+[LightGBM] [Info] Iteration:229, valid_1 auc : 0.768697
+[LightGBM] [Info] 92.193836 seconds elapsed, finished iteration 229
+[LightGBM] [Info] Iteration:230, valid_1 auc : 0.768749
+[LightGBM] [Info] 92.526948 seconds elapsed, finished iteration 230
+[LightGBM] [Info] Iteration:231, valid_1 auc : 0.768864
+[LightGBM] [Info] 92.793405 seconds elapsed, finished iteration 231
+[LightGBM] [Info] Iteration:232, valid_1 auc : 0.768879
+[LightGBM] [Info] 93.201106 seconds elapsed, finished iteration 232
+[LightGBM] [Info] Iteration:233, valid_1 auc : 0.768936
+[LightGBM] [Info] 93.550581 seconds elapsed, finished iteration 233
+[LightGBM] [Info] Iteration:234, valid_1 auc : 0.769022
+[LightGBM] [Info] 93.837404 seconds elapsed, finished iteration 234
+[LightGBM] [Info] Iteration:235, valid_1 auc : 0.76902
+[LightGBM] [Info] 94.101559 seconds elapsed, finished iteration 235
+[LightGBM] [Info] Iteration:236, valid_1 auc : 0.769044
+[LightGBM] [Info] 94.439258 seconds elapsed, finished iteration 236
+[LightGBM] [Info] Iteration:237, valid_1 auc : 0.769083
+[LightGBM] [Info] 94.683062 seconds elapsed, finished iteration 237
+[LightGBM] [Info] Iteration:238, valid_1 auc : 0.76909
+[LightGBM] [Info] 94.939877 seconds elapsed, finished iteration 238
+[LightGBM] [Info] Iteration:239, valid_1 auc : 0.7692
+[LightGBM] [Info] 95.176241 seconds elapsed, finished iteration 239
+[LightGBM] [Info] Iteration:240, valid_1 auc : 0.76934
+[LightGBM] [Info] 95.472502 seconds elapsed, finished iteration 240
+[LightGBM] [Info] Iteration:241, valid_1 auc : 0.769376
+[LightGBM] [Info] 95.781550 seconds elapsed, finished iteration 241
+[LightGBM] [Info] Iteration:242, valid_1 auc : 0.769384
+[LightGBM] [Info] 96.056861 seconds elapsed, finished iteration 242
+[LightGBM] [Info] Iteration:243, valid_1 auc : 0.769417
+[LightGBM] [Info] 96.358705 seconds elapsed, finished iteration 243
+[LightGBM] [Info] Iteration:244, valid_1 auc : 0.769423
+[LightGBM] [Info] 96.741109 seconds elapsed, finished iteration 244
+[LightGBM] [Info] Iteration:245, valid_1 auc : 0.769424
+[LightGBM] [Info] 97.008746 seconds elapsed, finished iteration 245
+[LightGBM] [Info] Iteration:246, valid_1 auc : 0.769471
+[LightGBM] [Info] 97.343270 seconds elapsed, finished iteration 246
+[LightGBM] [Info] Iteration:247, valid_1 auc : 0.769503
+[LightGBM] [Info] 97.656604 seconds elapsed, finished iteration 247
+[LightGBM] [Info] Iteration:248, valid_1 auc : 0.769664
+[LightGBM] [Info] 97.949560 seconds elapsed, finished iteration 248
+[LightGBM] [Info] Iteration:249, valid_1 auc : 0.769676
+[LightGBM] [Info] 98.259164 seconds elapsed, finished iteration 249
+[LightGBM] [Info] Iteration:250, valid_1 auc : 0.769693
+[LightGBM] [Info] 98.564278 seconds elapsed, finished iteration 250
+[LightGBM] [Info] Iteration:251, valid_1 auc : 0.769775
+[LightGBM] [Info] 98.835359 seconds elapsed, finished iteration 251
+[LightGBM] [Info] Iteration:252, valid_1 auc : 0.769821
+[LightGBM] [Info] 99.143511 seconds elapsed, finished iteration 252
+[LightGBM] [Info] Iteration:253, valid_1 auc : 0.769843
+[LightGBM] [Info] 99.485006 seconds elapsed, finished iteration 253
+[LightGBM] [Info] Iteration:254, valid_1 auc : 0.769866
+[LightGBM] [Info] 99.734951 seconds elapsed, finished iteration 254
+[LightGBM] [Info] Iteration:255, valid_1 auc : 0.769889
+[LightGBM] [Info] 100.035389 seconds elapsed, finished iteration 255
+[LightGBM] [Info] Iteration:256, valid_1 auc : 0.769849
+[LightGBM] [Info] 100.373996 seconds elapsed, finished iteration 256
+[LightGBM] [Info] Iteration:257, valid_1 auc : 0.769894
+[LightGBM] [Info] 100.718693 seconds elapsed, finished iteration 257
+[LightGBM] [Info] Iteration:258, valid_1 auc : 0.769891
+[LightGBM] [Info] 101.059529 seconds elapsed, finished iteration 258
+[LightGBM] [Info] Iteration:259, valid_1 auc : 0.770065
+[LightGBM] [Info] 101.376881 seconds elapsed, finished iteration 259
+[LightGBM] [Info] Iteration:260, valid_1 auc : 0.770142
+[LightGBM] [Info] 101.580792 seconds elapsed, finished iteration 260
+[LightGBM] [Info] Iteration:261, valid_1 auc : 0.770181
+[LightGBM] [Info] 101.889577 seconds elapsed, finished iteration 261
+[LightGBM] [Info] Iteration:262, valid_1 auc : 0.770194
+[LightGBM] [Info] 102.179486 seconds elapsed, finished iteration 262
+[LightGBM] [Info] Iteration:263, valid_1 auc : 0.770259
+[LightGBM] [Info] 102.490610 seconds elapsed, finished iteration 263
+[LightGBM] [Info] Iteration:264, valid_1 auc : 0.770365
+[LightGBM] [Info] 102.821659 seconds elapsed, finished iteration 264
+[LightGBM] [Info] Iteration:265, valid_1 auc : 0.77043
+[LightGBM] [Info] 103.167256 seconds elapsed, finished iteration 265
+[LightGBM] [Info] Iteration:266, valid_1 auc : 0.770375
+[LightGBM] [Info] 103.437417 seconds elapsed, finished iteration 266
+[LightGBM] [Info] Iteration:267, valid_1 auc : 0.770407
+[LightGBM] [Info] 103.734499 seconds elapsed, finished iteration 267
+[LightGBM] [Info] Iteration:268, valid_1 auc : 0.77042
+[LightGBM] [Info] 104.035402 seconds elapsed, finished iteration 268
+[LightGBM] [Info] Iteration:269, valid_1 auc : 0.770408
+[LightGBM] [Info] 104.311877 seconds elapsed, finished iteration 269
+[LightGBM] [Info] Iteration:270, valid_1 auc : 0.770498
+[LightGBM] [Info] 104.606913 seconds elapsed, finished iteration 270
+[LightGBM] [Info] Iteration:271, valid_1 auc : 0.770515
+[LightGBM] [Info] 104.879457 seconds elapsed, finished iteration 271
+[LightGBM] [Info] Iteration:272, valid_1 auc : 0.770535
+[LightGBM] [Info] 105.143863 seconds elapsed, finished iteration 272
+[LightGBM] [Info] Iteration:273, valid_1 auc : 0.77055
+[LightGBM] [Info] 105.410099 seconds elapsed, finished iteration 273
+[LightGBM] [Info] Iteration:274, valid_1 auc : 0.770593
+[LightGBM] [Info] 105.675920 seconds elapsed, finished iteration 274
+[LightGBM] [Info] Iteration:275, valid_1 auc : 0.770619
+[LightGBM] [Info] 105.921493 seconds elapsed, finished iteration 275
+[LightGBM] [Info] Iteration:276, valid_1 auc : 0.770586
+[LightGBM] [Info] 106.241213 seconds elapsed, finished iteration 276
+[LightGBM] [Info] Iteration:277, valid_1 auc : 0.770567
+[LightGBM] [Info] 106.474224 seconds elapsed, finished iteration 277
+[LightGBM] [Info] Iteration:278, valid_1 auc : 0.770604
+[LightGBM] [Info] 106.811071 seconds elapsed, finished iteration 278
+[LightGBM] [Info] Iteration:279, valid_1 auc : 0.770647
+[LightGBM] [Info] 107.020490 seconds elapsed, finished iteration 279
+[LightGBM] [Info] Iteration:280, valid_1 auc : 0.770688
+[LightGBM] [Info] 107.202067 seconds elapsed, finished iteration 280
+[LightGBM] [Info] Iteration:281, valid_1 auc : 0.770747
+[LightGBM] [Info] 107.514530 seconds elapsed, finished iteration 281
+[LightGBM] [Info] Iteration:282, valid_1 auc : 0.770758
+[LightGBM] [Info] 107.847501 seconds elapsed, finished iteration 282
+[LightGBM] [Info] Iteration:283, valid_1 auc : 0.770812
+[LightGBM] [Info] 108.162518 seconds elapsed, finished iteration 283
+[LightGBM] [Info] Iteration:284, valid_1 auc : 0.770832
+[LightGBM] [Info] 108.402157 seconds elapsed, finished iteration 284
+[LightGBM] [Info] Iteration:285, valid_1 auc : 0.770915
+[LightGBM] [Info] 108.653335 seconds elapsed, finished iteration 285
+[LightGBM] [Info] Iteration:286, valid_1 auc : 0.77095
+[LightGBM] [Info] 108.937700 seconds elapsed, finished iteration 286
+[LightGBM] [Info] Iteration:287, valid_1 auc : 0.770946
+[LightGBM] [Info] 109.217666 seconds elapsed, finished iteration 287
+[LightGBM] [Info] Iteration:288, valid_1 auc : 0.771016
+[LightGBM] [Info] 109.503928 seconds elapsed, finished iteration 288
+[LightGBM] [Info] Iteration:289, valid_1 auc : 0.771074
+[LightGBM] [Info] 109.829378 seconds elapsed, finished iteration 289
+[LightGBM] [Info] Iteration:290, valid_1 auc : 0.771101
+[LightGBM] [Info] 110.117393 seconds elapsed, finished iteration 290
+[LightGBM] [Info] Iteration:291, valid_1 auc : 0.771111
+[LightGBM] [Info] 110.345263 seconds elapsed, finished iteration 291
+[LightGBM] [Info] Iteration:292, valid_1 auc : 0.771117
+[LightGBM] [Info] 110.653566 seconds elapsed, finished iteration 292
+[LightGBM] [Info] Iteration:293, valid_1 auc : 0.771307
+[LightGBM] [Info] 110.870752 seconds elapsed, finished iteration 293
+[LightGBM] [Info] Iteration:294, valid_1 auc : 0.771311
+[LightGBM] [Info] 111.261497 seconds elapsed, finished iteration 294
+[LightGBM] [Info] Iteration:295, valid_1 auc : 0.771299
+[LightGBM] [Info] 111.525807 seconds elapsed, finished iteration 295
+[LightGBM] [Info] Iteration:296, valid_1 auc : 0.771319
+[LightGBM] [Info] 111.793267 seconds elapsed, finished iteration 296
+[LightGBM] [Info] Iteration:297, valid_1 auc : 0.771345
+[LightGBM] [Info] 112.044848 seconds elapsed, finished iteration 297
+[LightGBM] [Info] Iteration:298, valid_1 auc : 0.771372
+[LightGBM] [Info] 112.358856 seconds elapsed, finished iteration 298
+[LightGBM] [Info] Iteration:299, valid_1 auc : 0.771383
+[LightGBM] [Info] 112.622795 seconds elapsed, finished iteration 299
+[LightGBM] [Info] Iteration:300, valid_1 auc : 0.771406
+[LightGBM] [Info] 112.936875 seconds elapsed, finished iteration 300
+[LightGBM] [Info] Iteration:301, valid_1 auc : 0.771521
+[LightGBM] [Info] 113.239051 seconds elapsed, finished iteration 301
+[LightGBM] [Info] Iteration:302, valid_1 auc : 0.77155
+[LightGBM] [Info] 113.521474 seconds elapsed, finished iteration 302
+[LightGBM] [Info] Iteration:303, valid_1 auc : 0.771605
+[LightGBM] [Info] 113.856490 seconds elapsed, finished iteration 303
+[LightGBM] [Info] Iteration:304, valid_1 auc : 0.771629
+[LightGBM] [Info] 114.194164 seconds elapsed, finished iteration 304
+[LightGBM] [Info] Iteration:305, valid_1 auc : 0.771777
+[LightGBM] [Info] 114.624562 seconds elapsed, finished iteration 305
+[LightGBM] [Info] Iteration:306, valid_1 auc : 0.771844
+[LightGBM] [Info] 115.024927 seconds elapsed, finished iteration 306
+[LightGBM] [Info] Iteration:307, valid_1 auc : 0.771925
+[LightGBM] [Info] 115.376380 seconds elapsed, finished iteration 307
+[LightGBM] [Info] Iteration:308, valid_1 auc : 0.771917
+[LightGBM] [Info] 115.628672 seconds elapsed, finished iteration 308
+[LightGBM] [Info] Iteration:309, valid_1 auc : 0.772109
+[LightGBM] [Info] 115.951099 seconds elapsed, finished iteration 309
+[LightGBM] [Info] Iteration:310, valid_1 auc : 0.772266
+[LightGBM] [Info] 116.212696 seconds elapsed, finished iteration 310
+[LightGBM] [Info] Iteration:311, valid_1 auc : 0.772463
+[LightGBM] [Info] 116.459830 seconds elapsed, finished iteration 311
+[LightGBM] [Info] Iteration:312, valid_1 auc : 0.772483
+[LightGBM] [Info] 116.736008 seconds elapsed, finished iteration 312
+[LightGBM] [Info] Iteration:313, valid_1 auc : 0.772502
+[LightGBM] [Info] 116.948173 seconds elapsed, finished iteration 313
+[LightGBM] [Info] Iteration:314, valid_1 auc : 0.772643
+[LightGBM] [Info] 117.212941 seconds elapsed, finished iteration 314
+[LightGBM] [Info] Iteration:315, valid_1 auc : 0.772764
+[LightGBM] [Info] 117.407916 seconds elapsed, finished iteration 315
+[LightGBM] [Info] Iteration:316, valid_1 auc : 0.772831
+[LightGBM] [Info] 117.759115 seconds elapsed, finished iteration 316
+[LightGBM] [Info] Iteration:317, valid_1 auc : 0.772797
+[LightGBM] [Info] 118.023858 seconds elapsed, finished iteration 317
+[LightGBM] [Info] Iteration:318, valid_1 auc : 0.772848
+[LightGBM] [Info] 118.278951 seconds elapsed, finished iteration 318
+[LightGBM] [Info] Iteration:319, valid_1 auc : 0.772909
+[LightGBM] [Info] 118.506372 seconds elapsed, finished iteration 319
+[LightGBM] [Info] Iteration:320, valid_1 auc : 0.773013
+[LightGBM] [Info] 118.732123 seconds elapsed, finished iteration 320
+[LightGBM] [Info] Iteration:321, valid_1 auc : 0.773078
+[LightGBM] [Info] 119.008453 seconds elapsed, finished iteration 321
+[LightGBM] [Info] Iteration:322, valid_1 auc : 0.773159
+[LightGBM] [Info] 119.272224 seconds elapsed, finished iteration 322
+[LightGBM] [Info] Iteration:323, valid_1 auc : 0.773269
+[LightGBM] [Info] 119.553509 seconds elapsed, finished iteration 323
+[LightGBM] [Info] Iteration:324, valid_1 auc : 0.773405
+[LightGBM] [Info] 119.878851 seconds elapsed, finished iteration 324
+[LightGBM] [Info] Iteration:325, valid_1 auc : 0.773535
+[LightGBM] [Info] 120.101165 seconds elapsed, finished iteration 325
+[LightGBM] [Info] Iteration:326, valid_1 auc : 0.77353
+[LightGBM] [Info] 120.318641 seconds elapsed, finished iteration 326
+[LightGBM] [Info] Iteration:327, valid_1 auc : 0.773573
+[LightGBM] [Info] 120.576183 seconds elapsed, finished iteration 327
+[LightGBM] [Info] Iteration:328, valid_1 auc : 0.773567
+[LightGBM] [Info] 120.821447 seconds elapsed, finished iteration 328
+[LightGBM] [Info] Iteration:329, valid_1 auc : 0.773525
+[LightGBM] [Info] 121.105406 seconds elapsed, finished iteration 329
+[LightGBM] [Info] Iteration:330, valid_1 auc : 0.773522
+[LightGBM] [Info] 121.367032 seconds elapsed, finished iteration 330
+[LightGBM] [Info] Iteration:331, valid_1 auc : 0.773842
+[LightGBM] [Info] 121.619720 seconds elapsed, finished iteration 331
+[LightGBM] [Info] Iteration:332, valid_1 auc : 0.773863
+[LightGBM] [Info] 121.827852 seconds elapsed, finished iteration 332
+[LightGBM] [Info] Iteration:333, valid_1 auc : 0.773883
+[LightGBM] [Info] 122.076863 seconds elapsed, finished iteration 333
+[LightGBM] [Info] Iteration:334, valid_1 auc : 0.773919
+[LightGBM] [Info] 122.337981 seconds elapsed, finished iteration 334
+[LightGBM] [Info] Iteration:335, valid_1 auc : 0.773951
+[LightGBM] [Info] 122.623930 seconds elapsed, finished iteration 335
+[LightGBM] [Info] Iteration:336, valid_1 auc : 0.774007
+[LightGBM] [Info] 122.926406 seconds elapsed, finished iteration 336
+[LightGBM] [Info] Iteration:337, valid_1 auc : 0.773994
+[LightGBM] [Info] 123.304600 seconds elapsed, finished iteration 337
+[LightGBM] [Info] Iteration:338, valid_1 auc : 0.774014
+[LightGBM] [Info] 123.572816 seconds elapsed, finished iteration 338
+[LightGBM] [Info] Iteration:339, valid_1 auc : 0.774075
+[LightGBM] [Info] 123.886535 seconds elapsed, finished iteration 339
+[LightGBM] [Info] Iteration:340, valid_1 auc : 0.7741
+[LightGBM] [Info] 124.206560 seconds elapsed, finished iteration 340
+[LightGBM] [Info] Iteration:341, valid_1 auc : 0.774026
+[LightGBM] [Info] 124.478843 seconds elapsed, finished iteration 341
+[LightGBM] [Info] Iteration:342, valid_1 auc : 0.774062
+[LightGBM] [Info] 124.786120 seconds elapsed, finished iteration 342
+[LightGBM] [Info] Iteration:343, valid_1 auc : 0.774119
+[LightGBM] [Info] 125.111116 seconds elapsed, finished iteration 343
+[LightGBM] [Info] Iteration:344, valid_1 auc : 0.774259
+[LightGBM] [Info] 125.396159 seconds elapsed, finished iteration 344
+[LightGBM] [Info] Iteration:345, valid_1 auc : 0.774222
+[LightGBM] [Info] 125.651502 seconds elapsed, finished iteration 345
+[LightGBM] [Info] Iteration:346, valid_1 auc : 0.77423
+[LightGBM] [Info] 125.866049 seconds elapsed, finished iteration 346
+[LightGBM] [Info] Iteration:347, valid_1 auc : 0.774212
+[LightGBM] [Info] 126.146831 seconds elapsed, finished iteration 347
+[LightGBM] [Info] Iteration:348, valid_1 auc : 0.774329
+[LightGBM] [Info] 126.452731 seconds elapsed, finished iteration 348
+[LightGBM] [Info] Iteration:349, valid_1 auc : 0.774328
+[LightGBM] [Info] 126.776013 seconds elapsed, finished iteration 349
+[LightGBM] [Info] Iteration:350, valid_1 auc : 0.774382
+[LightGBM] [Info] 126.978240 seconds elapsed, finished iteration 350
+[LightGBM] [Info] Iteration:351, valid_1 auc : 0.774526
+[LightGBM] [Info] 127.354046 seconds elapsed, finished iteration 351
+[LightGBM] [Info] Iteration:352, valid_1 auc : 0.774531
+[LightGBM] [Info] 127.563191 seconds elapsed, finished iteration 352
+[LightGBM] [Info] Iteration:353, valid_1 auc : 0.774549
+[LightGBM] [Info] 127.876097 seconds elapsed, finished iteration 353
+[LightGBM] [Info] Iteration:354, valid_1 auc : 0.774543
+[LightGBM] [Info] 128.088104 seconds elapsed, finished iteration 354
+[LightGBM] [Info] Iteration:355, valid_1 auc : 0.774533
+[LightGBM] [Info] 128.281079 seconds elapsed, finished iteration 355
+[LightGBM] [Info] Iteration:356, valid_1 auc : 0.774542
+[LightGBM] [Info] 128.509121 seconds elapsed, finished iteration 356
+[LightGBM] [Info] Iteration:357, valid_1 auc : 0.774594
+[LightGBM] [Info] 128.720578 seconds elapsed, finished iteration 357
+[LightGBM] [Info] Iteration:358, valid_1 auc : 0.774672
+[LightGBM] [Info] 129.008118 seconds elapsed, finished iteration 358
+[LightGBM] [Info] Iteration:359, valid_1 auc : 0.774658
+[LightGBM] [Info] 129.262724 seconds elapsed, finished iteration 359
+[LightGBM] [Info] Iteration:360, valid_1 auc : 0.77461
+[LightGBM] [Info] 129.500807 seconds elapsed, finished iteration 360
+[LightGBM] [Info] Iteration:361, valid_1 auc : 0.774508
+[LightGBM] [Info] 129.690917 seconds elapsed, finished iteration 361
+[LightGBM] [Info] Iteration:362, valid_1 auc : 0.774503
+[LightGBM] [Info] 129.884806 seconds elapsed, finished iteration 362
+[LightGBM] [Info] Iteration:363, valid_1 auc : 0.77458
+[LightGBM] [Info] 130.135560 seconds elapsed, finished iteration 363
+[LightGBM] [Info] Iteration:364, valid_1 auc : 0.774674
+[LightGBM] [Info] 130.416047 seconds elapsed, finished iteration 364
+[LightGBM] [Info] Iteration:365, valid_1 auc : 0.774751
+[LightGBM] [Info] 130.667194 seconds elapsed, finished iteration 365
+[LightGBM] [Info] Iteration:366, valid_1 auc : 0.77476
+[LightGBM] [Info] 130.958259 seconds elapsed, finished iteration 366
+[LightGBM] [Info] Iteration:367, valid_1 auc : 0.77477
+[LightGBM] [Info] 131.231326 seconds elapsed, finished iteration 367
+[LightGBM] [Info] Iteration:368, valid_1 auc : 0.774803
+[LightGBM] [Info] 131.515816 seconds elapsed, finished iteration 368
+[LightGBM] [Info] Iteration:369, valid_1 auc : 0.774897
+[LightGBM] [Info] 131.736283 seconds elapsed, finished iteration 369
+[LightGBM] [Info] Iteration:370, valid_1 auc : 0.774915
+[LightGBM] [Info] 132.028670 seconds elapsed, finished iteration 370
+[LightGBM] [Info] Iteration:371, valid_1 auc : 0.774969
+[LightGBM] [Info] 132.388581 seconds elapsed, finished iteration 371
+[LightGBM] [Info] Iteration:372, valid_1 auc : 0.774977
+[LightGBM] [Info] 132.730367 seconds elapsed, finished iteration 372
+[LightGBM] [Info] Iteration:373, valid_1 auc : 0.77502
+[LightGBM] [Info] 132.899557 seconds elapsed, finished iteration 373
+[LightGBM] [Info] Iteration:374, valid_1 auc : 0.775098
+[LightGBM] [Info] 133.109577 seconds elapsed, finished iteration 374
+[LightGBM] [Info] Iteration:375, valid_1 auc : 0.775092
+[LightGBM] [Info] 133.333999 seconds elapsed, finished iteration 375
+[LightGBM] [Info] Iteration:376, valid_1 auc : 0.775102
+[LightGBM] [Info] 133.626507 seconds elapsed, finished iteration 376
+[LightGBM] [Info] Iteration:377, valid_1 auc : 0.775124
+[LightGBM] [Info] 133.915766 seconds elapsed, finished iteration 377
+[LightGBM] [Info] Iteration:378, valid_1 auc : 0.77511
+[LightGBM] [Info] 134.137127 seconds elapsed, finished iteration 378
+[LightGBM] [Info] Iteration:379, valid_1 auc : 0.775124
+[LightGBM] [Info] 134.408757 seconds elapsed, finished iteration 379
+[LightGBM] [Info] Iteration:380, valid_1 auc : 0.77518
+[LightGBM] [Info] 134.669593 seconds elapsed, finished iteration 380
+[LightGBM] [Info] Iteration:381, valid_1 auc : 0.775336
+[LightGBM] [Info] 134.967670 seconds elapsed, finished iteration 381
+[LightGBM] [Info] Iteration:382, valid_1 auc : 0.775342
+[LightGBM] [Info] 135.199086 seconds elapsed, finished iteration 382
+[LightGBM] [Info] Iteration:383, valid_1 auc : 0.775386
+[LightGBM] [Info] 135.372772 seconds elapsed, finished iteration 383
+[LightGBM] [Info] Iteration:384, valid_1 auc : 0.775365
+[LightGBM] [Info] 135.583582 seconds elapsed, finished iteration 384
+[LightGBM] [Info] Iteration:385, valid_1 auc : 0.775309
+[LightGBM] [Info] 135.854623 seconds elapsed, finished iteration 385
+[LightGBM] [Info] Iteration:386, valid_1 auc : 0.775372
+[LightGBM] [Info] 136.078471 seconds elapsed, finished iteration 386
+[LightGBM] [Info] Iteration:387, valid_1 auc : 0.77535
+[LightGBM] [Info] 136.340785 seconds elapsed, finished iteration 387
+[LightGBM] [Info] Iteration:388, valid_1 auc : 0.775363
+[LightGBM] [Info] 136.572188 seconds elapsed, finished iteration 388
+[LightGBM] [Info] Iteration:389, valid_1 auc : 0.775367
+[LightGBM] [Info] 136.780409 seconds elapsed, finished iteration 389
+[LightGBM] [Info] Iteration:390, valid_1 auc : 0.775382
+[LightGBM] [Info] 136.975301 seconds elapsed, finished iteration 390
+[LightGBM] [Info] Iteration:391, valid_1 auc : 0.775313
+[LightGBM] [Info] 137.204021 seconds elapsed, finished iteration 391
+[LightGBM] [Info] Iteration:392, valid_1 auc : 0.775394
+[LightGBM] [Info] 137.381277 seconds elapsed, finished iteration 392
+[LightGBM] [Info] Iteration:393, valid_1 auc : 0.775436
+[LightGBM] [Info] 137.619757 seconds elapsed, finished iteration 393
+[LightGBM] [Info] Iteration:394, valid_1 auc : 0.775436
+[LightGBM] [Info] 137.813809 seconds elapsed, finished iteration 394
+[LightGBM] [Info] Iteration:395, valid_1 auc : 0.775432
+[LightGBM] [Info] 138.139214 seconds elapsed, finished iteration 395
+[LightGBM] [Info] Iteration:396, valid_1 auc : 0.775521
+[LightGBM] [Info] 138.416858 seconds elapsed, finished iteration 396
+[LightGBM] [Info] Iteration:397, valid_1 auc : 0.775499
+[LightGBM] [Info] 138.661670 seconds elapsed, finished iteration 397
+[LightGBM] [Info] Iteration:398, valid_1 auc : 0.775503
+[LightGBM] [Info] 139.000222 seconds elapsed, finished iteration 398
+[LightGBM] [Info] Iteration:399, valid_1 auc : 0.775537
+[LightGBM] [Info] 139.290160 seconds elapsed, finished iteration 399
+[LightGBM] [Info] Iteration:400, valid_1 auc : 0.775559
+[LightGBM] [Info] 139.735709 seconds elapsed, finished iteration 400
+[LightGBM] [Info] Iteration:401, valid_1 auc : 0.775586
+[LightGBM] [Info] 140.082115 seconds elapsed, finished iteration 401
+[LightGBM] [Info] Iteration:402, valid_1 auc : 0.775586
+[LightGBM] [Info] 140.296384 seconds elapsed, finished iteration 402
+[LightGBM] [Info] Iteration:403, valid_1 auc : 0.775612
+[LightGBM] [Info] 140.501995 seconds elapsed, finished iteration 403
+[LightGBM] [Info] Iteration:404, valid_1 auc : 0.775702
+[LightGBM] [Info] 140.769741 seconds elapsed, finished iteration 404
+[LightGBM] [Info] Iteration:405, valid_1 auc : 0.775723
+[LightGBM] [Info] 140.999301 seconds elapsed, finished iteration 405
+[LightGBM] [Info] Iteration:406, valid_1 auc : 0.775741
+[LightGBM] [Info] 141.193279 seconds elapsed, finished iteration 406
+[LightGBM] [Info] Iteration:407, valid_1 auc : 0.775723
+[LightGBM] [Info] 141.428095 seconds elapsed, finished iteration 407
+[LightGBM] [Info] Iteration:408, valid_1 auc : 0.775792
+[LightGBM] [Info] 141.634281 seconds elapsed, finished iteration 408
+[LightGBM] [Info] Iteration:409, valid_1 auc : 0.775891
+[LightGBM] [Info] 141.948905 seconds elapsed, finished iteration 409
+[LightGBM] [Info] Iteration:410, valid_1 auc : 0.775862
+[LightGBM] [Info] 142.152175 seconds elapsed, finished iteration 410
+[LightGBM] [Info] Iteration:411, valid_1 auc : 0.775879
+[LightGBM] [Info] 142.395710 seconds elapsed, finished iteration 411
+[LightGBM] [Info] Iteration:412, valid_1 auc : 0.77589
+[LightGBM] [Info] 142.631701 seconds elapsed, finished iteration 412
+[LightGBM] [Info] Iteration:413, valid_1 auc : 0.775873
+[LightGBM] [Info] 142.918152 seconds elapsed, finished iteration 413
+[LightGBM] [Info] Iteration:414, valid_1 auc : 0.775889
+[LightGBM] [Info] 143.172430 seconds elapsed, finished iteration 414
+[LightGBM] [Info] Iteration:415, valid_1 auc : 0.77588
+[LightGBM] [Info] 143.463873 seconds elapsed, finished iteration 415
+[LightGBM] [Info] Iteration:416, valid_1 auc : 0.776019
+[LightGBM] [Info] 143.784727 seconds elapsed, finished iteration 416
+[LightGBM] [Info] Iteration:417, valid_1 auc : 0.776042
+[LightGBM] [Info] 144.081874 seconds elapsed, finished iteration 417
+[LightGBM] [Info] Iteration:418, valid_1 auc : 0.776014
+[LightGBM] [Info] 144.341239 seconds elapsed, finished iteration 418
+[LightGBM] [Info] Iteration:419, valid_1 auc : 0.776
+[LightGBM] [Info] 144.601227 seconds elapsed, finished iteration 419
+[LightGBM] [Info] Iteration:420, valid_1 auc : 0.776009
+[LightGBM] [Info] 144.829981 seconds elapsed, finished iteration 420
+[LightGBM] [Info] Iteration:421, valid_1 auc : 0.776032
+[LightGBM] [Info] 145.108674 seconds elapsed, finished iteration 421
+[LightGBM] [Info] Iteration:422, valid_1 auc : 0.776015
+[LightGBM] [Info] 145.384867 seconds elapsed, finished iteration 422
+[LightGBM] [Info] Iteration:423, valid_1 auc : 0.776045
+[LightGBM] [Info] 145.659317 seconds elapsed, finished iteration 423
+[LightGBM] [Info] Iteration:424, valid_1 auc : 0.776079
+[LightGBM] [Info] 145.916684 seconds elapsed, finished iteration 424
+[LightGBM] [Info] Iteration:425, valid_1 auc : 0.776151
+[LightGBM] [Info] 146.167903 seconds elapsed, finished iteration 425
+[LightGBM] [Info] Iteration:426, valid_1 auc : 0.776118
+[LightGBM] [Info] 146.509536 seconds elapsed, finished iteration 426
+[LightGBM] [Info] Iteration:427, valid_1 auc : 0.776151
+[LightGBM] [Info] 146.793324 seconds elapsed, finished iteration 427
+[LightGBM] [Info] Iteration:428, valid_1 auc : 0.776144
+[LightGBM] [Info] 147.049260 seconds elapsed, finished iteration 428
+[LightGBM] [Info] Iteration:429, valid_1 auc : 0.776151
+[LightGBM] [Info] 147.261380 seconds elapsed, finished iteration 429
+[LightGBM] [Info] Iteration:430, valid_1 auc : 0.776205
+[LightGBM] [Info] 147.562611 seconds elapsed, finished iteration 430
+[LightGBM] [Info] Iteration:431, valid_1 auc : 0.776209
+[LightGBM] [Info] 147.817628 seconds elapsed, finished iteration 431
+[LightGBM] [Info] Iteration:432, valid_1 auc : 0.776211
+[LightGBM] [Info] 148.031670 seconds elapsed, finished iteration 432
+[LightGBM] [Info] Iteration:433, valid_1 auc : 0.77622
+[LightGBM] [Info] 148.350279 seconds elapsed, finished iteration 433
+[LightGBM] [Info] Iteration:434, valid_1 auc : 0.776208
+[LightGBM] [Info] 148.596912 seconds elapsed, finished iteration 434
+[LightGBM] [Info] Iteration:435, valid_1 auc : 0.776251
+[LightGBM] [Info] 148.945860 seconds elapsed, finished iteration 435
+[LightGBM] [Info] Iteration:436, valid_1 auc : 0.776237
+[LightGBM] [Info] 149.228390 seconds elapsed, finished iteration 436
+[LightGBM] [Info] Iteration:437, valid_1 auc : 0.776205
+[LightGBM] [Info] 149.468218 seconds elapsed, finished iteration 437
+[LightGBM] [Info] Iteration:438, valid_1 auc : 0.7762
+[LightGBM] [Info] 149.712672 seconds elapsed, finished iteration 438
+[LightGBM] [Info] Iteration:439, valid_1 auc : 0.776253
+[LightGBM] [Info] 149.944347 seconds elapsed, finished iteration 439
+[LightGBM] [Info] Iteration:440, valid_1 auc : 0.776334
+[LightGBM] [Info] 150.279989 seconds elapsed, finished iteration 440
+[LightGBM] [Info] Iteration:441, valid_1 auc : 0.776388
+[LightGBM] [Info] 150.509336 seconds elapsed, finished iteration 441
+[LightGBM] [Info] Iteration:442, valid_1 auc : 0.776395
+[LightGBM] [Info] 150.725611 seconds elapsed, finished iteration 442
+[LightGBM] [Info] Iteration:443, valid_1 auc : 0.776389
+[LightGBM] [Info] 150.954472 seconds elapsed, finished iteration 443
+[LightGBM] [Info] Iteration:444, valid_1 auc : 0.776353
+[LightGBM] [Info] 151.253472 seconds elapsed, finished iteration 444
+[LightGBM] [Info] Iteration:445, valid_1 auc : 0.776391
+[LightGBM] [Info] 151.514825 seconds elapsed, finished iteration 445
+[LightGBM] [Info] Iteration:446, valid_1 auc : 0.776413
+[LightGBM] [Info] 151.768229 seconds elapsed, finished iteration 446
+[LightGBM] [Info] Iteration:447, valid_1 auc : 0.776434
+[LightGBM] [Info] 152.081555 seconds elapsed, finished iteration 447
+[LightGBM] [Info] Iteration:448, valid_1 auc : 0.776325
+[LightGBM] [Info] 152.372759 seconds elapsed, finished iteration 448
+[LightGBM] [Info] Iteration:449, valid_1 auc : 0.776439
+[LightGBM] [Info] 152.635114 seconds elapsed, finished iteration 449
+[LightGBM] [Info] Iteration:450, valid_1 auc : 0.776507
+[LightGBM] [Info] 152.936359 seconds elapsed, finished iteration 450
+[LightGBM] [Info] Iteration:451, valid_1 auc : 0.7765
+[LightGBM] [Info] 153.187683 seconds elapsed, finished iteration 451
+[LightGBM] [Info] Iteration:452, valid_1 auc : 0.776543
+[LightGBM] [Info] 153.541407 seconds elapsed, finished iteration 452
+[LightGBM] [Info] Iteration:453, valid_1 auc : 0.776607
+[LightGBM] [Info] 153.787092 seconds elapsed, finished iteration 453
+[LightGBM] [Info] Iteration:454, valid_1 auc : 0.776614
+[LightGBM] [Info] 154.035378 seconds elapsed, finished iteration 454
+[LightGBM] [Info] Iteration:455, valid_1 auc : 0.776605
+[LightGBM] [Info] 154.301549 seconds elapsed, finished iteration 455
+[LightGBM] [Info] Iteration:456, valid_1 auc : 0.776617
+[LightGBM] [Info] 154.571265 seconds elapsed, finished iteration 456
+[LightGBM] [Info] Iteration:457, valid_1 auc : 0.776637
+[LightGBM] [Info] 154.898092 seconds elapsed, finished iteration 457
+[LightGBM] [Info] Iteration:458, valid_1 auc : 0.776644
+[LightGBM] [Info] 155.184880 seconds elapsed, finished iteration 458
+[LightGBM] [Info] Iteration:459, valid_1 auc : 0.776662
+[LightGBM] [Info] 155.465870 seconds elapsed, finished iteration 459
+[LightGBM] [Info] Iteration:460, valid_1 auc : 0.776707
+[LightGBM] [Info] 155.720592 seconds elapsed, finished iteration 460
+[LightGBM] [Info] Iteration:461, valid_1 auc : 0.776698
+[LightGBM] [Info] 156.042890 seconds elapsed, finished iteration 461
+[LightGBM] [Info] Iteration:462, valid_1 auc : 0.776777
+[LightGBM] [Info] 156.308936 seconds elapsed, finished iteration 462
+[LightGBM] [Info] Iteration:463, valid_1 auc : 0.776851
+[LightGBM] [Info] 156.635168 seconds elapsed, finished iteration 463
+[LightGBM] [Info] Iteration:464, valid_1 auc : 0.776853
+[LightGBM] [Info] 156.891930 seconds elapsed, finished iteration 464
+[LightGBM] [Info] Iteration:465, valid_1 auc : 0.776844
+[LightGBM] [Info] 157.158069 seconds elapsed, finished iteration 465
+[LightGBM] [Info] Iteration:466, valid_1 auc : 0.776855
+[LightGBM] [Info] 157.457721 seconds elapsed, finished iteration 466
+[LightGBM] [Info] Iteration:467, valid_1 auc : 0.776846
+[LightGBM] [Info] 157.756899 seconds elapsed, finished iteration 467
+[LightGBM] [Info] Iteration:468, valid_1 auc : 0.776837
+[LightGBM] [Info] 158.000015 seconds elapsed, finished iteration 468
+[LightGBM] [Info] Iteration:469, valid_1 auc : 0.776926
+[LightGBM] [Info] 158.323345 seconds elapsed, finished iteration 469
+[LightGBM] [Info] Iteration:470, valid_1 auc : 0.776916
+[LightGBM] [Info] 158.557825 seconds elapsed, finished iteration 470
+[LightGBM] [Info] Iteration:471, valid_1 auc : 0.776913
+[LightGBM] [Info] 158.918105 seconds elapsed, finished iteration 471
+[LightGBM] [Info] Iteration:472, valid_1 auc : 0.776925
+[LightGBM] [Info] 159.187363 seconds elapsed, finished iteration 472
+[LightGBM] [Info] Iteration:473, valid_1 auc : 0.776898
+[LightGBM] [Info] 159.473188 seconds elapsed, finished iteration 473
+[LightGBM] [Info] Iteration:474, valid_1 auc : 0.776941
+[LightGBM] [Info] 159.854351 seconds elapsed, finished iteration 474
+[LightGBM] [Info] Iteration:475, valid_1 auc : 0.776944
+[LightGBM] [Info] 160.097800 seconds elapsed, finished iteration 475
+[LightGBM] [Info] Iteration:476, valid_1 auc : 0.77697
+[LightGBM] [Info] 160.317518 seconds elapsed, finished iteration 476
+[LightGBM] [Info] Iteration:477, valid_1 auc : 0.777014
+[LightGBM] [Info] 160.553893 seconds elapsed, finished iteration 477
+[LightGBM] [Info] Iteration:478, valid_1 auc : 0.777026
+[LightGBM] [Info] 160.769964 seconds elapsed, finished iteration 478
+[LightGBM] [Info] Iteration:479, valid_1 auc : 0.777001
+[LightGBM] [Info] 161.066642 seconds elapsed, finished iteration 479
+[LightGBM] [Info] Iteration:480, valid_1 auc : 0.777054
+[LightGBM] [Info] 161.395498 seconds elapsed, finished iteration 480
+[LightGBM] [Info] Iteration:481, valid_1 auc : 0.777074
+[LightGBM] [Info] 161.624606 seconds elapsed, finished iteration 481
+[LightGBM] [Info] Iteration:482, valid_1 auc : 0.777121
+[LightGBM] [Info] 161.841248 seconds elapsed, finished iteration 482
+[LightGBM] [Info] Iteration:483, valid_1 auc : 0.777124
+[LightGBM] [Info] 162.116372 seconds elapsed, finished iteration 483
+[LightGBM] [Info] Iteration:484, valid_1 auc : 0.777178
+[LightGBM] [Info] 162.491379 seconds elapsed, finished iteration 484
+[LightGBM] [Info] Iteration:485, valid_1 auc : 0.777241
+[LightGBM] [Info] 162.776961 seconds elapsed, finished iteration 485
+[LightGBM] [Info] Iteration:486, valid_1 auc : 0.777252
+[LightGBM] [Info] 163.005862 seconds elapsed, finished iteration 486
+[LightGBM] [Info] Iteration:487, valid_1 auc : 0.777275
+[LightGBM] [Info] 163.175183 seconds elapsed, finished iteration 487
+[LightGBM] [Info] Iteration:488, valid_1 auc : 0.777313
+[LightGBM] [Info] 163.427730 seconds elapsed, finished iteration 488
+[LightGBM] [Info] Iteration:489, valid_1 auc : 0.777316
+[LightGBM] [Info] 163.673845 seconds elapsed, finished iteration 489
+[LightGBM] [Info] Iteration:490, valid_1 auc : 0.777313
+[LightGBM] [Info] 163.908739 seconds elapsed, finished iteration 490
+[LightGBM] [Info] Iteration:491, valid_1 auc : 0.777329
+[LightGBM] [Info] 164.103955 seconds elapsed, finished iteration 491
+[LightGBM] [Info] Iteration:492, valid_1 auc : 0.777403
+[LightGBM] [Info] 164.288620 seconds elapsed, finished iteration 492
+[LightGBM] [Info] Iteration:493, valid_1 auc : 0.77741
+[LightGBM] [Info] 164.498825 seconds elapsed, finished iteration 493
+[LightGBM] [Info] Iteration:494, valid_1 auc : 0.777409
+[LightGBM] [Info] 164.716931 seconds elapsed, finished iteration 494
+[LightGBM] [Info] Iteration:495, valid_1 auc : 0.777402
+[LightGBM] [Info] 164.920201 seconds elapsed, finished iteration 495
+[LightGBM] [Info] Iteration:496, valid_1 auc : 0.777501
+[LightGBM] [Info] 165.086613 seconds elapsed, finished iteration 496
+[LightGBM] [Info] Iteration:497, valid_1 auc : 0.777499
+[LightGBM] [Info] 165.333055 seconds elapsed, finished iteration 497
+[LightGBM] [Info] Iteration:498, valid_1 auc : 0.777501
+[LightGBM] [Info] 165.662942 seconds elapsed, finished iteration 498
+[LightGBM] [Info] Iteration:499, valid_1 auc : 0.777523
+[LightGBM] [Info] 165.952649 seconds elapsed, finished iteration 499
+[LightGBM] [Info] Iteration:500, valid_1 auc : 0.777543
+[LightGBM] [Info] 166.213076 seconds elapsed, finished iteration 500
+[LightGBM] [Info] Finished training
