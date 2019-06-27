@@ -15,7 +15,7 @@ test = open(output_test,"w")
 def WriteOneLine(tokens, output):
 	label = int(float(tokens[0]))
 	output.write(str(label))
-	for i in xrange(1,len(tokens)):
+	for i in range(1,len(tokens)):
 		feature_value = float(tokens[i])
 		output.write(' ' + str(i-1) + ':' + str(feature_value))
 	output.write('\n')
