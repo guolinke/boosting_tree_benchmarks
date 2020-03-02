@@ -1,1511 +1,1018 @@
+[LightGBM] [Warning] num_leaves is set=127, num_leaves=255 will be ignored. Current value: num_leaves=127
+[LightGBM] [Warning] learning_rate is set=0.02, learning_rate=0.1 will be ignored. Current value: learning_rate=0.02
 [LightGBM] [Info] Finished loading parameters
-[LightGBM] [Info] feature clustering: merge 4228 features into 32 groups
-[LightGBM] [Info] feature clustering: real groups 32
-[LightGBM] [Info] Cost 0.066687 seconds for bundling
-[LightGBM] [Info] Finished loading data in 10.252065 seconds
+[LightGBM] [Info] Finished loading data in 10.000212 seconds
+[LightGBM] [Warning] Starting from the 2.1.2 version, default value for the "boost_from_average" parameter in "binary" objective is true.
+This may cause significantly different results comparing to the previous versions of LightGBM.
+Try to set boost_from_average=false, if your old models produce bad results
 [LightGBM] [Info] Number of positive: 87462, number of negative: 12096828
-[LightGBM] [Info] Total Bins 5368
-[LightGBM] [Info] Number of data: 12184290, number of used features: 3468
+[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.506519 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 8872
+[LightGBM] [Info] Number of data points in the train set: 12184290, number of used features: 3450
 [LightGBM] [Info] Finished initializing training
 [LightGBM] [Info] Started training...
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:1, valid_1 auc : 0.59341
-[LightGBM] [Info] 0.771471 seconds elapsed, finished iteration 1
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:2, valid_1 auc : 0.594281
-[LightGBM] [Info] 1.579849 seconds elapsed, finished iteration 2
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:3, valid_1 auc : 0.594566
-[LightGBM] [Info] 2.405961 seconds elapsed, finished iteration 3
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:4, valid_1 auc : 0.595109
-[LightGBM] [Info] 3.256504 seconds elapsed, finished iteration 4
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:5, valid_1 auc : 0.59536
-[LightGBM] [Info] 4.149550 seconds elapsed, finished iteration 5
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:6, valid_1 auc : 0.595746
-[LightGBM] [Info] 4.990684 seconds elapsed, finished iteration 6
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:7, valid_1 auc : 0.59607
-[LightGBM] [Info] 5.913002 seconds elapsed, finished iteration 7
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:8, valid_1 auc : 0.595959
-[LightGBM] [Info] 6.760715 seconds elapsed, finished iteration 8
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:9, valid_1 auc : 0.59613
-[LightGBM] [Info] 7.530166 seconds elapsed, finished iteration 9
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:10, valid_1 auc : 0.596256
-[LightGBM] [Info] 8.501826 seconds elapsed, finished iteration 10
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:11, valid_1 auc : 0.596451
-[LightGBM] [Info] 9.354262 seconds elapsed, finished iteration 11
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:12, valid_1 auc : 0.596456
-[LightGBM] [Info] 10.224910 seconds elapsed, finished iteration 12
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:13, valid_1 auc : 0.596349
-[LightGBM] [Info] 11.041392 seconds elapsed, finished iteration 13
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:14, valid_1 auc : 0.59669
-[LightGBM] [Info] 12.036990 seconds elapsed, finished iteration 14
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:15, valid_1 auc : 0.596894
-[LightGBM] [Info] 12.966125 seconds elapsed, finished iteration 15
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:16, valid_1 auc : 0.59693
-[LightGBM] [Info] 13.788347 seconds elapsed, finished iteration 16
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:17, valid_1 auc : 0.596854
-[LightGBM] [Info] 14.639939 seconds elapsed, finished iteration 17
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:18, valid_1 auc : 0.59706
-[LightGBM] [Info] 15.488307 seconds elapsed, finished iteration 18
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:19, valid_1 auc : 0.597021
-[LightGBM] [Info] 16.387013 seconds elapsed, finished iteration 19
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:20, valid_1 auc : 0.597119
-[LightGBM] [Info] 17.247657 seconds elapsed, finished iteration 20
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:21, valid_1 auc : 0.597035
-[LightGBM] [Info] 18.068571 seconds elapsed, finished iteration 21
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:22, valid_1 auc : 0.596972
-[LightGBM] [Info] 18.901385 seconds elapsed, finished iteration 22
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:23, valid_1 auc : 0.597211
-[LightGBM] [Info] 19.716359 seconds elapsed, finished iteration 23
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:24, valid_1 auc : 0.597241
-[LightGBM] [Info] 20.603823 seconds elapsed, finished iteration 24
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:25, valid_1 auc : 0.597275
-[LightGBM] [Info] 21.453223 seconds elapsed, finished iteration 25
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:26, valid_1 auc : 0.59731
-[LightGBM] [Info] 22.305346 seconds elapsed, finished iteration 26
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:27, valid_1 auc : 0.597212
-[LightGBM] [Info] 23.144932 seconds elapsed, finished iteration 27
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:28, valid_1 auc : 0.597308
-[LightGBM] [Info] 23.981694 seconds elapsed, finished iteration 28
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:29, valid_1 auc : 0.597343
-[LightGBM] [Info] 24.800574 seconds elapsed, finished iteration 29
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:30, valid_1 auc : 0.597388
-[LightGBM] [Info] 25.652896 seconds elapsed, finished iteration 30
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:31, valid_1 auc : 0.59753
-[LightGBM] [Info] 26.486320 seconds elapsed, finished iteration 31
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:32, valid_1 auc : 0.597498
-[LightGBM] [Info] 27.374225 seconds elapsed, finished iteration 32
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:33, valid_1 auc : 0.597496
-[LightGBM] [Info] 28.303758 seconds elapsed, finished iteration 33
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:34, valid_1 auc : 0.597462
-[LightGBM] [Info] 29.181674 seconds elapsed, finished iteration 34
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:35, valid_1 auc : 0.597464
-[LightGBM] [Info] 29.990323 seconds elapsed, finished iteration 35
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:36, valid_1 auc : 0.597444
-[LightGBM] [Info] 30.845854 seconds elapsed, finished iteration 36
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:37, valid_1 auc : 0.597393
-[LightGBM] [Info] 31.633041 seconds elapsed, finished iteration 37
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:38, valid_1 auc : 0.597484
-[LightGBM] [Info] 32.494602 seconds elapsed, finished iteration 38
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:39, valid_1 auc : 0.597479
-[LightGBM] [Info] 33.369302 seconds elapsed, finished iteration 39
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:40, valid_1 auc : 0.597414
-[LightGBM] [Info] 34.247158 seconds elapsed, finished iteration 40
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:41, valid_1 auc : 0.597408
-[LightGBM] [Info] 35.149500 seconds elapsed, finished iteration 41
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:42, valid_1 auc : 0.597356
-[LightGBM] [Info] 36.007317 seconds elapsed, finished iteration 42
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:43, valid_1 auc : 0.597393
-[LightGBM] [Info] 36.909602 seconds elapsed, finished iteration 43
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:44, valid_1 auc : 0.597391
-[LightGBM] [Info] 37.722919 seconds elapsed, finished iteration 44
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:45, valid_1 auc : 0.597385
-[LightGBM] [Info] 38.542610 seconds elapsed, finished iteration 45
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:46, valid_1 auc : 0.597394
-[LightGBM] [Info] 39.323841 seconds elapsed, finished iteration 46
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:47, valid_1 auc : 0.597366
-[LightGBM] [Info] 40.135203 seconds elapsed, finished iteration 47
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:48, valid_1 auc : 0.597363
-[LightGBM] [Info] 41.024430 seconds elapsed, finished iteration 48
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:49, valid_1 auc : 0.597337
-[LightGBM] [Info] 41.921036 seconds elapsed, finished iteration 49
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:50, valid_1 auc : 0.597346
-[LightGBM] [Info] 42.725451 seconds elapsed, finished iteration 50
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:51, valid_1 auc : 0.597317
-[LightGBM] [Info] 43.693374 seconds elapsed, finished iteration 51
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:52, valid_1 auc : 0.59735
-[LightGBM] [Info] 44.583315 seconds elapsed, finished iteration 52
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:53, valid_1 auc : 0.597375
-[LightGBM] [Info] 45.407818 seconds elapsed, finished iteration 53
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:54, valid_1 auc : 0.597441
-[LightGBM] [Info] 46.295101 seconds elapsed, finished iteration 54
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:55, valid_1 auc : 0.597399
-[LightGBM] [Info] 47.128324 seconds elapsed, finished iteration 55
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:56, valid_1 auc : 0.597325
-[LightGBM] [Info] 47.946928 seconds elapsed, finished iteration 56
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:57, valid_1 auc : 0.597248
-[LightGBM] [Info] 48.921984 seconds elapsed, finished iteration 57
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:58, valid_1 auc : 0.597184
-[LightGBM] [Info] 49.885003 seconds elapsed, finished iteration 58
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:59, valid_1 auc : 0.59733
-[LightGBM] [Info] 50.839285 seconds elapsed, finished iteration 59
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:60, valid_1 auc : 0.59727
-[LightGBM] [Info] 51.822316 seconds elapsed, finished iteration 60
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:61, valid_1 auc : 0.597236
-[LightGBM] [Info] 52.688672 seconds elapsed, finished iteration 61
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:62, valid_1 auc : 0.597199
-[LightGBM] [Info] 53.584364 seconds elapsed, finished iteration 62
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:63, valid_1 auc : 0.597187
-[LightGBM] [Info] 54.432098 seconds elapsed, finished iteration 63
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:64, valid_1 auc : 0.597208
-[LightGBM] [Info] 55.275849 seconds elapsed, finished iteration 64
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:65, valid_1 auc : 0.597174
-[LightGBM] [Info] 56.040768 seconds elapsed, finished iteration 65
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:66, valid_1 auc : 0.597164
-[LightGBM] [Info] 56.881981 seconds elapsed, finished iteration 66
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:67, valid_1 auc : 0.59712
-[LightGBM] [Info] 57.787053 seconds elapsed, finished iteration 67
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:68, valid_1 auc : 0.597179
-[LightGBM] [Info] 58.664412 seconds elapsed, finished iteration 68
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:69, valid_1 auc : 0.597119
-[LightGBM] [Info] 59.455912 seconds elapsed, finished iteration 69
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:70, valid_1 auc : 0.597181
-[LightGBM] [Info] 60.270609 seconds elapsed, finished iteration 70
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:71, valid_1 auc : 0.597123
-[LightGBM] [Info] 61.179098 seconds elapsed, finished iteration 71
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:72, valid_1 auc : 0.597085
-[LightGBM] [Info] 62.071874 seconds elapsed, finished iteration 72
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:73, valid_1 auc : 0.597092
-[LightGBM] [Info] 62.997130 seconds elapsed, finished iteration 73
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:74, valid_1 auc : 0.597026
-[LightGBM] [Info] 63.920913 seconds elapsed, finished iteration 74
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:75, valid_1 auc : 0.597119
-[LightGBM] [Info] 64.784362 seconds elapsed, finished iteration 75
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:76, valid_1 auc : 0.597092
-[LightGBM] [Info] 65.584486 seconds elapsed, finished iteration 76
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:77, valid_1 auc : 0.59706
-[LightGBM] [Info] 66.511047 seconds elapsed, finished iteration 77
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:78, valid_1 auc : 0.597074
-[LightGBM] [Info] 67.394849 seconds elapsed, finished iteration 78
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:79, valid_1 auc : 0.597031
-[LightGBM] [Info] 68.203171 seconds elapsed, finished iteration 79
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:80, valid_1 auc : 0.597002
-[LightGBM] [Info] 69.080399 seconds elapsed, finished iteration 80
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:81, valid_1 auc : 0.59701
-[LightGBM] [Info] 69.898895 seconds elapsed, finished iteration 81
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:82, valid_1 auc : 0.596956
-[LightGBM] [Info] 70.772861 seconds elapsed, finished iteration 82
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:83, valid_1 auc : 0.596951
-[LightGBM] [Info] 71.554080 seconds elapsed, finished iteration 83
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:84, valid_1 auc : 0.596968
-[LightGBM] [Info] 72.428166 seconds elapsed, finished iteration 84
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:85, valid_1 auc : 0.597059
-[LightGBM] [Info] 73.251168 seconds elapsed, finished iteration 85
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:86, valid_1 auc : 0.597015
-[LightGBM] [Info] 74.147308 seconds elapsed, finished iteration 86
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:87, valid_1 auc : 0.596993
-[LightGBM] [Info] 74.998555 seconds elapsed, finished iteration 87
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:88, valid_1 auc : 0.596912
-[LightGBM] [Info] 75.792077 seconds elapsed, finished iteration 88
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:89, valid_1 auc : 0.596965
-[LightGBM] [Info] 76.646497 seconds elapsed, finished iteration 89
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:90, valid_1 auc : 0.596971
-[LightGBM] [Info] 77.511814 seconds elapsed, finished iteration 90
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:91, valid_1 auc : 0.596951
-[LightGBM] [Info] 78.307816 seconds elapsed, finished iteration 91
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:92, valid_1 auc : 0.596914
-[LightGBM] [Info] 79.194761 seconds elapsed, finished iteration 92
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:93, valid_1 auc : 0.596961
-[LightGBM] [Info] 80.106150 seconds elapsed, finished iteration 93
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:94, valid_1 auc : 0.596914
-[LightGBM] [Info] 80.973662 seconds elapsed, finished iteration 94
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:95, valid_1 auc : 0.596961
-[LightGBM] [Info] 81.830582 seconds elapsed, finished iteration 95
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:96, valid_1 auc : 0.597006
-[LightGBM] [Info] 82.711155 seconds elapsed, finished iteration 96
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:97, valid_1 auc : 0.596988
-[LightGBM] [Info] 83.541154 seconds elapsed, finished iteration 97
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:98, valid_1 auc : 0.596938
-[LightGBM] [Info] 84.388958 seconds elapsed, finished iteration 98
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:99, valid_1 auc : 0.596887
-[LightGBM] [Info] 85.206541 seconds elapsed, finished iteration 99
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:100, valid_1 auc : 0.596864
-[LightGBM] [Info] 86.005601 seconds elapsed, finished iteration 100
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:101, valid_1 auc : 0.596821
-[LightGBM] [Info] 86.823798 seconds elapsed, finished iteration 101
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:102, valid_1 auc : 0.596948
-[LightGBM] [Info] 87.611513 seconds elapsed, finished iteration 102
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:103, valid_1 auc : 0.59695
-[LightGBM] [Info] 88.448356 seconds elapsed, finished iteration 103
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:104, valid_1 auc : 0.596906
-[LightGBM] [Info] 89.278602 seconds elapsed, finished iteration 104
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:105, valid_1 auc : 0.596895
-[LightGBM] [Info] 90.127921 seconds elapsed, finished iteration 105
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:106, valid_1 auc : 0.596892
-[LightGBM] [Info] 90.928562 seconds elapsed, finished iteration 106
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:107, valid_1 auc : 0.596897
-[LightGBM] [Info] 91.794202 seconds elapsed, finished iteration 107
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:108, valid_1 auc : 0.596875
-[LightGBM] [Info] 92.644829 seconds elapsed, finished iteration 108
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:109, valid_1 auc : 0.596879
-[LightGBM] [Info] 93.440204 seconds elapsed, finished iteration 109
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:110, valid_1 auc : 0.596889
-[LightGBM] [Info] 94.345765 seconds elapsed, finished iteration 110
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:111, valid_1 auc : 0.596882
-[LightGBM] [Info] 95.099641 seconds elapsed, finished iteration 111
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:112, valid_1 auc : 0.596944
-[LightGBM] [Info] 95.989969 seconds elapsed, finished iteration 112
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:113, valid_1 auc : 0.596899
-[LightGBM] [Info] 96.831109 seconds elapsed, finished iteration 113
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:114, valid_1 auc : 0.59691
-[LightGBM] [Info] 97.663503 seconds elapsed, finished iteration 114
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:115, valid_1 auc : 0.596923
-[LightGBM] [Info] 98.518697 seconds elapsed, finished iteration 115
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:116, valid_1 auc : 0.596946
-[LightGBM] [Info] 99.400404 seconds elapsed, finished iteration 116
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:117, valid_1 auc : 0.596969
-[LightGBM] [Info] 100.336773 seconds elapsed, finished iteration 117
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:118, valid_1 auc : 0.596968
-[LightGBM] [Info] 101.224044 seconds elapsed, finished iteration 118
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:119, valid_1 auc : 0.597023
-[LightGBM] [Info] 102.001696 seconds elapsed, finished iteration 119
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:120, valid_1 auc : 0.59703
-[LightGBM] [Info] 102.810790 seconds elapsed, finished iteration 120
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:121, valid_1 auc : 0.597069
-[LightGBM] [Info] 103.641172 seconds elapsed, finished iteration 121
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:122, valid_1 auc : 0.597071
-[LightGBM] [Info] 104.499974 seconds elapsed, finished iteration 122
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:123, valid_1 auc : 0.597141
-[LightGBM] [Info] 105.408845 seconds elapsed, finished iteration 123
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:124, valid_1 auc : 0.597184
-[LightGBM] [Info] 106.339279 seconds elapsed, finished iteration 124
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:125, valid_1 auc : 0.597179
-[LightGBM] [Info] 107.232843 seconds elapsed, finished iteration 125
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:126, valid_1 auc : 0.597184
-[LightGBM] [Info] 108.146119 seconds elapsed, finished iteration 126
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:127, valid_1 auc : 0.597239
-[LightGBM] [Info] 109.086301 seconds elapsed, finished iteration 127
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:128, valid_1 auc : 0.597294
-[LightGBM] [Info] 110.071200 seconds elapsed, finished iteration 128
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:129, valid_1 auc : 0.597309
-[LightGBM] [Info] 110.950273 seconds elapsed, finished iteration 129
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:130, valid_1 auc : 0.597401
-[LightGBM] [Info] 111.822229 seconds elapsed, finished iteration 130
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:131, valid_1 auc : 0.597482
-[LightGBM] [Info] 112.701536 seconds elapsed, finished iteration 131
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:132, valid_1 auc : 0.597446
-[LightGBM] [Info] 113.486516 seconds elapsed, finished iteration 132
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:133, valid_1 auc : 0.59753
-[LightGBM] [Info] 114.293675 seconds elapsed, finished iteration 133
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:134, valid_1 auc : 0.597572
-[LightGBM] [Info] 115.086260 seconds elapsed, finished iteration 134
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:135, valid_1 auc : 0.597596
-[LightGBM] [Info] 115.915772 seconds elapsed, finished iteration 135
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:136, valid_1 auc : 0.59767
-[LightGBM] [Info] 116.918670 seconds elapsed, finished iteration 136
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:137, valid_1 auc : 0.597717
-[LightGBM] [Info] 117.719571 seconds elapsed, finished iteration 137
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:138, valid_1 auc : 0.597777
-[LightGBM] [Info] 118.611189 seconds elapsed, finished iteration 138
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:139, valid_1 auc : 0.597811
-[LightGBM] [Info] 119.461540 seconds elapsed, finished iteration 139
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:140, valid_1 auc : 0.597889
-[LightGBM] [Info] 120.300691 seconds elapsed, finished iteration 140
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:141, valid_1 auc : 0.597903
-[LightGBM] [Info] 121.170242 seconds elapsed, finished iteration 141
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:142, valid_1 auc : 0.597963
-[LightGBM] [Info] 122.009038 seconds elapsed, finished iteration 142
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:143, valid_1 auc : 0.597993
-[LightGBM] [Info] 122.910461 seconds elapsed, finished iteration 143
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:144, valid_1 auc : 0.598022
-[LightGBM] [Info] 123.799695 seconds elapsed, finished iteration 144
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:145, valid_1 auc : 0.598089
-[LightGBM] [Info] 124.678415 seconds elapsed, finished iteration 145
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:146, valid_1 auc : 0.59814
-[LightGBM] [Info] 125.580882 seconds elapsed, finished iteration 146
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:147, valid_1 auc : 0.598161
-[LightGBM] [Info] 126.486383 seconds elapsed, finished iteration 147
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:148, valid_1 auc : 0.598231
-[LightGBM] [Info] 127.341686 seconds elapsed, finished iteration 148
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:149, valid_1 auc : 0.598257
-[LightGBM] [Info] 128.175177 seconds elapsed, finished iteration 149
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:150, valid_1 auc : 0.598268
-[LightGBM] [Info] 128.964471 seconds elapsed, finished iteration 150
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:151, valid_1 auc : 0.598339
-[LightGBM] [Info] 129.816929 seconds elapsed, finished iteration 151
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:152, valid_1 auc : 0.598324
-[LightGBM] [Info] 130.695549 seconds elapsed, finished iteration 152
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:153, valid_1 auc : 0.598392
-[LightGBM] [Info] 131.571906 seconds elapsed, finished iteration 153
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:154, valid_1 auc : 0.598461
-[LightGBM] [Info] 132.680726 seconds elapsed, finished iteration 154
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:155, valid_1 auc : 0.598504
-[LightGBM] [Info] 133.722327 seconds elapsed, finished iteration 155
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:156, valid_1 auc : 0.59856
-[LightGBM] [Info] 134.709350 seconds elapsed, finished iteration 156
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:157, valid_1 auc : 0.598626
-[LightGBM] [Info] 135.598406 seconds elapsed, finished iteration 157
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:158, valid_1 auc : 0.598708
-[LightGBM] [Info] 136.482325 seconds elapsed, finished iteration 158
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:159, valid_1 auc : 0.598775
-[LightGBM] [Info] 137.431779 seconds elapsed, finished iteration 159
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:160, valid_1 auc : 0.598864
-[LightGBM] [Info] 138.332471 seconds elapsed, finished iteration 160
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:161, valid_1 auc : 0.598926
-[LightGBM] [Info] 139.214117 seconds elapsed, finished iteration 161
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:162, valid_1 auc : 0.599008
-[LightGBM] [Info] 140.200252 seconds elapsed, finished iteration 162
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:163, valid_1 auc : 0.599037
-[LightGBM] [Info] 141.123172 seconds elapsed, finished iteration 163
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:164, valid_1 auc : 0.599134
-[LightGBM] [Info] 142.051362 seconds elapsed, finished iteration 164
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:165, valid_1 auc : 0.599177
-[LightGBM] [Info] 142.958562 seconds elapsed, finished iteration 165
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:166, valid_1 auc : 0.599189
-[LightGBM] [Info] 143.784667 seconds elapsed, finished iteration 166
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:167, valid_1 auc : 0.599287
-[LightGBM] [Info] 144.648931 seconds elapsed, finished iteration 167
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:168, valid_1 auc : 0.599283
-[LightGBM] [Info] 145.502259 seconds elapsed, finished iteration 168
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:169, valid_1 auc : 0.599327
-[LightGBM] [Info] 146.396763 seconds elapsed, finished iteration 169
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:170, valid_1 auc : 0.599395
-[LightGBM] [Info] 147.338667 seconds elapsed, finished iteration 170
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:171, valid_1 auc : 0.599384
-[LightGBM] [Info] 148.234316 seconds elapsed, finished iteration 171
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:172, valid_1 auc : 0.599425
-[LightGBM] [Info] 149.075590 seconds elapsed, finished iteration 172
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:173, valid_1 auc : 0.599485
-[LightGBM] [Info] 149.965117 seconds elapsed, finished iteration 173
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:174, valid_1 auc : 0.599495
-[LightGBM] [Info] 150.828115 seconds elapsed, finished iteration 174
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:175, valid_1 auc : 0.599562
-[LightGBM] [Info] 151.817348 seconds elapsed, finished iteration 175
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:176, valid_1 auc : 0.599569
-[LightGBM] [Info] 152.689735 seconds elapsed, finished iteration 176
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:177, valid_1 auc : 0.599611
-[LightGBM] [Info] 153.597700 seconds elapsed, finished iteration 177
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:178, valid_1 auc : 0.599687
-[LightGBM] [Info] 154.531840 seconds elapsed, finished iteration 178
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:179, valid_1 auc : 0.599693
-[LightGBM] [Info] 155.456268 seconds elapsed, finished iteration 179
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:180, valid_1 auc : 0.599729
-[LightGBM] [Info] 156.406967 seconds elapsed, finished iteration 180
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:181, valid_1 auc : 0.599798
-[LightGBM] [Info] 157.311084 seconds elapsed, finished iteration 181
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:182, valid_1 auc : 0.599812
-[LightGBM] [Info] 158.207980 seconds elapsed, finished iteration 182
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:183, valid_1 auc : 0.599889
-[LightGBM] [Info] 159.177504 seconds elapsed, finished iteration 183
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:184, valid_1 auc : 0.599967
-[LightGBM] [Info] 160.152219 seconds elapsed, finished iteration 184
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:185, valid_1 auc : 0.59998
-[LightGBM] [Info] 160.989088 seconds elapsed, finished iteration 185
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:186, valid_1 auc : 0.600074
-[LightGBM] [Info] 161.882730 seconds elapsed, finished iteration 186
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:187, valid_1 auc : 0.60015
-[LightGBM] [Info] 162.817937 seconds elapsed, finished iteration 187
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:188, valid_1 auc : 0.60017
-[LightGBM] [Info] 163.701788 seconds elapsed, finished iteration 188
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:189, valid_1 auc : 0.600245
-[LightGBM] [Info] 164.703037 seconds elapsed, finished iteration 189
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:190, valid_1 auc : 0.600283
-[LightGBM] [Info] 165.536394 seconds elapsed, finished iteration 190
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:191, valid_1 auc : 0.600348
-[LightGBM] [Info] 166.455825 seconds elapsed, finished iteration 191
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:192, valid_1 auc : 0.600362
-[LightGBM] [Info] 167.352621 seconds elapsed, finished iteration 192
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:193, valid_1 auc : 0.600399
-[LightGBM] [Info] 168.279883 seconds elapsed, finished iteration 193
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:194, valid_1 auc : 0.600494
-[LightGBM] [Info] 169.181783 seconds elapsed, finished iteration 194
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:195, valid_1 auc : 0.600564
-[LightGBM] [Info] 170.060973 seconds elapsed, finished iteration 195
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:196, valid_1 auc : 0.600609
-[LightGBM] [Info] 170.949145 seconds elapsed, finished iteration 196
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:197, valid_1 auc : 0.600645
-[LightGBM] [Info] 171.799922 seconds elapsed, finished iteration 197
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:198, valid_1 auc : 0.60069
-[LightGBM] [Info] 172.666167 seconds elapsed, finished iteration 198
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:199, valid_1 auc : 0.600725
-[LightGBM] [Info] 173.575305 seconds elapsed, finished iteration 199
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:200, valid_1 auc : 0.600762
-[LightGBM] [Info] 174.455169 seconds elapsed, finished iteration 200
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:201, valid_1 auc : 0.600835
-[LightGBM] [Info] 175.347596 seconds elapsed, finished iteration 201
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:202, valid_1 auc : 0.600919
-[LightGBM] [Info] 176.235942 seconds elapsed, finished iteration 202
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:203, valid_1 auc : 0.600977
-[LightGBM] [Info] 177.157137 seconds elapsed, finished iteration 203
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:204, valid_1 auc : 0.601047
-[LightGBM] [Info] 178.091024 seconds elapsed, finished iteration 204
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:205, valid_1 auc : 0.601126
-[LightGBM] [Info] 179.012382 seconds elapsed, finished iteration 205
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:206, valid_1 auc : 0.60118
-[LightGBM] [Info] 179.896131 seconds elapsed, finished iteration 206
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:207, valid_1 auc : 0.601215
-[LightGBM] [Info] 180.869752 seconds elapsed, finished iteration 207
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:208, valid_1 auc : 0.601323
-[LightGBM] [Info] 181.843284 seconds elapsed, finished iteration 208
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:209, valid_1 auc : 0.601405
-[LightGBM] [Info] 182.779889 seconds elapsed, finished iteration 209
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:210, valid_1 auc : 0.601426
-[LightGBM] [Info] 183.669952 seconds elapsed, finished iteration 210
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:211, valid_1 auc : 0.601485
-[LightGBM] [Info] 184.545878 seconds elapsed, finished iteration 211
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:212, valid_1 auc : 0.601542
-[LightGBM] [Info] 185.494578 seconds elapsed, finished iteration 212
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:213, valid_1 auc : 0.60161
-[LightGBM] [Info] 186.412652 seconds elapsed, finished iteration 213
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:214, valid_1 auc : 0.601702
-[LightGBM] [Info] 187.344080 seconds elapsed, finished iteration 214
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:215, valid_1 auc : 0.601721
-[LightGBM] [Info] 188.271763 seconds elapsed, finished iteration 215
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:216, valid_1 auc : 0.601747
-[LightGBM] [Info] 189.185386 seconds elapsed, finished iteration 216
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:217, valid_1 auc : 0.601769
-[LightGBM] [Info] 190.186242 seconds elapsed, finished iteration 217
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:218, valid_1 auc : 0.601802
-[LightGBM] [Info] 191.207443 seconds elapsed, finished iteration 218
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:219, valid_1 auc : 0.601841
-[LightGBM] [Info] 192.139124 seconds elapsed, finished iteration 219
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:220, valid_1 auc : 0.601907
-[LightGBM] [Info] 193.146101 seconds elapsed, finished iteration 220
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:221, valid_1 auc : 0.601995
-[LightGBM] [Info] 194.006721 seconds elapsed, finished iteration 221
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:222, valid_1 auc : 0.602007
-[LightGBM] [Info] 194.983374 seconds elapsed, finished iteration 222
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:223, valid_1 auc : 0.602051
-[LightGBM] [Info] 195.965639 seconds elapsed, finished iteration 223
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:224, valid_1 auc : 0.602113
-[LightGBM] [Info] 197.062666 seconds elapsed, finished iteration 224
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:225, valid_1 auc : 0.602152
-[LightGBM] [Info] 197.987163 seconds elapsed, finished iteration 225
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:226, valid_1 auc : 0.60217
-[LightGBM] [Info] 198.949692 seconds elapsed, finished iteration 226
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:227, valid_1 auc : 0.602208
-[LightGBM] [Info] 199.874196 seconds elapsed, finished iteration 227
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:228, valid_1 auc : 0.602278
-[LightGBM] [Info] 200.818979 seconds elapsed, finished iteration 228
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:229, valid_1 auc : 0.602323
-[LightGBM] [Info] 201.690137 seconds elapsed, finished iteration 229
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:230, valid_1 auc : 0.602327
-[LightGBM] [Info] 202.657297 seconds elapsed, finished iteration 230
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:231, valid_1 auc : 0.602372
-[LightGBM] [Info] 203.538194 seconds elapsed, finished iteration 231
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:232, valid_1 auc : 0.60244
-[LightGBM] [Info] 204.473949 seconds elapsed, finished iteration 232
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:233, valid_1 auc : 0.602471
-[LightGBM] [Info] 205.402720 seconds elapsed, finished iteration 233
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:234, valid_1 auc : 0.602541
-[LightGBM] [Info] 206.219100 seconds elapsed, finished iteration 234
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=14
-[LightGBM] [Info] Iteration:235, valid_1 auc : 0.602584
-[LightGBM] [Info] 207.145733 seconds elapsed, finished iteration 235
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:236, valid_1 auc : 0.602611
-[LightGBM] [Info] 208.142834 seconds elapsed, finished iteration 236
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:237, valid_1 auc : 0.602663
-[LightGBM] [Info] 209.080248 seconds elapsed, finished iteration 237
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:238, valid_1 auc : 0.602695
-[LightGBM] [Info] 210.098022 seconds elapsed, finished iteration 238
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:239, valid_1 auc : 0.602748
-[LightGBM] [Info] 211.133438 seconds elapsed, finished iteration 239
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:240, valid_1 auc : 0.602823
-[LightGBM] [Info] 212.189546 seconds elapsed, finished iteration 240
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:241, valid_1 auc : 0.602877
-[LightGBM] [Info] 213.171153 seconds elapsed, finished iteration 241
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:242, valid_1 auc : 0.602944
-[LightGBM] [Info] 214.318227 seconds elapsed, finished iteration 242
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:243, valid_1 auc : 0.603007
-[LightGBM] [Info] 215.320556 seconds elapsed, finished iteration 243
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:244, valid_1 auc : 0.603039
-[LightGBM] [Info] 216.321691 seconds elapsed, finished iteration 244
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:245, valid_1 auc : 0.603055
-[LightGBM] [Info] 217.405656 seconds elapsed, finished iteration 245
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:246, valid_1 auc : 0.603115
-[LightGBM] [Info] 218.456376 seconds elapsed, finished iteration 246
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:247, valid_1 auc : 0.603163
-[LightGBM] [Info] 219.521619 seconds elapsed, finished iteration 247
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:248, valid_1 auc : 0.603199
-[LightGBM] [Info] 220.530843 seconds elapsed, finished iteration 248
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:249, valid_1 auc : 0.603261
-[LightGBM] [Info] 221.646377 seconds elapsed, finished iteration 249
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:250, valid_1 auc : 0.603309
-[LightGBM] [Info] 222.596514 seconds elapsed, finished iteration 250
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:251, valid_1 auc : 0.603362
-[LightGBM] [Info] 223.576434 seconds elapsed, finished iteration 251
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=13
-[LightGBM] [Info] Iteration:252, valid_1 auc : 0.603397
-[LightGBM] [Info] 224.536234 seconds elapsed, finished iteration 252
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:253, valid_1 auc : 0.603456
-[LightGBM] [Info] 225.467327 seconds elapsed, finished iteration 253
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:254, valid_1 auc : 0.603479
-[LightGBM] [Info] 226.383497 seconds elapsed, finished iteration 254
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:255, valid_1 auc : 0.603512
-[LightGBM] [Info] 227.262174 seconds elapsed, finished iteration 255
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:256, valid_1 auc : 0.603536
-[LightGBM] [Info] 228.193257 seconds elapsed, finished iteration 256
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:257, valid_1 auc : 0.60357
-[LightGBM] [Info] 229.133112 seconds elapsed, finished iteration 257
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:258, valid_1 auc : 0.603634
-[LightGBM] [Info] 230.042300 seconds elapsed, finished iteration 258
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:259, valid_1 auc : 0.603702
-[LightGBM] [Info] 230.967915 seconds elapsed, finished iteration 259
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:260, valid_1 auc : 0.603747
-[LightGBM] [Info] 231.858270 seconds elapsed, finished iteration 260
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:261, valid_1 auc : 0.603764
-[LightGBM] [Info] 232.731675 seconds elapsed, finished iteration 261
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:262, valid_1 auc : 0.603806
-[LightGBM] [Info] 233.657816 seconds elapsed, finished iteration 262
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:263, valid_1 auc : 0.603886
-[LightGBM] [Info] 234.593387 seconds elapsed, finished iteration 263
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:264, valid_1 auc : 0.603901
-[LightGBM] [Info] 235.555949 seconds elapsed, finished iteration 264
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:265, valid_1 auc : 0.603912
-[LightGBM] [Info] 236.415400 seconds elapsed, finished iteration 265
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:266, valid_1 auc : 0.603956
-[LightGBM] [Info] 237.231753 seconds elapsed, finished iteration 266
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:267, valid_1 auc : 0.603981
-[LightGBM] [Info] 238.086830 seconds elapsed, finished iteration 267
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:268, valid_1 auc : 0.60403
-[LightGBM] [Info] 238.964190 seconds elapsed, finished iteration 268
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:269, valid_1 auc : 0.604058
-[LightGBM] [Info] 239.983703 seconds elapsed, finished iteration 269
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:270, valid_1 auc : 0.604062
-[LightGBM] [Info] 240.927412 seconds elapsed, finished iteration 270
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:271, valid_1 auc : 0.604117
-[LightGBM] [Info] 241.822092 seconds elapsed, finished iteration 271
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:272, valid_1 auc : 0.604138
-[LightGBM] [Info] 242.766695 seconds elapsed, finished iteration 272
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:273, valid_1 auc : 0.604174
-[LightGBM] [Info] 243.708171 seconds elapsed, finished iteration 273
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:274, valid_1 auc : 0.604186
-[LightGBM] [Info] 244.619463 seconds elapsed, finished iteration 274
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:275, valid_1 auc : 0.604241
-[LightGBM] [Info] 245.554533 seconds elapsed, finished iteration 275
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:276, valid_1 auc : 0.604312
-[LightGBM] [Info] 246.627658 seconds elapsed, finished iteration 276
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:277, valid_1 auc : 0.604312
-[LightGBM] [Info] 247.660727 seconds elapsed, finished iteration 277
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=15
-[LightGBM] [Info] Iteration:278, valid_1 auc : 0.604364
-[LightGBM] [Info] 248.646593 seconds elapsed, finished iteration 278
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:279, valid_1 auc : 0.604397
-[LightGBM] [Info] 249.533524 seconds elapsed, finished iteration 279
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:280, valid_1 auc : 0.604457
-[LightGBM] [Info] 250.446373 seconds elapsed, finished iteration 280
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:281, valid_1 auc : 0.604498
-[LightGBM] [Info] 251.328753 seconds elapsed, finished iteration 281
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:282, valid_1 auc : 0.604555
-[LightGBM] [Info] 252.215393 seconds elapsed, finished iteration 282
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:283, valid_1 auc : 0.604581
-[LightGBM] [Info] 253.293736 seconds elapsed, finished iteration 283
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:284, valid_1 auc : 0.604619
-[LightGBM] [Info] 254.404817 seconds elapsed, finished iteration 284
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:285, valid_1 auc : 0.604639
-[LightGBM] [Info] 255.401991 seconds elapsed, finished iteration 285
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:286, valid_1 auc : 0.604719
-[LightGBM] [Info] 256.312619 seconds elapsed, finished iteration 286
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:287, valid_1 auc : 0.604753
-[LightGBM] [Info] 257.214425 seconds elapsed, finished iteration 287
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=16
-[LightGBM] [Info] Iteration:288, valid_1 auc : 0.60477
-[LightGBM] [Info] 258.166356 seconds elapsed, finished iteration 288
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:289, valid_1 auc : 0.604849
-[LightGBM] [Info] 259.071047 seconds elapsed, finished iteration 289
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:290, valid_1 auc : 0.604894
-[LightGBM] [Info] 259.956252 seconds elapsed, finished iteration 290
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:291, valid_1 auc : 0.604938
-[LightGBM] [Info] 260.877822 seconds elapsed, finished iteration 291
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:292, valid_1 auc : 0.604928
-[LightGBM] [Info] 261.832414 seconds elapsed, finished iteration 292
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:293, valid_1 auc : 0.604928
-[LightGBM] [Info] 262.755274 seconds elapsed, finished iteration 293
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:294, valid_1 auc : 0.604952
-[LightGBM] [Info] 263.619435 seconds elapsed, finished iteration 294
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=17
-[LightGBM] [Info] Iteration:295, valid_1 auc : 0.604989
-[LightGBM] [Info] 264.455638 seconds elapsed, finished iteration 295
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:296, valid_1 auc : 0.605033
-[LightGBM] [Info] 265.405448 seconds elapsed, finished iteration 296
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:297, valid_1 auc : 0.605072
-[LightGBM] [Info] 266.370495 seconds elapsed, finished iteration 297
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:298, valid_1 auc : 0.605115
-[LightGBM] [Info] 267.231722 seconds elapsed, finished iteration 298
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:299, valid_1 auc : 0.605146
-[LightGBM] [Info] 268.140340 seconds elapsed, finished iteration 299
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:300, valid_1 auc : 0.605147
-[LightGBM] [Info] 269.060630 seconds elapsed, finished iteration 300
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:301, valid_1 auc : 0.605151
-[LightGBM] [Info] 269.902533 seconds elapsed, finished iteration 301
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:302, valid_1 auc : 0.605197
-[LightGBM] [Info] 270.724104 seconds elapsed, finished iteration 302
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:303, valid_1 auc : 0.60522
-[LightGBM] [Info] 271.671835 seconds elapsed, finished iteration 303
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:304, valid_1 auc : 0.605282
-[LightGBM] [Info] 272.553985 seconds elapsed, finished iteration 304
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:305, valid_1 auc : 0.605308
-[LightGBM] [Info] 273.543292 seconds elapsed, finished iteration 305
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:306, valid_1 auc : 0.605338
-[LightGBM] [Info] 274.402435 seconds elapsed, finished iteration 306
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:307, valid_1 auc : 0.605338
-[LightGBM] [Info] 275.430041 seconds elapsed, finished iteration 307
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:308, valid_1 auc : 0.605366
-[LightGBM] [Info] 276.341650 seconds elapsed, finished iteration 308
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:309, valid_1 auc : 0.605393
-[LightGBM] [Info] 277.177517 seconds elapsed, finished iteration 309
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:310, valid_1 auc : 0.605437
-[LightGBM] [Info] 278.113413 seconds elapsed, finished iteration 310
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:311, valid_1 auc : 0.605464
-[LightGBM] [Info] 278.987341 seconds elapsed, finished iteration 311
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:312, valid_1 auc : 0.6055
-[LightGBM] [Info] 279.871852 seconds elapsed, finished iteration 312
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:313, valid_1 auc : 0.605547
-[LightGBM] [Info] 280.960689 seconds elapsed, finished iteration 313
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:314, valid_1 auc : 0.605599
-[LightGBM] [Info] 281.924445 seconds elapsed, finished iteration 314
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:315, valid_1 auc : 0.60567
-[LightGBM] [Info] 282.939507 seconds elapsed, finished iteration 315
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:316, valid_1 auc : 0.605735
-[LightGBM] [Info] 283.877815 seconds elapsed, finished iteration 316
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:317, valid_1 auc : 0.605766
-[LightGBM] [Info] 284.765233 seconds elapsed, finished iteration 317
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:318, valid_1 auc : 0.605826
-[LightGBM] [Info] 285.688300 seconds elapsed, finished iteration 318
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:319, valid_1 auc : 0.605864
-[LightGBM] [Info] 286.569298 seconds elapsed, finished iteration 319
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:320, valid_1 auc : 0.605863
-[LightGBM] [Info] 287.511385 seconds elapsed, finished iteration 320
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:321, valid_1 auc : 0.605884
-[LightGBM] [Info] 288.395914 seconds elapsed, finished iteration 321
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:322, valid_1 auc : 0.605903
-[LightGBM] [Info] 289.355417 seconds elapsed, finished iteration 322
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:323, valid_1 auc : 0.605954
-[LightGBM] [Info] 290.214073 seconds elapsed, finished iteration 323
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:324, valid_1 auc : 0.605991
-[LightGBM] [Info] 291.076107 seconds elapsed, finished iteration 324
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:325, valid_1 auc : 0.605986
-[LightGBM] [Info] 291.889023 seconds elapsed, finished iteration 325
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:326, valid_1 auc : 0.606005
-[LightGBM] [Info] 292.776252 seconds elapsed, finished iteration 326
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:327, valid_1 auc : 0.606026
-[LightGBM] [Info] 293.729468 seconds elapsed, finished iteration 327
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:328, valid_1 auc : 0.606057
-[LightGBM] [Info] 294.674540 seconds elapsed, finished iteration 328
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:329, valid_1 auc : 0.606104
-[LightGBM] [Info] 295.521801 seconds elapsed, finished iteration 329
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:330, valid_1 auc : 0.606119
-[LightGBM] [Info] 296.420477 seconds elapsed, finished iteration 330
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:331, valid_1 auc : 0.606165
-[LightGBM] [Info] 297.279255 seconds elapsed, finished iteration 331
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:332, valid_1 auc : 0.606178
-[LightGBM] [Info] 298.138547 seconds elapsed, finished iteration 332
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:333, valid_1 auc : 0.606208
-[LightGBM] [Info] 299.093835 seconds elapsed, finished iteration 333
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:334, valid_1 auc : 0.606276
-[LightGBM] [Info] 299.914232 seconds elapsed, finished iteration 334
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:335, valid_1 auc : 0.606275
-[LightGBM] [Info] 300.830769 seconds elapsed, finished iteration 335
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:336, valid_1 auc : 0.606315
-[LightGBM] [Info] 301.790896 seconds elapsed, finished iteration 336
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:337, valid_1 auc : 0.606313
-[LightGBM] [Info] 302.663076 seconds elapsed, finished iteration 337
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:338, valid_1 auc : 0.606314
-[LightGBM] [Info] 303.558452 seconds elapsed, finished iteration 338
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:339, valid_1 auc : 0.60632
-[LightGBM] [Info] 304.374611 seconds elapsed, finished iteration 339
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:340, valid_1 auc : 0.606364
-[LightGBM] [Info] 305.191562 seconds elapsed, finished iteration 340
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:341, valid_1 auc : 0.606372
-[LightGBM] [Info] 306.126147 seconds elapsed, finished iteration 341
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:342, valid_1 auc : 0.606388
-[LightGBM] [Info] 307.076036 seconds elapsed, finished iteration 342
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:343, valid_1 auc : 0.606415
-[LightGBM] [Info] 308.033810 seconds elapsed, finished iteration 343
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:344, valid_1 auc : 0.606432
-[LightGBM] [Info] 308.895618 seconds elapsed, finished iteration 344
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:345, valid_1 auc : 0.606442
-[LightGBM] [Info] 309.794005 seconds elapsed, finished iteration 345
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:346, valid_1 auc : 0.60647
-[LightGBM] [Info] 310.626737 seconds elapsed, finished iteration 346
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:347, valid_1 auc : 0.606515
-[LightGBM] [Info] 311.513510 seconds elapsed, finished iteration 347
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:348, valid_1 auc : 0.606543
-[LightGBM] [Info] 312.325793 seconds elapsed, finished iteration 348
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:349, valid_1 auc : 0.606579
-[LightGBM] [Info] 313.159261 seconds elapsed, finished iteration 349
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:350, valid_1 auc : 0.6066
-[LightGBM] [Info] 313.975815 seconds elapsed, finished iteration 350
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:351, valid_1 auc : 0.606575
-[LightGBM] [Info] 314.751784 seconds elapsed, finished iteration 351
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:352, valid_1 auc : 0.606582
-[LightGBM] [Info] 315.572326 seconds elapsed, finished iteration 352
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:353, valid_1 auc : 0.606585
-[LightGBM] [Info] 316.387189 seconds elapsed, finished iteration 353
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:354, valid_1 auc : 0.606615
-[LightGBM] [Info] 317.313390 seconds elapsed, finished iteration 354
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:355, valid_1 auc : 0.606642
-[LightGBM] [Info] 318.161988 seconds elapsed, finished iteration 355
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=32
-[LightGBM] [Info] Iteration:356, valid_1 auc : 0.606661
-[LightGBM] [Info] 318.999439 seconds elapsed, finished iteration 356
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:357, valid_1 auc : 0.606656
-[LightGBM] [Info] 319.777711 seconds elapsed, finished iteration 357
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:358, valid_1 auc : 0.60669
-[LightGBM] [Info] 320.587917 seconds elapsed, finished iteration 358
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:359, valid_1 auc : 0.60675
-[LightGBM] [Info] 321.388874 seconds elapsed, finished iteration 359
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:360, valid_1 auc : 0.606783
-[LightGBM] [Info] 322.176875 seconds elapsed, finished iteration 360
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:361, valid_1 auc : 0.606775
-[LightGBM] [Info] 322.993056 seconds elapsed, finished iteration 361
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:362, valid_1 auc : 0.606791
-[LightGBM] [Info] 323.852198 seconds elapsed, finished iteration 362
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:363, valid_1 auc : 0.606873
-[LightGBM] [Info] 324.723915 seconds elapsed, finished iteration 363
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:364, valid_1 auc : 0.606889
-[LightGBM] [Info] 325.528268 seconds elapsed, finished iteration 364
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:365, valid_1 auc : 0.606974
-[LightGBM] [Info] 326.484521 seconds elapsed, finished iteration 365
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:366, valid_1 auc : 0.607003
-[LightGBM] [Info] 327.323032 seconds elapsed, finished iteration 366
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:367, valid_1 auc : 0.607019
-[LightGBM] [Info] 328.254267 seconds elapsed, finished iteration 367
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:368, valid_1 auc : 0.607091
-[LightGBM] [Info] 329.292354 seconds elapsed, finished iteration 368
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:369, valid_1 auc : 0.607118
-[LightGBM] [Info] 330.200855 seconds elapsed, finished iteration 369
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=39
-[LightGBM] [Info] Iteration:370, valid_1 auc : 0.607151
-[LightGBM] [Info] 331.048520 seconds elapsed, finished iteration 370
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=45
-[LightGBM] [Info] Iteration:371, valid_1 auc : 0.607162
-[LightGBM] [Info] 332.012380 seconds elapsed, finished iteration 371
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:372, valid_1 auc : 0.607236
-[LightGBM] [Info] 332.970486 seconds elapsed, finished iteration 372
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:373, valid_1 auc : 0.607321
-[LightGBM] [Info] 333.827710 seconds elapsed, finished iteration 373
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:374, valid_1 auc : 0.607378
-[LightGBM] [Info] 334.723650 seconds elapsed, finished iteration 374
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:375, valid_1 auc : 0.607402
-[LightGBM] [Info] 335.488053 seconds elapsed, finished iteration 375
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=40
-[LightGBM] [Info] Iteration:376, valid_1 auc : 0.607442
-[LightGBM] [Info] 336.418256 seconds elapsed, finished iteration 376
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:377, valid_1 auc : 0.607477
-[LightGBM] [Info] 337.464763 seconds elapsed, finished iteration 377
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:378, valid_1 auc : 0.607534
-[LightGBM] [Info] 338.475748 seconds elapsed, finished iteration 378
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:379, valid_1 auc : 0.607562
-[LightGBM] [Info] 339.371668 seconds elapsed, finished iteration 379
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=43
-[LightGBM] [Info] Iteration:380, valid_1 auc : 0.607599
-[LightGBM] [Info] 340.385998 seconds elapsed, finished iteration 380
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:381, valid_1 auc : 0.607605
-[LightGBM] [Info] 341.197264 seconds elapsed, finished iteration 381
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:382, valid_1 auc : 0.607614
-[LightGBM] [Info] 342.138933 seconds elapsed, finished iteration 382
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:383, valid_1 auc : 0.607654
-[LightGBM] [Info] 343.140633 seconds elapsed, finished iteration 383
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:384, valid_1 auc : 0.607708
-[LightGBM] [Info] 344.194507 seconds elapsed, finished iteration 384
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=41
-[LightGBM] [Info] Iteration:385, valid_1 auc : 0.607768
-[LightGBM] [Info] 345.137463 seconds elapsed, finished iteration 385
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:386, valid_1 auc : 0.607801
-[LightGBM] [Info] 346.028463 seconds elapsed, finished iteration 386
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:387, valid_1 auc : 0.607856
-[LightGBM] [Info] 346.874731 seconds elapsed, finished iteration 387
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=45
-[LightGBM] [Info] Iteration:388, valid_1 auc : 0.607883
-[LightGBM] [Info] 347.974785 seconds elapsed, finished iteration 388
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:389, valid_1 auc : 0.607932
-[LightGBM] [Info] 348.879797 seconds elapsed, finished iteration 389
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=42
-[LightGBM] [Info] Iteration:390, valid_1 auc : 0.607958
-[LightGBM] [Info] 349.951985 seconds elapsed, finished iteration 390
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:391, valid_1 auc : 0.608
-[LightGBM] [Info] 350.927184 seconds elapsed, finished iteration 391
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:392, valid_1 auc : 0.607997
-[LightGBM] [Info] 351.850863 seconds elapsed, finished iteration 392
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=42
-[LightGBM] [Info] Iteration:393, valid_1 auc : 0.60802
-[LightGBM] [Info] 352.841455 seconds elapsed, finished iteration 393
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:394, valid_1 auc : 0.608032
-[LightGBM] [Info] 353.792390 seconds elapsed, finished iteration 394
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:395, valid_1 auc : 0.608068
-[LightGBM] [Info] 354.644039 seconds elapsed, finished iteration 395
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=41
-[LightGBM] [Info] Iteration:396, valid_1 auc : 0.608089
-[LightGBM] [Info] 355.511492 seconds elapsed, finished iteration 396
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=44
-[LightGBM] [Info] Iteration:397, valid_1 auc : 0.608098
-[LightGBM] [Info] 356.453983 seconds elapsed, finished iteration 397
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:398, valid_1 auc : 0.608129
-[LightGBM] [Info] 357.390247 seconds elapsed, finished iteration 398
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:399, valid_1 auc : 0.608156
-[LightGBM] [Info] 358.204465 seconds elapsed, finished iteration 399
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=47
-[LightGBM] [Info] Iteration:400, valid_1 auc : 0.608175
-[LightGBM] [Info] 359.070140 seconds elapsed, finished iteration 400
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:401, valid_1 auc : 0.6082
-[LightGBM] [Info] 359.843422 seconds elapsed, finished iteration 401
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:402, valid_1 auc : 0.608226
-[LightGBM] [Info] 360.810592 seconds elapsed, finished iteration 402
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:403, valid_1 auc : 0.608247
-[LightGBM] [Info] 361.711531 seconds elapsed, finished iteration 403
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:404, valid_1 auc : 0.608278
-[LightGBM] [Info] 362.480499 seconds elapsed, finished iteration 404
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=44
-[LightGBM] [Info] Iteration:405, valid_1 auc : 0.608312
-[LightGBM] [Info] 363.403441 seconds elapsed, finished iteration 405
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:406, valid_1 auc : 0.608335
-[LightGBM] [Info] 364.266918 seconds elapsed, finished iteration 406
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=42
-[LightGBM] [Info] Iteration:407, valid_1 auc : 0.608368
-[LightGBM] [Info] 365.192176 seconds elapsed, finished iteration 407
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:408, valid_1 auc : 0.608409
-[LightGBM] [Info] 366.074270 seconds elapsed, finished iteration 408
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:409, valid_1 auc : 0.608416
-[LightGBM] [Info] 366.850675 seconds elapsed, finished iteration 409
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:410, valid_1 auc : 0.608461
-[LightGBM] [Info] 367.792915 seconds elapsed, finished iteration 410
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:411, valid_1 auc : 0.608471
-[LightGBM] [Info] 368.589010 seconds elapsed, finished iteration 411
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:412, valid_1 auc : 0.608464
-[LightGBM] [Info] 369.511448 seconds elapsed, finished iteration 412
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:413, valid_1 auc : 0.608494
-[LightGBM] [Info] 370.459842 seconds elapsed, finished iteration 413
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=32
-[LightGBM] [Info] Iteration:414, valid_1 auc : 0.608517
-[LightGBM] [Info] 371.359723 seconds elapsed, finished iteration 414
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:415, valid_1 auc : 0.608518
-[LightGBM] [Info] 372.069765 seconds elapsed, finished iteration 415
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:416, valid_1 auc : 0.608539
-[LightGBM] [Info] 372.872460 seconds elapsed, finished iteration 416
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:417, valid_1 auc : 0.608541
-[LightGBM] [Info] 373.743641 seconds elapsed, finished iteration 417
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:418, valid_1 auc : 0.608592
-[LightGBM] [Info] 374.682629 seconds elapsed, finished iteration 418
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:419, valid_1 auc : 0.608642
-[LightGBM] [Info] 375.903314 seconds elapsed, finished iteration 419
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:420, valid_1 auc : 0.608665
-[LightGBM] [Info] 376.889152 seconds elapsed, finished iteration 420
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:421, valid_1 auc : 0.608678
-[LightGBM] [Info] 377.768545 seconds elapsed, finished iteration 421
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:422, valid_1 auc : 0.608681
-[LightGBM] [Info] 378.733192 seconds elapsed, finished iteration 422
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:423, valid_1 auc : 0.608693
-[LightGBM] [Info] 379.572464 seconds elapsed, finished iteration 423
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:424, valid_1 auc : 0.608702
-[LightGBM] [Info] 380.453463 seconds elapsed, finished iteration 424
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:425, valid_1 auc : 0.608692
-[LightGBM] [Info] 381.380094 seconds elapsed, finished iteration 425
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:426, valid_1 auc : 0.608716
-[LightGBM] [Info] 382.175998 seconds elapsed, finished iteration 426
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:427, valid_1 auc : 0.608736
-[LightGBM] [Info] 382.943857 seconds elapsed, finished iteration 427
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:428, valid_1 auc : 0.608735
-[LightGBM] [Info] 383.791095 seconds elapsed, finished iteration 428
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:429, valid_1 auc : 0.608736
-[LightGBM] [Info] 384.896038 seconds elapsed, finished iteration 429
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:430, valid_1 auc : 0.608738
-[LightGBM] [Info] 385.855102 seconds elapsed, finished iteration 430
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=39
-[LightGBM] [Info] Iteration:431, valid_1 auc : 0.608748
-[LightGBM] [Info] 386.766162 seconds elapsed, finished iteration 431
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:432, valid_1 auc : 0.608801
-[LightGBM] [Info] 387.765892 seconds elapsed, finished iteration 432
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:433, valid_1 auc : 0.608812
-[LightGBM] [Info] 388.735645 seconds elapsed, finished iteration 433
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=24
-[LightGBM] [Info] Iteration:434, valid_1 auc : 0.608834
-[LightGBM] [Info] 389.602719 seconds elapsed, finished iteration 434
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=39
-[LightGBM] [Info] Iteration:435, valid_1 auc : 0.608866
-[LightGBM] [Info] 390.478626 seconds elapsed, finished iteration 435
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:436, valid_1 auc : 0.608864
-[LightGBM] [Info] 391.431020 seconds elapsed, finished iteration 436
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:437, valid_1 auc : 0.6089
-[LightGBM] [Info] 392.391691 seconds elapsed, finished iteration 437
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:438, valid_1 auc : 0.608898
-[LightGBM] [Info] 393.199557 seconds elapsed, finished iteration 438
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:439, valid_1 auc : 0.60893
-[LightGBM] [Info] 394.013440 seconds elapsed, finished iteration 439
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:440, valid_1 auc : 0.608927
-[LightGBM] [Info] 395.005249 seconds elapsed, finished iteration 440
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=26
-[LightGBM] [Info] Iteration:441, valid_1 auc : 0.608932
-[LightGBM] [Info] 395.994585 seconds elapsed, finished iteration 441
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:442, valid_1 auc : 0.608945
-[LightGBM] [Info] 396.860221 seconds elapsed, finished iteration 442
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=18
-[LightGBM] [Info] Iteration:443, valid_1 auc : 0.608945
-[LightGBM] [Info] 397.828367 seconds elapsed, finished iteration 443
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:444, valid_1 auc : 0.608933
-[LightGBM] [Info] 398.622678 seconds elapsed, finished iteration 444
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:445, valid_1 auc : 0.608957
-[LightGBM] [Info] 399.568094 seconds elapsed, finished iteration 445
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:446, valid_1 auc : 0.608947
-[LightGBM] [Info] 400.432297 seconds elapsed, finished iteration 446
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=32
-[LightGBM] [Info] Iteration:447, valid_1 auc : 0.608966
-[LightGBM] [Info] 401.290401 seconds elapsed, finished iteration 447
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:448, valid_1 auc : 0.608967
-[LightGBM] [Info] 402.182987 seconds elapsed, finished iteration 448
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:449, valid_1 auc : 0.608968
-[LightGBM] [Info] 402.933413 seconds elapsed, finished iteration 449
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:450, valid_1 auc : 0.608965
-[LightGBM] [Info] 403.748299 seconds elapsed, finished iteration 450
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:451, valid_1 auc : 0.608973
-[LightGBM] [Info] 404.660145 seconds elapsed, finished iteration 451
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:452, valid_1 auc : 0.608966
-[LightGBM] [Info] 405.525300 seconds elapsed, finished iteration 452
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=22
-[LightGBM] [Info] Iteration:453, valid_1 auc : 0.608971
-[LightGBM] [Info] 406.206470 seconds elapsed, finished iteration 453
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=37
-[LightGBM] [Info] Iteration:454, valid_1 auc : 0.608992
-[LightGBM] [Info] 406.999565 seconds elapsed, finished iteration 454
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:455, valid_1 auc : 0.609005
-[LightGBM] [Info] 407.690760 seconds elapsed, finished iteration 455
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:456, valid_1 auc : 0.60902
-[LightGBM] [Info] 408.618751 seconds elapsed, finished iteration 456
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:457, valid_1 auc : 0.609006
-[LightGBM] [Info] 409.426940 seconds elapsed, finished iteration 457
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=32
-[LightGBM] [Info] Iteration:458, valid_1 auc : 0.609008
-[LightGBM] [Info] 410.167762 seconds elapsed, finished iteration 458
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:459, valid_1 auc : 0.609016
-[LightGBM] [Info] 411.074901 seconds elapsed, finished iteration 459
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:460, valid_1 auc : 0.609026
-[LightGBM] [Info] 411.875272 seconds elapsed, finished iteration 460
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:461, valid_1 auc : 0.609041
-[LightGBM] [Info] 412.690866 seconds elapsed, finished iteration 461
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:462, valid_1 auc : 0.609038
-[LightGBM] [Info] 413.471555 seconds elapsed, finished iteration 462
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:463, valid_1 auc : 0.609036
-[LightGBM] [Info] 414.283432 seconds elapsed, finished iteration 463
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:464, valid_1 auc : 0.609016
-[LightGBM] [Info] 415.105357 seconds elapsed, finished iteration 464
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:465, valid_1 auc : 0.609046
-[LightGBM] [Info] 415.925583 seconds elapsed, finished iteration 465
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:466, valid_1 auc : 0.60905
-[LightGBM] [Info] 416.616107 seconds elapsed, finished iteration 466
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:467, valid_1 auc : 0.609049
-[LightGBM] [Info] 417.433780 seconds elapsed, finished iteration 467
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:468, valid_1 auc : 0.609072
-[LightGBM] [Info] 418.086696 seconds elapsed, finished iteration 468
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:469, valid_1 auc : 0.609064
-[LightGBM] [Info] 418.962248 seconds elapsed, finished iteration 469
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=34
-[LightGBM] [Info] Iteration:470, valid_1 auc : 0.609062
-[LightGBM] [Info] 419.671394 seconds elapsed, finished iteration 470
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:471, valid_1 auc : 0.609063
-[LightGBM] [Info] 420.381667 seconds elapsed, finished iteration 471
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:472, valid_1 auc : 0.609068
-[LightGBM] [Info] 421.183763 seconds elapsed, finished iteration 472
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:473, valid_1 auc : 0.609078
-[LightGBM] [Info] 421.902994 seconds elapsed, finished iteration 473
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:474, valid_1 auc : 0.609102
-[LightGBM] [Info] 422.697252 seconds elapsed, finished iteration 474
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:475, valid_1 auc : 0.609107
-[LightGBM] [Info] 423.439964 seconds elapsed, finished iteration 475
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=29
-[LightGBM] [Info] Iteration:476, valid_1 auc : 0.6091
-[LightGBM] [Info] 424.304591 seconds elapsed, finished iteration 476
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=36
-[LightGBM] [Info] Iteration:477, valid_1 auc : 0.60909
-[LightGBM] [Info] 425.112292 seconds elapsed, finished iteration 477
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:478, valid_1 auc : 0.609086
-[LightGBM] [Info] 425.872091 seconds elapsed, finished iteration 478
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:479, valid_1 auc : 0.609109
-[LightGBM] [Info] 426.596659 seconds elapsed, finished iteration 479
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=21
-[LightGBM] [Info] Iteration:480, valid_1 auc : 0.609111
-[LightGBM] [Info] 427.307591 seconds elapsed, finished iteration 480
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=45
-[LightGBM] [Info] Iteration:481, valid_1 auc : 0.609119
-[LightGBM] [Info] 428.207241 seconds elapsed, finished iteration 481
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:482, valid_1 auc : 0.60913
-[LightGBM] [Info] 429.068779 seconds elapsed, finished iteration 482
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=19
-[LightGBM] [Info] Iteration:483, valid_1 auc : 0.609129
-[LightGBM] [Info] 429.828941 seconds elapsed, finished iteration 483
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:484, valid_1 auc : 0.60912
-[LightGBM] [Info] 430.598752 seconds elapsed, finished iteration 484
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=25
-[LightGBM] [Info] Iteration:485, valid_1 auc : 0.60912
-[LightGBM] [Info] 431.376511 seconds elapsed, finished iteration 485
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:486, valid_1 auc : 0.609126
-[LightGBM] [Info] 432.210252 seconds elapsed, finished iteration 486
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=39
-[LightGBM] [Info] Iteration:487, valid_1 auc : 0.609116
-[LightGBM] [Info] 433.028697 seconds elapsed, finished iteration 487
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:488, valid_1 auc : 0.609115
-[LightGBM] [Info] 433.800821 seconds elapsed, finished iteration 488
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:489, valid_1 auc : 0.609118
-[LightGBM] [Info] 434.647576 seconds elapsed, finished iteration 489
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=20
-[LightGBM] [Info] Iteration:490, valid_1 auc : 0.609123
-[LightGBM] [Info] 435.396640 seconds elapsed, finished iteration 490
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=28
-[LightGBM] [Info] Iteration:491, valid_1 auc : 0.609133
-[LightGBM] [Info] 436.220564 seconds elapsed, finished iteration 491
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=23
-[LightGBM] [Info] Iteration:492, valid_1 auc : 0.609122
-[LightGBM] [Info] 436.980137 seconds elapsed, finished iteration 492
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=33
-[LightGBM] [Info] Iteration:493, valid_1 auc : 0.609124
-[LightGBM] [Info] 437.789859 seconds elapsed, finished iteration 493
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=27
-[LightGBM] [Info] Iteration:494, valid_1 auc : 0.609142
-[LightGBM] [Info] 438.530680 seconds elapsed, finished iteration 494
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:495, valid_1 auc : 0.60914
-[LightGBM] [Info] 439.353600 seconds elapsed, finished iteration 495
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=35
-[LightGBM] [Info] Iteration:496, valid_1 auc : 0.609167
-[LightGBM] [Info] 440.319963 seconds elapsed, finished iteration 496
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=41
-[LightGBM] [Info] Iteration:497, valid_1 auc : 0.609158
-[LightGBM] [Info] 441.190686 seconds elapsed, finished iteration 497
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=31
-[LightGBM] [Info] Iteration:498, valid_1 auc : 0.609142
-[LightGBM] [Info] 442.010311 seconds elapsed, finished iteration 498
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=38
-[LightGBM] [Info] Iteration:499, valid_1 auc : 0.609145
-[LightGBM] [Info] 442.741252 seconds elapsed, finished iteration 499
-[LightGBM] [Info] Trained a tree with leaves=127 and max_depth=30
-[LightGBM] [Info] Iteration:500, valid_1 auc : 0.60915
-[LightGBM] [Info] 443.513986 seconds elapsed, finished iteration 500
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.007178 -> initscore=-4.929494
+[LightGBM] [Info] Start training from score -4.929494
+[LightGBM] [Info] Iteration:1, valid_1 auc : 0.593726
+[LightGBM] [Info] 0.497833 seconds elapsed, finished iteration 1
+[LightGBM] [Info] Iteration:2, valid_1 auc : 0.595946
+[LightGBM] [Info] 0.931720 seconds elapsed, finished iteration 2
+[LightGBM] [Info] Iteration:3, valid_1 auc : 0.596356
+[LightGBM] [Info] 1.422516 seconds elapsed, finished iteration 3
+[LightGBM] [Info] Iteration:4, valid_1 auc : 0.596259
+[LightGBM] [Info] 1.872377 seconds elapsed, finished iteration 4
+[LightGBM] [Info] Iteration:5, valid_1 auc : 0.595997
+[LightGBM] [Info] 2.335522 seconds elapsed, finished iteration 5
+[LightGBM] [Info] Iteration:6, valid_1 auc : 0.596397
+[LightGBM] [Info] 2.775792 seconds elapsed, finished iteration 6
+[LightGBM] [Info] Iteration:7, valid_1 auc : 0.596567
+[LightGBM] [Info] 3.248651 seconds elapsed, finished iteration 7
+[LightGBM] [Info] Iteration:8, valid_1 auc : 0.596672
+[LightGBM] [Info] 3.706176 seconds elapsed, finished iteration 8
+[LightGBM] [Info] Iteration:9, valid_1 auc : 0.59682
+[LightGBM] [Info] 4.158614 seconds elapsed, finished iteration 9
+[LightGBM] [Info] Iteration:10, valid_1 auc : 0.596914
+[LightGBM] [Info] 4.788197 seconds elapsed, finished iteration 10
+[LightGBM] [Info] Iteration:11, valid_1 auc : 0.597423
+[LightGBM] [Info] 5.194726 seconds elapsed, finished iteration 11
+[LightGBM] [Info] Iteration:12, valid_1 auc : 0.597618
+[LightGBM] [Info] 5.656414 seconds elapsed, finished iteration 12
+[LightGBM] [Info] Iteration:13, valid_1 auc : 0.597806
+[LightGBM] [Info] 6.090219 seconds elapsed, finished iteration 13
+[LightGBM] [Info] Iteration:14, valid_1 auc : 0.598037
+[LightGBM] [Info] 6.508946 seconds elapsed, finished iteration 14
+[LightGBM] [Info] Iteration:15, valid_1 auc : 0.598238
+[LightGBM] [Info] 6.939501 seconds elapsed, finished iteration 15
+[LightGBM] [Info] Iteration:16, valid_1 auc : 0.598508
+[LightGBM] [Info] 7.362869 seconds elapsed, finished iteration 16
+[LightGBM] [Info] Iteration:17, valid_1 auc : 0.598732
+[LightGBM] [Info] 7.782381 seconds elapsed, finished iteration 17
+[LightGBM] [Info] Iteration:18, valid_1 auc : 0.598813
+[LightGBM] [Info] 8.204417 seconds elapsed, finished iteration 18
+[LightGBM] [Info] Iteration:19, valid_1 auc : 0.599063
+[LightGBM] [Info] 8.633951 seconds elapsed, finished iteration 19
+[LightGBM] [Info] Iteration:20, valid_1 auc : 0.59917
+[LightGBM] [Info] 9.047434 seconds elapsed, finished iteration 20
+[LightGBM] [Info] Iteration:21, valid_1 auc : 0.599364
+[LightGBM] [Info] 9.456841 seconds elapsed, finished iteration 21
+[LightGBM] [Info] Iteration:22, valid_1 auc : 0.599462
+[LightGBM] [Info] 9.953024 seconds elapsed, finished iteration 22
+[LightGBM] [Info] Iteration:23, valid_1 auc : 0.599744
+[LightGBM] [Info] 10.383576 seconds elapsed, finished iteration 23
+[LightGBM] [Info] Iteration:24, valid_1 auc : 0.599871
+[LightGBM] [Info] 10.849132 seconds elapsed, finished iteration 24
+[LightGBM] [Info] Iteration:25, valid_1 auc : 0.600092
+[LightGBM] [Info] 11.283607 seconds elapsed, finished iteration 25
+[LightGBM] [Info] Iteration:26, valid_1 auc : 0.600275
+[LightGBM] [Info] 11.729322 seconds elapsed, finished iteration 26
+[LightGBM] [Info] Iteration:27, valid_1 auc : 0.600322
+[LightGBM] [Info] 12.145985 seconds elapsed, finished iteration 27
+[LightGBM] [Info] Iteration:28, valid_1 auc : 0.600453
+[LightGBM] [Info] 12.580953 seconds elapsed, finished iteration 28
+[LightGBM] [Info] Iteration:29, valid_1 auc : 0.600618
+[LightGBM] [Info] 12.994400 seconds elapsed, finished iteration 29
+[LightGBM] [Info] Iteration:30, valid_1 auc : 0.600646
+[LightGBM] [Info] 13.414201 seconds elapsed, finished iteration 30
+[LightGBM] [Info] Iteration:31, valid_1 auc : 0.600737
+[LightGBM] [Info] 13.830177 seconds elapsed, finished iteration 31
+[LightGBM] [Info] Iteration:32, valid_1 auc : 0.600808
+[LightGBM] [Info] 14.278921 seconds elapsed, finished iteration 32
+[LightGBM] [Info] Iteration:33, valid_1 auc : 0.600881
+[LightGBM] [Info] 14.716873 seconds elapsed, finished iteration 33
+[LightGBM] [Info] Iteration:34, valid_1 auc : 0.600887
+[LightGBM] [Info] 15.178846 seconds elapsed, finished iteration 34
+[LightGBM] [Info] Iteration:35, valid_1 auc : 0.600909
+[LightGBM] [Info] 15.621876 seconds elapsed, finished iteration 35
+[LightGBM] [Info] Iteration:36, valid_1 auc : 0.601044
+[LightGBM] [Info] 16.084954 seconds elapsed, finished iteration 36
+[LightGBM] [Info] Iteration:37, valid_1 auc : 0.601088
+[LightGBM] [Info] 16.511988 seconds elapsed, finished iteration 37
+[LightGBM] [Info] Iteration:38, valid_1 auc : 0.601183
+[LightGBM] [Info] 16.949511 seconds elapsed, finished iteration 38
+[LightGBM] [Info] Iteration:39, valid_1 auc : 0.601267
+[LightGBM] [Info] 17.351341 seconds elapsed, finished iteration 39
+[LightGBM] [Info] Iteration:40, valid_1 auc : 0.601371
+[LightGBM] [Info] 17.816102 seconds elapsed, finished iteration 40
+[LightGBM] [Info] Iteration:41, valid_1 auc : 0.601459
+[LightGBM] [Info] 18.293289 seconds elapsed, finished iteration 41
+[LightGBM] [Info] Iteration:42, valid_1 auc : 0.60156
+[LightGBM] [Info] 18.711155 seconds elapsed, finished iteration 42
+[LightGBM] [Info] Iteration:43, valid_1 auc : 0.601609
+[LightGBM] [Info] 19.136943 seconds elapsed, finished iteration 43
+[LightGBM] [Info] Iteration:44, valid_1 auc : 0.601649
+[LightGBM] [Info] 19.564612 seconds elapsed, finished iteration 44
+[LightGBM] [Info] Iteration:45, valid_1 auc : 0.601666
+[LightGBM] [Info] 20.062698 seconds elapsed, finished iteration 45
+[LightGBM] [Info] Iteration:46, valid_1 auc : 0.601768
+[LightGBM] [Info] 20.502333 seconds elapsed, finished iteration 46
+[LightGBM] [Info] Iteration:47, valid_1 auc : 0.601849
+[LightGBM] [Info] 20.931991 seconds elapsed, finished iteration 47
+[LightGBM] [Info] Iteration:48, valid_1 auc : 0.60189
+[LightGBM] [Info] 21.362212 seconds elapsed, finished iteration 48
+[LightGBM] [Info] Iteration:49, valid_1 auc : 0.601992
+[LightGBM] [Info] 21.783302 seconds elapsed, finished iteration 49
+[LightGBM] [Info] Iteration:50, valid_1 auc : 0.602046
+[LightGBM] [Info] 22.214285 seconds elapsed, finished iteration 50
+[LightGBM] [Info] Iteration:51, valid_1 auc : 0.602139
+[LightGBM] [Info] 22.616760 seconds elapsed, finished iteration 51
+[LightGBM] [Info] Iteration:52, valid_1 auc : 0.602231
+[LightGBM] [Info] 23.024412 seconds elapsed, finished iteration 52
+[LightGBM] [Info] Iteration:53, valid_1 auc : 0.60234
+[LightGBM] [Info] 23.427543 seconds elapsed, finished iteration 53
+[LightGBM] [Info] Iteration:54, valid_1 auc : 0.602425
+[LightGBM] [Info] 23.871219 seconds elapsed, finished iteration 54
+[LightGBM] [Info] Iteration:55, valid_1 auc : 0.602537
+[LightGBM] [Info] 24.291969 seconds elapsed, finished iteration 55
+[LightGBM] [Info] Iteration:56, valid_1 auc : 0.602637
+[LightGBM] [Info] 24.700814 seconds elapsed, finished iteration 56
+[LightGBM] [Info] Iteration:57, valid_1 auc : 0.602736
+[LightGBM] [Info] 25.141026 seconds elapsed, finished iteration 57
+[LightGBM] [Info] Iteration:58, valid_1 auc : 0.602829
+[LightGBM] [Info] 25.557138 seconds elapsed, finished iteration 58
+[LightGBM] [Info] Iteration:59, valid_1 auc : 0.602883
+[LightGBM] [Info] 25.972646 seconds elapsed, finished iteration 59
+[LightGBM] [Info] Iteration:60, valid_1 auc : 0.602969
+[LightGBM] [Info] 26.388509 seconds elapsed, finished iteration 60
+[LightGBM] [Info] Iteration:61, valid_1 auc : 0.603056
+[LightGBM] [Info] 26.846957 seconds elapsed, finished iteration 61
+[LightGBM] [Info] Iteration:62, valid_1 auc : 0.60308
+[LightGBM] [Info] 27.256250 seconds elapsed, finished iteration 62
+[LightGBM] [Info] Iteration:63, valid_1 auc : 0.603123
+[LightGBM] [Info] 27.686978 seconds elapsed, finished iteration 63
+[LightGBM] [Info] Iteration:64, valid_1 auc : 0.60324
+[LightGBM] [Info] 28.098712 seconds elapsed, finished iteration 64
+[LightGBM] [Info] Iteration:65, valid_1 auc : 0.603294
+[LightGBM] [Info] 28.553576 seconds elapsed, finished iteration 65
+[LightGBM] [Info] Iteration:66, valid_1 auc : 0.603352
+[LightGBM] [Info] 28.971546 seconds elapsed, finished iteration 66
+[LightGBM] [Info] Iteration:67, valid_1 auc : 0.603421
+[LightGBM] [Info] 29.390602 seconds elapsed, finished iteration 67
+[LightGBM] [Info] Iteration:68, valid_1 auc : 0.603461
+[LightGBM] [Info] 29.847334 seconds elapsed, finished iteration 68
+[LightGBM] [Info] Iteration:69, valid_1 auc : 0.60358
+[LightGBM] [Info] 30.312297 seconds elapsed, finished iteration 69
+[LightGBM] [Info] Iteration:70, valid_1 auc : 0.603616
+[LightGBM] [Info] 30.745908 seconds elapsed, finished iteration 70
+[LightGBM] [Info] Iteration:71, valid_1 auc : 0.603694
+[LightGBM] [Info] 31.178233 seconds elapsed, finished iteration 71
+[LightGBM] [Info] Iteration:72, valid_1 auc : 0.603734
+[LightGBM] [Info] 31.606660 seconds elapsed, finished iteration 72
+[LightGBM] [Info] Iteration:73, valid_1 auc : 0.603741
+[LightGBM] [Info] 32.035039 seconds elapsed, finished iteration 73
+[LightGBM] [Info] Iteration:74, valid_1 auc : 0.603788
+[LightGBM] [Info] 32.449991 seconds elapsed, finished iteration 74
+[LightGBM] [Info] Iteration:75, valid_1 auc : 0.60382
+[LightGBM] [Info] 32.842849 seconds elapsed, finished iteration 75
+[LightGBM] [Info] Iteration:76, valid_1 auc : 0.603923
+[LightGBM] [Info] 33.271912 seconds elapsed, finished iteration 76
+[LightGBM] [Info] Iteration:77, valid_1 auc : 0.603965
+[LightGBM] [Info] 33.701265 seconds elapsed, finished iteration 77
+[LightGBM] [Info] Iteration:78, valid_1 auc : 0.604014
+[LightGBM] [Info] 34.109819 seconds elapsed, finished iteration 78
+[LightGBM] [Info] Iteration:79, valid_1 auc : 0.604068
+[LightGBM] [Info] 34.511461 seconds elapsed, finished iteration 79
+[LightGBM] [Info] Iteration:80, valid_1 auc : 0.604104
+[LightGBM] [Info] 34.929430 seconds elapsed, finished iteration 80
+[LightGBM] [Info] Iteration:81, valid_1 auc : 0.604138
+[LightGBM] [Info] 35.376324 seconds elapsed, finished iteration 81
+[LightGBM] [Info] Iteration:82, valid_1 auc : 0.604172
+[LightGBM] [Info] 35.788421 seconds elapsed, finished iteration 82
+[LightGBM] [Info] Iteration:83, valid_1 auc : 0.604253
+[LightGBM] [Info] 36.210485 seconds elapsed, finished iteration 83
+[LightGBM] [Info] Iteration:84, valid_1 auc : 0.604272
+[LightGBM] [Info] 36.619086 seconds elapsed, finished iteration 84
+[LightGBM] [Info] Iteration:85, valid_1 auc : 0.604293
+[LightGBM] [Info] 37.029225 seconds elapsed, finished iteration 85
+[LightGBM] [Info] Iteration:86, valid_1 auc : 0.604315
+[LightGBM] [Info] 37.502101 seconds elapsed, finished iteration 86
+[LightGBM] [Info] Iteration:87, valid_1 auc : 0.604343
+[LightGBM] [Info] 37.917091 seconds elapsed, finished iteration 87
+[LightGBM] [Info] Iteration:88, valid_1 auc : 0.604355
+[LightGBM] [Info] 38.330364 seconds elapsed, finished iteration 88
+[LightGBM] [Info] Iteration:89, valid_1 auc : 0.604393
+[LightGBM] [Info] 38.769723 seconds elapsed, finished iteration 89
+[LightGBM] [Info] Iteration:90, valid_1 auc : 0.604446
+[LightGBM] [Info] 39.182496 seconds elapsed, finished iteration 90
+[LightGBM] [Info] Iteration:91, valid_1 auc : 0.604467
+[LightGBM] [Info] 39.607252 seconds elapsed, finished iteration 91
+[LightGBM] [Info] Iteration:92, valid_1 auc : 0.604494
+[LightGBM] [Info] 40.044227 seconds elapsed, finished iteration 92
+[LightGBM] [Info] Iteration:93, valid_1 auc : 0.604509
+[LightGBM] [Info] 40.542501 seconds elapsed, finished iteration 93
+[LightGBM] [Info] Iteration:94, valid_1 auc : 0.604515
+[LightGBM] [Info] 40.962561 seconds elapsed, finished iteration 94
+[LightGBM] [Info] Iteration:95, valid_1 auc : 0.604539
+[LightGBM] [Info] 41.389184 seconds elapsed, finished iteration 95
+[LightGBM] [Info] Iteration:96, valid_1 auc : 0.60455
+[LightGBM] [Info] 41.816824 seconds elapsed, finished iteration 96
+[LightGBM] [Info] Iteration:97, valid_1 auc : 0.604569
+[LightGBM] [Info] 42.223643 seconds elapsed, finished iteration 97
+[LightGBM] [Info] Iteration:98, valid_1 auc : 0.604594
+[LightGBM] [Info] 42.636370 seconds elapsed, finished iteration 98
+[LightGBM] [Info] Iteration:99, valid_1 auc : 0.604662
+[LightGBM] [Info] 43.059306 seconds elapsed, finished iteration 99
+[LightGBM] [Info] Iteration:100, valid_1 auc : 0.604693
+[LightGBM] [Info] 43.467722 seconds elapsed, finished iteration 100
+[LightGBM] [Info] Iteration:101, valid_1 auc : 0.604754
+[LightGBM] [Info] 43.869660 seconds elapsed, finished iteration 101
+[LightGBM] [Info] Iteration:102, valid_1 auc : 0.604823
+[LightGBM] [Info] 44.270731 seconds elapsed, finished iteration 102
+[LightGBM] [Info] Iteration:103, valid_1 auc : 0.604872
+[LightGBM] [Info] 44.649218 seconds elapsed, finished iteration 103
+[LightGBM] [Info] Iteration:104, valid_1 auc : 0.604923
+[LightGBM] [Info] 45.058905 seconds elapsed, finished iteration 104
+[LightGBM] [Info] Iteration:105, valid_1 auc : 0.604978
+[LightGBM] [Info] 45.447818 seconds elapsed, finished iteration 105
+[LightGBM] [Info] Iteration:106, valid_1 auc : 0.605026
+[LightGBM] [Info] 45.866580 seconds elapsed, finished iteration 106
+[LightGBM] [Info] Iteration:107, valid_1 auc : 0.60509
+[LightGBM] [Info] 46.262289 seconds elapsed, finished iteration 107
+[LightGBM] [Info] Iteration:108, valid_1 auc : 0.605111
+[LightGBM] [Info] 46.653771 seconds elapsed, finished iteration 108
+[LightGBM] [Info] Iteration:109, valid_1 auc : 0.605179
+[LightGBM] [Info] 47.067294 seconds elapsed, finished iteration 109
+[LightGBM] [Info] Iteration:110, valid_1 auc : 0.605236
+[LightGBM] [Info] 47.490298 seconds elapsed, finished iteration 110
+[LightGBM] [Info] Iteration:111, valid_1 auc : 0.605267
+[LightGBM] [Info] 47.932024 seconds elapsed, finished iteration 111
+[LightGBM] [Info] Iteration:112, valid_1 auc : 0.605297
+[LightGBM] [Info] 48.368999 seconds elapsed, finished iteration 112
+[LightGBM] [Info] Iteration:113, valid_1 auc : 0.605331
+[LightGBM] [Info] 48.814505 seconds elapsed, finished iteration 113
+[LightGBM] [Info] Iteration:114, valid_1 auc : 0.605352
+[LightGBM] [Info] 49.202284 seconds elapsed, finished iteration 114
+[LightGBM] [Info] Iteration:115, valid_1 auc : 0.605385
+[LightGBM] [Info] 49.622348 seconds elapsed, finished iteration 115
+[LightGBM] [Info] Iteration:116, valid_1 auc : 0.605415
+[LightGBM] [Info] 50.070532 seconds elapsed, finished iteration 116
+[LightGBM] [Info] Iteration:117, valid_1 auc : 0.605464
+[LightGBM] [Info] 50.467662 seconds elapsed, finished iteration 117
+[LightGBM] [Info] Iteration:118, valid_1 auc : 0.605509
+[LightGBM] [Info] 50.902867 seconds elapsed, finished iteration 118
+[LightGBM] [Info] Iteration:119, valid_1 auc : 0.605536
+[LightGBM] [Info] 51.306794 seconds elapsed, finished iteration 119
+[LightGBM] [Info] Iteration:120, valid_1 auc : 0.605589
+[LightGBM] [Info] 51.736156 seconds elapsed, finished iteration 120
+[LightGBM] [Info] Iteration:121, valid_1 auc : 0.605673
+[LightGBM] [Info] 52.141478 seconds elapsed, finished iteration 121
+[LightGBM] [Info] Iteration:122, valid_1 auc : 0.605688
+[LightGBM] [Info] 52.512799 seconds elapsed, finished iteration 122
+[LightGBM] [Info] Iteration:123, valid_1 auc : 0.605691
+[LightGBM] [Info] 52.891280 seconds elapsed, finished iteration 123
+[LightGBM] [Info] Iteration:124, valid_1 auc : 0.605705
+[LightGBM] [Info] 53.305690 seconds elapsed, finished iteration 124
+[LightGBM] [Info] Iteration:125, valid_1 auc : 0.60571
+[LightGBM] [Info] 53.703008 seconds elapsed, finished iteration 125
+[LightGBM] [Info] Iteration:126, valid_1 auc : 0.605732
+[LightGBM] [Info] 54.078477 seconds elapsed, finished iteration 126
+[LightGBM] [Info] Iteration:127, valid_1 auc : 0.605748
+[LightGBM] [Info] 54.462379 seconds elapsed, finished iteration 127
+[LightGBM] [Info] Iteration:128, valid_1 auc : 0.605763
+[LightGBM] [Info] 54.849290 seconds elapsed, finished iteration 128
+[LightGBM] [Info] Iteration:129, valid_1 auc : 0.60577
+[LightGBM] [Info] 55.257597 seconds elapsed, finished iteration 129
+[LightGBM] [Info] Iteration:130, valid_1 auc : 0.605811
+[LightGBM] [Info] 55.684829 seconds elapsed, finished iteration 130
+[LightGBM] [Info] Iteration:131, valid_1 auc : 0.605835
+[LightGBM] [Info] 56.129605 seconds elapsed, finished iteration 131
+[LightGBM] [Info] Iteration:132, valid_1 auc : 0.605862
+[LightGBM] [Info] 56.523029 seconds elapsed, finished iteration 132
+[LightGBM] [Info] Iteration:133, valid_1 auc : 0.605885
+[LightGBM] [Info] 56.932987 seconds elapsed, finished iteration 133
+[LightGBM] [Info] Iteration:134, valid_1 auc : 0.605919
+[LightGBM] [Info] 57.343004 seconds elapsed, finished iteration 134
+[LightGBM] [Info] Iteration:135, valid_1 auc : 0.605952
+[LightGBM] [Info] 57.725390 seconds elapsed, finished iteration 135
+[LightGBM] [Info] Iteration:136, valid_1 auc : 0.605963
+[LightGBM] [Info] 58.114696 seconds elapsed, finished iteration 136
+[LightGBM] [Info] Iteration:137, valid_1 auc : 0.60605
+[LightGBM] [Info] 58.528943 seconds elapsed, finished iteration 137
+[LightGBM] [Info] Iteration:138, valid_1 auc : 0.606068
+[LightGBM] [Info] 58.904747 seconds elapsed, finished iteration 138
+[LightGBM] [Info] Iteration:139, valid_1 auc : 0.606084
+[LightGBM] [Info] 59.294346 seconds elapsed, finished iteration 139
+[LightGBM] [Info] Iteration:140, valid_1 auc : 0.606118
+[LightGBM] [Info] 59.649309 seconds elapsed, finished iteration 140
+[LightGBM] [Info] Iteration:141, valid_1 auc : 0.606137
+[LightGBM] [Info] 60.067863 seconds elapsed, finished iteration 141
+[LightGBM] [Info] Iteration:142, valid_1 auc : 0.60616
+[LightGBM] [Info] 60.449421 seconds elapsed, finished iteration 142
+[LightGBM] [Info] Iteration:143, valid_1 auc : 0.606199
+[LightGBM] [Info] 60.905677 seconds elapsed, finished iteration 143
+[LightGBM] [Info] Iteration:144, valid_1 auc : 0.606219
+[LightGBM] [Info] 61.311899 seconds elapsed, finished iteration 144
+[LightGBM] [Info] Iteration:145, valid_1 auc : 0.606241
+[LightGBM] [Info] 61.731842 seconds elapsed, finished iteration 145
+[LightGBM] [Info] Iteration:146, valid_1 auc : 0.60627
+[LightGBM] [Info] 62.157642 seconds elapsed, finished iteration 146
+[LightGBM] [Info] Iteration:147, valid_1 auc : 0.606303
+[LightGBM] [Info] 62.555402 seconds elapsed, finished iteration 147
+[LightGBM] [Info] Iteration:148, valid_1 auc : 0.606299
+[LightGBM] [Info] 62.959238 seconds elapsed, finished iteration 148
+[LightGBM] [Info] Iteration:149, valid_1 auc : 0.606347
+[LightGBM] [Info] 63.336360 seconds elapsed, finished iteration 149
+[LightGBM] [Info] Iteration:150, valid_1 auc : 0.606384
+[LightGBM] [Info] 63.712823 seconds elapsed, finished iteration 150
+[LightGBM] [Info] Iteration:151, valid_1 auc : 0.606425
+[LightGBM] [Info] 64.104264 seconds elapsed, finished iteration 151
+[LightGBM] [Info] Iteration:152, valid_1 auc : 0.606435
+[LightGBM] [Info] 64.449289 seconds elapsed, finished iteration 152
+[LightGBM] [Info] Iteration:153, valid_1 auc : 0.606474
+[LightGBM] [Info] 64.842528 seconds elapsed, finished iteration 153
+[LightGBM] [Info] Iteration:154, valid_1 auc : 0.606508
+[LightGBM] [Info] 65.236370 seconds elapsed, finished iteration 154
+[LightGBM] [Info] Iteration:155, valid_1 auc : 0.606554
+[LightGBM] [Info] 65.630824 seconds elapsed, finished iteration 155
+[LightGBM] [Info] Iteration:156, valid_1 auc : 0.606579
+[LightGBM] [Info] 66.052455 seconds elapsed, finished iteration 156
+[LightGBM] [Info] Iteration:157, valid_1 auc : 0.606598
+[LightGBM] [Info] 66.486898 seconds elapsed, finished iteration 157
+[LightGBM] [Info] Iteration:158, valid_1 auc : 0.606685
+[LightGBM] [Info] 66.961912 seconds elapsed, finished iteration 158
+[LightGBM] [Info] Iteration:159, valid_1 auc : 0.606717
+[LightGBM] [Info] 67.374803 seconds elapsed, finished iteration 159
+[LightGBM] [Info] Iteration:160, valid_1 auc : 0.606806
+[LightGBM] [Info] 67.818921 seconds elapsed, finished iteration 160
+[LightGBM] [Info] Iteration:161, valid_1 auc : 0.606844
+[LightGBM] [Info] 68.204039 seconds elapsed, finished iteration 161
+[LightGBM] [Info] Iteration:162, valid_1 auc : 0.606914
+[LightGBM] [Info] 68.656618 seconds elapsed, finished iteration 162
+[LightGBM] [Info] Iteration:163, valid_1 auc : 0.606947
+[LightGBM] [Info] 69.073202 seconds elapsed, finished iteration 163
+[LightGBM] [Info] Iteration:164, valid_1 auc : 0.607004
+[LightGBM] [Info] 69.505690 seconds elapsed, finished iteration 164
+[LightGBM] [Info] Iteration:165, valid_1 auc : 0.607032
+[LightGBM] [Info] 69.937949 seconds elapsed, finished iteration 165
+[LightGBM] [Info] Iteration:166, valid_1 auc : 0.607048
+[LightGBM] [Info] 70.389321 seconds elapsed, finished iteration 166
+[LightGBM] [Info] Iteration:167, valid_1 auc : 0.607104
+[LightGBM] [Info] 70.848036 seconds elapsed, finished iteration 167
+[LightGBM] [Info] Iteration:168, valid_1 auc : 0.607185
+[LightGBM] [Info] 71.302202 seconds elapsed, finished iteration 168
+[LightGBM] [Info] Iteration:169, valid_1 auc : 0.607239
+[LightGBM] [Info] 71.759081 seconds elapsed, finished iteration 169
+[LightGBM] [Info] Iteration:170, valid_1 auc : 0.607317
+[LightGBM] [Info] 72.221646 seconds elapsed, finished iteration 170
+[LightGBM] [Info] Iteration:171, valid_1 auc : 0.607387
+[LightGBM] [Info] 72.660582 seconds elapsed, finished iteration 171
+[LightGBM] [Info] Iteration:172, valid_1 auc : 0.60747
+[LightGBM] [Info] 73.101855 seconds elapsed, finished iteration 172
+[LightGBM] [Info] Iteration:173, valid_1 auc : 0.607532
+[LightGBM] [Info] 73.563953 seconds elapsed, finished iteration 173
+[LightGBM] [Info] Iteration:174, valid_1 auc : 0.607571
+[LightGBM] [Info] 74.037843 seconds elapsed, finished iteration 174
+[LightGBM] [Info] Iteration:175, valid_1 auc : 0.607617
+[LightGBM] [Info] 74.471266 seconds elapsed, finished iteration 175
+[LightGBM] [Info] Iteration:176, valid_1 auc : 0.607649
+[LightGBM] [Info] 74.915349 seconds elapsed, finished iteration 176
+[LightGBM] [Info] Iteration:177, valid_1 auc : 0.607641
+[LightGBM] [Info] 75.326947 seconds elapsed, finished iteration 177
+[LightGBM] [Info] Iteration:178, valid_1 auc : 0.607655
+[LightGBM] [Info] 75.798470 seconds elapsed, finished iteration 178
+[LightGBM] [Info] Iteration:179, valid_1 auc : 0.607698
+[LightGBM] [Info] 76.244865 seconds elapsed, finished iteration 179
+[LightGBM] [Info] Iteration:180, valid_1 auc : 0.607746
+[LightGBM] [Info] 76.717777 seconds elapsed, finished iteration 180
+[LightGBM] [Info] Iteration:181, valid_1 auc : 0.607774
+[LightGBM] [Info] 77.154369 seconds elapsed, finished iteration 181
+[LightGBM] [Info] Iteration:182, valid_1 auc : 0.607781
+[LightGBM] [Info] 77.524441 seconds elapsed, finished iteration 182
+[LightGBM] [Info] Iteration:183, valid_1 auc : 0.607806
+[LightGBM] [Info] 78.026316 seconds elapsed, finished iteration 183
+[LightGBM] [Info] Iteration:184, valid_1 auc : 0.60781
+[LightGBM] [Info] 78.412710 seconds elapsed, finished iteration 184
+[LightGBM] [Info] Iteration:185, valid_1 auc : 0.607831
+[LightGBM] [Info] 78.815653 seconds elapsed, finished iteration 185
+[LightGBM] [Info] Iteration:186, valid_1 auc : 0.607832
+[LightGBM] [Info] 79.195811 seconds elapsed, finished iteration 186
+[LightGBM] [Info] Iteration:187, valid_1 auc : 0.607866
+[LightGBM] [Info] 79.610179 seconds elapsed, finished iteration 187
+[LightGBM] [Info] Iteration:188, valid_1 auc : 0.607886
+[LightGBM] [Info] 80.034265 seconds elapsed, finished iteration 188
+[LightGBM] [Info] Iteration:189, valid_1 auc : 0.607903
+[LightGBM] [Info] 80.467925 seconds elapsed, finished iteration 189
+[LightGBM] [Info] Iteration:190, valid_1 auc : 0.607919
+[LightGBM] [Info] 80.860128 seconds elapsed, finished iteration 190
+[LightGBM] [Info] Iteration:191, valid_1 auc : 0.607933
+[LightGBM] [Info] 81.302437 seconds elapsed, finished iteration 191
+[LightGBM] [Info] Iteration:192, valid_1 auc : 0.607957
+[LightGBM] [Info] 81.710657 seconds elapsed, finished iteration 192
+[LightGBM] [Info] Iteration:193, valid_1 auc : 0.607979
+[LightGBM] [Info] 82.125714 seconds elapsed, finished iteration 193
+[LightGBM] [Info] Iteration:194, valid_1 auc : 0.607988
+[LightGBM] [Info] 82.526897 seconds elapsed, finished iteration 194
+[LightGBM] [Info] Iteration:195, valid_1 auc : 0.608026
+[LightGBM] [Info] 82.948366 seconds elapsed, finished iteration 195
+[LightGBM] [Info] Iteration:196, valid_1 auc : 0.608044
+[LightGBM] [Info] 83.390396 seconds elapsed, finished iteration 196
+[LightGBM] [Info] Iteration:197, valid_1 auc : 0.608061
+[LightGBM] [Info] 83.798901 seconds elapsed, finished iteration 197
+[LightGBM] [Info] Iteration:198, valid_1 auc : 0.608084
+[LightGBM] [Info] 84.206136 seconds elapsed, finished iteration 198
+[LightGBM] [Info] Iteration:199, valid_1 auc : 0.608093
+[LightGBM] [Info] 84.647224 seconds elapsed, finished iteration 199
+[LightGBM] [Info] Iteration:200, valid_1 auc : 0.608099
+[LightGBM] [Info] 85.057846 seconds elapsed, finished iteration 200
+[LightGBM] [Info] Iteration:201, valid_1 auc : 0.608087
+[LightGBM] [Info] 85.461347 seconds elapsed, finished iteration 201
+[LightGBM] [Info] Iteration:202, valid_1 auc : 0.608092
+[LightGBM] [Info] 85.878677 seconds elapsed, finished iteration 202
+[LightGBM] [Info] Iteration:203, valid_1 auc : 0.60812
+[LightGBM] [Info] 86.314990 seconds elapsed, finished iteration 203
+[LightGBM] [Info] Iteration:204, valid_1 auc : 0.608138
+[LightGBM] [Info] 86.739063 seconds elapsed, finished iteration 204
+[LightGBM] [Info] Iteration:205, valid_1 auc : 0.608194
+[LightGBM] [Info] 87.197296 seconds elapsed, finished iteration 205
+[LightGBM] [Info] Iteration:206, valid_1 auc : 0.608188
+[LightGBM] [Info] 87.555451 seconds elapsed, finished iteration 206
+[LightGBM] [Info] Iteration:207, valid_1 auc : 0.608207
+[LightGBM] [Info] 87.965726 seconds elapsed, finished iteration 207
+[LightGBM] [Info] Iteration:208, valid_1 auc : 0.608232
+[LightGBM] [Info] 88.410406 seconds elapsed, finished iteration 208
+[LightGBM] [Info] Iteration:209, valid_1 auc : 0.608232
+[LightGBM] [Info] 88.821242 seconds elapsed, finished iteration 209
+[LightGBM] [Info] Iteration:210, valid_1 auc : 0.608248
+[LightGBM] [Info] 89.215543 seconds elapsed, finished iteration 210
+[LightGBM] [Info] Iteration:211, valid_1 auc : 0.608258
+[LightGBM] [Info] 89.621246 seconds elapsed, finished iteration 211
+[LightGBM] [Info] Iteration:212, valid_1 auc : 0.608283
+[LightGBM] [Info] 90.055453 seconds elapsed, finished iteration 212
+[LightGBM] [Info] Iteration:213, valid_1 auc : 0.608318
+[LightGBM] [Info] 90.457612 seconds elapsed, finished iteration 213
+[LightGBM] [Info] Iteration:214, valid_1 auc : 0.608323
+[LightGBM] [Info] 90.899429 seconds elapsed, finished iteration 214
+[LightGBM] [Info] Iteration:215, valid_1 auc : 0.608346
+[LightGBM] [Info] 91.276818 seconds elapsed, finished iteration 215
+[LightGBM] [Info] Iteration:216, valid_1 auc : 0.608376
+[LightGBM] [Info] 91.684855 seconds elapsed, finished iteration 216
+[LightGBM] [Info] Iteration:217, valid_1 auc : 0.608368
+[LightGBM] [Info] 92.057776 seconds elapsed, finished iteration 217
+[LightGBM] [Info] Iteration:218, valid_1 auc : 0.608376
+[LightGBM] [Info] 92.401075 seconds elapsed, finished iteration 218
+[LightGBM] [Info] Iteration:219, valid_1 auc : 0.60839
+[LightGBM] [Info] 92.836172 seconds elapsed, finished iteration 219
+[LightGBM] [Info] Iteration:220, valid_1 auc : 0.608412
+[LightGBM] [Info] 93.201182 seconds elapsed, finished iteration 220
+[LightGBM] [Info] Iteration:221, valid_1 auc : 0.608409
+[LightGBM] [Info] 93.569911 seconds elapsed, finished iteration 221
+[LightGBM] [Info] Iteration:222, valid_1 auc : 0.608406
+[LightGBM] [Info] 93.962549 seconds elapsed, finished iteration 222
+[LightGBM] [Info] Iteration:223, valid_1 auc : 0.608402
+[LightGBM] [Info] 94.357349 seconds elapsed, finished iteration 223
+[LightGBM] [Info] Iteration:224, valid_1 auc : 0.608441
+[LightGBM] [Info] 94.792984 seconds elapsed, finished iteration 224
+[LightGBM] [Info] Iteration:225, valid_1 auc : 0.608458
+[LightGBM] [Info] 95.200163 seconds elapsed, finished iteration 225
+[LightGBM] [Info] Iteration:226, valid_1 auc : 0.608461
+[LightGBM] [Info] 95.557627 seconds elapsed, finished iteration 226
+[LightGBM] [Info] Iteration:227, valid_1 auc : 0.608475
+[LightGBM] [Info] 95.969213 seconds elapsed, finished iteration 227
+[LightGBM] [Info] Iteration:228, valid_1 auc : 0.608518
+[LightGBM] [Info] 96.375919 seconds elapsed, finished iteration 228
+[LightGBM] [Info] Iteration:229, valid_1 auc : 0.608521
+[LightGBM] [Info] 96.731201 seconds elapsed, finished iteration 229
+[LightGBM] [Info] Iteration:230, valid_1 auc : 0.608526
+[LightGBM] [Info] 97.068685 seconds elapsed, finished iteration 230
+[LightGBM] [Info] Iteration:231, valid_1 auc : 0.60853
+[LightGBM] [Info] 97.508168 seconds elapsed, finished iteration 231
+[LightGBM] [Info] Iteration:232, valid_1 auc : 0.608516
+[LightGBM] [Info] 97.881300 seconds elapsed, finished iteration 232
+[LightGBM] [Info] Iteration:233, valid_1 auc : 0.608527
+[LightGBM] [Info] 98.295199 seconds elapsed, finished iteration 233
+[LightGBM] [Info] Iteration:234, valid_1 auc : 0.60852
+[LightGBM] [Info] 98.651739 seconds elapsed, finished iteration 234
+[LightGBM] [Info] Iteration:235, valid_1 auc : 0.608517
+[LightGBM] [Info] 99.068042 seconds elapsed, finished iteration 235
+[LightGBM] [Info] Iteration:236, valid_1 auc : 0.608528
+[LightGBM] [Info] 99.478769 seconds elapsed, finished iteration 236
+[LightGBM] [Info] Iteration:237, valid_1 auc : 0.608552
+[LightGBM] [Info] 99.833617 seconds elapsed, finished iteration 237
+[LightGBM] [Info] Iteration:238, valid_1 auc : 0.60861
+[LightGBM] [Info] 100.260865 seconds elapsed, finished iteration 238
+[LightGBM] [Info] Iteration:239, valid_1 auc : 0.608619
+[LightGBM] [Info] 100.603354 seconds elapsed, finished iteration 239
+[LightGBM] [Info] Iteration:240, valid_1 auc : 0.608632
+[LightGBM] [Info] 101.021209 seconds elapsed, finished iteration 240
+[LightGBM] [Info] Iteration:241, valid_1 auc : 0.60864
+[LightGBM] [Info] 101.415056 seconds elapsed, finished iteration 241
+[LightGBM] [Info] Iteration:242, valid_1 auc : 0.608633
+[LightGBM] [Info] 101.768808 seconds elapsed, finished iteration 242
+[LightGBM] [Info] Iteration:243, valid_1 auc : 0.608639
+[LightGBM] [Info] 102.184698 seconds elapsed, finished iteration 243
+[LightGBM] [Info] Iteration:244, valid_1 auc : 0.608642
+[LightGBM] [Info] 102.542265 seconds elapsed, finished iteration 244
+[LightGBM] [Info] Iteration:245, valid_1 auc : 0.608643
+[LightGBM] [Info] 102.981830 seconds elapsed, finished iteration 245
+[LightGBM] [Info] Iteration:246, valid_1 auc : 0.608667
+[LightGBM] [Info] 103.380196 seconds elapsed, finished iteration 246
+[LightGBM] [Info] Iteration:247, valid_1 auc : 0.608676
+[LightGBM] [Info] 103.745332 seconds elapsed, finished iteration 247
+[LightGBM] [Info] Iteration:248, valid_1 auc : 0.608698
+[LightGBM] [Info] 104.087324 seconds elapsed, finished iteration 248
+[LightGBM] [Info] Iteration:249, valid_1 auc : 0.608734
+[LightGBM] [Info] 104.482014 seconds elapsed, finished iteration 249
+[LightGBM] [Info] Iteration:250, valid_1 auc : 0.60875
+[LightGBM] [Info] 104.904576 seconds elapsed, finished iteration 250
+[LightGBM] [Info] Iteration:251, valid_1 auc : 0.608729
+[LightGBM] [Info] 105.289270 seconds elapsed, finished iteration 251
+[LightGBM] [Info] Iteration:252, valid_1 auc : 0.608722
+[LightGBM] [Info] 105.607792 seconds elapsed, finished iteration 252
+[LightGBM] [Info] Iteration:253, valid_1 auc : 0.608748
+[LightGBM] [Info] 106.006224 seconds elapsed, finished iteration 253
+[LightGBM] [Info] Iteration:254, valid_1 auc : 0.608767
+[LightGBM] [Info] 106.422169 seconds elapsed, finished iteration 254
+[LightGBM] [Info] Iteration:255, valid_1 auc : 0.608767
+[LightGBM] [Info] 106.806525 seconds elapsed, finished iteration 255
+[LightGBM] [Info] Iteration:256, valid_1 auc : 0.608777
+[LightGBM] [Info] 107.182788 seconds elapsed, finished iteration 256
+[LightGBM] [Info] Iteration:257, valid_1 auc : 0.608777
+[LightGBM] [Info] 107.574321 seconds elapsed, finished iteration 257
+[LightGBM] [Info] Iteration:258, valid_1 auc : 0.608788
+[LightGBM] [Info] 107.957327 seconds elapsed, finished iteration 258
+[LightGBM] [Info] Iteration:259, valid_1 auc : 0.608797
+[LightGBM] [Info] 108.313185 seconds elapsed, finished iteration 259
+[LightGBM] [Info] Iteration:260, valid_1 auc : 0.608791
+[LightGBM] [Info] 108.659900 seconds elapsed, finished iteration 260
+[LightGBM] [Info] Iteration:261, valid_1 auc : 0.608781
+[LightGBM] [Info] 109.050326 seconds elapsed, finished iteration 261
+[LightGBM] [Info] Iteration:262, valid_1 auc : 0.608775
+[LightGBM] [Info] 109.396111 seconds elapsed, finished iteration 262
+[LightGBM] [Info] Iteration:263, valid_1 auc : 0.608766
+[LightGBM] [Info] 109.763739 seconds elapsed, finished iteration 263
+[LightGBM] [Info] Iteration:264, valid_1 auc : 0.608749
+[LightGBM] [Info] 110.148685 seconds elapsed, finished iteration 264
+[LightGBM] [Info] Iteration:265, valid_1 auc : 0.608782
+[LightGBM] [Info] 110.563794 seconds elapsed, finished iteration 265
+[LightGBM] [Info] Iteration:266, valid_1 auc : 0.608787
+[LightGBM] [Info] 110.937608 seconds elapsed, finished iteration 266
+[LightGBM] [Info] Iteration:267, valid_1 auc : 0.608788
+[LightGBM] [Info] 111.309790 seconds elapsed, finished iteration 267
+[LightGBM] [Info] Iteration:268, valid_1 auc : 0.608808
+[LightGBM] [Info] 111.670955 seconds elapsed, finished iteration 268
+[LightGBM] [Info] Iteration:269, valid_1 auc : 0.608824
+[LightGBM] [Info] 112.065239 seconds elapsed, finished iteration 269
+[LightGBM] [Info] Iteration:270, valid_1 auc : 0.608866
+[LightGBM] [Info] 112.440234 seconds elapsed, finished iteration 270
+[LightGBM] [Info] Iteration:271, valid_1 auc : 0.608866
+[LightGBM] [Info] 112.793020 seconds elapsed, finished iteration 271
+[LightGBM] [Info] Iteration:272, valid_1 auc : 0.608875
+[LightGBM] [Info] 113.156966 seconds elapsed, finished iteration 272
+[LightGBM] [Info] Iteration:273, valid_1 auc : 0.608889
+[LightGBM] [Info] 113.490153 seconds elapsed, finished iteration 273
+[LightGBM] [Info] Iteration:274, valid_1 auc : 0.608883
+[LightGBM] [Info] 113.888582 seconds elapsed, finished iteration 274
+[LightGBM] [Info] Iteration:275, valid_1 auc : 0.608894
+[LightGBM] [Info] 114.242138 seconds elapsed, finished iteration 275
+[LightGBM] [Info] Iteration:276, valid_1 auc : 0.608896
+[LightGBM] [Info] 114.581023 seconds elapsed, finished iteration 276
+[LightGBM] [Info] Iteration:277, valid_1 auc : 0.608939
+[LightGBM] [Info] 114.988238 seconds elapsed, finished iteration 277
+[LightGBM] [Info] Iteration:278, valid_1 auc : 0.60894
+[LightGBM] [Info] 115.364875 seconds elapsed, finished iteration 278
+[LightGBM] [Info] Iteration:279, valid_1 auc : 0.608939
+[LightGBM] [Info] 115.701534 seconds elapsed, finished iteration 279
+[LightGBM] [Info] Iteration:280, valid_1 auc : 0.608971
+[LightGBM] [Info] 116.163758 seconds elapsed, finished iteration 280
+[LightGBM] [Info] Iteration:281, valid_1 auc : 0.608974
+[LightGBM] [Info] 116.551171 seconds elapsed, finished iteration 281
+[LightGBM] [Info] Iteration:282, valid_1 auc : 0.608984
+[LightGBM] [Info] 116.896370 seconds elapsed, finished iteration 282
+[LightGBM] [Info] Iteration:283, valid_1 auc : 0.60897
+[LightGBM] [Info] 117.253044 seconds elapsed, finished iteration 283
+[LightGBM] [Info] Iteration:284, valid_1 auc : 0.608967
+[LightGBM] [Info] 117.594893 seconds elapsed, finished iteration 284
+[LightGBM] [Info] Iteration:285, valid_1 auc : 0.608963
+[LightGBM] [Info] 117.969493 seconds elapsed, finished iteration 285
+[LightGBM] [Info] Iteration:286, valid_1 auc : 0.608964
+[LightGBM] [Info] 118.353418 seconds elapsed, finished iteration 286
+[LightGBM] [Info] Iteration:287, valid_1 auc : 0.60897
+[LightGBM] [Info] 118.657976 seconds elapsed, finished iteration 287
+[LightGBM] [Info] Iteration:288, valid_1 auc : 0.608984
+[LightGBM] [Info] 119.081505 seconds elapsed, finished iteration 288
+[LightGBM] [Info] Iteration:289, valid_1 auc : 0.608964
+[LightGBM] [Info] 119.461331 seconds elapsed, finished iteration 289
+[LightGBM] [Info] Iteration:290, valid_1 auc : 0.608962
+[LightGBM] [Info] 119.824603 seconds elapsed, finished iteration 290
+[LightGBM] [Info] Iteration:291, valid_1 auc : 0.608956
+[LightGBM] [Info] 120.182808 seconds elapsed, finished iteration 291
+[LightGBM] [Info] Iteration:292, valid_1 auc : 0.608934
+[LightGBM] [Info] 120.548023 seconds elapsed, finished iteration 292
+[LightGBM] [Info] Iteration:293, valid_1 auc : 0.608944
+[LightGBM] [Info] 120.911208 seconds elapsed, finished iteration 293
+[LightGBM] [Info] Iteration:294, valid_1 auc : 0.608948
+[LightGBM] [Info] 121.303698 seconds elapsed, finished iteration 294
+[LightGBM] [Info] Iteration:295, valid_1 auc : 0.608956
+[LightGBM] [Info] 121.697429 seconds elapsed, finished iteration 295
+[LightGBM] [Info] Iteration:296, valid_1 auc : 0.608965
+[LightGBM] [Info] 122.100538 seconds elapsed, finished iteration 296
+[LightGBM] [Info] Iteration:297, valid_1 auc : 0.608964
+[LightGBM] [Info] 122.444578 seconds elapsed, finished iteration 297
+[LightGBM] [Info] Iteration:298, valid_1 auc : 0.608967
+[LightGBM] [Info] 122.795922 seconds elapsed, finished iteration 298
+[LightGBM] [Info] Iteration:299, valid_1 auc : 0.60897
+[LightGBM] [Info] 123.197104 seconds elapsed, finished iteration 299
+[LightGBM] [Info] Iteration:300, valid_1 auc : 0.608993
+[LightGBM] [Info] 123.581649 seconds elapsed, finished iteration 300
+[LightGBM] [Info] Iteration:301, valid_1 auc : 0.608983
+[LightGBM] [Info] 123.911333 seconds elapsed, finished iteration 301
+[LightGBM] [Info] Iteration:302, valid_1 auc : 0.608981
+[LightGBM] [Info] 124.261758 seconds elapsed, finished iteration 302
+[LightGBM] [Info] Iteration:303, valid_1 auc : 0.608982
+[LightGBM] [Info] 124.625309 seconds elapsed, finished iteration 303
+[LightGBM] [Info] Iteration:304, valid_1 auc : 0.608984
+[LightGBM] [Info] 124.950543 seconds elapsed, finished iteration 304
+[LightGBM] [Info] Iteration:305, valid_1 auc : 0.608991
+[LightGBM] [Info] 125.372171 seconds elapsed, finished iteration 305
+[LightGBM] [Info] Iteration:306, valid_1 auc : 0.608989
+[LightGBM] [Info] 125.734392 seconds elapsed, finished iteration 306
+[LightGBM] [Info] Iteration:307, valid_1 auc : 0.608982
+[LightGBM] [Info] 126.135480 seconds elapsed, finished iteration 307
+[LightGBM] [Info] Iteration:308, valid_1 auc : 0.608987
+[LightGBM] [Info] 126.487725 seconds elapsed, finished iteration 308
+[LightGBM] [Info] Iteration:309, valid_1 auc : 0.608998
+[LightGBM] [Info] 126.861214 seconds elapsed, finished iteration 309
+[LightGBM] [Info] Iteration:310, valid_1 auc : 0.609003
+[LightGBM] [Info] 127.257713 seconds elapsed, finished iteration 310
+[LightGBM] [Info] Iteration:311, valid_1 auc : 0.609
+[LightGBM] [Info] 127.656064 seconds elapsed, finished iteration 311
+[LightGBM] [Info] Iteration:312, valid_1 auc : 0.609005
+[LightGBM] [Info] 127.983513 seconds elapsed, finished iteration 312
+[LightGBM] [Info] Iteration:313, valid_1 auc : 0.609037
+[LightGBM] [Info] 128.380799 seconds elapsed, finished iteration 313
+[LightGBM] [Info] Iteration:314, valid_1 auc : 0.609041
+[LightGBM] [Info] 128.770927 seconds elapsed, finished iteration 314
+[LightGBM] [Info] Iteration:315, valid_1 auc : 0.609051
+[LightGBM] [Info] 129.128393 seconds elapsed, finished iteration 315
+[LightGBM] [Info] Iteration:316, valid_1 auc : 0.609053
+[LightGBM] [Info] 129.490545 seconds elapsed, finished iteration 316
+[LightGBM] [Info] Iteration:317, valid_1 auc : 0.609047
+[LightGBM] [Info] 129.834408 seconds elapsed, finished iteration 317
+[LightGBM] [Info] Iteration:318, valid_1 auc : 0.60904
+[LightGBM] [Info] 130.194866 seconds elapsed, finished iteration 318
+[LightGBM] [Info] Iteration:319, valid_1 auc : 0.609027
+[LightGBM] [Info] 130.590084 seconds elapsed, finished iteration 319
+[LightGBM] [Info] Iteration:320, valid_1 auc : 0.609032
+[LightGBM] [Info] 130.949157 seconds elapsed, finished iteration 320
+[LightGBM] [Info] Iteration:321, valid_1 auc : 0.609039
+[LightGBM] [Info] 131.290011 seconds elapsed, finished iteration 321
+[LightGBM] [Info] Iteration:322, valid_1 auc : 0.609072
+[LightGBM] [Info] 131.706770 seconds elapsed, finished iteration 322
+[LightGBM] [Info] Iteration:323, valid_1 auc : 0.609069
+[LightGBM] [Info] 132.099495 seconds elapsed, finished iteration 323
+[LightGBM] [Info] Iteration:324, valid_1 auc : 0.609058
+[LightGBM] [Info] 132.481914 seconds elapsed, finished iteration 324
+[LightGBM] [Info] Iteration:325, valid_1 auc : 0.60907
+[LightGBM] [Info] 132.877699 seconds elapsed, finished iteration 325
+[LightGBM] [Info] Iteration:326, valid_1 auc : 0.609046
+[LightGBM] [Info] 133.256839 seconds elapsed, finished iteration 326
+[LightGBM] [Info] Iteration:327, valid_1 auc : 0.609027
+[LightGBM] [Info] 133.629018 seconds elapsed, finished iteration 327
+[LightGBM] [Info] Iteration:328, valid_1 auc : 0.609043
+[LightGBM] [Info] 133.998496 seconds elapsed, finished iteration 328
+[LightGBM] [Info] Iteration:329, valid_1 auc : 0.609044
+[LightGBM] [Info] 134.411265 seconds elapsed, finished iteration 329
+[LightGBM] [Info] Iteration:330, valid_1 auc : 0.609032
+[LightGBM] [Info] 134.787316 seconds elapsed, finished iteration 330
+[LightGBM] [Info] Iteration:331, valid_1 auc : 0.609041
+[LightGBM] [Info] 135.110137 seconds elapsed, finished iteration 331
+[LightGBM] [Info] Iteration:332, valid_1 auc : 0.609047
+[LightGBM] [Info] 135.474431 seconds elapsed, finished iteration 332
+[LightGBM] [Info] Iteration:333, valid_1 auc : 0.60905
+[LightGBM] [Info] 135.830912 seconds elapsed, finished iteration 333
+[LightGBM] [Info] Iteration:334, valid_1 auc : 0.609049
+[LightGBM] [Info] 136.200893 seconds elapsed, finished iteration 334
+[LightGBM] [Info] Iteration:335, valid_1 auc : 0.609044
+[LightGBM] [Info] 136.566584 seconds elapsed, finished iteration 335
+[LightGBM] [Info] Iteration:336, valid_1 auc : 0.60905
+[LightGBM] [Info] 136.955268 seconds elapsed, finished iteration 336
+[LightGBM] [Info] Iteration:337, valid_1 auc : 0.609044
+[LightGBM] [Info] 137.308080 seconds elapsed, finished iteration 337
+[LightGBM] [Info] Iteration:338, valid_1 auc : 0.609036
+[LightGBM] [Info] 137.666076 seconds elapsed, finished iteration 338
+[LightGBM] [Info] Iteration:339, valid_1 auc : 0.609046
+[LightGBM] [Info] 138.049848 seconds elapsed, finished iteration 339
+[LightGBM] [Info] Iteration:340, valid_1 auc : 0.609038
+[LightGBM] [Info] 138.408041 seconds elapsed, finished iteration 340
+[LightGBM] [Info] Iteration:341, valid_1 auc : 0.609021
+[LightGBM] [Info] 138.757027 seconds elapsed, finished iteration 341
+[LightGBM] [Info] Iteration:342, valid_1 auc : 0.609012
+[LightGBM] [Info] 139.117968 seconds elapsed, finished iteration 342
+[LightGBM] [Info] Iteration:343, valid_1 auc : 0.609002
+[LightGBM] [Info] 139.473699 seconds elapsed, finished iteration 343
+[LightGBM] [Info] Iteration:344, valid_1 auc : 0.609019
+[LightGBM] [Info] 139.853443 seconds elapsed, finished iteration 344
+[LightGBM] [Info] Iteration:345, valid_1 auc : 0.609018
+[LightGBM] [Info] 140.188147 seconds elapsed, finished iteration 345
+[LightGBM] [Info] Iteration:346, valid_1 auc : 0.609006
+[LightGBM] [Info] 140.534662 seconds elapsed, finished iteration 346
+[LightGBM] [Info] Iteration:347, valid_1 auc : 0.609002
+[LightGBM] [Info] 140.912759 seconds elapsed, finished iteration 347
+[LightGBM] [Info] Iteration:348, valid_1 auc : 0.60898
+[LightGBM] [Info] 141.285291 seconds elapsed, finished iteration 348
+[LightGBM] [Info] Iteration:349, valid_1 auc : 0.608975
+[LightGBM] [Info] 141.676193 seconds elapsed, finished iteration 349
+[LightGBM] [Info] Iteration:350, valid_1 auc : 0.608977
+[LightGBM] [Info] 142.012928 seconds elapsed, finished iteration 350
+[LightGBM] [Info] Iteration:351, valid_1 auc : 0.608976
+[LightGBM] [Info] 142.454059 seconds elapsed, finished iteration 351
+[LightGBM] [Info] Iteration:352, valid_1 auc : 0.608952
+[LightGBM] [Info] 142.819832 seconds elapsed, finished iteration 352
+[LightGBM] [Info] Iteration:353, valid_1 auc : 0.60895
+[LightGBM] [Info] 143.200549 seconds elapsed, finished iteration 353
+[LightGBM] [Info] Iteration:354, valid_1 auc : 0.608958
+[LightGBM] [Info] 143.553060 seconds elapsed, finished iteration 354
+[LightGBM] [Info] Iteration:355, valid_1 auc : 0.60896
+[LightGBM] [Info] 143.880959 seconds elapsed, finished iteration 355
+[LightGBM] [Info] Iteration:356, valid_1 auc : 0.608955
+[LightGBM] [Info] 144.238233 seconds elapsed, finished iteration 356
+[LightGBM] [Info] Iteration:357, valid_1 auc : 0.608958
+[LightGBM] [Info] 144.613846 seconds elapsed, finished iteration 357
+[LightGBM] [Info] Iteration:358, valid_1 auc : 0.608955
+[LightGBM] [Info] 144.985391 seconds elapsed, finished iteration 358
+[LightGBM] [Info] Iteration:359, valid_1 auc : 0.608957
+[LightGBM] [Info] 145.372118 seconds elapsed, finished iteration 359
+[LightGBM] [Info] Iteration:360, valid_1 auc : 0.608953
+[LightGBM] [Info] 145.688511 seconds elapsed, finished iteration 360
+[LightGBM] [Info] Iteration:361, valid_1 auc : 0.608954
+[LightGBM] [Info] 146.091482 seconds elapsed, finished iteration 361
+[LightGBM] [Info] Iteration:362, valid_1 auc : 0.608958
+[LightGBM] [Info] 146.421910 seconds elapsed, finished iteration 362
+[LightGBM] [Info] Iteration:363, valid_1 auc : 0.608942
+[LightGBM] [Info] 146.828766 seconds elapsed, finished iteration 363
+[LightGBM] [Info] Iteration:364, valid_1 auc : 0.608941
+[LightGBM] [Info] 147.159894 seconds elapsed, finished iteration 364
+[LightGBM] [Info] Iteration:365, valid_1 auc : 0.60894
+[LightGBM] [Info] 147.547821 seconds elapsed, finished iteration 365
+[LightGBM] [Info] Iteration:366, valid_1 auc : 0.608929
+[LightGBM] [Info] 147.882414 seconds elapsed, finished iteration 366
+[LightGBM] [Info] Iteration:367, valid_1 auc : 0.608926
+[LightGBM] [Info] 148.247807 seconds elapsed, finished iteration 367
+[LightGBM] [Info] Iteration:368, valid_1 auc : 0.608909
+[LightGBM] [Info] 148.593711 seconds elapsed, finished iteration 368
+[LightGBM] [Info] Iteration:369, valid_1 auc : 0.608906
+[LightGBM] [Info] 148.974626 seconds elapsed, finished iteration 369
+[LightGBM] [Info] Iteration:370, valid_1 auc : 0.608891
+[LightGBM] [Info] 149.335534 seconds elapsed, finished iteration 370
+[LightGBM] [Info] Iteration:371, valid_1 auc : 0.608895
+[LightGBM] [Info] 149.726887 seconds elapsed, finished iteration 371
+[LightGBM] [Info] Iteration:372, valid_1 auc : 0.60888
+[LightGBM] [Info] 150.117272 seconds elapsed, finished iteration 372
+[LightGBM] [Info] Iteration:373, valid_1 auc : 0.60889
+[LightGBM] [Info] 150.466848 seconds elapsed, finished iteration 373
+[LightGBM] [Info] Iteration:374, valid_1 auc : 0.608898
+[LightGBM] [Info] 150.845309 seconds elapsed, finished iteration 374
+[LightGBM] [Info] Iteration:375, valid_1 auc : 0.608902
+[LightGBM] [Info] 151.212711 seconds elapsed, finished iteration 375
+[LightGBM] [Info] Iteration:376, valid_1 auc : 0.608905
+[LightGBM] [Info] 151.573981 seconds elapsed, finished iteration 376
+[LightGBM] [Info] Iteration:377, valid_1 auc : 0.608894
+[LightGBM] [Info] 151.962214 seconds elapsed, finished iteration 377
+[LightGBM] [Info] Iteration:378, valid_1 auc : 0.608884
+[LightGBM] [Info] 152.330107 seconds elapsed, finished iteration 378
+[LightGBM] [Info] Iteration:379, valid_1 auc : 0.608905
+[LightGBM] [Info] 152.698737 seconds elapsed, finished iteration 379
+[LightGBM] [Info] Iteration:380, valid_1 auc : 0.608908
+[LightGBM] [Info] 153.111535 seconds elapsed, finished iteration 380
+[LightGBM] [Info] Iteration:381, valid_1 auc : 0.60892
+[LightGBM] [Info] 153.465651 seconds elapsed, finished iteration 381
+[LightGBM] [Info] Iteration:382, valid_1 auc : 0.608922
+[LightGBM] [Info] 153.858687 seconds elapsed, finished iteration 382
+[LightGBM] [Info] Iteration:383, valid_1 auc : 0.608908
+[LightGBM] [Info] 154.195479 seconds elapsed, finished iteration 383
+[LightGBM] [Info] Iteration:384, valid_1 auc : 0.608912
+[LightGBM] [Info] 154.554325 seconds elapsed, finished iteration 384
+[LightGBM] [Info] Iteration:385, valid_1 auc : 0.608929
+[LightGBM] [Info] 154.876822 seconds elapsed, finished iteration 385
+[LightGBM] [Info] Iteration:386, valid_1 auc : 0.608918
+[LightGBM] [Info] 155.275508 seconds elapsed, finished iteration 386
+[LightGBM] [Info] Iteration:387, valid_1 auc : 0.608913
+[LightGBM] [Info] 155.652974 seconds elapsed, finished iteration 387
+[LightGBM] [Info] Iteration:388, valid_1 auc : 0.608886
+[LightGBM] [Info] 155.999973 seconds elapsed, finished iteration 388
+[LightGBM] [Info] Iteration:389, valid_1 auc : 0.608867
+[LightGBM] [Info] 156.362347 seconds elapsed, finished iteration 389
+[LightGBM] [Info] Iteration:390, valid_1 auc : 0.608867
+[LightGBM] [Info] 156.709204 seconds elapsed, finished iteration 390
+[LightGBM] [Info] Iteration:391, valid_1 auc : 0.608856
+[LightGBM] [Info] 157.063479 seconds elapsed, finished iteration 391
+[LightGBM] [Info] Iteration:392, valid_1 auc : 0.608856
+[LightGBM] [Info] 157.450946 seconds elapsed, finished iteration 392
+[LightGBM] [Info] Iteration:393, valid_1 auc : 0.608834
+[LightGBM] [Info] 157.857852 seconds elapsed, finished iteration 393
+[LightGBM] [Info] Iteration:394, valid_1 auc : 0.608844
+[LightGBM] [Info] 158.262880 seconds elapsed, finished iteration 394
+[LightGBM] [Info] Iteration:395, valid_1 auc : 0.608809
+[LightGBM] [Info] 158.644144 seconds elapsed, finished iteration 395
+[LightGBM] [Info] Iteration:396, valid_1 auc : 0.608812
+[LightGBM] [Info] 159.011976 seconds elapsed, finished iteration 396
+[LightGBM] [Info] Iteration:397, valid_1 auc : 0.608802
+[LightGBM] [Info] 159.429450 seconds elapsed, finished iteration 397
+[LightGBM] [Info] Iteration:398, valid_1 auc : 0.608805
+[LightGBM] [Info] 159.783459 seconds elapsed, finished iteration 398
+[LightGBM] [Info] Iteration:399, valid_1 auc : 0.608798
+[LightGBM] [Info] 160.172405 seconds elapsed, finished iteration 399
+[LightGBM] [Info] Iteration:400, valid_1 auc : 0.608803
+[LightGBM] [Info] 160.491672 seconds elapsed, finished iteration 400
+[LightGBM] [Info] Iteration:401, valid_1 auc : 0.608786
+[LightGBM] [Info] 160.846294 seconds elapsed, finished iteration 401
+[LightGBM] [Info] Iteration:402, valid_1 auc : 0.608769
+[LightGBM] [Info] 161.190503 seconds elapsed, finished iteration 402
+[LightGBM] [Info] Iteration:403, valid_1 auc : 0.608752
+[LightGBM] [Info] 161.575821 seconds elapsed, finished iteration 403
+[LightGBM] [Info] Iteration:404, valid_1 auc : 0.608737
+[LightGBM] [Info] 161.901989 seconds elapsed, finished iteration 404
+[LightGBM] [Info] Iteration:405, valid_1 auc : 0.608738
+[LightGBM] [Info] 162.265988 seconds elapsed, finished iteration 405
+[LightGBM] [Info] Iteration:406, valid_1 auc : 0.60874
+[LightGBM] [Info] 162.722055 seconds elapsed, finished iteration 406
+[LightGBM] [Info] Iteration:407, valid_1 auc : 0.608767
+[LightGBM] [Info] 163.096625 seconds elapsed, finished iteration 407
+[LightGBM] [Info] Iteration:408, valid_1 auc : 0.60877
+[LightGBM] [Info] 163.447116 seconds elapsed, finished iteration 408
+[LightGBM] [Info] Iteration:409, valid_1 auc : 0.60876
+[LightGBM] [Info] 163.774254 seconds elapsed, finished iteration 409
+[LightGBM] [Info] Iteration:410, valid_1 auc : 0.608756
+[LightGBM] [Info] 164.173300 seconds elapsed, finished iteration 410
+[LightGBM] [Info] Iteration:411, valid_1 auc : 0.60876
+[LightGBM] [Info] 164.506722 seconds elapsed, finished iteration 411
+[LightGBM] [Info] Iteration:412, valid_1 auc : 0.60874
+[LightGBM] [Info] 164.852806 seconds elapsed, finished iteration 412
+[LightGBM] [Info] Iteration:413, valid_1 auc : 0.608724
+[LightGBM] [Info] 165.201865 seconds elapsed, finished iteration 413
+[LightGBM] [Info] Iteration:414, valid_1 auc : 0.60874
+[LightGBM] [Info] 165.560307 seconds elapsed, finished iteration 414
+[LightGBM] [Info] Iteration:415, valid_1 auc : 0.608749
+[LightGBM] [Info] 165.902311 seconds elapsed, finished iteration 415
+[LightGBM] [Info] Iteration:416, valid_1 auc : 0.608746
+[LightGBM] [Info] 166.267470 seconds elapsed, finished iteration 416
+[LightGBM] [Info] Iteration:417, valid_1 auc : 0.608736
+[LightGBM] [Info] 166.653023 seconds elapsed, finished iteration 417
+[LightGBM] [Info] Iteration:418, valid_1 auc : 0.608738
+[LightGBM] [Info] 166.978560 seconds elapsed, finished iteration 418
+[LightGBM] [Info] Iteration:419, valid_1 auc : 0.60873
+[LightGBM] [Info] 167.313930 seconds elapsed, finished iteration 419
+[LightGBM] [Info] Iteration:420, valid_1 auc : 0.6087
+[LightGBM] [Info] 167.669294 seconds elapsed, finished iteration 420
+[LightGBM] [Info] Iteration:421, valid_1 auc : 0.608687
+[LightGBM] [Info] 168.063555 seconds elapsed, finished iteration 421
+[LightGBM] [Info] Iteration:422, valid_1 auc : 0.60869
+[LightGBM] [Info] 168.364917 seconds elapsed, finished iteration 422
+[LightGBM] [Info] Iteration:423, valid_1 auc : 0.608678
+[LightGBM] [Info] 168.724149 seconds elapsed, finished iteration 423
+[LightGBM] [Info] Iteration:424, valid_1 auc : 0.608676
+[LightGBM] [Info] 169.112981 seconds elapsed, finished iteration 424
+[LightGBM] [Info] Iteration:425, valid_1 auc : 0.608672
+[LightGBM] [Info] 169.464013 seconds elapsed, finished iteration 425
+[LightGBM] [Info] Iteration:426, valid_1 auc : 0.60867
+[LightGBM] [Info] 169.805538 seconds elapsed, finished iteration 426
+[LightGBM] [Info] Iteration:427, valid_1 auc : 0.608669
+[LightGBM] [Info] 170.163592 seconds elapsed, finished iteration 427
+[LightGBM] [Info] Iteration:428, valid_1 auc : 0.608659
+[LightGBM] [Info] 170.553555 seconds elapsed, finished iteration 428
+[LightGBM] [Info] Iteration:429, valid_1 auc : 0.608645
+[LightGBM] [Info] 170.936923 seconds elapsed, finished iteration 429
+[LightGBM] [Info] Iteration:430, valid_1 auc : 0.608624
+[LightGBM] [Info] 171.308191 seconds elapsed, finished iteration 430
+[LightGBM] [Info] Iteration:431, valid_1 auc : 0.608601
+[LightGBM] [Info] 171.620339 seconds elapsed, finished iteration 431
+[LightGBM] [Info] Iteration:432, valid_1 auc : 0.60858
+[LightGBM] [Info] 171.999421 seconds elapsed, finished iteration 432
+[LightGBM] [Info] Iteration:433, valid_1 auc : 0.608571
+[LightGBM] [Info] 172.414151 seconds elapsed, finished iteration 433
+[LightGBM] [Info] Iteration:434, valid_1 auc : 0.60856
+[LightGBM] [Info] 172.742021 seconds elapsed, finished iteration 434
+[LightGBM] [Info] Iteration:435, valid_1 auc : 0.60854
+[LightGBM] [Info] 173.156930 seconds elapsed, finished iteration 435
+[LightGBM] [Info] Iteration:436, valid_1 auc : 0.608524
+[LightGBM] [Info] 173.498474 seconds elapsed, finished iteration 436
+[LightGBM] [Info] Iteration:437, valid_1 auc : 0.608531
+[LightGBM] [Info] 173.852514 seconds elapsed, finished iteration 437
+[LightGBM] [Info] Iteration:438, valid_1 auc : 0.608536
+[LightGBM] [Info] 174.237533 seconds elapsed, finished iteration 438
+[LightGBM] [Info] Iteration:439, valid_1 auc : 0.608537
+[LightGBM] [Info] 174.552201 seconds elapsed, finished iteration 439
+[LightGBM] [Info] Iteration:440, valid_1 auc : 0.608526
+[LightGBM] [Info] 174.925195 seconds elapsed, finished iteration 440
+[LightGBM] [Info] Iteration:441, valid_1 auc : 0.608531
+[LightGBM] [Info] 175.289967 seconds elapsed, finished iteration 441
+[LightGBM] [Info] Iteration:442, valid_1 auc : 0.608536
+[LightGBM] [Info] 175.594835 seconds elapsed, finished iteration 442
+[LightGBM] [Info] Iteration:443, valid_1 auc : 0.60853
+[LightGBM] [Info] 175.998790 seconds elapsed, finished iteration 443
+[LightGBM] [Info] Iteration:444, valid_1 auc : 0.608525
+[LightGBM] [Info] 176.368328 seconds elapsed, finished iteration 444
+[LightGBM] [Info] Iteration:445, valid_1 auc : 0.608515
+[LightGBM] [Info] 176.765307 seconds elapsed, finished iteration 445
+[LightGBM] [Info] Iteration:446, valid_1 auc : 0.608477
+[LightGBM] [Info] 177.157006 seconds elapsed, finished iteration 446
+[LightGBM] [Info] Iteration:447, valid_1 auc : 0.608484
+[LightGBM] [Info] 177.549954 seconds elapsed, finished iteration 447
+[LightGBM] [Info] Iteration:448, valid_1 auc : 0.60848
+[LightGBM] [Info] 177.987282 seconds elapsed, finished iteration 448
+[LightGBM] [Info] Iteration:449, valid_1 auc : 0.608469
+[LightGBM] [Info] 178.315669 seconds elapsed, finished iteration 449
+[LightGBM] [Info] Iteration:450, valid_1 auc : 0.608476
+[LightGBM] [Info] 178.614376 seconds elapsed, finished iteration 450
+[LightGBM] [Info] Iteration:451, valid_1 auc : 0.608472
+[LightGBM] [Info] 179.000322 seconds elapsed, finished iteration 451
+[LightGBM] [Info] Iteration:452, valid_1 auc : 0.608465
+[LightGBM] [Info] 179.361740 seconds elapsed, finished iteration 452
+[LightGBM] [Info] Iteration:453, valid_1 auc : 0.608471
+[LightGBM] [Info] 179.710183 seconds elapsed, finished iteration 453
+[LightGBM] [Info] Iteration:454, valid_1 auc : 0.608467
+[LightGBM] [Info] 180.131603 seconds elapsed, finished iteration 454
+[LightGBM] [Info] Iteration:455, valid_1 auc : 0.608474
+[LightGBM] [Info] 180.467861 seconds elapsed, finished iteration 455
+[LightGBM] [Info] Iteration:456, valid_1 auc : 0.60848
+[LightGBM] [Info] 180.819946 seconds elapsed, finished iteration 456
+[LightGBM] [Info] Iteration:457, valid_1 auc : 0.608473
+[LightGBM] [Info] 181.204226 seconds elapsed, finished iteration 457
+[LightGBM] [Info] Iteration:458, valid_1 auc : 0.60846
+[LightGBM] [Info] 181.561239 seconds elapsed, finished iteration 458
+[LightGBM] [Info] Iteration:459, valid_1 auc : 0.608451
+[LightGBM] [Info] 181.928229 seconds elapsed, finished iteration 459
+[LightGBM] [Info] Iteration:460, valid_1 auc : 0.608444
+[LightGBM] [Info] 182.297375 seconds elapsed, finished iteration 460
+[LightGBM] [Info] Iteration:461, valid_1 auc : 0.608448
+[LightGBM] [Info] 182.601080 seconds elapsed, finished iteration 461
+[LightGBM] [Info] Iteration:462, valid_1 auc : 0.608449
+[LightGBM] [Info] 183.009176 seconds elapsed, finished iteration 462
+[LightGBM] [Info] Iteration:463, valid_1 auc : 0.608414
+[LightGBM] [Info] 183.343881 seconds elapsed, finished iteration 463
+[LightGBM] [Info] Iteration:464, valid_1 auc : 0.608398
+[LightGBM] [Info] 183.719863 seconds elapsed, finished iteration 464
+[LightGBM] [Info] Iteration:465, valid_1 auc : 0.608385
+[LightGBM] [Info] 184.046404 seconds elapsed, finished iteration 465
+[LightGBM] [Info] Iteration:466, valid_1 auc : 0.60838
+[LightGBM] [Info] 184.379699 seconds elapsed, finished iteration 466
+[LightGBM] [Info] Iteration:467, valid_1 auc : 0.608375
+[LightGBM] [Info] 184.704598 seconds elapsed, finished iteration 467
+[LightGBM] [Info] Iteration:468, valid_1 auc : 0.608364
+[LightGBM] [Info] 185.071100 seconds elapsed, finished iteration 468
+[LightGBM] [Info] Iteration:469, valid_1 auc : 0.608352
+[LightGBM] [Info] 185.412706 seconds elapsed, finished iteration 469
+[LightGBM] [Info] Iteration:470, valid_1 auc : 0.60835
+[LightGBM] [Info] 185.788738 seconds elapsed, finished iteration 470
+[LightGBM] [Info] Iteration:471, valid_1 auc : 0.608331
+[LightGBM] [Info] 186.159499 seconds elapsed, finished iteration 471
+[LightGBM] [Info] Iteration:472, valid_1 auc : 0.608321
+[LightGBM] [Info] 186.482428 seconds elapsed, finished iteration 472
+[LightGBM] [Info] Iteration:473, valid_1 auc : 0.608319
+[LightGBM] [Info] 186.827261 seconds elapsed, finished iteration 473
+[LightGBM] [Info] Iteration:474, valid_1 auc : 0.608299
+[LightGBM] [Info] 187.182599 seconds elapsed, finished iteration 474
+[LightGBM] [Info] Iteration:475, valid_1 auc : 0.608334
+[LightGBM] [Info] 187.520414 seconds elapsed, finished iteration 475
+[LightGBM] [Info] Iteration:476, valid_1 auc : 0.60833
+[LightGBM] [Info] 187.846215 seconds elapsed, finished iteration 476
+[LightGBM] [Info] Iteration:477, valid_1 auc : 0.608309
+[LightGBM] [Info] 188.177775 seconds elapsed, finished iteration 477
+[LightGBM] [Info] Iteration:478, valid_1 auc : 0.608306
+[LightGBM] [Info] 188.495514 seconds elapsed, finished iteration 478
+[LightGBM] [Info] Iteration:479, valid_1 auc : 0.608287
+[LightGBM] [Info] 188.844453 seconds elapsed, finished iteration 479
+[LightGBM] [Info] Iteration:480, valid_1 auc : 0.60826
+[LightGBM] [Info] 189.216479 seconds elapsed, finished iteration 480
+[LightGBM] [Info] Iteration:481, valid_1 auc : 0.608253
+[LightGBM] [Info] 189.534853 seconds elapsed, finished iteration 481
+[LightGBM] [Info] Iteration:482, valid_1 auc : 0.608254
+[LightGBM] [Info] 189.890525 seconds elapsed, finished iteration 482
+[LightGBM] [Info] Iteration:483, valid_1 auc : 0.608258
+[LightGBM] [Info] 190.199684 seconds elapsed, finished iteration 483
+[LightGBM] [Info] Iteration:484, valid_1 auc : 0.608239
+[LightGBM] [Info] 190.528247 seconds elapsed, finished iteration 484
+[LightGBM] [Info] Iteration:485, valid_1 auc : 0.608226
+[LightGBM] [Info] 190.852269 seconds elapsed, finished iteration 485
+[LightGBM] [Info] Iteration:486, valid_1 auc : 0.608219
+[LightGBM] [Info] 191.173571 seconds elapsed, finished iteration 486
+[LightGBM] [Info] Iteration:487, valid_1 auc : 0.608223
+[LightGBM] [Info] 191.528113 seconds elapsed, finished iteration 487
+[LightGBM] [Info] Iteration:488, valid_1 auc : 0.608231
+[LightGBM] [Info] 191.911164 seconds elapsed, finished iteration 488
+[LightGBM] [Info] Iteration:489, valid_1 auc : 0.60822
+[LightGBM] [Info] 192.208742 seconds elapsed, finished iteration 489
+[LightGBM] [Info] Iteration:490, valid_1 auc : 0.608195
+[LightGBM] [Info] 192.549967 seconds elapsed, finished iteration 490
+[LightGBM] [Info] Iteration:491, valid_1 auc : 0.6082
+[LightGBM] [Info] 192.938637 seconds elapsed, finished iteration 491
+[LightGBM] [Info] Iteration:492, valid_1 auc : 0.608198
+[LightGBM] [Info] 193.278676 seconds elapsed, finished iteration 492
+[LightGBM] [Info] Iteration:493, valid_1 auc : 0.608186
+[LightGBM] [Info] 193.605933 seconds elapsed, finished iteration 493
+[LightGBM] [Info] Iteration:494, valid_1 auc : 0.608179
+[LightGBM] [Info] 193.893141 seconds elapsed, finished iteration 494
+[LightGBM] [Info] Iteration:495, valid_1 auc : 0.608167
+[LightGBM] [Info] 194.255376 seconds elapsed, finished iteration 495
+[LightGBM] [Info] Iteration:496, valid_1 auc : 0.608161
+[LightGBM] [Info] 194.599369 seconds elapsed, finished iteration 496
+[LightGBM] [Info] Iteration:497, valid_1 auc : 0.608164
+[LightGBM] [Info] 194.912557 seconds elapsed, finished iteration 497
+[LightGBM] [Info] Iteration:498, valid_1 auc : 0.608151
+[LightGBM] [Info] 195.215642 seconds elapsed, finished iteration 498
+[LightGBM] [Info] Iteration:499, valid_1 auc : 0.608151
+[LightGBM] [Info] 195.556354 seconds elapsed, finished iteration 499
+[LightGBM] [Info] Iteration:500, valid_1 auc : 0.60814
+[LightGBM] [Info] 195.917787 seconds elapsed, finished iteration 500
 [LightGBM] [Info] Finished training
